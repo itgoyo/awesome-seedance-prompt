@@ -236,7 +236,7 @@ Hyper-realistic biblical epic, IMAX cinematography, Ridley Scott scale. Rapid-cu
 
 **Description:** A multi-shot cinematic prompt for generating a tense and unsettling photorealistic horror scene set in a dark, foggy forest at night, focusing on a flashlight beam and sound effects like cracking branches, using only hard cuts.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/2014.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/2014.mp4)
 
 **Prompt:**
 ```
@@ -252,7 +252,7 @@ Cinematic forest horror at night, dense fog, flashlight beam cutting through tre
 
 **Description:** A prompt describing a surreal scene where an old, oversized American-style bus in a forest parking lot violently disassembles and reorganizes itself, while a young Asian driver reacts in shock.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1883.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1883.mp4)
 
 **Prompt:**
 ```
@@ -282,7 +282,7 @@ A first-person perspective rollercoaster ride scene. Hands gripping the safety b
 
 **Description:** A prompt for generating a video in the style of Van Gogh, depicting a lone man in a small wooden boat adrift on turbulent, glowing waves beneath a swirling, star-filled sky, specifying camera movement, color palette, texture, and motion blur.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1788.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1788.mp4)
 
 **Prompt:**
 ```
@@ -298,7 +298,7 @@ A first-person perspective rollercoaster ride scene. Hands gripping the safety b
 
 **Description:** A video generation prompt for an 8K ultra-detailed cyberpunk romance cinema scene set during a school anniversary night. The scene is described with holographic cherry blossoms, floating lantern swarms, glossy rain-wet pavement, candy-colored neon, and a giant skyline ferris wheel, focusing on two s...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1797.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1797.mp4)
 
 **Prompt:**
 ```
@@ -314,7 +314,7 @@ A first-person perspective rollercoaster ride scene. Hands gripping the safety b
 
 **Description:** A detailed prompt for generating an ultra-realistic wildlife documentary sequence of a red fox hunting a vole in a snowy forest, specifying camera techniques (shallow depth of field, cinematic slow motion), lighting (dramatic golden sunrise), and including a script for BBC-style narration.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1385.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1385.mp4)
 
 **Prompt:**
 ```
@@ -330,7 +330,7 @@ Ultra-realistic wildlife documentary footage. A red fox moves cautiously along t
 
 **Description:** A prompt for generating ultra-realistic wildlife documentary footage of a snake hunting a mouse, featuring a tense close-up and a natural handheld camera style.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1138.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1138.mp4)
 
 **Prompt:**
 ```
@@ -346,7 +346,7 @@ Ultra-realistic wildlife documentary footage. A snake slowly slithers through dr
 
 **Description:** A prompt for generating a cinematic video clip featuring a quiet fantasy landscape viewed over the shoulder of a character, emphasizing natural movement in the wind for hair, clothes, and distant clouds.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/941.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/941.mp4)
 
 **Prompt:**
 ```
@@ -362,7 +362,7 @@ Over-the-shoulder shot showing the quiet fantasy landscape in front of him, dist
 
 **Description:** A detailed, multi-line prompt for generating a dramatic first-person perspective video of a lightning bolt forming inside a thundercloud and striking a city skyscraper, emphasizing electric plasma effects and cinematic weather energy.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/943.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/943.mp4)
 
 **Prompt:**
 ```
@@ -378,7 +378,7 @@ First-person POV of a lightning bolt forming inside a massive thundercloud. Elec
 
 **Description:** A detailed prompt for generating a dynamic, fast-paced FPV (First-Person View) cinematic video. The scene features a hyper-realistic treehouse setting during golden hour, emphasizing architectural elements like bridges and staircases, warm interior lighting, and a dramatic exit through a skylight.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/682.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/682.mp4)
 
 **Prompt:**
 ```
@@ -394,7 +394,7 @@ FPV cinematic flight through a hyper-realistic treehouse at golden hour: bridges
 
 **Description:** A detailed, multi-shot prompt describing an artist painting intensely, culminating in her hurling paint at the canvas, which then transforms into a photorealistic mountain landscape, ending with a quick shot of a cat.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/640.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/640.mp4)
 
 **Prompt:**
 ```
@@ -410,7 +410,7 @@ Close-up on her hands gripping the paintbrush, knuckles white, paint dripping do
 
 **Description:** A detailed prompt for generating a high-energy, visceral scene of an organic alien arrival downtown, featuring quick cuts, beat-synced hard editing (140 BPM, 15 shots), and a high-contrast, tactile dread atmosphere with gargantuan, pulsating organic entities eclipsing the skyline.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/591.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/591.mp4)
 
 **Prompt:**
 ```
@@ -426,7 +426,7 @@ SCENE: ORGANIC ALIEN ARRIVAL - DOWNTOWN Quick Cuts - Beat-Sync Hard Editing (140
 
 **Description:** A cinematic prompt for a deep ocean trench scene, utilizing quick cuts and emphasizing an awe-inspiring, primeval atmosphere. The focus is on a peaceful giant moving flawlessly through the quiet water, evoking majesty and the raw power of nature.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/567.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/567.mp4)
 
 **Prompt:**
 ```
@@ -442,7 +442,7 @@ SCENE: DEEP OCEAN TRENCH - UNDERWATER Quick Cuts ATMOSPHERE: Awe-inspiring and p
 
 **Description:** A detailed narrative prompt for a cinematic scene set in the 1975 Ladakh mountains, focusing on Indian engineers using newly discovered anti-gravity minerals to construct floating vessels that fuse Himalayan architecture with advanced levitation technology. The scene includes pilgrims, UFO spotters,...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/565.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/565.mp4)
 
 **Prompt:**
 ```
@@ -458,7 +458,7 @@ High in the rugged 1975 Ladakh mountains, Indian engineers harness newly discove
 
 **Description:** A dark fantasy prompt detailing a king sitting on an obsidian throne floating in the sky amidst a crumbling palace and golden chains. The sequence requires four shots over 15 seconds, culminating in the king shattering the chains with a gesture.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/473.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/473.mp4)
 
 **Prompt:**
 ```
@@ -474,7 +474,7 @@ A king sits on an obsidian throne floating in the sky. A crumbling palace. Golde
 
 **Description:** A detailed prompt for generating an epic sci-fi scene using a wide-angle cinematic lens. The scene features a solitary robot standing on a high mountain peak on Earth, facing the distant sky. The environment is described as desolate and magnificent, surrounded by strong winds and clouds.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/81.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/81.mp4)
 
 **Prompt:**
 ```
@@ -490,7 +490,7 @@ Epic sci-fi scene, ultra-wide cinematic lens. Scene: At the peak of a high mount
 
 **Description:** A detailed, time-segmented prompt for a 15-second surrealist, megalophobia-themed sci-fi video. The scene starts with a peaceful sky that is then unzipped by a giant hand, revealing a cyberpunk future or a giant mechanical eye, ultimately showing the world is a miniature ecosystem observed by a gian...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/47.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/47.mp4)
 
 **Prompt:**
 ```

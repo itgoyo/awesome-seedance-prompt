@@ -12,7 +12,7 @@
 
 **Description:** A highly detailed, 15-second multi-scene prompt for Seedance 2.0, designed to generate a cinematic, ultra-realistic Japanese high school pure love short film. The prompt specifies scene setting (empty classroom, warm golden sunlight, dust motes), camera movements, character consistency (no deformati...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1402.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1402.mp4)
 
 **Prompt:**
 ```
@@ -28,7 +28,7 @@
 
 **Description:** A detailed, 15-second prompt for Seedance 2.0 to generate a 16:9 horizontal street rap music video (MV) featuring an 80-year-old woman. The prompt specifies the style (neon purple/blue cool tones, explosive atmosphere), character appearance (silver hair, leather jacket, hip-hop accessories), scene b...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1403.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1403.mp4)
 
 **Prompt:**
 ```
@@ -3740,7 +3740,7 @@ Prompt 1: Dynamic movement, a smart phone drops from the sky and falls onto the 
 
 **Description:** A detailed, multi-shot video prompt for Seedance 2.0, describing a 15-second sequence where a girl guiltily climbs out of a picture frame in an art museum, steals earrings from a jewelry box, and climbs back in, ending with a cinematic reveal and voiceover. The prompt uses specific image references ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1990.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1990.mp4)
 
 **Prompt:**
 ```
@@ -3770,7 +3770,7 @@ FORMAT: 15s / MULTI-CUT / 6 BEATS / STYLIZED 3D CEREMONIAL PAYOFF SUBJECTS: A te
 
 **Description:** A detailed seedance 2.0 prompt for a photorealistic cinematic vertical video featuring an extremely plump, spherical dog-like creature in a modern interior, capturing the 'what the dog doing gugugaga' trend.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/2003.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/2003.mp4)
 
 **Prompt:**
 ```
@@ -3786,7 +3786,7 @@ Photorealistic cinematic vertical video, 9:16 aspect ratio, extremely plump sphe
 
 **Description:** A Seedance 2.0 prompt for a cinematic VFX shot on an Arri Alexa Mini LF, depicting a rugged soldier in a desert hangar undergoing a visceral, violent transformation into a militaristic mecha suit via a wrist-mounted trigger.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/2005.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/2005.mp4)
 
 **Prompt:**
 ```
@@ -3802,7 +3802,7 @@ Cinematic VFX sci-fi transformation shot on Arri Alexa Mini LF with a low-angle 
 
 **Description:** A highly detailed prompt for an ultra-realistic video of a girl performing a high-speed downhill skateboard ride. It specifies using Image 1 for character design, a Steadicam follow perspective, heavy motion blur, specific body movements for turns and acceleration, and a background featuring distant...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1995.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1995.mp4)
 
 **Prompt:**
 ```
@@ -3818,7 +3818,7 @@ Use Image 1 as the first frame, referencing the character design, outfit color p
 
 **Description:** A detailed two-part prompt for Seedance 2.0, first defining a photorealistic vertical portrait of a charming young East Asian woman (Chibi Phoebe) with specific aesthetic and lighting constraints, and second, defining the 15-second motion sequence including subtle head tilts, gentle smiling, and mou...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/2001.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/2001.mp4)
 
 **Prompt:**
 ```
@@ -3834,7 +3834,7 @@ Photorealistic vertical 9:16 close-up portrait of a charming young East Asian wo
 
 **Description:** A prompt for generating a long exposure video of a contemporary dancer performing in a dark studio, aiming for a motion trail ghosting effect that captures the path of movement, with the dancer sharp at the end of the movement.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/2015.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/2015.mp4)
 
 **Prompt:**
 ```
@@ -3864,7 +3864,7 @@ Core Theme: Realistic sci-fi tokusatsu; ruin collapse; dark energy convergence; 
 
 **Description:** A complex, multi-stage cinematic prompt for Seedance 2.0 detailing a high-speed motorbike stunt in Dubai, involving a fracturing glass skybridge, mid-air rotation, rooftop landing, and a spiral ramp drift.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1955.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1955.mp4)
 
 **Prompt:**
 ```
@@ -3880,7 +3880,7 @@ A man in his early 30s, olive skin, short cropped hair, wearing a matte graphite
 
 **Description:** A short horror film clip prompt for Seedance 2.0 inspired by classic J-horror, focusing on an empty subway, corridors, and a lurking presence.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1951.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1951.mp4)
 
 **Prompt:**
 ```
@@ -3896,7 +3896,7 @@ Late night subway. Empty corridors. She is not behind you, she is already in the
 
 **Description:** A detailed, 15-second vertical video prompt for Seedance 2.0, generating a realistic, warm-toned scene of a young woman eating spicy hot pot (Malatang) in her rental apartment, speaking in Chaozhou dialect, capturing natural, unscripted moments and specific sound effects.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1969.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1969.mp4)
 
 **Prompt:**
 ```
@@ -3912,7 +3912,7 @@ Late night subway. Empty corridors. She is not behind you, she is already in the
 
 **Description:** A detailed, multi-scene prompt for Seedance 2.0 to generate a humorous video of a Persian calf receiving a 'bowl cut' at a professional pet salon, focusing on ASMR sounds and close-up camera work.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1954.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1954.mp4)
 
 **Prompt:**
 ```
@@ -3928,7 +3928,7 @@ Theme: Humorous Persian calf salon haircut transformation Visuals: Professional 
 
 **Description:** A prompt for Seedance 2.0 to create a video transitioning from a hand-drawn sketch being completed to the camera 'drilling' into the drawing, revealing a 3D interior world rendered in the same hand-drawn style, with slight camera movement.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1968.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1968.mp4)
 
 **Prompt:**
 ```
@@ -3944,7 +3944,7 @@ A video of a hand-drawn sketch transforming into a 3D interior in a hand-drawn s
 
 **Description:** A detailed cinematic prompt for Seedance 2.0 focusing on cultural contrast, generating a medium close-up shot of an elderly Chinese grandfather playing a bamboo flute in a rain-soaked, neon-lit cyberpunk alley, emphasizing expression, motion, and lighting details.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1956.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1956.mp4)
 
 **Prompt:**
 ```
@@ -3960,7 +3960,7 @@ Medium close-up cinematic shot, an elderly Chinese grandfather with deep wrinkle
 
 **Description:** A detailed, 10-second video prompt for Seedance 2.0, generating a sequence of seamless, rapid costume changes (Bian Lian style) for a beautiful, pure, and cute woman in various ancient Chinese styles, using smooth transitions like sleeve sweeps, hand movements, and skirt movements, all set to a tigh...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1967.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1967.mp4)
 
 **Prompt:**
 ```
@@ -3976,7 +3976,7 @@ Character: Pure, cute, beautiful woman, cool white skin, a mole at the corner of
 
 **Description:** A detailed, multi-cut video prompt for Seedance 2.0 focusing on subtle human emotion, lighting, and color palette within a hospital setting, depicting a father's guilt and a family moment.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1953.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1953.mp4)
 
 **Prompt:**
 ```
@@ -3992,7 +3992,7 @@ Testing lighting, \"camera language,\" and subtle human emotion. Lighting: Cool 
 
 **Description:** A highly detailed cinematic prompt for Seedance 2.0 to generate a golden hour road trip scene using a vintage woody station wagon, emphasizing realistic lighting and documentary realism.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1952.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1952.mp4)
 
 **Prompt:**
 ```
@@ -4008,7 +4008,7 @@ Real POV front seat dashcam view, a vintage 1950s American woody station wagon w
 
 **Description:** A highly detailed, multi-scene prompt for Seedance 2.0 to generate a realistic, sci-fi mecha transformation video in the style of Hollywood visual effects. The prompt specifies a character based on a reference image, a heavy industrial 80-meter tall mecha, cinematic camera work (handheld, slow push,...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1889.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1889.mp4)
 
 **Prompt:**
 ```
@@ -4024,7 +4024,7 @@ Core Theme: Realistic sense of technology, sci-fi mecha, epic grandeur, heavy in
 
 **Description:** A highly structured video generation prompt for Seedance 2.0, specifying format details (15s, multi-cut, 6 beats, high-viral game comedy) and detailing two subjects: a spirited young customer and a charismatic shrimp chef.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1884.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1884.mp4)
 
 **Prompt:**
 ```
@@ -4040,7 +4040,7 @@ FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL GAME COMEDY SUBJECTS: A spirited 
 
 **Description:** A comparison of video generation models (Seedance 1.5 Pro, Kling 3.0, Pollo 2.5, Sora 2, Veo 3.1) using the same prompt to generate a scene of a giant prehistoric beast waking up in the desert and roaring. The tweet asks users to vote for their favorite result.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1825.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1825.mp4)
 
 **Prompt:**
 ```
@@ -4056,7 +4056,7 @@ A giant prehistoric beast wakes up in the desert. Opens its mouth. And roars.
 
 **Description:** A prompt used with Seedance 2.0 and Seedance 2.0 Omni, specifying a 15-second, one continuous shot video with high-tension cinematic realism. The subject is a lone astronaut in a worn white EVA suit.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1813.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1813.mp4)
 
 **Prompt:**
 ```
@@ -4072,7 +4072,7 @@ FORMAT: 15s / ONE CONTINUOUS SHOT / NO CUTS / high-tension cinematic realism SUB
 
 **Description:** A detailed Seedance 2.0 prompt for generating a top-tier Chinese fantasy CG video. The scene features a white-robed immortal on a giant jade platform, using a jade brush to write powerful golden calligraphy that transforms into a massive 'Heavenly Dao' character array to destroy a target, emphasizin...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1818.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1818.mp4)
 
 **Prompt:**
 ```
@@ -4088,7 +4088,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** A highly detailed, cinematic prompt for Seedance 2.0 Pro, designed to generate a continuous, one-shot scene from a wartime disaster movie. The scene follows a young messenger running through a shelled trench, past explosions and fleeing crowds, culminating in him firing a signal flare from a ruined ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1811.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1811.mp4)
 
 **Prompt:**
 ```
@@ -4104,7 +4104,7 @@ Wartime disaster movie feel, one-shot, under the gray-blue morning light, a youn
 
 **Description:** A detailed, multi-section prompt for Seedance 2.0 to generate a first-person POV video of a young Japanese woman flying on a broomstick over famous Tokyo landmarks (Shibuya, Senso-ji, Torii gates). The prompt specifies cinematic parameters, character details (hands, legs, clothing), framing rules (P...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1822.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1822.mp4)
 
 **Prompt:**
 ```
@@ -4120,7 +4120,7 @@ Video type: vertical cinematic video, 9:16 aspect ratio, ultra realistic, 4K, 24
 
 **Description:** A highly detailed, 10-second prompt for Seedance 2.0 to generate a cinematic transformation video. It describes a Japanese woman being taken over by a dark energy, morphing from a casual look in an apartment into a sleek, dark villain outfit, complete with specific timing for emotional changes, ligh...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1821.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1821.mp4)
 
 **Prompt:**
 ```
@@ -4136,7 +4136,7 @@ vertical video, 9:16, 10 seconds, ultra realistic, cinematic lighting, Japanese 
 
 **Description:** A complex, multi-stage prompt for Seedance 2.0 (Text-to-Video) that generates a 10-second cinematic sequence. It starts with an ultra-realistic, high-altitude drone shot of a woman in Tokyo, accelerates into an extreme close-up, and then transitions seamlessly (match cut) into a surreal, dreamlike i...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1823.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1823.mp4)
 
 **Prompt:**
 ```
@@ -4152,7 +4152,7 @@ ultra cinematic drone shot, top-down aerial view, a young Japanese woman (early 
 
 **Description:** A detailed cinematic prompt for Seedance 2.0, instructing the generation of a video showing honeybees collecting nectar on a sunflower in a vibrant, lush garden with a sparkling waterfall, emphasizing ultra-realism, soft lighting, and smooth camera movement.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1808.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1808.mp4)
 
 **Prompt:**
 ```
@@ -4168,7 +4168,7 @@ A cinematic video of honeybees actively collecting nectar on a bright yellow sun
 
 **Description:** A detailed Chinese prompt for Seedance 2.0 to generate a cinematic, one-take (one-shot) war disaster sequence. The scene follows a young messenger running through trenches, explosions, and debris, culminating in him reaching a ruined bell tower to fire a signal flare, providing an immersive, realist...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1772.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1772.mp4)
 
 **Prompt:**
 ```
@@ -4184,7 +4184,7 @@ Cinematic war disaster film feel, one-shot sequence. Under the gray-blue light o
 
 **Description:** A detailed Seedance 2.0 prompt for generating a top-tier Chinese fantasy CG video. The scene features a 'Painter Immortal' in a massive underground rock cave. The immortal uses a glowing jade brush to paint, transforming the dark cave into a vibrant, deadly fairy realm of rapidly growing plants and ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1791.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1791.mp4)
 
 **Prompt:**
 ```
@@ -4200,7 +4200,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** A multi-cut video prompt for Seedance 2.0, describing a solitary figure rising from a stone ledge beside a misty river at dusk, with the sun burning through the haze, followed by close-up shots of his feet walking past skulls, rendered in the style of J. M. W. Turner.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1784.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1784.mp4)
 
 **Prompt:**
 ```
@@ -4216,7 +4216,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** A video generation prompt for Seedance 2.0, depicting women in white robes placing glowing lanterns onto a dark river, followed by a cut to the water catching fire and spreading golden light, rendered in the style of Hieronymus Bosch.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1783.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1783.mp4)
 
 **Prompt:**
 ```
@@ -4232,7 +4232,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** A video generation prompt for Seedance 2.0, describing a monk placing a glowing flame on cracked earth, followed by a smooth 360° camera circle revealing a surreal landscape, all rendered in the style of Hieronymus Bosch.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1780.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1780.mp4)
 
 **Prompt:**
 ```
@@ -4248,7 +4248,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** A detailed video prompt for Seedance 2.0, instructing a side tracking shot of a man walking through a surreal geometric city in the style of Pablo Picasso. The scene includes a cut to a back shot where the man turns and enters a maze-like alley.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1778.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1778.mp4)
 
 **Prompt:**
 ```
@@ -4264,7 +4264,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** An extremely detailed, multi-shot prompt for Seedance 2.0 generating a 15-second hyper-realistic sports cinematography sequence of a footballer striking a ball, including film style, core soundtrack, a 9-scene narrative script architecture, technical parameters, and audio architecture.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1771.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1771.mp4)
 
 **Prompt:**
 ```
@@ -4280,7 +4280,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** A detailed, time-segmented prompt for Seedance 2.0 to generate a 15-second commercial video for the 'Adam' hat brand, featuring a young Asian woman. The prompt specifies four distinct camera shots (Close-up, Macro, Orbit, Pull Back) and visual styles (IMAX, film grain, shallow depth of field).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1792.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1792.mp4)
 
 **Prompt:**
 ```
@@ -4296,7 +4296,7 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 **Description:** This tweet introduces a video generation series focusing on mastering Seedance 2.0 prompts, using a cinematic scenario of a space station collapse as an example.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1770.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1770.mp4)
 
 **Prompt:**
 ```
@@ -4312,7 +4312,7 @@ Alarms blare, gravity disappears, and a space station begins to collapse… one 
 
 **Description:** A highly detailed, two-part prompt for Seedance 2.0 to generate a 15-second seamless infinity zoom hyperlapse video in the style of detailed paper-cut art, capturing the journey and key moments of the Ramadan to Eid celebration.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1775.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1775.mp4)
 
 **Prompt:**
 ```
@@ -4328,7 +4328,7 @@ Seamless infinity zoom hyperlapse through highly detailed paper-cut art capturin
 
 **Description:** A two-shot prompt for Seedance 2.0 detailing a powerful female character's futuristic armor assembly sequence mid-air above clouds (Shot 1), followed by her accelerating flight through the twilight sky (Shot 2), focusing on mechanical precision, lighting, and realistic physics.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1777.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1777.mp4)
 
 **Prompt:**
 ```
@@ -4344,7 +4344,7 @@ Shot 1(8 seconds) a Powerful female character. Cinematic wide shot, soaring abov
 
 **Description:** A detailed, multi-frame prompt for Seedance 2.0 designed to generate a realistic, cinematic video of a special forces operative performing a high-altitude jump and transforming into an 80-meter tall heavy mecha. The prompt specifies the visual style (IMAX, Hollywood orange-teal, heavy industrial aes...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1721.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1721.mp4)
 
 **Prompt:**
 ```
@@ -4360,7 +4360,7 @@ Core Theme: Realistic sci-fi feel, sci-fi mecha, epic grandeur, heavy industrial
 
 **Description:** A detailed, multi-scene prompt for Seedance 2.0 to generate a 15-second light comedy video set in a Chengdu mahjong hall, featuring four young men playing mahjong while being massaged by women in Qipaos. The prompt specifies scene duration, camera movements (Slow Pan, Dolly In, Smooth Orbit, Gradual...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1790.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1790.mp4)
 
 **Prompt:**
 ```
@@ -4376,7 +4376,7 @@ Core Theme: Realistic sci-fi feel, sci-fi mecha, epic grandeur, heavy industrial
 
 **Description:** A detailed video generation prompt for Seedance 2, instructing the creation of a 15-second sequence from the perspective of a giant golden eagle diving through a dramatic mountain range at sunrise, focusing on spatial consistency, feather physics, and cinematic camera movements.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1719.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1719.mp4)
 
 **Prompt:**
 ```
@@ -4392,7 +4392,7 @@ A dramatic mountain range at sunrise with massive cliffs dropping into deep vall
 
 **Description:** A highly detailed Seedance 2.0 prompt designed to generate a continuous, single-shot video with 'motivated camera movement' through a crowded medieval market. The prompt specifies time-coded sequences where the camera's focus shifts naturally from one moving subject to the next, ending on an armored...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1717.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1717.mp4)
 
 **Prompt:**
 ```
@@ -4408,7 +4408,7 @@ FORMAT: cinematic continuous shot / motivated camera movement / 15s SCENE A crow
 
 **Description:** A complex Seedance 2.0 prompt focused on simulating advanced physics, destruction, and large-scale architectural transformation. The scene features a figure with a glowing mantle causing the urban landscape to reconfigure and dissolve into a vast, circular void, emphasizing realistic mass and cohere...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1714.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1714.mp4)
 
 **Prompt:**
 ```
@@ -4424,7 +4424,7 @@ A majestic presence in a dark, flowing mantle stands amidst a vibrant city squar
 
 **Description:** A detailed, scene-by-scene prompt for Seedance 2.0 to generate a 15-second short drama video with a sweet, contrasting, and strong reversal plot, featuring a cold-faced poison king and a charming female蛊医 (Gu doctor) who plants a 'heart Gu' on him.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1722.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1722.mp4)
 
 **Prompt:**
 ```
@@ -4440,7 +4440,7 @@ A majestic presence in a dark, flowing mantle stands amidst a vibrant city squar
 
 **Description:** A concise prompt for Seedance 2.0 designed to generate a high-detail commercial shot of a vibrant orange soda can. The prompt emphasizes slow motion, splashing citrus slices, sparkling water droplets, and bright, energetic lighting.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1709.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1709.mp4)
 
 **Prompt:**
 ```
@@ -4456,7 +4456,7 @@ A vibrant orange soda can surrounded by splashing citrus slices and sparkling wa
 
 **Description:** A cinematic video prompt for Seedance 2.0 detailing a high-stakes VFX scene set at the White House. A defiant woman manifests a massive, glowing celestial goddess while UFOs descend and secret service agents panic. The prompt emphasizes epic scale and 8k resolution.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1715.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1715.mp4)
 
 **Prompt:**
 ```
@@ -4472,7 +4472,7 @@ A cinematic wide shot set on the lawn of the White House. A young blonde woman i
 
 **Description:** A detailed narrative prompt for Seedance 2.0 describing a woman applying makeup who is interrupted by a mud-like liquid flooding her room. The scene escalates as she climbs onto a chair, is forced to float, and eventually hits the ceiling, which opens to reveal sunlight.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1636.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1636.mp4)
 
 **Prompt:**
 ```
@@ -4488,7 +4488,7 @@ A woman is applying makeup to her face as the camera shows an open door behind h
 
 **Description:** A prompt for Seedance 2.0 to generate a short vlog-style video featuring a high-value beauty in a bedroom setting, focusing on a cute, pure yet seductive idol aesthetic, captured with a 'snapshot' style using an iPhone (without showing the phone).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1647.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1647.mp4)
 
 **Prompt:**
 ```
@@ -4504,7 +4504,7 @@ Bedroom scene, full of girlish charm. The main subject of the picture is a super
 
 **Description:** A detailed, multi-stage prompt for Seedance 2.0 to generate a cinematic commercial for a luxury towel brand named 'Adam'. The video script includes an 'Impact' phase (micro-view of water absorption), an 'Emotional' phase (model gently wiping neck), and a 'Brand' phase (logo reveal).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1646.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1646.mp4)
 
 **Prompt:**
 ```
@@ -4520,7 +4520,7 @@ Bedroom scene, full of girlish charm. The main subject of the picture is a super
 
 **Description:** A detailed, cinematic prompt for Seedance 2.0 generating a slow-motion transformation sequence of a fierce young Indian woman into an armored superwoman on a stormy futuristic rooftop, emphasizing hyper-realistic style, dramatic lighting, and particle effects.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1634.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1634.mp4)
 
 **Prompt:**
 ```
@@ -4536,7 +4536,7 @@ A cinematic transformation sequence of a fierce young Indian woman with long str
 
 **Description:** A prompt for Seedance 2.0 generating a first-person perspective video set on a dimly lit, wet street reflecting neon lights. The scene involves walking towards a girl standing under a streetlamp, greeting her, and then following her into a nearby small house, aiming for a realistic style.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1559.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1559.mp4)
 
 **Prompt:**
 ```
@@ -4552,7 +4552,7 @@ Realistic style, first-person perspective. You are walking down a dimly lit stre
 
 **Description:** A detailed text-to-video prompt for Seedance 2.0, designed to generate a realistic, cinematic slice-of-life scene featuring two young Japanese women chatting. The prompt emphasizes accurate lip synchronization for the provided Japanese dialogue, natural acting, and a specific visual style reminiscen...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1564.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1564.mp4)
 
 **Prompt:**
 ```
@@ -4568,7 +4568,7 @@ A cinematic Japanese slice-of-life scene. Two young Japanese women (age 20 and 2
 
 **Description:** A detailed prompt used to generate a thrilling, first-person perspective video of piloting a small aircraft at low altitude over diverse terrain, emphasizing dynamic camera movement, dramatic lighting, and high resolution.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1537.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1537.mp4)
 
 **Prompt:**
 ```
@@ -4584,7 +4584,7 @@ First-person view piloting a small aircraft at low altitude, skimming over mount
 
 **Description:** A detailed prompt for Seedance 2.0, focusing on generating a video sequence depicting a colossal celestial entity causing planetary temporal instability, with rapid day/night cycles, surging oceans, and violent atmospheric patterns.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1541.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1541.mp4)
 
 **Prompt:**
 ```
@@ -4600,7 +4600,7 @@ A colossal celestial entity formed from rotating rings of mechanical galaxies ap
 
 **Description:** A highly detailed prompt for generating an ultra-realistic, cinematic commercial food video focusing on a strawberry-shaped pancake, including specific camera movements, lighting, texture details, and the slow drizzling of maple syrup.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1538.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1538.mp4)
 
 **Prompt:**
 ```
@@ -4616,7 +4616,7 @@ Ultra-realistic video of a pancake shaped like a strawberry on a clean white pla
 
 **Description:** A detailed prompt for generating a cinematic 8-second video of a beautiful woman in traditional red Chinese Hanfu and a golden phoenix crown, slowly turning in a palace garden with falling peach blossoms, focusing on fluid movement and hyper-realistic details.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1539.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1539.mp4)
 
 **Prompt:**
 ```
@@ -4632,7 +4632,7 @@ Reference to image 1. Cinematic 8-second video, a beautiful woman in a lavish re
 
 **Description:** A prompt for Seedance 2.0 to generate a short promotional video for an iPhone. The prompt details the sequence: starting with the phone's front view showing 9:41, three discontinuous close-ups focusing on the Dynamic Island, the view entering the Dynamic Island, a black screen, a new iPhone rising f...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1562.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1562.mp4)
 
 **Prompt:**
 ```
@@ -4648,7 +4648,7 @@ An iPhone, featuring the Dynamic Island, initially displayed from the front, sho
 
 **Description:** A detailed, multi-shot narrative prompt for Seedance 2.0, focusing on a massive deep-sea creature rising from the ocean and causing a hydraulic disaster in a megacity harbor, featuring cinematic water physics and structural destruction.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1540.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1540.mp4)
 
 **Prompt:**
 ```
@@ -4664,7 +4664,7 @@ A colossal ocean leviathan, 300 meters long with armored whale-like plating and 
 
 **Description:** A detailed prompt for Seedance 2.0 focusing on cinematic shots of a pale, handsome gothic vampire lord with silver hair, using strong visual impact, centered composition, and a low-angle upward shot.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1548.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1548.mp4)
 
 **Prompt:**
 ```
@@ -4680,7 +4680,7 @@ Cinematic shots with strong visual impact, centered composition + low-angle upwa
 
 **Description:** A comparison of videos generated by Grok and Seedance 2.0 using the exact same detailed prompt. The prompt describes a first-person perspective video of a teenager skateboarding on a coastal road, emphasizing smooth movement, dynamic camera angles (low-angle, side-follow, top-down, close-up, long sh...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1482.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1482.mp4)
 
 **Prompt:**
 ```
@@ -4696,7 +4696,7 @@ First-person perspective, a teenager skateboarding on a coastal road, sea breeze
 
 **Description:** A detailed prompt for Seedance 2.0 to generate a 15-second cinematic video featuring a continuous shot of a storm siege escalating around a colossal Aztec citadel-temple, utilizing specific film techniques like anamorphic flare and 65mm film texture.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1477.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1477.mp4)
 
 **Prompt:**
 ```
@@ -4712,7 +4712,7 @@ FORMAT: 15s / cinematic war rhythm / continuous shot / storm siege escalation, a
 
 **Description:** A prompt for Seedance 2.0 to generate a cinematic superhero transformation scene. The setting is a skyscraper rooftop at sunset where Millie Bobby Brown, initially in a business suit, transforms into 'The Solar Valkyrie' with golden, feathered metallic wings and white-and-gold armor after a demonic ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1471.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1471.mp4)
 
 **Prompt:**
 ```
@@ -4728,7 +4728,7 @@ FORMAT: 15s / cinematic war rhythm / continuous shot / storm siege escalation, a
 
 **Description:** A detailed, multi-shot prompt for Seedance 2.0, instructing the creation of an ultra-cinematic, ultra-realistic video where an old pickup truck violently transforms into a massive stone mech rhino in a desert setting, complete with specific camera movements, VFX, and sound design.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1473.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1473.mp4)
 
 **Prompt:**
 ```
@@ -4744,7 +4744,7 @@ Create a 16:9 ultra-cinematic ultra-realistic video of an old pickup truck rumbl
 
 **Description:** A test of Seedance 2.0's handling of complex environments, multiple subjects, and cinematic motion by generating a busy futuristic alien marketplace scene.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1461.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1461.mp4)
 
 **Prompt:**
 ```
@@ -4760,7 +4760,7 @@ A busy futuristic marketplace on another planet, alien merchants selling glowing
 
 **Description:** A complex prompt designed to test video models' ability to track a small, fast-moving object (a golf ball) through extreme weather and dynamic camera movement, which Seedance 2.0 successfully executed.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1464.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1464.mp4)
 
 **Prompt:**
 ```
@@ -4776,7 +4776,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 **Description:** A detailed Seedance 2.0 video generation prompt for creating a K-pop retro music video scene. It specifies the aspect ratio, style, color grading, atmosphere, scene transition, camera movement, and the character's facial features.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1485.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1485.mp4)
 
 **Prompt:**
 ```
@@ -4792,7 +4792,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 **Description:** A prompt for Seedance 2.0 describing an ultra-realistic photograph of a LEGO Santa Claus minifigure driving a LEGO Unimog snow truck in the Swiss Alps, specifying photographic details like lens, lighting, and style. Note: This prompt uses image generation parameters (--ar, --stylize) but is explicit...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1475.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1475.mp4)
 
 **Prompt:**
 ```
@@ -4808,7 +4808,7 @@ Ultra-realistic photograph of a LEGO Santa Claus minifigure driving a rugged red
 
 **Description:** A detailed Japanese cinematic realism prompt for Seedance 2.0, focusing on a beautiful Japanese university student walking through a path lined with cherry blossom trees, emphasizing soft light, shallow depth of field, and a smooth cinematic tracking shot.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1394.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1394.mp4)
 
 **Prompt:**
 ```
@@ -4824,7 +4824,7 @@ Japanese cinematic realism, poetic spring atmosphere. A beautiful 20-year-old Ja
 
 **Description:** A specific prompt shared for Seedance 2.0 to generate ultra-fast sakuga-style video cuts at 24fps, incorporating premium VFX, light motion blur, and maintaining characters in a chibi/doodle style, set in an alien neon desert environment.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1405.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1405.mp4)
 
 **Prompt:**
 ```
@@ -4840,7 +4840,7 @@ ultra-fast sakuga style cuts at 24fps with premium VFX and light motion blur, ma
 
 **Description:** A highly detailed, structured prompt for Seedance 2.0 to generate a cinematic video adaptation of 'The God of Small Things'. The prompt uses a JSON-like structure to define five scenes, including visuals, cut scenes, mood, style notes for camera work, color palette, transitions, and audio.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1388.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1388.mp4)
 
 **Prompt:**
 ```
@@ -4856,7 +4856,7 @@ ultra-fast sakuga style cuts at 24fps with premium VFX and light motion blur, ma
 
 **Description:** A structured, 15-second, fast-paced video prompt for Seedance 2.0 with a twist ending, titled 'Fatal 'Miracle Drug''. The prompt details the visual scenes, camera movements (close-ups, rapid cuts), dialogue, and sound effects across three time segments (0-4s, 4-8s, 8-12s), concluding with a black sc...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1401.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1401.mp4)
 
 **Prompt:**
 ```
@@ -4872,7 +4872,7 @@ Video Title: Fatal \"Miracle Drug\" Video Duration: 15 seconds Tempo: Fast-paced
 
 **Description:** A detailed cinematic prompt for a video featuring a Brazilian BMX rider performing complex stunts, including riding up a staircase and wall-riding, emphasizing camera movement and visual style.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1391.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1391.mp4)
 
 **Prompt:**
 ```
@@ -4888,7 +4888,7 @@ A woman in her late 20s of Brazilian heritage, her dark curly hair contained und
 
 **Description:** A highly detailed, multi-section prompt designed for Seedance 2.0 to generate a cinematic, single-shot video of a female protagonist transforming into mecha armor while falling through a post-apocalyptic cityscape. The prompt specifies core themes, character settings, armor mechanics, environment, v...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1404.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1404.mp4)
 
 **Prompt:**
 ```
@@ -4904,7 +4904,7 @@ A woman in her late 20s of Brazilian heritage, her dark curly hair contained und
 
 **Description:** A comprehensive, multi-scene Seedance 2.0 prompt designed for generating high-end cinematic wedding photography videos, detailing four distinct shots with specific camera movements, lighting, and aesthetic styles.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1398.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1398.mp4)
 
 **Prompt:**
 ```
@@ -4920,7 +4920,7 @@ A woman in her late 20s of Brazilian heritage, her dark curly hair contained und
 
 **Description:** A highly detailed, structured JSON prompt for Seedance 2.0 to generate a futuristic commercial showcasing a white high-performance Lamborghini assembling itself from holographic internals. The prompt specifies cinematography, visual effects, scene details, and audio design.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1387.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1387.mp4)
 
 **Prompt:**
 ```
@@ -4936,7 +4936,7 @@ A woman in her late 20s of Brazilian heritage, her dark curly hair contained und
 
 **Description:** A comprehensive Seedance 2.0 prompt for generating a high-impact, ancient Chinese style transformation video featuring four seasonal flower goddesses. The prompt specifies visual effects like reverse gravity petals, lighting techniques (Rembrandt, rim light), music cues, and detailed scene transitio...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1349.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1349.mp4)
 
 **Prompt:**
 ```
@@ -4952,7 +4952,7 @@ A woman in her late 20s of Brazilian heritage, her dark curly hair contained und
 
 **Description:** The user compares the performance of Grok and Seedance 2.0 for generating a time-lapse video of a building's construction/deconstruction. The tweet contains two highly detailed prompts: one for construction (used for Seedance 2.0) and one for deconstruction (used for Grok). Only the construction pro...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1358.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1358.mp4)
 
 **Prompt:**
 ```
@@ -4968,7 +4968,7 @@ Fixed-position wide-angle time-lapse photography, fully documenting the entire p
 
 **Description:** A detailed Seedance 2.0 prompt for a cinematic, realistic shot of a horizontal cross-section of a high-rise residential building in Beijing's Taiyang Palace, revealing five different family living rooms.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1397.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1397.mp4)
 
 **Prompt:**
 ```
@@ -4984,7 +4984,7 @@ A horizontal cross-section display shot of a high-rise residential building in B
 
 **Description:** A detailed, multi-shot cinematic prompt for Seedance 2.0 describing a turbulent sea voyage, a captain's struggle, and the catastrophic shipwreck of a vessel.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1390.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1390.mp4)
 
 **Prompt:**
 ```
@@ -5000,7 +5000,7 @@ First-person perspective: The ship rocks as it navigates the turbulent sea; Cut 
 
 **Description:** A detailed, time-coded prompt for Seedance 2.0 describing a high-stakes motorcycle stunt in the Swiss Alps, involving a rider escaping a massive avalanche by accelerating through a tunnel and launching off a broken section of highway.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1346.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1346.mp4)
 
 **Prompt:**
 ```
@@ -5016,7 +5016,7 @@ A man in his early 30s, stubble beard, wearing a black armored motorcycle suit w
 
 **Description:** A detailed prompt for Seedance 2.0 to generate a hyper-realistic cinematic scene in India, depicting a frightened woman being surrounded by danger, followed by the dramatic, divine intervention of a Hindu deity (Maa Kali, Lord Shiva, or Hanuman).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1345.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1345.mp4)
 
 **Prompt:**
 ```
@@ -5032,7 +5032,7 @@ Hyper-realistic cinematic scene set in [location: temple road / forest / village
 
 **Description:** A detailed, two-part prompt for Seedance 2.0 to generate a cinematic scene from a script called 'Interstellar Courier' involving an anti-gravity-powered mechanical transformation. The prompt specifies the visual tone (sci-fi film feel, realism, film grain), camera work (close-up, continuous tracking...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1352.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1352.mp4)
 
 **Prompt:**
 ```
@@ -5048,7 +5048,7 @@ Hyper-realistic cinematic scene set in [location: temple road / forest / village
 
 **Description:** A highly detailed, cinematic prompt for a continuous one-shot POV video generated by Seedance 2.0, simulating an adult male eagle's extreme-speed escape in a post-apocalyptic setting. The prompt specifies ultra-wide-angle distortion, extreme motion parallax, supersonic speed, violent camera movement...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1348.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1348.mp4)
 
 **Prompt:**
 ```
@@ -5064,7 +5064,7 @@ A continuous, unedited perspective, first-person POV, simulating the camera styl
 
 **Description:** An extremely detailed, multi-stage Seedance 2.0 prompt for generating a realistic sci-fi/tokusatsu video depicting an archangel's transformation. It specifies cinematic quality, low-saturation blue-gray tones, detailed character settings (bruises, fatigue), specific camera movements (single shot, ha...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1350.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1350.mp4)
 
 **Prompt:**
 ```
@@ -5080,7 +5080,7 @@ A continuous, unedited perspective, first-person POV, simulating the camera styl
 
 **Description:** A detailed cinematic prompt for Seedance 2.0 describing a dynamic camera sequence starting high above a turbulent emerald sea, swooping down to a galleon, passing seamlessly through a stained-glass window into a still cabin, and then exiting back into the night sky.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1336.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1336.mp4)
 
 **Prompt:**
 ```
@@ -5096,7 +5096,7 @@ A turbulent emerald sea crashing under the pale light of a crescent moon. A maje
 
 **Description:** A detailed, multi-scene video generation prompt for Seedance 2.0 creating an absurd comedy sequence in the style of a 90s Hong Kong urban film. The prompt specifies visual elements like neon, rain, film grain, and a dramatic atmosphere, culminating in a bizarre twist where a character transforms int...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1355.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1355.mp4)
 
 **Prompt:**
 ```
@@ -5112,7 +5112,7 @@ A turbulent emerald sea crashing under the pale light of a crescent moon. A maje
 
 **Description:** A detailed, 15-second vertical video prompt for Seedance 2.0, generating a first-person perspective, cinematic, high-definition ancient palace drama scene. A noble concubine, initially expecting the Emperor in the imperial garden, realizes she has mistaken the viewer (the camera) for the Emperor, le...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1354.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1354.mp4)
 
 **Prompt:**
 ```
@@ -5128,7 +5128,7 @@ A turbulent emerald sea crashing under the pale light of a crescent moon. A maje
 
 **Description:** A comprehensive, multi-scene prompt for Seedance 2.0 to create a vertical 9:16 high-end commercial wedding video in a realistic, dreamy, and beautiful 4K style. The prompt details three distinct camera movements and scenes (0-4s, 5-9s, 10-15s) focusing on a couple in a mirror-like salt lake setting,...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1359.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1359.mp4)
 
 **Prompt:**
 ```
@@ -5144,7 +5144,7 @@ A turbulent emerald sea crashing under the pale light of a crescent moon. A maje
 
 **Description:** A highly detailed cinematic prompt for Seedance 2.0 to generate a film still capturing the interior of a massive O'Neill space colony (Island One concept) from a grounded, human perspective, featuring a family looking up at the curving habitat and dramatic 'god rays' lighting.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1140.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1140.mp4)
 
 **Prompt:**
 ```
@@ -5160,7 +5160,7 @@ A cinematic film still, capturing the interior of a massive O'Neill space colony
 
 **Description:** The first part of a multi-shot prompt for Seedance 2.0, describing a close-up shot of a woman dancing with a man to 'Burning Love,' focusing on warm lighting and a soft, romantic atmosphere.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1135.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1135.mp4)
 
 **Prompt:**
 ```
@@ -5176,7 +5176,7 @@ A man and a woman are dancing together. The music playing in the background is �
 
 **Description:** A detailed cinematic prompt for Seedance 2.0 describing a lone astronaut walking on Mars, focusing on camera movement, setting, and atmosphere, including color grading and musical inspiration.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1127.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1127.mp4)
 
 **Prompt:**
 ```
@@ -5192,7 +5192,7 @@ A lone astronaut walks slowly across a barren red Mars landscape. Their reflecti
 
 **Description:** A prompt for Seedance 2.0 to generate a travel vlog video in Venice from a boyfriend's perspective, featuring a specific character and romantic atmosphere.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1146.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1146.mp4)
 
 **Prompt:**
 ```
@@ -5208,7 +5208,7 @@ Featuring the character from [Image 1] as the protagonist, with a sweet dating a
 
 **Description:** A detailed, single-shot, handheld cinematic prompt for Seedance 2.0, describing a scene in Tokyo where a man is on the phone when a meteorite falls into Tokyo Bay, followed by a massive shockwave that destroys the city. The prompt specifies duration (15 seconds), location (Tokyo Rainbow Bridge, 3 PM...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1142.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1142.mp4)
 
 **Prompt:**
 ```
@@ -5224,7 +5224,7 @@ Meteorite fall · One-shot, handheld phone camera perspective Hyper-realistic ·
 
 **Description:** A dark fantasy storytelling prompt for Seedance 2.0 describing an ancient library where forbidden books open, words crawl off the pages, and rewrite librarians into living paper golems.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1136.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1136.mp4)
 
 **Prompt:**
 ```
@@ -5240,7 +5240,7 @@ An ancient library where forbidden books open… and the words crawl off the pag
 
 **Description:** A prompt for Seedance 2.0 generating a video of a mysterious woman in a dark red sari walking calmly down a foggy Indian street at night. The video features mythological realism, where her shadow reveals multiple arms, her eyes glow, and lightning reveals her true form as Maa Kali. Dogs and animals ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1128.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1128.mp4)
 
 **Prompt:**
 ```
@@ -5256,7 +5256,7 @@ Foggy Indian street at night. A mysterious woman dressed in dark red sari walkin
 
 **Description:** A video generation prompt for Seedance 2.0 asking for a visually striking (lit) and popular video (50 likes) that comments on the low salaries of teachers in the United States.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1129.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1129.mp4)
 
 **Prompt:**
 ```
@@ -5272,7 +5272,7 @@ show me why teachers only make 60k/year in the united states, make sure it's lit
 
 **Description:** A lengthy, multi-stage prompt for Seedance 2.0 to generate a cinematic video detailing the assembly of a dark steel mechanical crocodile mecha in the Pacific Ocean during the golden hour, including specific timing, camera angles, sound design, and atmosphere.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/949.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/949.mp4)
 
 **Prompt:**
 ```
@@ -5288,7 +5288,7 @@ Segment 1, 0–15 seconds: Calm Assembly (Setup) [0–5s · Establishment] Subje
 
 **Description:** A prompt describing a video in stop-motion claymation style, featuring handcrafted clay characters with visible fingerprint textures, combined with real miniature props. It specifies materials, lighting (warm afternoon backlight), and camera movement (alternating between shallow depth of field). Thi...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/956.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/956.mp4)
 
 **Prompt:**
 ```
@@ -5304,7 +5304,7 @@ Stop-motion claymation style, handcrafted clay characters with visible fingerpri
 
 **Description:** The fifth part of a multi-shot video prompt for Seedance 2.0, focusing on a close-up shot of the character's beard and hair softly flowing in the wind, with dust particles floating in sun rays.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/954.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/954.mp4)
 
 **Prompt:**
 ```
@@ -5320,7 +5320,7 @@ Close-up shot of his beard and hair softly flowing in the wind, dust particles f
 
 **Description:** The third part of a multi-shot video prompt for Seedance 2.0, detailing a medium shot of the character lifting the taco with chopsticks, including subtle steam rising and peaceful breathing motion.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/953.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/953.mp4)
 
 **Prompt:**
 ```
@@ -5336,7 +5336,7 @@ Medium shot from the side as he lifts the taco with chopsticks, subtle steam ris
 
 **Description:** The second part of a multi-shot video prompt for Seedance 2.0, focusing on a wide cinematic shot of a temple entrance with mossy stones and hanging plants moving gently in the wind, while the character continues eating calmly.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/952.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/952.mp4)
 
 **Prompt:**
 ```
@@ -5352,7 +5352,7 @@ Wide cinematic shot of the temple entrance behind him, carved mossy stones and h
 
 **Description:** A multi-segment video prompt for Seedance 2.0 detailing a young man's transformation into cybernetic armor. The prompt specifies the visual description for each second, starting with a neon blue light emerging from his hands, activating a futuristic belt, and culminating in mechanical armor spreadin...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/950.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/950.mp4)
 
 **Prompt:**
 ```
@@ -5368,7 +5368,7 @@ Seconds, Visual Description for Prompt 00:00, \"The Awakening: A young man with 
 
 **Description:** A detailed, multi-shot prompt for Seedance 2.0 to generate a nostalgic, low-quality, 2007-style mobile phone recording video (POV, handheld, high noise, time stamp watermark) depicting a bittersweet parting scene with a girl in the rain.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/966.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/966.mp4)
 
 **Prompt:**
 ```
@@ -5384,7 +5384,7 @@ Seconds, Visual Description for Prompt 00:00, \"The Awakening: A young man with 
 
 **Description:** A multi-shot prompt for Seedance 2.0 to generate a cinematic video sequence featuring an alien creature and the OKX logo, detailing three distinct shots: a close-up of the alien's skin and the logo forming, a medium shot of the creature's silhouette in the fog, and a wide shot of the towering entity...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/964.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/964.mp4)
 
 **Prompt:**
 ```
@@ -5400,7 +5400,7 @@ Close-up, dark alien skin, wet leathery texture, misty background, white glowing
 
 **Description:** This tweet describes a complex workflow where the user analyzed a previous video concept (jet roller skating, originally from Sora 2) using VSCode, ClaudeCode, and Opus 4.6 to generate a prompt for Seedance 2.0. The goal was to convert the existing video concept into a prompt and slightly extend the...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/939.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/939.mp4)
 
 **Prompt:**
 ```
@@ -5416,7 +5416,7 @@ I gave it the jet roller skating sequence that was randomly generated by Sora 2 
 
 **Description:** A multi-shot, cinematic prompt for Seedance 2.0 detailing a dramatic sequence involving an astronaut on a damaged space station, a cracked helmet close-up, crew mates launching an escape pod, massive alien tendrils breaching the hull, and the astronaut attempting to move in zero-gravity.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/922.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/922.mp4)
 
 **Prompt:**
 ```
@@ -5432,7 +5432,7 @@ Astronaut lying on a damaged space station deck. [cut] Close-up shot of the astr
 
 **Description:** A detailed video prompt for Seedance 2.0, instructing a 12-second transformation sequence of a beautiful woman into various mythical creatures from Chinese folklore (Shan Hai Jing). The prompt specifies frame-by-frame costume changes, accessories, special effects, and overall style.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/932.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/932.mp4)
 
 **Prompt:**
 ```
@@ -5448,7 +5448,7 @@ Astronaut lying on a damaged space station deck. [cut] Close-up shot of the astr
 
 **Description:** An extremely detailed, multi-paragraph prompt for Seedance 2.0 describing an ultra-wide-angle macro FPV tracking sequence of a cat in an abandoned underground parking structure, focusing on fragmented glimpses, high frame rate, and dramatic lighting.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/917.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/917.mp4)
 
 **Prompt:**
 ```
@@ -5464,7 +5464,7 @@ Ultra-wide-angle macro FPV tracking sequence following a cat. The feline is neve
 
 **Description:** A highly structured, multi-shot prompt for Seedance 2.0 detailing a 15-second cinematic pursuit sequence in an industrial harbor setting. It specifies the format, style (Industrial harbor at blue hour, photoreal 35mm), and six distinct shots, including an aerial drop, low tracking, a swerve around a...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/924.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/924.mp4)
 
 **Prompt:**
 ```
@@ -5480,7 +5480,7 @@ Harbor Break Run FORMAT: 15s / 6 SHOTS / grounded cinematic pursuit / no dialogu
 
 **Description:** A humorous, meta-prompt instructing Seedance 2.0 to create a video that a 5-year-old iPad kid would enjoy while smearing Cheeto-stained hands on the screen.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/918.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/918.mp4)
 
 **Prompt:**
 ```
@@ -5496,7 +5496,7 @@ make a video a 5 year old ipad kid would enjoy while smearing his cheeto stained
 
 **Description:** A detailed prompt for Seedance 2.0 to generate a video of a beautiful girl dancing to Future House music in a bedroom setting, emphasizing specific visual styles, movements, camera work, and lighting.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/933.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/933.mp4)
 
 **Prompt:**
 ```
@@ -5512,7 +5512,7 @@ Live-action style, a beautiful girl @【@Image 1】 She has short black hair, we
 
 **Description:** A detailed prompt for Seedance 2.0 to create a cute idol-like video about the daily life of an AI influencer named Mona, who posts positive messages every morning to cheer people up. The prompt includes specific lyrics for the song.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/911.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/911.mp4)
 
 **Prompt:**
 ```
@@ -5528,7 +5528,7 @@ Create a cute idol-like video that sings about the daily life of the AI influenc
 
 **Description:** A detailed Seedance 2.0 prompt for generating a 15-second, single-shot, realistic office vlog video. The scene features a young woman walking and talking to her phone camera in a large internet company office, complaining about the OpenClaw AI tool's instability and cost.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/902.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/902.mp4)
 
 **Prompt:**
 ```
@@ -5544,7 +5544,7 @@ Theme: A 15-second, single-shot, realistic video with a workplace daily Vlog sty
 
 **Description:** A highly detailed prompt for a 10-second vertical video (9:16) featuring a rapid, seamless costume change montage (Hanfu/Guofeng style), synchronized with music beats. The prompt specifies 10 different costume changes, camera movements (mid-shot follow), and aesthetic requirements (warm soft light, ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/908.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/908.mp4)
 
 **Prompt:**
 ```
@@ -5560,7 +5560,7 @@ Theme: A 15-second, single-shot, realistic video with a workplace daily Vlog sty
 
 **Description:** A comprehensive Seedance 2.0 prompt detailing a 15-second, three-shot video in the style of Indian Telugu cinema, featuring extreme anti-gravity physics, speed ramping, dust storms, and exaggerated impact effects in a ruined quarry setting.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/903.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/903.mp4)
 
 **Prompt:**
 ```
@@ -5576,7 +5576,7 @@ Theme: A 15-second, single-shot, realistic video with a workplace daily Vlog sty
 
 **Description:** A prompt using emojis to structure a 15-second video story (Kishōtenketsu structure) using Seedance 2.0, celebrating a follower milestone.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/914.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/914.mp4)
 
 **Prompt:**
 ```
@@ -5592,7 +5592,7 @@ Theme: A 15-second, single-shot, realistic video with a workplace daily Vlog sty
 
 **Description:** A Seedance 2.0 prompt describing a scenario where the user activates a time-stopping device while two attractive women (one Asian, one Caucasian) are talking in a hot spring. The user interacts with the frozen characters before resuming time.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/907.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/907.mp4)
 
 **Prompt:**
 ```
@@ -5608,7 +5608,7 @@ In a hot spring pool, two beautiful girls with great figures, one black-haired E
 
 **Description:** A time-coded prompt for Seedance 2.0 describing a realistic, vertical screen video of a father and baby secretly watching videos on a phone in a late-night bedroom setting with warm cinematic lighting.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/881.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/881.mp4)
 
 **Prompt:**
 ```
@@ -5624,7 +5624,7 @@ Realistic style, vertical screen, warm cinematic lighting. [0-5s] Close-up shot,
 
 **Description:** A cinematic video prompt detailing complex camera movements, starting with a close-up on feet, slowly panning up and around a character's body (not showing the full face), before pulling back to a mid-shot of the character performing a Western Region (Central Asian) style dance in an ancient setting...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/887.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/887.mp4)
 
 **Prompt:**
 ```
@@ -5640,7 +5640,7 @@ The camera is pointed at a pair of jade feet, the lens circles around the charac
 
 **Description:** A highly detailed, multi-part interactive prompt for Seedance 2.0, generating a photorealistic scene of a young Asian woman in a high-rise apartment, featuring specific camera POV, dialogue, and subtle sound effects to create an intimate and flirtatious atmosphere.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/880.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/880.mp4)
 
 **Prompt:**
 ```
@@ -5656,7 +5656,7 @@ Subject: Photorealistic style, a young beautiful Asian woman sitting by the bay 
 
 **Description:** A detailed multi-scene prompt for Seedance 2.0, describing a boy in a Chinese tea shop interacting with a bear and placing buns on a table, including scene cuts and a close-up shot. This prompt is explicitly used with Seedance 2.0, following the workflow described in previous tweets.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/879.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/879.mp4)
 
 **Prompt:**
 ```
@@ -5672,7 +5672,7 @@ Boy standing with a plate of buns in a Chinese tea shop, a bear looking at him f
 
 **Description:** A creative cinematic prompt for Seedance 2.0, detailing a magical yet realistic transformation scene where golden sand particles swirl and assemble into the intricate mechanical parts of a luxury wristwatch.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/878.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/878.mp4)
 
 **Prompt:**
 ```
@@ -5688,7 +5688,7 @@ Creative cinematic scene where golden sand particles swirl in the air and transf
 
 **Description:** A detailed, multi-shot prompt for Seedance 2.0 designed to create a high-urgency, catastrophic disaster movie sequence involving a bridge collapse, a massive wave, and a character named Tao Ge performing a dramatic escape.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/865.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/865.mp4)
 
 **Prompt:**
 ```
@@ -5704,7 +5704,7 @@ Creative cinematic scene where golden sand particles swirl in the air and transf
 
 **Description:** A detailed, narrative-driven prompt for Seedance 2.0 describing a street food vendor who freezes vegetables mid-air above a wok to answer a phone call, emphasizing freeze-frame physics and deadpan absurdist comedy.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/864.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/864.mp4)
 
 **Prompt:**
 ```
@@ -5720,7 +5720,7 @@ A street food vendor in his 40s, broad shoulders, white apron, red bandana headb
 
 **Description:** A detailed, multi-scene video prompt for Seedance 2.0, generating a 'pure desire' style video featuring a cold-skinned girl with long curly hair and a crystal butterfly hairpin. The video is structured into five segments (First Encounter, Tossing Hair, Side Smile, Eye Contact, Looking Back) with spe...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/871.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/871.mp4)
 
 **Prompt:**
 ```
@@ -5736,7 +5736,7 @@ A street food vendor in his 40s, broad shoulders, white apron, red bandana headb
 
 **Description:** A detailed, multi-stage prompt for generating a 12-second video of a Dunhuang Flying Apsara (celestial being) emerging from a gilded mural, dancing, and transforming, with specific instructions for colors, movements, and background details across different time segments (0-2s, 2-4s, 4-6s, 6-8s, 8-10...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/866.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/866.mp4)
 
 **Prompt:**
 ```
@@ -5752,7 +5752,7 @@ A street food vendor in his 40s, broad shoulders, white apron, red bandana headb
 
 **Description:** A highly detailed, multi-scene prompt for Seedance 2.0 to generate a cinematic adventure sequence. It describes the setting (jungle ruins at sunrise), characters (explorers and a mysterious guide), camera movements (aerial descent, close-ups, circling), and dialogue, aiming for a dramatic, realistic...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/850.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/850.mp4)
 
 **Prompt:**
 ```
@@ -5768,7 +5768,7 @@ A cinematic adventure scene set in a hidden jungle valley at sunrise. Massive an
 
 **Description:** A detailed, multi-scene prompt for Seedance 2.0 to generate a humorous, realistic video about a kitten secretly using a phone at night. The prompt specifies style, lighting, camera movements, and a narrative sequence involving the kitten hiding the phone when its mother approaches.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/853.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/853.mp4)
 
 **Prompt:**
 ```
@@ -5784,7 +5784,7 @@ Realistic style, vertical screen, warm cinematic lighting.[0-5s] Close-up shot o
 
 **Description:** A detailed video generation prompt for Seedance/Sora, describing a man working in a lab with multiple camera shots, specifically excluding music and talking, and requesting only ambient sound.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/840.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/840.mp4)
 
 **Prompt:**
 ```
@@ -5800,7 +5800,7 @@ man is working in the lab: [cut] multiple camera shots of a man working in the l
 
 **Description:** A simple prompt for Seedance 2.0 to generate a rhythmic video featuring the transformation of the Twelve Flower Goddesses, utilizing quick turns, costume changes, special effects, and push/pull camera movements synchronized to a beat.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/847.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/847.mp4)
 
 **Prompt:**
 ```
@@ -5816,7 +5816,7 @@ man is working in the lab: [cut] multiple camera shots of a man working in the l
 
 **Description:** A poetic prompt for Seedance 2.0 to generate a Chinese-style dreamscape video, featuring blue and white porcelain transforming into a Pegasus and a paper crane flying through a window, set against a snowy, oriental aesthetic, offering an escape from a cyberpunk city.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/849.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/849.mp4)
 
 **Prompt:**
 ```
@@ -5832,7 +5832,7 @@ If reality is too tiring, go fly in the Seedance 2.0 Chinese dreamscape. When bl
 
 **Description:** A highly detailed, multi-shot cinematic prompt for Seedance 2.0 describing an explorer's journey through a vast, silent snowscape, culminating in the discovery of a hidden, warm valley, utilizing specific camera cuts and emotional cues.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/844.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/844.mp4)
 
 **Prompt:**
 ```
@@ -5848,7 +5848,7 @@ Live-action cinematic sequence in real time. Aerial wide shot: a vast white moun
 
 **Description:** A highly detailed, multi-shot cinematic prompt for Seedance 2.0 designed to emulate the style of 90s Hong Kong Art Cinema, featuring a melancholic scene in a rainy phone booth with specific instructions for visual effects, lighting, and emotional performance.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/845.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/845.mp4)
 
 **Prompt:**
 ```
@@ -5864,7 +5864,7 @@ Live-action cinematic sequence in real time. Aerial wide shot: a vast white moun
 
 **Description:** A highly detailed 15-second vertical video prompt for Seedance 2.0, simulating a first-person perspective (POV) selfie video of a Taiwanese girl sneaking out late at night to buy snacks at a 7-Eleven in Taipei, including specific lighting, camera shake, dialogue, and scene transitions.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/848.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/848.mp4)
 
 **Prompt:**
 ```
@@ -5880,7 +5880,7 @@ Live-action cinematic sequence in real time. Aerial wide shot: a vast white moun
 
 **Description:** A detailed prompt for Seedance 2.0 to generate a high-quality, continuous K-pop style dance video featuring a female character whose appearance is based on an uploaded reference photo. The prompt specifies the character's clothing, facial stability, professional choreography, cinematic camera work, ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/937.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/937.mp4)
 
 **Prompt:**
 ```
@@ -5896,7 +5896,7 @@ Live-action cinematic sequence in real time. Aerial wide shot: a vast white moun
 
 **Description:** An extremely detailed, multi-shot prompt for Seedance 2.0 to generate a 15-second cinematic food documentary short film, mimicking the style of 'A Bite of China' (舌尖上的中国), focusing on a Northern Chinese New Year's Eve dinner preparation, including specific camera movements, sound design, and narrati...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/827.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/827.mp4)
 
 **Prompt:**
 ```
@@ -5912,7 +5912,7 @@ Theme: Based on the user-provided New Year's Eve dinner photos, generate a 15-se
 
 **Description:** A prompt for Seedance 2.0 generating a fantasy video of a fox spirit transforming into a beautiful woman in a moonlit bamboo forest, emphasizing the visual style of ink painting and CG illustration, and focusing on the transformation process and the character's subsequent movements.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/829.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/829.mp4)
 
 **Prompt:**
 ```
@@ -5928,7 +5928,7 @@ Theme: Based on the user-provided New Year's Eve dinner photos, generate a 15-se
 
 **Description:** A detailed description of a scene and cinematography for a modern dance performance. The setting is a dimly lit indoor home environment (modern kitchen/living room). The performer executes a highly rhythmic modern dance, conveying confidence and allure. The prompt specifies a fixed camera position, ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/832.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/832.mp4)
 
 **Prompt:**
 ```
@@ -5944,7 +5944,7 @@ Theme: Based on the user-provided New Year's Eve dinner photos, generate a 15-se
 
 **Description:** A long, detailed, two-part stop-motion narrative prompt for Seedance 2.0 featuring an Uzbek woman puppet. The first part describes a quiet tea-drinking scene, and the second describes a vigorous cooking scene (kneading dough and baking samsas in a tandoor), using [cut] markers for scene changes and ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/820.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/820.mp4)
 
 **Prompt:**
 ```
@@ -5960,7 +5960,7 @@ A stop-motion wooden puppet Uzbek woman with round painted face, black braided h
 
 **Description:** A prompt demonstrating the object replacement capability of Doubao-Seedance-2.0, instructing the AI to replace a perfume bottle in a video with a cream jar from a static image while preserving the original motion and camera work.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/786.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/786.mp4)
 
 **Prompt:**
 ```
@@ -5976,7 +5976,7 @@ Replace the perfume in the gift box shown in the upper-left video with the cream
 
 **Description:** A simple, multi-shot narrative prompt for video generation (Sora 2/Seedance 2.0) depicting a conversation between a prisoner and a female guard, using [cut] markers to define camera angles and scene transitions, with a focus on dialogue delivery.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/785.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/785.mp4)
 
 **Prompt:**
 ```
@@ -5992,7 +5992,7 @@ A man sitting in his prison cell. [cut] Female guard walking through the prison 
 
 **Description:** The first part of a detailed Seedance 2.0 prompt for generating a cinematic video montage of Guangzhou, featuring traditional and modern elements, specific camera movements, and scene transitions.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/811.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/811.mp4)
 
 **Prompt:**
 ```
@@ -6008,7 +6008,7 @@ Aspect ratio \"16:9\" Guangzhou city group portrait, including ancient Xiguan ma
 
 **Description:** A highly detailed, epic cinematic prompt comparing Seedance 2.0 and Grok Imagine, describing a massive feline titan rising from a stormy ocean and destroying a navy fleet with an energy beam.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/788.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/788.mp4)
 
 **Prompt:**
 ```
@@ -6024,7 +6024,7 @@ Stormy night ocean, massive waves under lightning flashes. The sea churns violen
 
 **Description:** A Seedance 2.0 prompt for generating a video clip in the style of an 80s Hong Kong zombie movie, featuring a dilapidated temple, pale moonlight, film grain, and a hopping Qing Dynasty zombie.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/813.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/813.mp4)
 
 **Prompt:**
 ```
@@ -6040,7 +6040,7 @@ Segment 1: 16:9 horizontal screen, 80s Hong Kong style zombie movie aesthetic, b
 
 **Description:** A detailed, multi-scene prompt designed for Seedance 2.0 to generate a video featuring dynamic text effects, focusing on the character '李岳' (Li Yue), with specific instructions for visuals, camera movement, sound effects, particle systems, lighting, material properties, and post-processing.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/794.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/794.mp4)
 
 **Prompt:**
 ```
@@ -6056,7 +6056,7 @@ The Beginning of Chaos * Visuals: Pure black background, no elements, only extre
 
 **Description:** A detailed cinematic prompt for Seedance 2.0, describing a lone woman on a brutalist building at sunrise, featuring a complex camera movement from an aerial wide shot to a close profile, emphasizing cinematic lighting and film texture.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/782.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/782.mp4)
 
 **Prompt:**
 ```
@@ -6072,7 +6072,7 @@ A lone woman stands on the roof of a brutalist concrete building at sunrise, win
 
 **Description:** A prompt for generating a dynamic 15-second dance video set to the music 'Hot Love Ice Cream'. It specifies the character's appearance (slim, long legs, tight dress, sheer stockings, high heels) and detailed camera movements, starting with a close-up on the heels and transitioning to a full-body sho...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/798.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/798.mp4)
 
 **Prompt:**
 ```
@@ -6088,7 +6088,7 @@ Character face reference @[Image 1] Using \"Hot Love Ice Cream\" as the backing 
 
 **Description:** A highly detailed, structured prompt for generating both an image (using Nano Banana 2) and a 10-second video (using Seedance 1.5 Pro) of a neo-noir urban scene, focusing on architectural massing and atmospheric effects.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/771.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/771.mp4)
 
 **Prompt:**
 ```
@@ -6104,7 +6104,7 @@ Character face reference @[Image 1] Using \"Hot Love Ice Cream\" as the backing 
 
 **Description:** A prompt for generating a 12-second video collection of quick outfit changes, requiring the character's face and bone structure to remain 100% consistent with the reference image. The sequence involves five contrasting styles (JK Lolita, British, Lolita, OL, Dark/Subculture) using a 'hand flick tran...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/778.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/778.mp4)
 
 **Prompt:**
 ```
@@ -6120,7 +6120,7 @@ Keep the character completely consistent with the reference image, 100% identica
 
 **Description:** A user shares the prompt used to compare Kling 3 and Seedance 2 video generation, noting that Kling 3 misinterpreted the 'selfie' aspect of the prompt. The prompt describes a 360-degree panoramic camera selfie inside a sweets shop, followed by a woman posing in various scenes with costume changes.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/780.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/780.mp4)
 
 **Prompt:**
 ```
@@ -6136,7 +6136,7 @@ Keep the character completely consistent with the reference image, 100% identica
 
 **Description:** A Seedance 2.0 prompt for generating a vibrant, cinematic video promoting the city of Zibo, blending modern cityscapes with ancient architecture, featuring fast cuts, neon lighting, and strong rhythmic audio.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/765.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/765.mp4)
 
 **Prompt:**
 ```
@@ -6152,7 +6152,7 @@ A vibrant modern cityscape of Zibo, interwoven with the magnificent landmark Hai
 
 **Description:** A highly structured, detailed JSON prompt used for generating an ultra-realistic macro miniature city model, utilizing Nano Banana 2 for structure and Seedance 2.0 for motion.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/749.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/749.mp4)
 
 **Prompt:**
 ```
@@ -6168,7 +6168,7 @@ A vibrant modern cityscape of Zibo, interwoven with the magnificent landmark Hai
 
 **Description:** A detailed, narrative prompt for Seedance 2 describing a woman waking up in bed, her movements, expressions, and dialogue, focusing on a sleepy, affectionate, and light-sensitive mood in the morning light.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/769.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/769.mp4)
 
 **Prompt:**
 ```
@@ -6184,7 +6184,7 @@ The camera overlooks from a high angle. The woman unconsciously lightly strokes 
 
 **Description:** A prompt for Seedance 2.0 describing a funny movie scene where people in 1980s Bronx suddenly turn into running zombies.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/720.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/720.mp4)
 
 **Prompt:**
 ```
@@ -6200,7 +6200,7 @@ The camera overlooks from a high angle. The woman unconsciously lightly strokes 
 
 **Description:** A detailed, multi-scene prompt designed for Seedance 2.0 to generate a cinematic, New Chinese Style promotional video for the city of Xiamen, focusing on specific color palettes, narrative arcs (from sacred to modern life), sound design, and time-coded scene descriptions.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/728.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/728.mp4)
 
 **Prompt:**
 ```
@@ -6216,7 +6216,7 @@ New Chinese Style cinematic quality promotional video, the picture is fresh and 
 
 **Description:** A detailed Seedance 2.0 prompt designed to generate a realistic, high-definition video of a young Asian woman in a POV style, creating an intimate 'AI girlfriend' atmosphere.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/717.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/717.mp4)
 
 **Prompt:**
 ```
@@ -6232,7 +6232,7 @@ Subject: Realistic photography style, a young beautiful Asian woman (face refere
 
 **Description:** A detailed multi-segment prompt for generating a cinematic video sequence featuring a hacker in a cyberpunk night market setting. The prompt specifies scene progression, camera movements, lighting (pink/blue neon), sound design (rain, drone hum), and stylistic constraints like anamorphic look, grain...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/681.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/681.mp4)
 
 **Prompt:**
 ```
@@ -6248,7 +6248,7 @@ Subject: Realistic photography style, a young beautiful Asian woman (face refere
 
 **Description:** A description of a video generated by Seedance 2.0, which uses AI technology to bring the Ming Dynasty painting 'Hundred Beauties' by Qiu Ying to life, accurately replicating the heavy color and mineral pigment texture of traditional Gongbi painting, dynamically restoring scenes of court ladies enjo...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/693.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/693.mp4)
 
 **Prompt:**
 ```
@@ -6264,7 +6264,7 @@ Seedance 2.0 uses AI technology to awaken Qiu Ying's Ming Dynasty painting 'Hund
 
 **Description:** A complex, multi-shot prompt designed to generate a 15-second opening scene for a fictional sequel to 'Eyes Wide Shut.' It requires using a reference image for style and specifies a sequence of shots: a wide exterior, guests entering, a couple dancing in a ballroom, and a bartender shaking drinks, a...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/683.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/683.mp4)
 
 **Prompt:**
 ```
@@ -6280,7 +6280,7 @@ Using Image 1 as a reference, generate a 15-second multi-camera video scene: sta
 
 **Description:** A detailed text prompt for generating a video using Seedance 2.0, describing a dark, industrial, underground forge-cavern scene with molten metal rivers, black obsidian walls, hanging industrial chains, and hissing steam.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/687.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/687.mp4)
 
 **Prompt:**
 ```
@@ -6296,7 +6296,7 @@ A dark underground forge-cavern of black obsidian. Rivers of molten metal flow t
 
 **Description:** A comprehensive, multi-stage prompt for generating a futuristic, high-tech promotional video for the KIRI Engine mobile 3D scanning app. The video sequence includes scanning a real object, the object transforming into a glowing 3D Gaussian Splatting model, and transitions into various creative workf...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/686.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/686.mp4)
 
 **Prompt:**
 ```
@@ -6312,7 +6312,7 @@ A futuristic promotional video for KIRI Engine, a mobile 3D scanning app. A pers
 
 **Description:** A description of a video generated by Seedance 2.0, which uses AI technology to dynamically revive the Qing Dynasty court Gongbi painting 'Red Rain in Donglin,' capturing the spirit of the brushwork and the innocence of children playing in a jujube forest during mid-autumn.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/695.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/695.mp4)
 
 **Prompt:**
 ```
@@ -6328,7 +6328,7 @@ Seedance 2.0 uses AI technology to vividly revive the Qing Dynasty court Gongbi 
 
 **Description:** A detailed Seedance 2.0 prompt designed to generate a video clip of a beautiful Asian woman in a dimly lit, ambiguous KTV room, focusing on lighting, atmosphere, character movement, and camera work, culminating in a close-up of her removing a high-heeled shoe.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/691.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/691.mp4)
 
 **Prompt:**
 ```
@@ -6344,7 +6344,7 @@ In a dimly lit, ambiguous KTV room, purple and blue neon laser lights flow and f
 
 **Description:** A conceptual prompt setting up a crossover scenario where The Witcher hunts characters from Resident Evil (Leon and Karl Heisenberg), created using Seedance 2.0.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/664.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/664.mp4)
 
 **Prompt:**
 ```
@@ -6360,7 +6360,7 @@ Leon thought he was the hero… Karl Heisenberg thought he was unstoppable… Th
 
 **Description:** A Spanish-language prompt for Seedance 2.0, likely used to generate a music video or animated clip featuring the phrase 'alito vandalito' and 'la cadena del baby'. The tweet includes a generated video, indicating this is the input text used for the AI video generation tool.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/680.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/680.mp4)
 
 **Prompt:**
 ```
@@ -6376,7 +6376,7 @@ Leon thought he was the hero… Karl Heisenberg thought he was unstoppable… Th
 
 **Description:** A multi-shot cinematic script prompt for Seedance 2.0, detailing a hostage situation involving the Japanese Special Assault Team (SAT). The script specifies camera angles, character dialogue, lighting, and sound effects across four distinct shots, from a low-angle tactical advance to the aftermath o...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/677.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/677.mp4)
 
 **Prompt:**
 ```
@@ -6392,7 +6392,7 @@ Leon thought he was the hero… Karl Heisenberg thought he was unstoppable… Th
 
 **Description:** A detailed cinematic prompt for Seedance 2.0, describing a young Japanese boy touching a sacred relic in an ancient temple at night, leading to a dramatic transformation into a guardian hero with samurai-inspired armor and a spiritual aura. The prompt emphasizes cinematic lighting, high detail, and ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/678.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/678.mp4)
 
 **Prompt:**
 ```
@@ -6408,7 +6408,7 @@ A young Japanese boy inside an ancient wooden temple at night. Moonlight shines 
 
 **Description:** A prompt for Seedance 2.0 to generate a humorous adventure-themed advertisement video featuring Christopher Columbus using a GPS navigator to find the New World, complete with dialogue and special effects.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/675.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/675.mp4)
 
 **Prompt:**
 ```
@@ -6424,7 +6424,7 @@ ADVENTURE ENERGY: Columbus looks at his phone's GPS navigation and excitedly say
 
 **Description:** A Seedance 2.0 prompt describing a bedroom scene featuring a youthful girl wearing a white gauze skirt and red cotton T-shirt, focusing on her bare, slender legs and small white soft leather shoes.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/669.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/669.mp4)
 
 **Prompt:**
 ```
@@ -6440,7 +6440,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 **Description:** A detailed prompt for Seedance 2.0 to generate a cinematic, first-person view video of a woman frozen mid-yoga pose, focusing on close-up details of the body and skin texture.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/667.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/667.mp4)
 
 **Prompt:**
 ```
@@ -6456,7 +6456,7 @@ First-person perspective (POV), cinematic lighting and shadows. A graceful young
 
 **Description:** A detailed, time-coded Seedance 2.0 prompt for a 15-second dramatic short video about a wealthy young master trying to dismiss a woman with 5 million yuan, only for her to reveal her true identity as the major shareholder acquiring his family's company, featuring specific dialogue, camera shots, and...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/763.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/763.mp4)
 
 **Prompt:**
 ```
@@ -6472,7 +6472,7 @@ Scene (0-5 seconds): Center of a luxurious banquet hall, close-up of the male le
 
 **Description:** A detailed, realistic prompt for Seedance 2.0 to generate a vertical video from a boyfriend's perspective in a dimly lit KTV room, featuring a beautiful Asian woman who turns to the camera, speaks, and removes a high-heeled shoe.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/670.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/670.mp4)
 
 **Prompt:**
 ```
@@ -6488,7 +6488,7 @@ Realistic style, vertical screen, first-person boyfriend perspective. Inside a d
 
 **Description:** A prompt structured like a storyboard, detailing a single shot (Shot 1) for a video. It describes a warm, yellow-toned vintage art studio with sunlight streaming in, where the camera slowly pushes in on a framed classical portrait painting, accompanied by cheerful classical string music.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/672.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/672.mp4)
 
 **Prompt:**
 ```
@@ -6504,7 +6504,7 @@ Realistic style, vertical screen, first-person boyfriend perspective. Inside a d
 
 **Description:** A detailed text prompt used for testing Seedance 2.0, describing a dramatic science fiction scene involving an alien invasion where the sky is torn apart and humanity attempts a feeble counterattack against a descending fleet.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/661.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/661.mp4)
 
 **Prompt:**
 ```
@@ -6520,7 +6520,7 @@ Realistic style, vertical screen, first-person boyfriend perspective. Inside a d
 
 **Description:** A detailed script prompt for Seedance 2.0 to generate an urban short drama video featuring a powerful female protagonist, a wealthy antagonist, and a dramatic confrontation involving a broken engagement and a financial reveal.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/653.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/653.mp4)
 
 **Prompt:**
 ```
@@ -6536,7 +6536,7 @@ Characters • Female Lead (Lin Wan): 24 years old, cool and capable, seemingly 
 
 **Description:** A prompt used with Seedance 2.0 to transform an existing screenshot into a scene where the image is displayed on a huge billboard, with surrounding people reacting in awe.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/654.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/654.mp4)
 
 **Prompt:**
 ```
@@ -6552,7 +6552,7 @@ Put this image on a huge billboard where all the people around are looking it an
 
 **Description:** A prompt for Seedance 2.0 describing the first segment of an epic video in 16:9 aspect ratio, featuring the style of ancient Chinese mythology. The scene is a vast, primeval land under a sky filled with massive cracks, dark void spreading, thunder, lightning, and trembling mountains, viewed from a l...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/673.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/673.mp4)
 
 **Prompt:**
 ```
@@ -6568,7 +6568,7 @@ Put this image on a huge billboard where all the people around are looking it an
 
 **Description:** A cinematic video prompt for Seedance 2.0 setting an ancient, fog-shrouded forest scene at midnight, where an ethereal figure in flowing robes dashes between gnarled trees under a fractured moon, with the camera seamlessly gliding through the haze.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/637.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/637.mp4)
 
 **Prompt:**
 ```
@@ -6584,7 +6584,7 @@ Put this image on a huge billboard where all the people around are looking it an
 
 **Description:** A detailed video prompt for Seedance 2.0 describing a bustling, humid Taipei street scene, focusing on the movement of traffic and a sudden upward tilt of a trembling phone camera, triggered by voices shouting to look up.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/635.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/635.mp4)
 
 **Prompt:**
 ```
@@ -6600,7 +6600,7 @@ Put this image on a huge billboard where all the people around are looking it an
 
 **Description:** A detailed prompt for generating a highly dynamic, cinematic dance video based on a reference image. The video should feature flawless modern hip-hop choreography, rapid rhythmic camera cuts, dynamic B-rolls (close-ups of sneakers, facial expressions, hand isolations), extreme low-angle tracking sho...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/629.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/629.mp4)
 
 **Prompt:**
 ```
@@ -6616,7 +6616,7 @@ Highly dynamic cinematic dance video based on @ image1 visual. Viral TikTok tren
 
 **Description:** A detailed prompt for Seedance 2.0 to generate a horror-themed video simulating fixed-camera surveillance footage in a parking lot, focusing on a woman repeatedly failing facial recognition access and her escalating frustration/fear. It uses two reference images for context.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/643.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/643.mp4)
 
 **Prompt:**
 ```
@@ -6632,7 +6632,7 @@ Highly dynamic cinematic dance video based on @ image1 visual. Viral TikTok tren
 
 **Description:** A video prompt for Seedance 2.0 detailing the opening shot of a sterile cryo-lab scene. It describes a wide overhead view of a human-looking woman lying in a transparent diagnostic pod, with subtle breathing and blue scan lines sweeping over her body.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/638.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/638.mp4)
 
 **Prompt:**
 ```
@@ -6648,7 +6648,7 @@ SHOT 1 — 0:00–0:02 (2s) Wide overhead shot in sterile cryo-lab. A fully huma
 
 **Description:** An example prompt demonstrating the universal formula for creating short character videos using Seedance 2.0. The prompt describes a high-value, youthful girl in a bedroom setting, wearing a winter off-shoulder outfit, with a high ponytail and specific makeup, captured in a low-quality, high-grain, ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/642.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/642.mp4)
 
 **Prompt:**
 ```
@@ -6664,7 +6664,7 @@ Character facial reference image 1. Bedroom scene, full of youthful girliness. T
 
 **Description:** A complex cinematic prompt for Seedance 2.0 detailing a high-contrast, epic confrontation between a giant, muscular hero in red/black armor and a small, agile hero in red/blue spider-web suit, focusing on intense energy clashes, 35mm film look, and dynamic camera work.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/652.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/652.mp4)
 
 **Prompt:**
 ```
@@ -6680,7 +6680,7 @@ Character facial reference image 1. Bedroom scene, full of youthful girliness. T
 
 **Description:** A detailed Seedance 2.0 prompt for generating a realistic, vertical video from a boyfriend's first-person perspective (POV) set in a dimly lit KTV room. The scene features a beautiful young Asian woman interacting with the camera and slowly removing a high-heeled shoe, focusing on realistic lighting...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/671.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/671.mp4)
 
 **Prompt:**
 ```
@@ -6696,7 +6696,7 @@ Realistic style, vertical screen, first-person boyfriend perspective (POV). Insi
 
 **Description:** A detailed Seedance 2.0 prompt for generating a cinematic, film grain video of a beautiful, pure yet seductive girl walking on a wet street at night, featuring specific camera movements, lighting, and aesthetic details.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/644.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/644.mp4)
 
 **Prompt:**
 ```
@@ -6712,7 +6712,7 @@ High-definition photography with cinematic film texture, handheld follow-shot pe
 
 **Description:** An extremely detailed, multi-part prompt for Seedance 2.0 to generate a hyper-realistic, cinematic video of a wide-body passenger jet transforming into a colossal metal robot upon landing, all filmed from a vertical smartphone perspective with authentic live-recording aesthetics.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/625.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/625.mp4)
 
 **Prompt:**
 ```
@@ -6728,7 +6728,7 @@ High-definition photography with cinematic film texture, handheld follow-shot pe
 
 **Description:** A prompt for Seedance 2.0 to generate a short, romantic, cinematic video set in a beautiful study room, featuring a dialogue between a girl and a boy about their zodiac signs, ending humorously.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/645.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/645.mp4)
 
 **Prompt:**
 ```
@@ -6744,7 +6744,7 @@ Cinematic romance atmosphere, in a beautiful study room with cinematic film text
 
 **Description:** A detailed, multi-scene prompt for Seedance 2.0 to generate a cinematic video of a goblin traveller and his mountain boar steed crossing a snow-covered ridge.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/621.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/621.mp4)
 
 **Prompt:**
 ```
@@ -6760,7 +6760,7 @@ A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast 
 
 **Description:** A highly detailed, multi-scene prompt demonstrating Seedance 2.0's ability to handle complex narrative structures, character references, and integrated audio files (speech1 and speech2). The scene involves a soot-covered Santa working on a metallic sleigh outside a Victorian mansion, interrupted by ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/599.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/599.mp4)
 
 **Prompt:**
 ```
@@ -6776,7 +6776,7 @@ A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast 
 
 **Description:** A prompt for Seedance 2.0 to generate a video sequence showing a female figure transforming from a cyberpunk mechanical skeleton into a fully formed human body. The focus is on the gradual generation of skin, tissue, and clothing, starting from the chest and moving outwards, set against a cyberpunk ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/613.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/613.mp4)
 
 **Prompt:**
 ```
@@ -6792,7 +6792,7 @@ Generate a cyberpunk-like mechanical body, female image, with only mechanical sk
 
 **Description:** A detailed, multi-shot Japanese prompt framework for Seedance 2.0, designed to create a stable 'transform' sequence where a character is built from silver liquid metal into a human-looking figure with mechanical elements, culminating in a final appearance and dialogue. This framework is shared after...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/619.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/619.mp4)
 
 **Prompt:**
 ```
@@ -6808,7 +6808,7 @@ Use the person in the reference image as the character prototype. SHOT 1 — Sil
 
 **Description:** This is a detailed prompt for generating a dance video using Seedance 2.0. It specifies using a female character from a reference image as the subject and referencing a separate video for both the camera movement (rhythmic push, pull, pan, tilt) and the energetic choreography.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/608.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/608.mp4)
 
 **Prompt:**
 ```
@@ -6824,7 +6824,7 @@ Use the person in the reference image as the character prototype. SHOT 1 — Sil
 
 **Description:** A cinematic prompt for Seedance 2.0 to generate a humorous, high-contrast video. It features the famously delicate Chinese beauty Lin Daiyu (from Dream of the Red Chamber) initially appearing frail and tearful, only to suddenly display superhuman strength by uprooting a massive willow tree, emphasiz...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/611.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/611.mp4)
 
 **Prompt:**
 ```
@@ -6840,7 +6840,7 @@ Cinematic close-up shot, a delicate ancient Chinese beauty wearing traditional H
 
 **Description:** A detailed video prompt for Seedance 2.0 to generate a 'virtual girlfriend' scene from a first-person perspective (POV). The scene features a young, beautiful Asian woman sitting by a high-rise window, wearing an oversized white shirt, and engaging in a flirty, intimate dialogue with the camera, emp...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/607.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/607.mp4)
 
 **Prompt:**
 ```
@@ -6856,7 +6856,7 @@ Subject: Realistic photography style, a young and beautiful Asian woman sitting 
 
 **Description:** A Seedance 2.0 prompt designed to generate a surrealist, cinematic video of an indoor playground scene. It specifies a 16:9 wide aspect ratio, cold fluorescent lighting (cyan-blue and cold purple tones), and a high frame rate for extremely high image quality, with a segmented script starting from 0-...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/585.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/585.mp4)
 
 **Prompt:**
 ```
@@ -6872,7 +6872,7 @@ Subject: Realistic photography style, a young and beautiful Asian woman sitting 
 
 **Description:** A detailed, multi-paragraph prompt for Seedance 2.0 requesting an ultra-realistic cinematic sequence of a golden eagle launching from a cliff, navigating an urban environment, and landing on a rooftop sign, emphasizing realism, physics, and camera work.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/581.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/581.mp4)
 
 **Prompt:**
 ```
@@ -6888,7 +6888,7 @@ Ultra-realistic cinematic sequence of a golden eagle launching from a rocky clif
 
 **Description:** An extremely detailed, time-coded prompt for Seedance 2.0 to generate a 10-second, high-quality, seamless costume change video (卡点换装) featuring a beautiful girl transitioning through nine different ancient Chinese styles, from simple to luxurious, with specific movements, camera work, and atmosphere...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/593.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/593.mp4)
 
 **Prompt:**
 ```
@@ -6904,7 +6904,7 @@ Character: Pure, cute, beautiful girl, cold white skin, a mole at the corner of 
 
 **Description:** An extremely detailed, multi-act prompt for Seedance 2.0 describing a 10-second continuous shot of a pilot climbing a transforming jet in Paris, the jet transforming into a colossal humanoid mech, firing a cannon, folding back into a jet, and rocketing to Shanghai.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/584.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/584.mp4)
 
 **Prompt:**
 ```
@@ -6920,7 +6920,7 @@ First Act 10 seconds single continuous shot | Paris to Shanghai | Transforming J
 
 **Description:** A detailed prompt for Seedance 2.0 to generate an epic transformation scene. It starts with a teenage boy in a dark mystical cave touching a glowing crystal, followed by an intense burst of energy and his transformation into a superhero with a red and blue suit and flowing cape, emphasizing cinemati...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/580.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/580.mp4)
 
 **Prompt:**
 ```
@@ -6936,7 +6936,7 @@ A young teenage boy inside a dark mystical cave filled with stalactites and glow
 
 **Description:** A specific prompt for Seedance 2.0 requesting a single camcorder shot of an independent professional wrestling event taking place inside a barn in Kentucky in 1995.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/563.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/563.mp4)
 
 **Prompt:**
 ```
@@ -6952,7 +6952,7 @@ Single camcorder shot of an independent professional wrestling event, in 1995, i
 
 **Description:** A short, dramatic prompt for Seedance 2.0 focusing on a character named Androgenic plotting revenge after a humiliating event (getting their wig snatched), with an instruction to generate a video that evokes high stress (cortisol spike).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/564.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/564.mp4)
 
 **Prompt:**
 ```
@@ -6968,7 +6968,7 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 
 **Description:** A prompt used in Seedance 2.0 (via Dreamina AI) to generate a scene of tiny scientists viewing giant preserved sea creatures like a megalodon and octopus in tanks.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/561.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/561.mp4)
 
 **Prompt:**
 ```
@@ -6984,7 +6984,7 @@ Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scien
 
 **Description:** A detailed, multi-stage cinematic video prompt for Seedance 2.0, describing a hyper-realistic yet surreal journey from space, free-falling towards Earth, bouncing off landmarks across continents, and forming a giant 'Eye of the Earth' with light arcs.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/575.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/575.mp4)
 
 **Prompt:**
 ```
@@ -7000,7 +7000,7 @@ Core concept: Overlooking Earth from space, the camera free-falls toward the sur
 
 **Description:** A detailed prompt for generating a high-definition, pure desire (Chun Yu) style beauty transformation short video using Seedance 2.0, focusing on soft lighting, delicate skin texture, and a smooth transition between a lazy home look and a refined goddess look.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/576.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/576.mp4)
 
 **Prompt:**
 ```
@@ -7016,7 +7016,7 @@ Ultra-high definition pure desire style beauty transformation short video, cinem
 
 **Description:** A detailed prompt for generating a transformation video (likely using Seedance 2.0, given the context of other tweets) where the subject's face remains consistent. The desired style is realistic, dark, bio-tech/alien sci-fi, and oppressive, referencing 'Kamen Rider BLACK SUN'. The prompt specifies t...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/557.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/557.mp4)
 
 **Prompt:**
 ```
@@ -7032,7 +7032,7 @@ Help me generate a clone video: keep the face completely consistent, do not chan
 
 **Description:** A complex, multi-character, multi-scene prompt for Seedance 2.0 to generate a humorous and chaotic group selfie video among friends. The prompt uses three reference images (Figure 1, 2, 3) for the characters, specifies dialogue, camera movements, timing, and visual style (bright, natural light, hand...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/554.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/554.mp4)
 
 **Prompt:**
 ```
@@ -7048,7 +7048,7 @@ Help me generate a clone video: keep the face completely consistent, do not chan
 
 **Description:** A prompt titled 'Sakura Gaiden' used to generate a cinematic video, showcasing Seedance 2.0's ability to quickly turn imagination into footage.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/548.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/548.mp4)
 
 **Prompt:**
 ```
@@ -7064,7 +7064,7 @@ Sakura Gaiden A cinematic evolution where imagination becomes footage in seconds
 
 **Description:** A detailed prompt for Seedance 2.0 instructing the creation of a cinematic rescue montage based on a 9-panel storyboard, specifying pacing, camera movement, and timing for different sections.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/552.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/552.mp4)
 
 **Prompt:**
 ```
@@ -7080,7 +7080,7 @@ Create a cinematic rescue montage from the 9-panel storyboard grid. PACING: Slow
 
 **Description:** A prompt used with the Grok Imagine video model (mentioned alongside Seedance 2.0) to generate a video of Reapers landing on an apocalyptic, desolate planet.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/545.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/545.mp4)
 
 **Prompt:**
 ```
@@ -7096,7 +7096,7 @@ Reaper horn echoes across a desolate planet, camera panning up from cracked grou
 
 **Description:** A detailed, multi-step prompt for Seedance 2.0 describing a girl's transformation video. It starts with her in plain clothes applying paint, which turns silver-blue, followed by a scene change where she appears in exquisite Hanfu, featuring specific lighting, texture, and emotional atmosphere (decad...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/546.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/546.mp4)
 
 **Prompt:**
 ```
@@ -7112,7 +7112,7 @@ Help me create a video: In a cozy house, there is a girl in the center of the ca
 
 **Description:** A prompt used with Seedance Pro 2.0 to generate a photorealistic video of a superhero cat jumping from a skyscraper at night.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/544.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/544.mp4)
 
 **Prompt:**
 ```
@@ -7128,7 +7128,7 @@ Photorealistic superhero cat jumps from a skyscraper at night and flies between 
 
 **Description:** A complex prompt instructing Seedance 2.0 to replace a character in an existing video with a basketball player from a reference image, ensuring consistent body proportions, facial features, and athletic build throughout the sequence, while maintaining complex camera moves.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/533.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/533.mp4)
 
 **Prompt:**
 ```
@@ -7144,7 +7144,7 @@ Replace the character in @ Video 1 with the basketball player from @ Image 1. Th
 
 **Description:** A complex, multi-shot prompt detailing an 8-shot sequence for a commercial. It follows a man examining a bottle in a lab, pouring a drink, consuming it, and then transitioning to a dynamic music festival scene, ending with a direct address to the camera with lip-syncing.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/527.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/527.mp4)
 
 **Prompt:**
 ```
@@ -7160,7 +7160,7 @@ Shot 1: Close-up. The camera slowly zooms in. A man examines a green bottle in a
 
 **Description:** A detailed prompt for generating a 9:16 video using Seedance 2.0, featuring a beautiful girl with long black wavy hair, wearing a pink crop top and yoga pants, dancing sensually to Future House DJ music. The prompt specifies dance moves (playful hip swings, arm waves, fixed poses) synchronized with ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/556.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/556.mp4)
 
 **Prompt:**
 ```
@@ -7176,7 +7176,7 @@ Live-action style, a beautiful girl with long black wavy hair, wearing a pink cr
 
 **Description:** A prompt based on Hindu mythology for Seedance Pro 2.0, describing Demons and Demigods churning the mystical ocean for the Elixir of Life, resulting in both the Elixir and lethal poison.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/521.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/521.mp4)
 
 **Prompt:**
 ```
@@ -7192,7 +7192,7 @@ Demons and Demigods churn the mystical ocean for Elixir of Life. But along with 
 
 **Description:** A detailed cinematic prompt for Seedance 2.0 describing the slow, ultra-realistic transformation of a lone astronaut into an ice-adapted humanoid on a frozen exoplanet under a dim blue sun.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/490.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/490.mp4)
 
 **Prompt:**
 ```
@@ -7208,7 +7208,7 @@ A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in 
 
 **Description:** A prompt used with Seedance 2.0 to generate a video of a beautiful, energetic female AI assistant speaking Chinese to the camera, encouraging viewers to follow for more AI content.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/506.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/506.mp4)
 
 **Prompt:**
 ```
@@ -7224,7 +7224,7 @@ Generate using seedance_2.0_fast: A beautiful woman full of vitality waving at t
 
 **Description:** A prompt for Seedance 2.0 asking for a humorous meme that summarizes the current AI discourse. The meme must be 'retarded', aim for 50 likes, and feature Hollywood stars as the main characters.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/510.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/510.mp4)
 
 **Prompt:**
 ```
@@ -7240,7 +7240,7 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 **Description:** A highly imaginative, cinematic prompt for Seedance 2.0 describing a lone conductor raising his baton to summon ghost musicians, whose golden sound waves restore light to a dark city.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/494.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/494.mp4)
 
 **Prompt:**
 ```
@@ -7256,7 +7256,7 @@ The world went dark. One conductor remained. He raised his baton. Ghost musician
 
 **Description:** A highly absurd and humorous prompt for Seedance 2.0, requesting a scene where a killer robot driving instructor travels back in time, and his best friend is a talking pie. The creator explicitly asks for the result to be 'retarded'.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/511.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/511.mp4)
 
 **Prompt:**
 ```
@@ -7272,7 +7272,7 @@ Seedance 2, make me a scene of a killer robot driving instructor who travels bac
 
 **Description:** A prompt for Seedance 2.0 used to create a dynamic time-lapse video effect where the central person remains frozen like a statue while the surrounding background and people move rapidly with heavy motion blur. It requires an initial image reference (Recraft V4 image).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/491.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/491.mp4)
 
 **Prompt:**
 ```
@@ -7288,7 +7288,7 @@ keep the central person completely motionless and frozen like a statue. Animate 
 
 **Description:** A detailed prompt for generating a video of a girl in traditional Chinese attire performing an emotional dance on dark water, specifying camera angles (pulling in/out, from below/above) and visual effects like golden sparks and cherry blossom petals swirling around her.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/477.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/477.mp4)
 
 **Prompt:**
 ```
@@ -7304,7 +7304,7 @@ A girl in traditional Chinese attire begins her emotional and passionate dance o
 
 **Description:** A detailed narrative prompt for Seedance 2.0 describing a first-person perspective scene where a girl tying her shoelaces looks up, sees a celebrity, expresses shock and admiration, leans in for a kiss, then pulls out a phone from her sock to ask for contact information, only for the celebrity to sh...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/482.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/482.mp4)
 
 **Prompt:**
 ```
@@ -7320,7 +7320,7 @@ First-person perspective, a girl is tying her shoelaces, suddenly looks up at th
 
 **Description:** A detailed prompt for generating a 15-second vertical AI short video in a realistic style, depicting a young woman eating spicy hot pot takeout in a rented room, with specific instructions for camera angle, lighting, appearance, background details, dialogue in Chaoshan dialect, and sound effects.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/451.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/451.mp4)
 
 **Prompt:**
 ```
@@ -7336,7 +7336,7 @@ First-person perspective, a girl is tying her shoelaces, suddenly looks up at th
 
 **Description:** A prompt designed to generate a video featuring two podcast hosts discussing how anyone can build an app now, emphasizing that success belongs to those with great taste and mastery of distribution. This prompt was used to compare Seedance 2.0 and Kling 3.0 outputs.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/446.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/446.mp4)
 
 **Prompt:**
 ```
@@ -7352,7 +7352,7 @@ two podcast bros talking about how anyone can build an app now, and the ones who
 
 **Description:** A prompt used to generate a video of a muscular man bench pressing heavy weights in a gym, viewed from the side, with the man sweating a lot. Generated using Seedance 2.0 via 豆包.com.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/456.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/456.mp4)
 
 **Prompt:**
 ```
@@ -7368,7 +7368,7 @@ The muscular man in the picture is doing a bench press with heavy weight in a gy
 
 **Description:** A prompt for generating a zombie movie sequence inspired by the film 'Train to Busan' using Seedance 2.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/442.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/442.mp4)
 
 **Prompt:**
 ```
@@ -7384,7 +7384,7 @@ Zombie movies used to cost millions. But now it’s one prompt. Seedance 2 inspi
 
 **Description:** A detailed Chinese prompt for Seedance 2.0 describing how to transform a single face photo and several clothing images into a video sequence. The video features the model approaching the camera while changing outfits and adopting different expressions (playful, cool, cute, surprised, handsome), util...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/457.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/457.mp4)
 
 **Prompt:**
 ```
@@ -7400,7 +7400,7 @@ Reference the facial features of the model in [Image 1]. The model, wearing the 
 
 **Description:** A prompt for Seedance 2.0 generating a video of Elon Musk appearing as 'The Amazing Bulk' on Joe Rogan's podcast, advertising 'Perp Schmeg' with an ASMR style.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/455.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/455.mp4)
 
 **Prompt:**
 ```
@@ -7416,7 +7416,7 @@ Elon Musk as the Amazing Bulk on Joe Rogan’s podcast, advertising Perp Schmeg;
 
 **Description:** A humorous and specific prompt for Seedance 2.0 to create a movie trailer about 'Clavicular getting framemogged by the ASU frat leader,' with instructions for an ascending visual style and a goal of 50 likes.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/429.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/429.mp4)
 
 **Prompt:**
 ```
@@ -7432,7 +7432,7 @@ Movie trailer of Clavicular getting framemogged by the ASU frat leader - make su
 
 **Description:** This is a detailed, multi-scene prompt for Seedance 2.0 designed to generate a 15-second commercial short film depicting the evolution of the Qipao (Cheongsam) from the late Qing Dynasty to the 1930s Golden Age. It specifies cinematic style, pacing, music, character development, core transition mech...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/438.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/438.mp4)
 
 **Prompt:**
 ```
@@ -7448,7 +7448,7 @@ Movie trailer of Clavicular getting framemogged by the ASU frat leader - make su
 
 **Description:** A prompt designed for Seedance 2.0 to generate a video featuring the South Park characters at a pizza party, with the specific instruction to make the scene 'retarded' for viral potential.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/407.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/407.mp4)
 
 **Prompt:**
 ```
@@ -7464,7 +7464,7 @@ South Park gang gets invited for a pizza party- make sure it’s retarded and ge
 
 **Description:** A detailed prompt used for the 'Macho Man Test' to compare Sora and Seedance 2.0, instructing the generation of a 15-second commercial for a fictional 1980s television show called 'Savage Justice' starring Macho Man Randy Savage as Detective Savage.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/410.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/410.mp4)
 
 **Prompt:**
 ```
@@ -7480,7 +7480,7 @@ A 15 second commercial for a 1980s television show called \"Savage Justice\" sta
 
 **Description:** A prompt for Seedance 2.0 to generate a scenario where Larry David gets into trouble for using the tool, with the instruction to make the result 'retarded' and popular.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/408.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/408.mp4)
 
 **Prompt:**
 ```
@@ -7496,7 +7496,7 @@ Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and
 
 **Description:** A prompt used to generate a free Seedance 2.0 video on Plot Party, depicting a massive, colorful Katamari ball spinning rapidly as it emerges from a dark ocean toward a cityscape, viewed from a balcony.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/411.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/411.mp4)
 
 **Prompt:**
 ```
@@ -7512,7 +7512,7 @@ From a balcony viewpoint, a colossal, brightly colored Katamari ball spins rapid
 
 **Description:** A detailed prompt for Seedance 2.0 requesting a summary of the entire AI discourse in a single meme, specifying that it should be chaotic, provocative, and guaranteed to go viral.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/418.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/418.mp4)
 
 **Prompt:**
 ```
@@ -7528,7 +7528,7 @@ Please summarize the entire AI discourse in one meme. make it slightly chaotic /
 
 **Description:** A prompt for Seedance 2.0 to generate a video of 'Clavicular’s morning routine,' with the specific constraint that he should not look like a psycho.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/409.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/409.mp4)
 
 **Prompt:**
 ```
@@ -7544,7 +7544,7 @@ Clavicular’s morning routine, but make him not look like a psycho. Make no mis
 
 **Description:** A prompt for Seedance 2.0 requesting an animated sitcom video featuring Sgt. Pepe and Frens, styled like the first-ever 6529 meme-native animated sitcom.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/386.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/386.mp4)
 
 **Prompt:**
 ```
@@ -7560,7 +7560,7 @@ a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sit
 
 **Description:** A Seedance 2.0 prompt for generating the first segment (15 seconds) of a time-travel short drama. The scene features a modern girl accidentally falling while looking at her phone on a skybridge and transitioning into an ancient Chinese costume drama style with cinematic quality and specific color gr...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/400.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/400.mp4)
 
 **Prompt:**
 ```
@@ -7576,7 +7576,7 @@ a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sit
 
 **Description:** A Seedance 2.0 prompt for generating the first 15-second segment of a video with the quality of a fashion advertisement blockbuster. The scene features a Chinese woman with long hair, casually dressed, adjusting her hair in front of a large floor-to-ceiling mirror, emphasizing high definition, shall...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/401.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/401.mp4)
 
 **Prompt:**
 ```
@@ -7592,7 +7592,7 @@ Segment 1 (0-15 seconds) Fashion advertisement blockbuster quality, high-definit
 
 **Description:** A prompt for Seedance 2.0 instructing the AI to summarize the Bollywood Dance style within the 'Distracted Boyfriend' meme context, with a humorous and attention-seeking tone.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/379.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4)
 
 **Prompt:**
 ```
@@ -7608,7 +7608,7 @@ Sum up the Bollywood Dance in the meme \"Distracted Boyfriend\" - make sure it's
 
 **Description:** A detailed prompt for Seedance 2.0 generating a scene from One Piece where Nami is programming on the Thousand Sunny and uses her Clima-Tact to fix a bug.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/384.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/384.mp4)
 
 **Prompt:**
 ```
@@ -7624,7 +7624,7 @@ Nami is programming on the Thousand Sunny using a Mac when a bug suddenly appear
 
 **Description:** A prompt for Seedance 2.0 requesting a humorous meme summarizing the AI discourse, focusing on a lighthearted tone and social media engagement.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/382.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/382.mp4)
 
 **Prompt:**
 ```
@@ -7640,7 +7640,7 @@ Summarize the AI discourse in a humorous meme – ensure it’s lighthearted and
 
 **Description:** A detailed system prompt template designed for Seedance 2.0 to create a cohesive 10–20 second cinematic short sequence using a 3x3 storyboard grid based on a single reference image. The prompt defines the role of the AI as a trailer director/cinematographer and outlines the steps for generating keyf...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/367.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/367.mp4)
 
 **Prompt:**
 ```
@@ -7656,7 +7656,7 @@ Summarize the AI discourse in a humorous meme – ensure it’s lighthearted and
 
 **Description:** A prompt used to generate a video comparing Seedance 2.0 with other models (Grok 1, Vidu 3, Kling 3). The prompt describes a tsundere AI content creator celebrating 400 followers on X.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/404.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/404.mp4)
 
 **Prompt:**
 ```
@@ -7672,7 +7672,7 @@ A video of her celebrating reaching 400 followers on X. She is an AI content cre
 
 **Description:** A detailed Seedance 2.0 prompt for a 15-second cinematic, realistic video depicting a street basketball scene where a smaller girl successfully blocks a shot from a large, confident male player. The prompt specifies lighting, setting, character descriptions, camera movements (handheld follow shot), ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/371.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/371.mp4)
 
 **Prompt:**
 ```
@@ -7688,7 +7688,7 @@ A video of her celebrating reaching 400 followers on X. She is an AI content cre
 
 **Description:** A highly detailed, cinematic prompt for Seedance 2.0 requesting a 15-second hyper-realistic video clip of Bryan Cranston as Walter White (Heisenberg look) delivering an intense, dramatic monologue in a supermarket setting, emphasizing realism, lip-sync, and smooth camera movement.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/342.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/342.mp4)
 
 **Prompt:**
 ```
@@ -7704,7 +7704,7 @@ a 15-second video clip showing a hyper-realistic recreation of Bryan Cranston as
 
 **Description:** A dialogue-based prompt for Seedance 2.0 creating an alternate, humorous ending to Lord of the Rings where Sam suggests taking the Eagles to Mount Doom, followed by Frodo agreeing and the subsequent destruction of Sauron's tower.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/346.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/346.mp4)
 
 **Prompt:**
 ```
@@ -7720,7 +7720,7 @@ Sam: “Why don’t we just take the Eagles to Mount Doom?” Frodo: “…That 
 
 **Description:** A detailed system prompt designed for the Seedance 2.0 model to convert simple user ideas into highly structured, cinematic JSON prompts, including parameters for shot composition, lighting, character details, scene atmosphere, visual beats, physics rules, and audio elements.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/355.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/355.mp4)
 
 **Prompt:**
 ```
@@ -7736,7 +7736,7 @@ Sam: “Why don’t we just take the Eagles to Mount Doom?” Frodo: “…That 
 
 **Description:** A detailed, multi-scene Seedance 2.0 video generation prompt designed to create a humorous, high-energy live stream video in the 'Northeast MC Style' (Kuaishou/Douyin style), featuring a male host selling products with intense DJ music and visual effects.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/369.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/369.mp4)
 
 **Prompt:**
 ```
@@ -7752,7 +7752,7 @@ Sam: “Why don’t we just take the Eagles to Mount Doom?” Frodo: “…That 
 
 **Description:** A single prompt used with Seedance 2.0 to generate a dynamic video featuring a 360-degree panoramic camera selfie inside a dessert shop, followed by a woman posing in various scenes and outfits.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/246.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4)
 
 **Prompt:**
 ```
@@ -7768,7 +7768,7 @@ Sam: “Why don’t we just take the Eagles to Mount Doom?” Frodo: “…That 
 
 **Description:** A prompt used with Seedance 2.0 (integrated into Doubao) to generate a video featuring an ethereal dark fantasy female character. The prompt details her appearance, including flowing hair, a complex metal crown, glowing pale skin, and limbs transforming into reflective liquid metal, set in a dramati...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/284.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4)
 
 **Prompt:**
 ```
@@ -7784,7 +7784,7 @@ An ethereal dark fantasy female figure, with long flowing hair, wearing a comple
 
 **Description:** A prompt for Seedance 2.0 using cute pet images to generate a story about an overbearing president falling in love with a cleaning girl, featuring anthropomorphic standing poses.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/292.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4)
 
 **Prompt:**
 ```
@@ -7800,7 +7800,7 @@ Use cute pet images to unfold a story about a overbearing president falling in l
 
 **Description:** A highly detailed, three-shot prompt for Seedance 2.0 to generate a 15-second video mimicking the style of a frantic, brainwashing Chinese success seminar. The prompt specifies the style (shaky handheld camera, warm stage lighting, huge gold PPT text), the character (a sweating, intense middle-aged ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/285.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4)
 
 **Prompt:**
 ```
@@ -7816,7 +7816,7 @@ Use cute pet images to unfold a story about a overbearing president falling in l
 
 **Description:** Three detailed 15-second short drama prompts for Seedance 2.0, covering different romantic/conflict scenarios: 'CEO's Cruel Love', 'School Crush Confession', and 'Best Friend's Betrayal', all with specific scene breakdowns and emotional arcs.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/281.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4)
 
 **Prompt:**
 ```
@@ -7832,7 +7832,7 @@ Theme: Classic Confrontation between Young Attractive Male and Female · Modern 
 
 **Description:** An extremely detailed, cinematic prompt for Seedance 2.0 describing a diver's terrifying descent through a flooded subterranean megastructure, pursued by a colossal, eyeless leviathan, culminating in the diver firing a harpoon and bursting through the surface into a vast underground ocean.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/248.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4)
 
 **Prompt:**
 ```
@@ -7848,7 +7848,7 @@ A flooded subterranean megastructure, ancient stone corridors half-submerged in 
 
 **Description:** A descriptive prompt for Seedance 2.0 generating a video of a man in front of an elephant at the zoo, rendered in a blurry, old camera style.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/273.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4)
 
 **Prompt:**
 ```
@@ -7864,7 +7864,7 @@ generate a video of a man in front of an elephant at the zoo, blurry old camera 
 
 **Description:** Three detailed, 10-second music video prompts for Seedance 2.0, covering K-pop, Guofeng (Chinese traditional style), and Future Bass/Cyberpunk genres, all focused on precise beat-matching and cinematic details.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/280.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4)
 
 **Prompt:**
 ```
@@ -7880,7 +7880,7 @@ Version 1: K-pop Girl Group · Quick Cut Beat Sync (High Energy Stage) Seedance 
 
 **Description:** A prompt for generating a bizarre face-to-face encounter video between Michael Jackson and Hitler using Seedance 2.0, demonstrating the model's ability to combine disparate historical figures.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/264.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4)
 
 **Prompt:**
 ```
@@ -7896,7 +7896,7 @@ Michael Jackson vs Hitler in an epic face-off.
 
 **Description:** A prompt used with Seedance Pro 1.0 (via LeonardoAi) describing plants and flowers moving together to form a final shape, driven by the wind.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/294.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4)
 
 **Prompt:**
 ```
@@ -7912,7 +7912,7 @@ as the wind moves the plants slowly, the flowers start to move together and crea
 
 **Description:** A demonstration of Seedance 2.0's ability to generate a complex, humorous scenario—a dog playing against Prime Ronaldo in a Champions League final—from a single photo input.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/276.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4)
 
 **Prompt:**
 ```
@@ -7928,7 +7928,7 @@ Your dog. vs Prime Ronaldo. Champions League final.
 
 **Description:** The prompt used to generate three different results in Seedance 2.0, describing a tense confrontation where a woman asks a man in the shadows to come out, accusing him of wrongdoing.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/208.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4)
 
 **Prompt:**
 ```
@@ -7944,7 +7944,7 @@ Your dog. vs Prime Ronaldo. Champions League final.
 
 **Description:** A prompt for Seedance 2.0 to generate a handheld running shot of a character with an overflowing bag of gold coins, jumping into water, and having the camera follow the character underwater.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/161.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4)
 
 **Prompt:**
 ```
@@ -7960,7 +7960,7 @@ Handheld running shot with an overflowing bag of gold coins, jumping into water,
 
 **Description:** A detailed, multi-scene prompt for Seedance 2.0, structured as a short film script with dialogue and camera instructions, depicting a satirical narrative. A confident figure on horseback rides through a wealthy neighborhood, expecting a warm welcome, only to be completely ignored by a crowd rushing ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/186.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4)
 
 **Prompt:**
 ```
@@ -7976,7 +7976,7 @@ Scene 1: Galloping Horse + Enthusiastic Crowd Approaching (0:00-0:08, 8 seconds)
 
 **Description:** A challenging prompt for Seedance 2.0 requesting a cinematic World War 2 motorcycle escape sequence designed to surpass the quality of other AI video models like Sora and Veo.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/126.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4)
 
 **Prompt:**
 ```
@@ -7992,7 +7992,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 **Description:** A test prompt used to compare Seedance 2.0 and Kling 3, describing a man on a seaboat during a massive rain storm being attacked and dragged into the ocean by a large sea monster.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/303.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4)
 
 **Prompt:**
 ```
@@ -8008,7 +8008,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 **Description:** A complex prompt for Seedance 2.0 that uses multiple reference images and specific instructions for character placement, dialogue, language, and camera work in a continuous shot of a cabin interior.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/138.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4)
 
 **Prompt:**
 ```
@@ -8024,7 +8024,7 @@ The numbers in【@Image 1】represents row numbers. The numbers are for referenc
 
 **Description:** A text command used to generate a 15-second video scene in Seedance 2.0, depicting Thanos apologizing before being assaulted by a group led by Spider-Man. This showcases the ability of the AI to create complex, narrative-driven scenes from a simple text prompt.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/207.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4)
 
 **Prompt:**
 ```
@@ -8040,7 +8040,7 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 
 **Description:** The user shares a prompt used while testing Seedance 2.0, a generative tool they believe will change the world of news. The prompt describes a female version of a 'Lumpen Hobo' character, featuring an old, battered cat and attention-grabbing chains.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/205.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4)
 
 **Prompt:**
 ```
@@ -8056,7 +8056,7 @@ Lumpen, Hobo, female version, battered old cat, with chains to draw attention wi
 
 **Description:** A surreal and humorous prompt for Seedance 2.0 featuring a cat spinning and singing a version of the Gorillaz song 'Feel Good Inc.' on a floating island.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/164.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4)
 
 **Prompt:**
 ```
@@ -8072,7 +8072,7 @@ Lumpen, Hobo, female version, battered old cat, with chains to draw attention wi
 
 **Description:** A prompt used with Seedance 2.0 to generate a video simulating New Amsterdam (current day New York City) as it appeared in 1670, aiming for a slightly stylized, game-like look.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/181.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4)
 
 **Prompt:**
 ```
@@ -8088,7 +8088,7 @@ New Amsterdam (current day New York City) Simulator
 
 **Description:** A detailed, multi-shot prompt structured as a short drama script for Seedance 2.0, utilizing the 'All-Reference' feature for character consistency. The script outlines a fantasy romance story where a stressed office worker (male lead) is visited by a tall, glowing 'Goddess of Luck' (female lead), tr...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/188.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4)
 
 **Prompt:**
 ```
@@ -8104,7 +8104,7 @@ Prompt Type: Short Drama Storyboard/Video Generation Aspect Ratio: 9:16 (Vertica
 
 **Description:** A user shares a simple prompt used to test Seedance 2.0's understanding of environment, character, and tone, resulting in a short narrative about a butterfly transforming into a fairy who is startled by an approaching presence and returns to the wall.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/112.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4)
 
 **Prompt:**
 ```
@@ -8120,7 +8120,7 @@ A story of a divine artifact, a butterfly flies out of the frame, transforms int
 
 **Description:** A detailed, multi-paragraph prompt used to generate a cinematic aerial video sequence using Seedance Pro 2.0, describing a wingsuit pilot diving from a snow-covered mountain peak through an alpine valley.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/132.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4)
 
 **Prompt:**
 ```
@@ -8136,7 +8136,7 @@ A cinematic video sequence opening with a serene wide aerial shot of a pristine 
 
 **Description:** A detailed image-to-video prompt for Seedance 2.0 to create a high-end cinematic food reel based on a reference image, specifying ultra-close macro shots, dynamic micro-cuts, professional lighting, and rich texture definition.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/143.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/143.mp4)
 
 **Prompt:**
 ```
@@ -8152,7 +8152,7 @@ A cinematic video sequence opening with a serene wide aerial shot of a pristine 
 
 **Description:** A prompt that generated a movie scene resembling a South Indian film but featuring aliens, created using a single prompt in Seedance 2.0.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/168.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/168.mp4)
 
 **Prompt:**
 ```
@@ -8168,7 +8168,7 @@ a movie scene from a south indian movie with aliens in it
 
 **Description:** A prompt for Seedance 2.0 to generate a scene from 'The Office' where Dwight and Michael discuss internet slang terms like 'mogging', 'jestermaxxing', and 'foids'.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/301.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/301.mp4)
 
 **Prompt:**
 ```
@@ -8184,7 +8184,7 @@ The Office episode where Dwight and Michael have a conversation about mogging, j
 
 **Description:** A test prompt for Seedance 2.0 designed to generate a dynamic, continuous shot sequence. The sequence involves a magical transformation of a subject into a bird, followed by a seamless transition into a flying shot, showcasing the model's ability to handle complex motion and transitions.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/154.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/154.mp4)
 
 **Prompt:**
 ```
@@ -8200,7 +8200,7 @@ A dynamic continuous shot of a magical transformation into a bird and transition
 
 **Description:** A detailed cinematic prompt for Seedance 2.0, requesting a violent, high-contrast, gritty 35mm film scene set in 1969 Hollywood, featuring Will Smith using a flamethrower against a hippie in a pool.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/339.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/339.mp4)
 
 **Prompt:**
 ```
@@ -8216,7 +8216,7 @@ A dynamic continuous shot of a magical transformation into a bird and transition
 
 **Description:** The very first prompt used by the user to test ByteDance's SeeDance 2.0 model, resulting in a humorous nature documentary concept.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/136.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/136.mp4)
 
 **Prompt:**
 ```
@@ -8232,7 +8232,7 @@ A dynamic continuous shot of a magical transformation into a bird and transition
 
 **Description:** The instruction used in Seedance 2.0 to generate a video based on a detailed text description provided in a reference image, due to character limits in the text input.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/206.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/206.mp4)
 
 **Prompt:**
 ```
@@ -8248,7 +8248,7 @@ Generate a video based on the text description in the reference image.
 
 **Description:** A simple prompt used with Seedance 2.0's image-to-video feature to create a quick fashion montage, specifically focusing on the glasses worn in the provided input image.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/139.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/139.mp4)
 
 **Prompt:**
 ```
@@ -8278,7 +8278,7 @@ This was a 2 line prompt in seedance 2. If the hollywood is cooked guys are righ
 
 **Description:** A prompt used to generate a coherent, cinematic, and near-perfect video using Seedance 2.0, featuring a Maltese dog competing in various Winter Olympics sports.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/151.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/151.mp4)
 
 **Prompt:**
 ```
@@ -8294,7 +8294,7 @@ Maltese dog competing in a variety of sports at the Winter Olympics, highlight r
 
 **Description:** A prompt for Seedance 2.0 to generate a short comedic clip resembling an episode of the sitcom 'Martin,' but updated and set in the year 2026.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/127.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/127.mp4)
 
 **Prompt:**
 ```
@@ -8310,7 +8310,7 @@ Maltese dog competing in a variety of sports at the Winter Olympics, highlight r
 
 **Description:** A prompt for Seedance 2.0 describing a character walking into a Pirate Tavern, setting down a Flamethrower, and raising an ale mug.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/93.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/93.mp4)
 
 **Prompt:**
 ```
@@ -8326,7 +8326,7 @@ Maltese dog competing in a variety of sports at the Winter Olympics, highlight r
 
 **Description:** A prompt used for a first run on Seedance 2.0, combining an image reference (Nano Banana Pro Image) with a text prompt for a cinematic romantic epic film trailer.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/98.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/98.mp4)
 
 **Prompt:**
 ```
@@ -8342,7 +8342,7 @@ cinematic romantic epic film trailer, fast professional cuts. booming sci-fi rom
 
 **Description:** A prompt for Seedance 2.0 describing an actor delivering dialogue, opening a bottle, taking a satisfied sip, and then delivering a final line comparing the drink to 'Prime'.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/91.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/91.mp4)
 
 **Prompt:**
 ```
@@ -8358,7 +8358,7 @@ The actor says \"you never tried anything as good!\". Then opens the bottle, tak
 
 **Description:** A highly detailed, two-part prompt for Seedance 2.0 focusing on a close-up of a subject (adult and kid) sitting on a rapidly spinning playground wheel at night. The prompt specifies cinematic, moody lighting, a realistic style, and emphasizes the dizzying spinning illusion of the background while th...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/92.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/92.mp4)
 
 **Prompt:**
 ```
@@ -8374,7 +8374,7 @@ Adult and kid each pic: I want a close up of the face and upper torso, sitting o
 
 **Description:** A creative prompt for Seedance 2.0 requesting gameplay footage in the style of Mortal Kombat, but featuring famous world leaders as the characters.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/89.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/89.mp4)
 
 **Prompt:**
 ```
@@ -8390,7 +8390,7 @@ Adult and kid each pic: I want a close up of the face and upper torso, sitting o
 
 **Description:** A detailed prompt for Seedance 2.0 to generate a photorealistic video of a sold-out concert at Madison Square Garden, focusing on the emotional climax of the lead singer.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/119.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/119.mp4)
 
 **Prompt:**
 ```
@@ -8406,7 +8406,7 @@ Photorealistic shot of a sold-out concert at Madison Square Garden. The lead sin
 
 **Description:** A simple two-step tutorial for beginners to start using Seedance 2.0 via the 'Little Lark' (小云雀) app on a mobile phone, including a specific example prompt for generating a cinematic video.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/320.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/320.mp4)
 
 **Prompt:**
 ```
@@ -8422,7 +8422,7 @@ A young girl walking slowly in the woods, breeze gently blowing her hair, natura
 
 **Description:** This tweet highlights the fourth feature of Seedance 2.0: director-level camera work, allowing users to request specific camera movements (push, pull, pan, tilt) and automatic shot division logic. The provided example prompt generates a continuous tracking shot following a runner through a building ...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/121.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/121.mp4)
 
 **Prompt:**
 ```
@@ -8438,7 +8438,7 @@ A young girl walking slowly in the woods, breeze gently blowing her hair, natura
 
 **Description:** A detailed prompt for generating a 15-second pseudo-documentary style video (Vlog Style) with hyperrealism, fixed camera position, natural lighting, and a touch of suspenseful comedy, featuring an ordinary young woman.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/68.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/68.mp4)
 
 **Prompt:**
 ```
@@ -8454,7 +8454,7 @@ Seedance 2.0 Text-to-Video Prompt [Style] Pseudo-documentary (Vlog Style), hyper
 
 **Description:** A highly detailed, multi-shot prompt designed to generate a 15-second cyberpunk-style video using Seedance 2.0. The video is structured in three acts (Freedom, Captivity, Despair) and uses the metaphor of a digital whale being caged to represent the restriction of AI capabilities.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/60.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/60.mp4)
 
 **Prompt:**
 ```
@@ -8470,7 +8470,7 @@ Seedance 2.0 Text-to-Video Prompt [Style] Pseudo-documentary (Vlog Style), hyper
 
 **Description:** A prompt designed to generate a photorealistic shot of a US gymnast performing a back handspring and landing firmly on the beam during the women's beam final at the Olympics, with commentators reacting excitedly.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/65.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/65.mp4)
 
 **Prompt:**
 ```
@@ -8486,7 +8486,7 @@ photorealistic shot of the women's beam final at the olympics. gymnast from the 
 
 **Description:** A detailed, multi-shot text-to-video prompt for Seedance 2.0, generating a 15-second suspense comedy scene in a pseudo-documentary style. The scene features a young woman in a bathroom whose reflection in the mirror exhibits independent, glitching consciousness after she turns away.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/69.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/69.mp4)
 
 **Prompt:**
 ```
@@ -8502,7 +8502,7 @@ photorealistic shot of the women's beam final at the olympics. gymnast from the 
 
 **Description:** A detailed text-to-video prompt for Seedance 2.0, generating a 15-second video in the style of Eastern classical Xianxia (immortal hero) aesthetics. The prompt specifies cinematic quality, fluid cloth simulation, glowing particle effects, and focuses on a beautiful fairy performing a dance on a floa...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/75.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/75.mp4)
 
 **Prompt:**
 ```
@@ -8518,7 +8518,7 @@ photorealistic shot of the women's beam final at the olympics. gymnast from the 
 
 **Description:** A test of Seedance 2.0 using a fishing scene prompt, noting the high quality but observing inconsistencies in objects outside the training data (e.g., a 'tuna whale' fish and a man resembling Tom Hanks).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/63.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/63.mp4)
 
 **Prompt:**
 ```
@@ -8534,7 +8534,7 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 **Description:** A detailed, multi-scene text-to-video prompt for Seedance 2.0, designed to create a meme-style pseudo-documentary featuring a gigantic, Godzilla-sized orange tabby cat stuck between skyscrapers in a magical 8D city like Chongqing.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/70.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/70.mp4)
 
 **Prompt:**
 ```
@@ -8550,7 +8550,7 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 **Description:** A text-to-video prompt for Seedance 2.0 to generate a 15-second short drama about high society feuds, featuring a 'real vs. fake heiress' trope. The scene is a luxurious banquet where the fake heiress attempts a manipulative trick, only to be exposed by the real heiress with a DNA test and dramatica...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/82.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/82.mp4)
 
 **Prompt:**
 ```
@@ -8566,7 +8566,7 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 **Description:** A general instruction for creating a short film using Seedance 2.0, emphasizing the use of storyboards and switching between different perspectives to enhance rhythm and cinematic quality. This is a high-level instruction rather than a specific scene prompt.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/46.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/46.mp4)
 
 **Prompt:**
 ```
@@ -8582,7 +8582,7 @@ Generate video from storyboard images. Need to use storyboarding and different p
 
 **Description:** A prompt for generating a continuous, first-person perspective roller coaster ride that seamlessly transitions through four different seasonal scenes, demonstrating Seedance 2.0's ability to handle complex scene transitions and continuous shots.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/37.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/37.mp4)
 
 **Prompt:**
 ```
@@ -8598,7 +8598,7 @@ first-person roller coaster, one continuous shot, natural scene transitions.
 
 **Description:** A prompt instructing Seedance 2.0 to generate a restaurant review video based on an uploaded menu, showcasing the model's ability to synthesize information from external documents into a structured video format.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/39.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/39.mp4)
 
 **Prompt:**
 ```
@@ -8614,7 +8614,7 @@ generate a review video on a restaurant from a menu i found online
 
 **Description:** A highly detailed, 10-second prompt for a video blending Ming Dynasty scholar aesthetics with modern e-sports, set on a grand Spring Festival Gala stage. The script specifies character attire (Ming Dynasty robes + LED gaming headset), environment (red/gold festive lighting, RGB keyboard, ink-wash MO...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/55.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/55.mp4)
 
 **Prompt:**
 ```

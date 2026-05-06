@@ -222,7 +222,7 @@ Shot 1 (0.0–0.5) Macro shot of a droplet of neon-blue liquid falling onto a gl
 
 **Description:** A prompt for generating a blockbuster sci-fi duel video between an armored male striker and a female plasma-blade duelist inside a near-future reactor core chamber, specifying realistic body proportions.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1787.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1787.mp4)
 
 **Prompt:**
 ```
@@ -238,7 +238,7 @@ Blockbuster superhero sci-fi duel inside a near-future reactor core chamber; one
 
 **Description:** A prompt for a cinematic continuous shot of a crowded medieval market street at dusk, detailing the setting, lighting, and camera movement.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/1139.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1139.mp4)
 
 **Prompt:**
 ```
@@ -254,7 +254,7 @@ FORMAT: cinematic continuous shot / motivated camera movement / 15s SCENE A crow
 
 **Description:** A detailed set of requirements for maintaining visual consistency across a video segment, including unified visual style, consistent color tone/texture, stable character features (face, hair, clothing, injuries), consistent environment (lighting, background, spatial relationships), and avoiding rese...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/910.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/910.mp4)
 
 **Prompt:**
 ```
@@ -270,7 +270,7 @@ The entire film must maintain a unified visual style, with no style drift, and c
 
 **Description:** A detailed prompt for generating a 10-second, photorealistic 8K cinematic AI video in the 'Workshop Motor Legends' industrial sci-fi style. The subject is a futuristic silver-gray concept motorcycle with exposed precision multi-cylinder engine, chrome exhaust pipes, black tires with gold rims, and a...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/909.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/909.mp4)
 
 **Prompt:**
 ```
@@ -286,7 +286,7 @@ A 10-second, photorealistic 8K cinematic AI-generated video in the Workshop Moto
 
 **Description:** A detailed prompt for generating an epic fantasy aerial video sequence, focusing on the visual awakening of a desolate land, using specific color palettes, extreme contrast lighting, and dynamic camera movements to convey a sense of grandeur and power.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/828.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/828.mp4)
 
 **Prompt:**
 ```
@@ -302,7 +302,7 @@ A 10-second, photorealistic 8K cinematic AI-generated video in the Workshop Moto
 
 **Description:** This is a detailed prompt designed for generating a continuous shot video in an ultra-cinematic, photorealistic sci-fi style. It specifies a dense, futuristic megacity setting with noir cyberpunk elements, emphasizing high contrast, metallic reflections, neon accents, and volumetric rain haze. The c...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/823.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/823.mp4)
 
 **Prompt:**
 ```
@@ -318,7 +318,7 @@ Style: ultra-cinematic photoreal sci-fi, dense futuristic megacity, noir cyberpu
 
 **Description:** A highly detailed, cinematic video generation prompt designed to showcase the effortless, silent birth of a complete Tesla ecosystem, blending magical engineering with minimalist design. It features a mysterious, glowing crate unfolding to reveal a Cybertruck and assemble a sleek showroom around it,...
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/838.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/838.mp4)
 
 **Prompt:**
 ```
@@ -334,7 +334,7 @@ Style: ultra-cinematic photoreal sci-fi, dense futuristic megacity, noir cyberpu
 
 **Description:** A highly detailed, multi-segment prompt for generating a fast-paced, high-tech promotional video for Shenzhen tourism, blending cyberpunk aesthetics with tropical coastline scenery using FPV drone shots, hyperlapse, and high-density fragmented editing to showcase the 'Shenzhen Speed'.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/766.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/766.mp4)
 
 **Prompt:**
 ```
@@ -350,7 +350,7 @@ The collision of extreme cyberpunk and tropical seaside, 8K ultra-clear, FPV dro
 
 **Description:** A humorous prompt for a 5-second video where an alien screams 'hasta la vista' while a T-Rex is running, followed by the T-Rex stopping and roaring.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/634.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/634.mp4)
 
 **Prompt:**
 ```
@@ -380,7 +380,7 @@ A video of a hand-drawn sketch transforming into a 3D interior in a hand-drawn s
 
 **Description:** A detailed prompt for generating a hyperrealistic, cinematic video scene depicting a massive mothership traveling through a wormhole. The scene focuses on a dramatic confrontation between an AI captain and a human astronaut on the bridge, with the wormhole tearing the ship apart in the background.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/595.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/595.mp4)
 
 **Prompt:**
 ```
@@ -396,7 +396,7 @@ In the distant outer space, a huge mothership traverses a wormhole. On the bridg
 
 **Description:** A structured prompt for generating an epic fantasy scene, specifying an intense color palette shift between icy blue and blazing red, and an atmosphere conveying oppression, fatalism, and cinematic reversal. It also begins to define a character as a small silhouette viewed from behind.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/566.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/566.mp4)
 
 **Prompt:**
 ```
@@ -412,7 +412,7 @@ In the distant outer space, a huge mothership traverses a wormhole. On the bridg
 
 **Description:** A 'magic prompt' designed to generate a sequence of nine coherent scenes based on previously provided image and video references, ensuring consistency in color grading, style, graphics, and characters.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/573.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/573.mp4)
 
 **Prompt:**
 ```
@@ -428,7 +428,7 @@ What’s next? Show me nine scenes from the film. Keep the same color grading, v
 
 **Description:** A prompt requesting a sci-fi robot transformation video, with an added humorous instruction to make it better than Marvel and achieve a specific number of likes.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/486.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/486.mp4)
 
 **Prompt:**
 ```
@@ -444,7 +444,7 @@ make a sci-fi robot transformation video make sure it’s better than Marvel and
 
 **Description:** A detailed prompt for generating a dark fantasy cinematic sequence involving a figure in red, a snowy rooftop, a crimson blade, and descending drones, using a single reference image.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/440.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/440.mp4)
 
 **Prompt:**
 ```
@@ -460,7 +460,7 @@ A figure in red stands on a snowy rooftop. Crimson blade humming. Three drones d
 
 **Description:** The first part of a highly detailed, ready-to-use prompt, generated with help from Grok, describing a futuristic Moon base featuring large glass domes and advanced 'meson lights' (interpreted as glowing, ethereal, sci-fi particle-based illumination).
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/394.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/394.mp4)
 
 **Prompt:**
 ```
@@ -476,7 +476,7 @@ Here is a long, highly detailed, ready-to-use prompt for generating a futuristic
 
 **Description:** A prompt for generating a cinematic video featuring a medieval knight in full armor looking confusedly at a modern smartphone, illuminated by the screen glow, set within a candlelit castle interior.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/397.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/397.mp4)
 
 **Prompt:**
 ```
@@ -492,7 +492,7 @@ Generate a video: A medieval knight in full armor looking at a modern smartphone
 
 **Description:** A creative prompt for generating a video featuring a steampunk robot working as a Michelin three-star chef in a futuristic kitchen. The robot uses mechanical arms to precisely stir-fry Kung Pao Chicken, with ingredients automatically flying into the wok, while alien nobles applaud the meal.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/370.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/370.mp4)
 
 **Prompt:**
 ```
@@ -508,7 +508,7 @@ A steampunk robot becomes a Michelin three-star chef, using mechanical arms to p
 
 **Description:** A prompt instructing the model to generate content related to Madoka Magica, using informal language, implying a chaotic or intense scene from the series.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/256.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4)
 
 **Prompt:**
 ```
@@ -524,7 +524,7 @@ Just put some Madoka Magica bullshit on screen, the trilogy already perfect anyw
 
 **Description:** A detailed, multi-shot prompt describing a scene where a woman kneels on a bridge, her eye glows with magical energy, followed by a rapid zoom-out as she launches into the air.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/179.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/179.mp4)
 
 **Prompt:**
 ```
@@ -540,7 +540,7 @@ The woman kneels down slowly onto the wooden bridge. Camera zooms in tightly to 
 
 **Description:** A detailed prompt for generating a 15-second cyberpunk cinematic video featuring a memory hunter hacker in a black trench coat within a neon-lit digital space, emphasizing a Ghost in the Shell aesthetic with purple and blue neon glow, shattered holographic memory fragments, and dialogue.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/67.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/67.mp4)
 
 **Prompt:**
 ```
@@ -556,7 +556,7 @@ A 15-second cyberpunk cinematic featuring a memory hunter hacker in a black tren
 
 **Description:** A detailed prompt for generating a 10-second video in the style of director King Hu, focusing on Wuxia film aesthetics, 70s film grain, Peking Opera movements, Zen philosophy, and the use of negative space. The prompt specifies the video duration and the first shot as an extreme wide shot.
 
-> 🎥 [Watch Video](https://github.com/itgoyo/awesome-seedance-prompt/releases/download/videos/57.mp4)
+> 🎥 [▶️ Watch Demo Video](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/57.mp4)
 
 **Prompt:**
 ```
