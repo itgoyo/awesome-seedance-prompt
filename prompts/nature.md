@@ -1,267 +1,15 @@
-# 🌿 Nature & Landscape Prompts
+# 🌿 Nature Prompts
 
-Nature, landscape and environment prompts.
+Nature, landscape and wildlife prompts.
 
-**Total: 60 prompts** | **36 with preview GIF**
+**Total: 45 prompts** | **20 with GIF preview**
 
 [← Back to README](../README.md)
 
 ---
 
-### Sky Kingdom Wuxia Fantasy
-
-**Prompt:**
-```
-A beautiful young woman character exactly matching @img1[character consistency] wearing elegant flowing pastel pink wuxia hanfu robes with long wide sleeves, delicate silver embroidery, soft ribbons and fabric that billow gracefully in the wind, performing ethereal qinggong lightness skill. She is lightly floating and elegantly leaping between ornate pavilio
-```
-
-> 🔗 [Original Source](https://x.com/yuday9909)
-
----
-
-### Rainbow Hair Concert Video
-
-**Prompt:**
-```
-A young woman with long rainbow-colored hair (blue, green, pink gradient) stands in the middle of a massive outdoor music festival crowd. She drinks from a can as colored laser beams sweep through haze and stage lights pulse behind her. Confetti rains down around the dancing crowd. Energetic nighttime atmosphere, wide-angle concert photography style, vibrant
-```
-
-> 🔗 [Original Source](https://x.com/Itswsm105f)
-
----
-
-### Ocean Trench to Surface Transition
-
-**Prompt:**
-```
-A single continuous impossible camera shot begins deep underwater in a vast ocean trench — bioluminescent creatures drift past in the darkness. The camera accelerates upward at speed, bursting through the ocean surface in a wall of spray and light, then continues rising
-```
-
-> 🔗 [Original Source](https://x.com/HBCoop_)
-
----
-
-### Underwater Coral Mech Chase
-
-**Prompt:**
-```
-A young pearl diver kid with glowing coral armor, fluid hair drifting in water, and a shell-powered jet pack rockets into frame in the first two seconds, spiraling through a reef tunnel as a massive coral mech leviathan crashes through the ocean floor behind him, instantly creating the hook. The chase unfolds through a breathtaking underwater kingdom— swimmi
-```
-
-> 🔗 [Original Source](https://x.com/Ankit_patel211)
-
----
-
-### Midnight Fog Steam Train in Highlands
-
-**Prompt:**
-```
-A vintage steam train from the 1920s moves through a dense Scottish Highland fog at midnight, its headlamp cutting a yellow cone through the grey. The camera begins in a wide exterior shot tracking alongside the train as it
-```
-
-> 🔗 [Original Source](https://x.com/SaniBulaAI)
-
----
-
-### Rainy Night Romantic Tension Scene
-
-**Prompt:**
-```
-Style: Cinematic, romantic tension, realistic handheld Setting: Night, Italian city (Rome/Milan), heavy rain, warm streetlights reflecting on wet pavement Mood: Intimate + emotionally charged 0–2s Handheld close-up, slightly unstable camera.Heavy rain pouring onto the pavement.A man and a woman stand under one umbrella, very close. Water drips from the edges
-```
-
-> 🔗 [Original Source](https://x.com/craftian_keskin)
-
----
-
-### Boxing Training Montage
-
-**Prompt:**
-```
-Create a boxing training montage young boxer working with an old coach, hitting pads, jumping rope, heavy bag. Gritty gym lighting, sweat flying in slow motion. Give me that Rocky energy.
-```
-
-> 🔗 [Original Source](https://x.com/harboriis)
-
----
-
-### Abandoned Train Station Rebuilding Prompt
-
-**Prompt:**
-```
-Static wide shot of a crumbling abandoned train station at dusk. Dust hangs in the air, broken windows, overgrown vines. A single flickering light appears on the rusted tracks. Suddenly the station begins rebuilding itself
-```
-
-> 🔗 [Original Source](https://x.com/rezkhere)
-
----
-
-### Rural Scene: Woman Walking in Rain
-
-**Prompt:**
-```
-A blonde woman in a plaid shirt and green rubber boots walks down a muddy rural village road in the pouring rain, carrying two metal buckets towards a barn filled with cows.
-```
-
-> 🔗 [Original Source](https://x.com/aisocity)
-
----
-
-### Melancholic Mountain Woman Video Prompt
-
-**Prompt:**
-```
-A cinematic 15-second video of a beautiful young East Asian woman with long flowing silver hair, standing alone on a fog-covered mountain peak at dawn. She wears a dark minimalist coat, looking into the distance with a calm, melancholic expression. [00:00-03:00s] —
-```
-
-> 🔗 [Original Source](https://x.com/AyccAI)
-
----
-
-### Catastrophic Ocean Event Prompt
-
-**Prompt:**
-```
-Hyperrealistic catastrophic ocean event, extreme scale, violent water physics, ground-level survival perspective, continuous sprint motion, debris, wind force, pressure impact, high-speed destruction, no pauses, hard cuts only, no fade, no dissolve, no morph transition Shot 1: Camera running at full speed along a beach, people already screaming, wind buildin
-```
-
-> 🔗 [Original Source](https://x.com/AllaAisling)
-
----
-
-### Nature Reclaiming Megacity Prompt
-
-**Prompt:**
-```
-A woman in her mid-30s with dark braided hair entwined with living vines, wearing layered organic armor of bark and woven leaves, skin traced with glowing emerald root veins — opening frame is a medium close-up of her standing barefoot in the center of an abandoned concrete megacity plaza, completely still as small plants begin sprouting through cracks in th
-```
-
-> 🔗 [Original Source](https://x.com/LudovicCreator)
-
----
-
-### Lone Traveler on a Glass Ocean under Twilight
-
-**Prompt:**
-```
-A lone traveler walks across a vast, glass-like ocean under a violet twilight sky. Beneath the transparent water, millions of stars twinkle and pulse as if the entire universe is submerged. Each step ripples through the cosmic depths, distorting galaxies and nebulae like liquid reflections of infinity.
-```
-
-> 🔗 [Original Source](https://x.com/umesh_ai)
-
----
-
-### Cyberpunk City Rainy Night Video Prompt
-
-**Prompt:**
-```
-Vertical screen 9:16, cyberpunk future city rainy night, high-density skyscrapers, cyan-blue neon main tone, small amount of magenta highlights, wet streets with obvious mirror reflection, car light reflections and water reflections on the ground, thin fog and volumetric light in the air, rich details of futuristic architecture, overall atmosphere is cold, l
-```
-
-> 🔗 [Original Source](https://x.com/AyccAI)
-
----
-
-### Snowboarder Avalanche Escape Prompt
-
-**Prompt:**
-```
-A snowboarder in a neon blue suit races down a steep alpine ridge as a massive avalanche begins collapsing behind him. At the 2-second mark he hits a natural snow ramp and launches across a deep crevasse. Camera follows close behind as the avalanche wave explodes through the mountain slope. He lands on a narrow ice ridge and continues descending through flyi
-```
-
-> 🔗 [Original Source](https://x.com/LudovicCreator)
-
----
-
-### Ray Traced Rain Scene with Character and Dragon Emergence
-
-**Prompt:**
-```
-Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX cinematic, 35mm lens, 4:3 ratio, grey-blue low saturation, film grain, soft god-rays, cold expression, smooth motion, glowing sword trail. 1–3s: Camera tilts up from feet to full body; rain splashes burst under s
-```
-
-> 🔗 [Original Source](https://x.com/Gwsubsa)
-
----
-
-### Tokyo Skyline Rollercoaster POV
-
-**Prompt:**
-```
-{ \"location\": \"Tokyo Cityscape (Night)\", \"duration\": \"10s\", \"prompt\": \"A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A glowing neon rail 'creates itself' milliseconds before the camera hits it, weaving through the steel structures of Tokyo Tower and nearby buildings. As the camera passes, each building it touches instantly tr
-```
-
-> 🔗 [Original Source](https://x.com/TechTalkNAVI)
-
----
-
-### Rainy Underground Alley Horror Prompt
-
-**Prompt:**
-```
-Rainy Underground Alley Merge 15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from grates. [0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,
-```
-
-> 🔗 [Original Source](https://x.com/Dheepanratnam)
-
----
-
-### Volcanic Sky Realm Duel Prompt
-
-**Prompt:**
-```
-A surreal volcanic sky realm where islands of black rock float above rivers of molten lava flowing through the air like suspended waterfalls. The sky burns with deep crimson clouds illuminated by lightning storms. **Action:** 15.0s sequence. A blazing phoenix composed of flowing flame and glowing embers spirals upward through the volcanic sky. Opposing it is
-```
-
-> 🔗 [Original Source](https://x.com/LudovicCreator)
-
----
-
-### Impossible Camera Moves in Amazon Rainforest
-
-**Prompt:**
-```
-Continuous single take, camera tilting, rolling, spinning, flying through a dense Amazonian rainforest ecosystem. Starts flying through the misty canopy dodging hanging vines and a sleeping sloth, camera dives downward into the hollow trunk of a massive ancient tree, gliding past bioluminescent fungi and a colony of bats. Sweeps out onto the humid forest flo
-```
-
-> 🔗 [Original Source](https://x.com/ChangningL29508)
-
----
-
-### AI Wedding Video Prompt: Minimalist Forest Style with Light Effects
-
-**Prompt:**
-```
-Theme 2: Minimalist Forest Style - The Wizard of Oz in the Green Wilderness, Love Bathed in Light. Visual Core: Utilize the Tyndall effect (God rays) and the texture of dappled light and shadow to create an ethereal, fresh, and vibrant fairy-like feeling. Live-action realistic style, fresh and spiritual, 4K high definition. 0-4 seconds: Drone perspective fly
-```
-
-> 🔗 [Original Source](https://x.com/Cosmoslucy13)
-
----
-
-### Wuxia Comedy: Cat Hero, Duck Scholar, and Husky Doctor
-
-**Prompt:**
-```
-Film Scene Setting (Global Style) Environment: A traditional Chinese courtyard late at night, with blue tiles and white walls, red lanterns swaying slightly in the wind. Moonlight and tree shadows intersect on the ground. The overall lighting has a strong retro Wuxia film texture. Character Design: Orange Cat (Hero): Wearing traditional Wuxia attire, cape sl
-```
-
-> 🔗 [Original Source](https://x.com/drjoetw)
-
----
-
-### Photorealistic Cyberpunk Motorcycle-Robot Chase in Heavy Rain
-
-**Prompt:**
-```
-Photorealistic cinematic 3D CGI scene, heavy rain and snow pouring down with white streaks, water splashing on wet dark road, same beautiful young woman with long dark hair flowing wildly, black face mask, red leather jacket and pants, riding the front bike section of the fully transformed massive black motorcycle-robot hybrid, the giant black humanoid comba
-```
-
-> 🔗 [Original Source](https://x.com/Riya333S)
-
----
-
 ### Dubai Skybridge Motorbike Stunt Video Prompt
+
 
 **Prompt:**
 ```
@@ -270,63 +18,58 @@ A man in his early 30s, olive skin, short cropped hair, wearing a matte graphite
 
 ![Dubai Skybridge Motorbike Stunt Video Prompt](../gifs/1955.gif)
 
-> 🔗 [Original Source](https://x.com/LudovicCreator)
-
 ---
 
-### Seamless Four-Season Skate/Snowboard Journey Video Prompt
+### Determined Penguin Rocket Sled Video Prompt
+
 
 **Prompt:**
 ```
-The rhythm of the background music must perfectly match the speed of the skateboarding/snowboarding actions. The volume of the background music should be lower than the real-world sound effects, not masking the sounds of the skateboard and snowboard. First-person perspective, looking back over the shoulder while skateboarding, ultra-wide angle with strong pe
+determined penguin straps itself into a homemade rocket sled on an icy mountain. The rocket ignites with a massive burst and launches the penguin across the frozen landscape at insane speed, blasting through snowdrifts and leaving a fiery trail behind.
 ```
 
-![Seamless Four-Season Skate/Snowboard Journey Video Prompt](../gifs/1886.gif)
-
-> 🔗 [Original Source](https://x.com/Adam38363368936)
+![Determined Penguin Rocket Sled Video Prompt](../gifs/1962.gif)
 
 ---
 
-### Furious Giant Dragon Emerging from Ocean
+### Bus Disassembly and Reorganization
+
 
 **Prompt:**
 ```
-From the ocean emerges a furious giant (element) red dragon, leaping and flying above the ship at great speed, splashing through the great ocean waves. Dynamic shot following the dragon as it moves away through the storm, splashing through the giant waves
+An old, green, oversized, and extra-tall American-style bus is parked in a dilapidated parking lot in a forest. A young Asian driver slams on the brakes, looking tense and speechless. The bus begins to violently disassemble and reorganize from the inside out,
 ```
 
-![Furious Giant Dragon Emerging from Ocean](../gifs/1776.gif)
-
-> 🔗 [Original Source](https://x.com/hedo_ist)
+![Bus Disassembly and Reorganization](../gifs/1883.gif)
 
 ---
 
-### Leopard Prowling Through a Surreal Forest in Henri Rousseau Style
+### Gothic Airship Transformation
+
 
 **Prompt:**
 ```
-\"Side shot of a leopard moving gracefully through a surreal forest, the camera tracking alongside it as it prowls between tall, blue-hued trees. The background glows with deep amber light, evoking an otherworldly dusk. [cut] Close-up side shot
+She stands alone on the elevated bridge of a massive fantasy airship at night, with ornate iron railings and glowing cyan accent lights. The ship has a dark gothic organic design with intricate surface details. She gazes out at the dark sky with an empty, distant expression. The night sky and landscape behind her gradually distort and shift into a scorched, 
 ```
 
-![Leopard Prowling Through a Surreal Forest in Henri Rousseau Style](../gifs/1785.gif)
-
-> 🔗 [Original Source](https://x.com/Framer_X)
+![Gothic Airship Transformation](../gifs/1873.gif)
 
 ---
 
-### Women Placing Glowing Lanterns on Water in Hieronymus Bosch Style
+### Ancient Style Singing Performance Video Prompt
+
 
 **Prompt:**
 ```
-\"Women in white robes kneel by a dark river, gently placing glowing lanterns onto the still water. [cut] Close-up shot of woman placing a lantern onto the water. [cut] The water begins to burn - golden fire spreading outward like liquid light
+@Image, wearing a gilded, kingfisher-feather-adorned Tang suit with a koi pattern, hair adorned with tassel step-shakers, cinnabar flower mark on the brow, smiling sweetly and radiating spiritual energy; standing in front of a vermilion corridor with carved beams and painted rafters, the background features a hundred flowing glass palace lanterns, a half-con
 ```
 
-![Women Placing Glowing Lanterns on Water in Hieronymus Bosch Style](../gifs/1783.gif)
-
-> 🔗 [Original Source](https://x.com/Framer_X)
+![Ancient Style Singing Performance Video Prompt](../gifs/1555.gif)
 
 ---
 
 ### Colossal Ocean Leviathan Attack on a Megacity Harbor
+
 
 **Prompt:**
 ```
@@ -335,37 +78,22 @@ A colossal ocean leviathan, 300 meters long with armored whale-like plating and 
 
 ![Colossal Ocean Leviathan Attack on a Megacity Harbor](../gifs/1540.gif)
 
-> 🔗 [Original Source](https://x.com/LudovicCreator)
-
 ---
 
-### The Desert Train Heist
+### Ultra-Realistic LEGO Santa Claus Photograph
+
 
 **Prompt:**
 ```
-A biker wearing desert goggles and a sand-colored jacket races a dirt bike alongside a speeding freight train in a vast Sahara landscape. At the 2-second mark he hits a dune ramp and launches toward the train roof. The bike lands across the top of a container car while sandstorms swirl around the convoy. Camera tracks low along the train as the rider speeds
+Ultra-realistic photograph of a LEGO Santa Claus minifigure driving a rugged red LEGO Unimog snow truck across a snowy mountain pass in the Swiss Alps, deep snowbanks on both sides, pine trees dusted with frost, Santa wearing ski goggles and a fluffy red winter coat, gift boxes bouncing on the truck bed, dramatic mountain light, crisp atmosphere, DSLR realis
 ```
 
-![The Desert Train Heist](../gifs/1462.gif)
-
-> 🔗 [Original Source](https://x.com/LudovicCreator)
-
----
-
-### Impossible Golf Shot Tracking in a Rainstorm
-
-**Prompt:**
-```
-A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove. As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball
-```
-
-![Impossible Golf Shot Tracking in a Rainstorm](../gifs/1464.gif)
-
-> 🔗 [Original Source](https://x.com/noman23761)
+![Ultra-Realistic LEGO Santa Claus Photograph](../gifs/1475.gif)
 
 ---
 
 ### Motorcycle Rider Defying Collapsing Skyscraper
+
 
 **Prompt:**
 ```
@@ -374,76 +102,34 @@ Defying a collapsing skyscraper, a lone rider rockets across shattered skybridge
 
 ![Motorcycle Rider Defying Collapsing Skyscraper](../gifs/1332.gif)
 
-> 🔗 [Original Source](https://x.com/vadooai)
-
 ---
 
-### Nordic Snowy Night Chase
+### Character transformation with bruised face and armor reference
+
 
 **Prompt:**
 ```
-Realistic Nordic snowy night. A man runs fast through deep snow, tracked closely from behind at foot level. A wolf chases him, maintaining a strong sense of speed. The man trips and rolls; the wolf lunges at him. A border collie jumps in, knocking the wolf aside. The animals wrestle; the wolf breaks free and howls. Multiple wolves slowly surround the man and
+Character \u0026amp; Setup Face based on @ Image1 with identical facial features and hairstyle. His face is bruised with blood at the mouth corner, exhausted expression with restrained pain during transformation. Armor design references @ Image2.
 ```
 
-![Nordic Snowy Night Chase](../gifs/1339.gif)
-
-> 🔗 [Original Source](https://x.com/RizwanAly07)
+![Character transformation with bruised face and armor reference](../gifs/958.gif)
 
 ---
 
-### High-Speed Magical Forest Journey
+### Dunhuang Flying Apsara Video Generation Prompt
+
 
 **Prompt:**
 ```
-High-quality dynamic 3D animation of a high-speed magical forest journey. A group of riders in ornate fantasy costumes are mounted on glowing magical creatures, including a glowing spirit wolf, a shimmering crystal stag, a giant phantom owl, and a spirit leopard. They are racing through a stunning forest filled with giant glowing crystals. The scene features
+0-2 seconds: A Dunhuang Flying Apsara beauty floats out from a gilded mural, holding a gilded lotus lantern. As the lantern light flows, her red and gold celestial robes are radiant like sunset clouds, and the caisson ceiling pattern behind her (interwoven red, gold, and lapis lazuli blue) shimmers with light. 2-4 seconds: She steps on a seven-colored lotus 
 ```
 
-![High-Speed Magical Forest Journey](../gifs/1143.gif)
-
-> 🔗 [Original Source](https://x.com/Riya333S)
-
----
-
-### Wingsuit Proximity Flight along the Great Ocean Road
-
-**Prompt:**
-```
-A wingsuit flyer in a bright orange suit leaps from a coastal cliff above the Pacific Ocean. The camera follows close behind as he dives through narrow rock arches along the cliffside. At the 2-second mark he skims just meters above crashing waves. He pulls upward along the cliff wall and flies directly through a sea cave tunnel. Ocean wingsuit proximity fli
-```
-
-![Wingsuit Proximity Flight along the Great Ocean Road](../gifs/942.gif)
-
-> 🔗 [Original Source](https://x.com/LudovicCreator)
-
----
-
-### Modern Soldier vs. Ancient Samurai in Foggy Forest
-
-**Prompt:**
-```
-In the middle of a fog-covered forest clearing at dawn, a modern special forces soldier cautiously advances with a rifle while an ancient samurai warrior stands silently with a drawn katana. Mist drifts between towering trees as tension thickens the air. The soldier fires,
-```
-
-![Modern Soldier vs. Ancient Samurai in Foggy Forest](../gifs/927.gif)
-
-> 🔗 [Original Source](https://x.com/vadooai)
-
----
-
-### Arctic Glacier Collapse and Snowmobile Escape
-
-**Prompt:**
-```
-A woman in her mid-30s wearing a heavy arctic survival suit races across the deck of a massive icebreaker ship cutting through frozen seas. Behind her a towering wall of collapsing glacier ice crashes into the ocean. At the 2-second mark she jumps onto a snowmobile and accelerates toward the bow ramp as the ship tilts from the impact. The snowmobile launches
-```
-
-![Arctic Glacier Collapse and Snowmobile Escape](../gifs/876.gif)
-
-> 🔗 [Original Source](https://x.com/LudovicCreator)
+![Dunhuang Flying Apsara Video Generation Prompt](../gifs/866.gif)
 
 ---
 
 ### Massive Ancient Sea Dragon Emerging from the Ocean
+
 
 **Prompt:**
 ```
@@ -452,63 +138,22 @@ A massive ancient sea dragon emerging from the deep ocean, its gigantic serpenti
 
 ![Massive Ancient Sea Dragon Emerging from the Ocean](../gifs/870.gif)
 
-> 🔗 [Original Source](https://x.com/john_my07)
-
 ---
 
-### Explorer discovering a hidden valley in the snow
+### Twelve Flower Goddess Transformation Video Prompt
+
 
 **Prompt:**
 ```
-Live-action cinematic sequence in real time. Aerial wide shot: a vast white mountain range, completely silent and endless. Cut to close-up of a compass in a gloved hand, needle spinning then settling. Cut to medium shot of a lone explorer trudging through deep snow, wind whipping around her. Cut to insert shot of footprints in the snow being erased by the wi
+12 Flower Goddesses quickly turn and wave their hands to change into different poses and outfits (Plum blossom, Apricot blossom, Peach blossom, Peony, Pomegranate flower, Lotus, Hollyhock, Osmanthus, Chrysanthemum, Hibiscus, Camellia, Narcissus) Stunning special effects corresponding to 12 types of floral pattern clothing and backgrounds, filled with fairy a
 ```
 
-![Explorer discovering a hidden valley in the snow](../gifs/844.gif)
-
-> 🔗 [Original Source](https://x.com/Kiber_Alla)
-
----
-
-### Wong Kar-wai style rainy phone booth scene
-
-**Prompt:**
-```
-[Film Style]: 90s Hong Kong Art Cinema style, retro film feel, high ISO grain, ambiguous yellow-green tint, frame stepping effect, melancholic atmosphere. [Core Dialogue (for emotion control)]: \"If memories were canned food, I hope they never expire.\" [Video Duration]: 10 seconds [Script]: [00:00-00:04] Shot 1: Through the Glass Peeping. Scene: A rain-covere
-```
-
-![Wong Kar-wai style rainy phone booth scene](../gifs/845.gif)
-
-> 🔗 [Original Source](https://x.com/athianandam)
-
----
-
-### Colossal Feline Titan Rising from the Ocean
-
-**Prompt:**
-```
-Stormy night ocean, massive waves under lightning flashes. The sea churns violently as a colossal feline titan rises from the depths, water cascading off its fur in slow motion. Low-angle cinematic shot, glowing eyes piercing rain and fog. Navy warships surround it, firing missiles and cannons, explosions lighting the clouds. The giant cat roars, shockwaves
-```
-
-![Colossal Feline Titan Rising from the Ocean](../gifs/788.gif)
-
-> 🔗 [Original Source](https://x.com/lexx_aura)
-
----
-
-### Taiwanese Girlfriend Series: Rainy Day POV
-
-**Prompt:**
-```
-15 seconds, vertical screen 9:16, overcast diffused natural light + wet texture of everything soaked by rain, occasional raindrops splashing on the phone lens causing local blur, under the arcade on a Taipei street, protagonist is a Taiwanese girl [Image 1], long hair wet and sticking to her cheeks and neck, white thin shirt slightly transparent from wetness
-```
-
-![Taiwanese Girlfriend Series: Rainy Day POV](../gifs/800.gif)
-
-> 🔗 [Original Source](https://x.com/msjiaozhu)
+![Twelve Flower Goddess Transformation Video Prompt](../gifs/847.gif)
 
 ---
 
 ### BRAIN DRAIN Stop-Motion Prompt
+
 
 **Prompt:**
 ```
@@ -517,76 +162,10 @@ Hyperrealistic miniature diorama, stop-motion animation, handcrafted tactile mat
 
 ![BRAIN DRAIN Stop-Motion Prompt](../gifs/770.gif)
 
-> 🔗 [Original Source](https://x.com/AleRVG)
-
----
-
-### Cyberpunk Hacker in Rain Night Scene
-
-**Prompt:**
-```
-0–4s: A hacker wearing a damaged trench coat and a hood covering their face walks down a rainy night street. Neon signs (pink and blue) serve as the main light source, projecting from the upper right of the frame. Rain is visible under the light, hitting the surface of the trench coat. Medium shot, handheld stabilizer following the walk, low angle. Environme
-```
-
-![Cyberpunk Hacker in Rain Night Scene](../gifs/681.gif)
-
-> 🔗 [Original Source](https://x.com/CD_Bana)
-
----
-
-### Ethereal Wanderer in Fog-Shrouded Forest
-
-**Prompt:**
-```
-[Scene opens in an ancient, fog-shrouded forest at midnight, towering trees twisting like living veins under a fractured moon. The camera glides seamlessly through the ethereal haze.] 0-3 seconds: A ethereal wanderer in flowing robes dashes between gnarled trunks, waving a hand
-```
-
-![Ethereal Wanderer in Fog-Shrouded Forest](../gifs/637.gif)
-
-> 🔗 [Original Source](https://x.com/ibexdream)
-
----
-
-### Snowy Eastern European Thriller Trailer
-
-**Prompt:**
-```
-generate a trailer for a thriller movie set in snowy Eastern Europe. It should feature a quick montage of a detective, a love story, the process of falling in love, and a fast-paced investigation
-```
-
-![Snowy Eastern European Thriller Trailer](../gifs/641.gif)
-
-> 🔗 [Original Source](https://x.com/WorldEverett)
-
----
-
-### Goblin traveller and steed in the mountains
-
-**Prompt:**
-```
-A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast sky. Wind carries light snowfall across the frame. His heavy boots press into fresh snow and scattered stone. The camera tracks low and slightly behind, capturing texture, atmosphere, and drifting frost. Nearby stands a large mountain boar used as a pack animal. Thick bristles ca
-```
-
-![Goblin traveller and steed in the mountains](../gifs/621.gif)
-
-> 🔗 [Original Source](https://x.com/StevieMac03)
-
----
-
-### Deep ocean trench scene with a peaceful giant
-
-**Prompt:**
-```
-SCENE: DEEP OCEAN TRENCH - UNDERWATER Quick Cuts ATMOSPHERE: Awe-inspiring and primeval. The sheer, terrifying scale of a peaceful giant moving flawlessly through the quiet ocean water evokes a profound sense of majesty and the raw power of nature. SHOT DESCRIPTION: A
-```
-
-![Deep ocean trench scene with a peaceful giant](../gifs/567.gif)
-
-> 🔗 [Original Source](https://x.com/aimikoda)
-
 ---
 
 ### High in the rugged 1975 Ladakh mountains, Indian engineers harness newly discovered anti-gravity minerals nicknamed “Shakti Stones.”
+
 
 **Prompt:**
 ```
@@ -595,147 +174,326 @@ High in the rugged 1975 Ladakh mountains, Indian engineers harness newly discove
 
 ![High in the rugged 1975 Ladakh mountains, Indian engineers harness newly discovered anti-gravity minerals nicknamed “Shakti Stones.”](../gifs/565.gif)
 
-> 🔗 [Original Source](https://x.com/drashyakuruwa)
-
 ---
 
-### Napoleon Charging at Waterloo Prompt
+### Demons, Demigods, and Elixir of Life
+
 
 **Prompt:**
 ```
-this absurd scene of Napoléon Bonaparte personally charging at the Battle of Waterloo.
+Demons and Demigods churn the mystical ocean for Elixir of Life. But along with the Elixir comes out lethal poison too. What happens next?
 ```
 
-![Napoleon Charging at Waterloo Prompt](../gifs/416.gif)
-
-> 🔗 [Original Source](https://x.com/Tom_Antonov)
+![Demons, Demigods, and Elixir of Life](../gifs/521.gif)
 
 ---
 
-### Colossal Katamari Ball Emerging from the Ocean
+### Hyper-Realistic Walter White Monologue
+
 
 **Prompt:**
 ```
-From a balcony viewpoint, a colossal, brightly colored Katamari ball spins rapidly, emerging from the dark ocean toward a sprawling cityscape.
+a 15-second video clip showing a hyper-realistic recreation of Bryan Cranston as Walter White (from Breaking Bad) delivering an intense, dramatic monologue in what looks like a supermarket setting. The character appears in his signature Heisenberg look (bald head, goatee, intense stare), gesturing emphatically while speaking with perfect lip-sync, natural fa
 ```
 
-> 🔗 [Original Source](https://x.com/Willhart_H)
+![Hyper-Realistic Walter White Monologue](../gifs/342.gif)
 
 ---
 
-### The Leviathan's Throat: Underwater Megastructure Descent
+### Man on a seaboat attacked by a sea monster
+
 
 **Prompt:**
 ```
-A flooded subterranean megastructure, ancient stone corridors half-submerged in black water, bioluminescent algae pulsing along the walls like a heartbeat. A masked diver in scarred tactical gear, lit by a flickering wrist-mounted flare, is pulled downward through collapsing flooded chambers by the current of a colossal eyeless leviathan moving beneath the f
+\"A man is on a seaboat during a massive rain storm as a large sea monster emerges from the water and bites the boat with its' teeth and drags it into the ocean\"
 ```
 
-![The Leviathan's Throat: Underwater Megastructure Descent](../gifs/248.gif)
-
-> 🔗 [Original Source](https://x.com/Dheepanratnam)
+![Man on a seaboat attacked by a sea monster](../gifs/303.gif)
 
 ---
 
-### Nature Documentary: Otter Flying an Airplane
+### Van Gogh Post-Impressionism Abstract Animation Prompt
+
 
 **Prompt:**
 ```
-\"A nature documentary about an otter flying an airplane\"
+【Style】Van Gogh Post-Impressionism oil painting, Heavy Impasto texture, signature swirling brushstrokes, dreamy feeling, high-saturation blue and yellow contrast. 【Duration】15 second animation [Visual Content] This is a dynamic world entirely composed of thick oil paint. Sky: In the deep blue night sky, huge yellow stars and a crescent moon are surrounded by
 ```
 
-![Nature Documentary: Otter Flying an Airplane](../gifs/136.gif)
-
-> 🔗 [Original Source](https://x.com/emollick)
+![Van Gogh Post-Impressionism Abstract Animation Prompt](../gifs/77.gif)
 
 ---
 
-### Rainy Neon Pursuit in Hong Kong
+### High Society Drama: Real Heiress Revenge Prompt
+
 
 **Prompt:**
 ```
-Lone trench coat runner sprints Hong Kong alleys, slams vendor cart—fruits scatter; shoulder-glued tracking shot, rain flying, sirens + pounding drums sync to terror; low-angle duck into dead-end.
+【Style】High Society Feud, real vs. fake heiress trope, extreme reversal, satisfying 'tearing down the mean girl' narrative, haute couture gown, stunning mature woman style. 【Duration】15 seconds 【Characters】Real Heiress (fiery red lips, black swan evening gown, imposing aura) VS Fake Heiress (innocent 'white flower' attire, pitiful, teary-eyed). [00:00-00:05]
 ```
 
-![Rainy Neon Pursuit in Hong Kong](../gifs/297.gif)
-
-> 🔗 [Original Source](https://x.com/bigprompt)
+![High Society Drama: Real Heiress Revenge Prompt](../gifs/82.gif)
 
 ---
 
-### 1980s Training Montage VHS Style Prompt
+### Comic to Video Explanation Prompt (Journey to the West)
+
 
 **Prompt:**
 ```
-title: \"Never Too Late\" duration: 15s style: era: 1980s training montage look: grainy VHS, stretched 9:16, tape warble, tracking lines, overscan crop audio: guitar-riff–driven arena rock, crowd-chant energy, hard snare hits color: slightly washed, warm highlights, crushed blacks
+Use a popular science style and voice tone to interpret the content in Image 1. The content should explain the short story of Wukong going to Cuiyun Mountain to borrow the Banana Fan from Princess Iron Fan to cross the Flaming Mountain. Princess Iron Fan refuses to lend the fan and seeks revenge because her son, Red Boy, was subdued by Wukong and became a di
 ```
 
-![1980s Training Montage VHS Style Prompt](../gifs/108.gif)
-
-> 🔗 [Original Source](https://x.com/AIWarper)
+![Comic to Video Explanation Prompt (Journey to the West)](../gifs/49.gif)
 
 ---
 
-### Epic Sci-Fi Scene Prompt: Robot on Mountain Peak
+### Sky Kingdom Wuxia Fantasy
+
 
 **Prompt:**
 ```
-Epic sci-fi scene, ultra-wide cinematic lens. Scene: At the peak of a high mountain on Earth, a solitary robot {@image 1} stands on the mountaintop, facing the distant sky, stable and quiet. The mountaintop is surrounded by strong winds and clouds, the environment is desolate and magnificent.
+A beautiful young woman character exactly matching @img1[character consistency] wearing elegant flowing pastel pink wuxia hanfu robes with long wide sleeves, delicate silver embroidery, soft ribbons and fabric that billow gracefully in the wind, performing ethereal qinggong lightness skill. She is lightly floating and elegantly leaping between ornate pavilio
 ```
-
-![Epic Sci-Fi Scene Prompt: Robot on Mountain Peak](../gifs/81.gif)
-
-> 🔗 [Original Source](https://x.com/dashdot1205)
 
 ---
 
-### Olympic Snowboard Big Air Competition
+### Dragonflight Trials POV
+
 
 **Prompt:**
 ```
-photorealistic shot of the women's snowboard big air competition at the olympics. the snowboarder from the united states races down the hill and then flies off the snow ramp and into the air, with the commentators exclaiming wildly
+First-person POV from a rider approaching a massive black dragon from behind on a wooden mountain platform. The dragon stands at a starting ramp facing a wooden gate reading \"DRAGONFLIGHT TRIALS START\" with dragon-emblem banners on each side. Mountains and clouds beyond. The rider wears worn white leather gloves, dirt on hands. A white leather saddle with st
 ```
-
-![Olympic Snowboard Big Air Competition](../gifs/66.gif)
-
-> 🔗 [Original Source](https://x.com/venturetwins)
 
 ---
 
-### Moonlit Bamboo Forest Swordsman Scene
+### Greenery and Environmental Evolution Video Prompt
+
 
 **Prompt:**
 ```
-A bamboo forest under the moonlight. A swordsman in white stands deep within the bamboo grove, his robes fluttering in the wind. He slowly draws his sword, the blade reflecting the moonlight. The camera rotates 360 degrees around him, and bamboo leaves fall continuously. The swordsman suddenly strikes, a sword energy slashes through the bamboo forest, and se
+Importance of Greenery in Human Life “Start with a dull, grey city filled with pollution, dry trees, and tired people coughing. The sky looks hazy and lifeless. Slowly transition as greenery begins to grow—trees sprout, grass spreads, flowers bloom, and the sky turns bright blue. Show people breathing fresh air, smiling, and children playing happily. Birds f
 ```
-
-![Moonlit Bamboo Forest Swordsman Scene](../gifs/50.gif)
-
-> 🔗 [Original Source](https://x.com/channelerHua)
 
 ---
 
-### Watercolor Ink Sword Performance
+### Colored Pencil Time-lapse Flower Field
+
 
 **Prompt:**
 ```
-watercolor ink sword performance.
+A fantastic landscape of a flower field meticulously drawn with colored pencils, with spreading colorful flowers (densely blooming from small to large), and every single petal and leaf carefully rendered. A clear blue sky with soft clouds floating slowly, deep blue gradients, and the texture of the sky expressed through characteristic colored pencil strokes.
 ```
-
-![Watercolor Ink Sword Performance](../gifs/38.gif)
-
-> 🔗 [Original Source](https://x.com/Aicean_ai)
 
 ---
 
-### Classical Wuxia Duel in Bamboo Forest
+### Evolution of Civilization Video Prompt
+
 
 **Prompt:**
 ```
-[Visual Style] Eastern Classical Wuxia Aesthetics, cinematic visual language, bamboo forest sea landscape, emerald green main color tone, rich layering of light and shadow, soft light beam effects visible within the forest. [Character Definition] 1. Male Swordsman: Dressed in a plain white long robe, steady posture, concise and powerful movements. 2. Female
+\"Every civilization begins with a dream.\" A single neuron firing → synapses connecting into a brain → a child's eye opening → hand drawing on cave wall → pyramid under construction → Renaissance city with domes and spires → industrial revolution with steam and gears → digital age with holographic displays → quantum realm with impossible architecture floating
 ```
 
-![Classical Wuxia Duel in Bamboo Forest](../gifs/56.gif)
+---
 
-> 🔗 [Original Source](https://x.com/johnAGI168)
+### Evolution of an Empire Timeline
+
+
+**Prompt:**
+```
+Visualize \"Time builds empires\". From a single grain of sand → desert → village → city-state → palace → emergence of an empire.
+```
+
+---
+
+### Overgrown Megacity Jungle
+
+
+**Prompt:**
+```
+A dense jungle in 2200 where nature has fully reclaimed a megacity. Skyscraper frames are wrapped in 200 years of vines and growth, their interiors now ecosystems. But the technology embedded in the city still functions. Neon signs
+```
+
+---
+
+### Floating Victorian Ballroom in the Clouds
+
+
+**Prompt:**
+```
+An impossibly grand Victorian ballroom floats suspended above the clouds at 10,000 feet, its walls made entirely of glass revealing an endless sky in every direction. Dozens of couples in formal
+```
+
+---
+
+### Boxing Training Montage
+
+
+**Prompt:**
+```
+Create a boxing training montage young boxer working with an old coach, hitting pads, jumping rope, heavy bag. Gritty gym lighting, sweat flying in slow motion. Give me that Rocky energy.
+```
+
+---
+
+### Cyberpunk Urban Runner Animation
+
+
+**Prompt:**
+```
+Neon-drenched megacity at night. Rain-slick rooftops. A cyberpunk runner with glowing boots sparks fire with every stride while drones hunt her through the foggy skyline. Low-angle tracking, vertical leaps
+```
+
+---
+
+### Stormy Sea Monster Encounter
+
+
+**Prompt:**
+```
+A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide.
+```
+
+---
+
+### Character Fall Sequence - Segment 1
+
+
+**Prompt:**
+```
+0-3s (Initial Descent): The character falls through the daytime sky in free fall, eyes closed, frowning slightly. Hair flies violently against the wind. Red electrical arcs begin to flicker on the skin. Motion blur on the surrounding clouds is intense.
+```
+
+---
+
+### Police Station Narrative Sequence Prompt
+
+
+**Prompt:**
+```
+A man arrives at the police station and parks. [cut] Smoke from the hood. [cut] Takes the flower and gets out. [cut] Enters; a police officer is suspicious behind the counter. Sign: 'License Renewal'. [cut] Leaves the flower and ID card. [cut] She is astonished. [cut] He laughs nervously. No music.
+```
+
+---
+
+### Sea Monster Storm Survival
+
+
+**Prompt:**
+```
+A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide. It clamps its teeth onto the boat, splintering the wood, and violently drags it beneath the churning oce
+```
+
+---
+
+### São Paulo Parkour at Sunset Prompt
+
+
+**Prompt:**
+```
+VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, black curly hair flying free, wearing faded yellow shorts and a white tank top with scuffed trainers, runs full speed across the rooftops of São Paulo's dense favela skyline as the sun sets blood orange
+```
+
+---
+
+### Nature Reclaiming Megacity Prompt
+
+
+**Prompt:**
+```
+A woman in her mid-30s with dark braided hair entwined with living vines, wearing layered organic armor of bark and woven leaves, skin traced with glowing emerald root veins — opening frame is a medium close-up of her standing barefoot in the center of an abandoned concrete megacity plaza, completely still as small plants begin sprouting through cracks in th
+```
+
+---
+
+### Lone Traveler on a Glass Ocean under Twilight
+
+
+**Prompt:**
+```
+A lone traveler walks across a vast, glass-like ocean under a violet twilight sky. Beneath the transparent water, millions of stars twinkle and pulse as if the entire universe is submerged. Each step ripples through the cosmic depths, distorting galaxies and nebulae like liquid reflections of infinity.
+```
+
+---
+
+### Cyberpunk City Rainy Night Video Prompt
+
+
+**Prompt:**
+```
+Vertical screen 9:16, cyberpunk future city rainy night, high-density skyscrapers, cyan-blue neon main tone, small amount of magenta highlights, wet streets with obvious mirror reflection, car light reflections and water reflections on the ground, thin fog and volumetric light in the air, rich details of futuristic architecture, overall atmosphere is cold, l
+```
+
+---
+
+### Deep-Sea Leviathan Transformation
+
+
+**Prompt:**
+```
+A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their body in accelerated time, skin shifting to iridescent obsidian scales, limbs fusing into massive finned appendages. The figure swells to monstrous proportions, displacing water in shockwave pulses. Final sho
+```
+
+---
+
+### Girl Falling Through Digital Tunnel Video Prompt
+
+
+**Prompt:**
+```
+A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and right, then falls straight down. She lands softly on a rainbow cloud in a fancy world overflowing with light. She looks up and sees a large, rainbow-shining sun glowing in the sky. Backlight.
+```
+
+---
+
+### Dimensional Entity Megacity Collision Prompt (Dreamina)
+
+
+**Prompt:**
+```
+A towering humanoid entity made of shifting translucent geometry appears above a megacity skyline, its body composed of overlapping dimensional planes reflecting alternate realities — hook at second two: the entity opens both hands and a vertical dimensional tear slices through the city. Reality splits. Two versions of the city begin occupying the same space
+```
+
+---
+
+### Hyper-Tension Technician Video Prompt
+
+
+**Prompt:**
+```
+FORMAT: 15s / 11 CUTS / HYPER-TENSION SUBJECTS: A heavily perspiring technician in partial rigid protective gear, face strained with controlled focus, hands clad in tactile gloves. ENVIRONMENT: A sun-bleached, dusty, deserted city intersection in the dead
+```
+
+---
+
+### 12 Flower Goddesses Quick Transformation Video
+
+
+**Prompt:**
+```
+12 Flower Goddesses quickly turn and wave their hands to transform into different poses and outfits (Plum blossom, Apricot blossom, Peach blossom, Peony, Pomegranate flower, Lotus, Hollyhock, Osmanthus, Chrysanthemum, Hibiscus, Camellia, Narcissus). Stunning special effects correspond to 12 floral pattern costumes and backgrounds, filled with an ethereal atm
+```
+
+---
+
+### Apocalyptic Transformation Sequence
+
+
+**Prompt:**
+```
+Character \u0026 Setup Full-body based on reference image (upper-body reference), with face, hairstyle, and features matched exactly. She wears a hat. Expression is tense and restrained, slightly painful, with a faint frown—carrying a strong sense of despair and intensity in his eyes. Clothing: Dark grey coat, dark inner layer, no belt, wearing heavy black-tech g
+```
+
+---
+
+### Dark Fantasy/Horror Narrative Prompt
+
+
+**Prompt:**
+```
+The wind threads through the black pines like a dull blade scraping bone. Snow doesn’t fall—it lashes sideways, stinging into the gaps of a collar, melting into a sharp, immediate pain. The torchlight trembles in the white storm, revealing a trunk, a branch, a sliver of ground—then surrendering it back to the deeper dark. They move slowly. Boots sink with a 
+```
 
 ---
