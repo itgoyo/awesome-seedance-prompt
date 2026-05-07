@@ -1,8 +1,8 @@
-# 🎬 Awesome Seedance Prompts
+# 🎬 All Seedance Prompts
 
-All prompts with GIF previews.
+**Total: 1928 prompts** | **941 with preview GIF**
 
-**Total: 1928 prompts**
+[← Back to README](../README.md)
 
 ---
 
@@ -15,7 +15,10 @@ All prompts with GIF previews.
 
 ![Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film](../gifs/1402.gif)
 
+> 🔗 [Original Source](https://x.com/JiahaoYang_art)
+
 ---
+
 ### Hollywood Haute Couture Fantasy Video Prompt
 
 **Prompt:**
@@ -25,7 +28,10 @@ All prompts with GIF previews.
 
 ![Hollywood Haute Couture Fantasy Video Prompt](../gifs/594.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Modern Rural Aesthetics Healing Short Film Video Prompt
 
 **Prompt:**
@@ -35,17 +41,23 @@ All prompts with GIF previews.
 
 ![Modern Rural Aesthetics Healing Short Film Video Prompt](../gifs/288.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Live-Action Anime Adaptation: Water vs. Thunder Breathing Duel
 
 **Prompt:**
 ```
-Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds · Super Burning Special Effects Version) 【Core Focus】: Water Breathing (Blue Water Dragon) VS Thunder Breathing (Golden Lightning), live-action extreme speed duel. 【Style】: Hollywood live-action anime adaptation film quality, dark samurai style, 4K ultra-clear, extreme fast cuts, 
+Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds · Super Burning Special Effects Version) 【Core Focus】: Water Breathing (Blue Water Dragon) VS Thunder Breathing (Golden Lightning), live-action extreme speed duel. 【Style】: Hollywood live-action anime adaptation film quality, dark samurai style, 4K ultra-clear, extreme fast cuts,
 ```
 
 ![Live-Action Anime Adaptation: Water vs. Thunder Breathing Duel](../gifs/189.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0: 80-Year-Old Rapper MV
 
 **Prompt:**
@@ -55,7 +67,10 @@ Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds 
 
 ![Seedance 2.0: 80-Year-Old Rapper MV](../gifs/1403.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Cinematic Street Racing Sequence for Seedance 2
 
 **Prompt:**
@@ -63,15 +78,21 @@ Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds 
 cinematic street racing sequence at night, a focused driver inside a high-performance car grips the steering wheel, intense eye focus, city lights reflecting on windshield, tension building before sudden acceleration camera: rapid multi-angle system with seamless transitions, interior close-up → over-the-shoulder → exterior tracking → low ground shots, ultra
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### The 'Fat Note' Transformation Prompt
 
 **Prompt:**
 ```
-Theme: Fat Note. Image: Writing a name in the note makes one fat. The subject picks up a note lying on the roadside (pitch black cover, white text title). Opening the note reveals many mysterious languages written inside. To test it, they open a new page and write their name 'YaReYaRu'. Then, a flashback scene plays, showing them eating steak, ramen, sushi, 
+Theme: Fat Note. Image: Writing a name in the note makes one fat. The subject picks up a note lying on the roadside (pitch black cover, white text title). Opening the note reveals many mysterious languages written inside. To test it, they open a new page and write their name 'YaReYaRu'. Then, a flashback scene plays, showing them eating steak, ramen, sushi,
 ```
 
+> 🔗 [Original Source](https://x.com/YaReYaRu30Life)
+
 ---
+
 ### Cinematic Mage Battle Storyboard
 
 **Prompt:**
@@ -79,7 +100,10 @@ Theme: Fat Note. Image: Writing a name in the note makes one fat. The subject pi
 Ultra-realistic cinematic live-action, natural skin texture, HDR lighting, dark fantasy atmosphere, warm firelight vs cool overcast tones, grounded VFX 0:00–0:03 Wide shot: ancient stone courtyard, twisted trees, overcast sky. A female mage in crimson-gold robes stands center, cloak and hair moving in the wind. 0:03–0:06 Medium shot: orange flames form in he
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### Desert Leviathan and Shamanic Belly Dancer
 
 **Prompt:**
@@ -87,7 +111,10 @@ Ultra-realistic cinematic live-action, natural skin texture, HDR lighting, dark 
 A hyper-realistic, high-octane cinematic epic set within the heart of an endless, undulating desert of scarlet sand. A colossal Desert Leviathan—a serpentine creature forged from ancient, hardened clay, bone, and pulsating veins of molten obsidian—violently explodes from the highest dune, breaching like a whale but through the earth itself. It sprays tsunami
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Neon Laundromat Rhythm Cinema Prompt
 
 **Prompt:**
@@ -95,7 +122,10 @@ A hyper-realistic, high-octane cinematic epic set within the heart of an endless
 FORMAT: 15s / 140 BPM / 15 SHOTS SUBJECT: @[image1] WARDROBE: Oversized vintage denim jacket, white tank, gold hoops ENVIRONMENT: Neon-lit laundromat at night MOOD: Bored → magnetic STYLE: Lo-fi rhythm cinema CORE IDEA: The washing machine's spin cycle becomes her personal beat drop SHOT FLOW: Sitting on machine → low hum builds Fingers tap thigh → snare pat
 ```
 
+> 🔗 [Original Source](https://x.com/Mr_TuanDoan)
+
 ---
+
 ### Luxury Skeleton Watch Cinematic Commercial
 
 **Prompt:**
@@ -103,7 +133,10 @@ FORMAT: 15s / 140 BPM / 15 SHOTS SUBJECT: @[image1] WARDROBE: Oversized vintage 
 A high-end skeleton mechanical watch with a brushed titanium case and finely woven metal strap rests embedded within cracked volcanic rock, glowing rivers of molten lava flowing beneath and around it, casting an intense fiery orange illumination that radiates through the exposed inner mechanics of the dial. The scene opens in an ultra-tight macro shot, the c
 ```
 
+> 🔗 [Original Source](https://x.com/chatgptpaglu)
+
 ---
+
 ### Jewelry Shop Smash-and-Grab Sequence
 
 **Prompt:**
@@ -111,7 +144,10 @@ A high-end skeleton mechanical watch with a brushed titanium case and finely wov
 [0:00–0:02] A dark car bonnet punches through the glass frontage of a small jewelry shop. Glass fractures in a starburst pattern. Camera low, wide angle.
 ```
 
+> 🔗 [Original Source](https://x.com/duttasomrattwt)
+
 ---
+
 ### Hyper-Realistic NYC Action Sequence
 
 **Prompt:**
@@ -119,7 +155,10 @@ A high-end skeleton mechanical watch with a brushed titanium case and finely wov
 A hyper-realistic cinematic action sequence set on a busy New York City street during late afternoon golden hour. The main subject is a confident, powerful woman matching the exact appearance of the reference image (same facial features, hairstyle, proportions, and identity consistency). She is dressed in a sharp, high-fashion formal outfit — a tailored fitt
 ```
 
+> 🔗 [Original Source](https://x.com/mehvishs25)
+
 ---
+
 ### Sky Kingdom Wuxia Fantasy
 
 **Prompt:**
@@ -127,7 +166,10 @@ A hyper-realistic cinematic action sequence set on a busy New York City street d
 A beautiful young woman character exactly matching @img1[character consistency] wearing elegant flowing pastel pink wuxia hanfu robes with long wide sleeves, delicate silver embroidery, soft ribbons and fabric that billow gracefully in the wind, performing ethereal qinggong lightness skill. She is lightly floating and elegantly leaping between ornate pavilio
 ```
 
+> 🔗 [Original Source](https://x.com/yuday9909)
+
 ---
+
 ### Nano-Strike Frozen Battlefield Sequence
 
 **Prompt:**
@@ -135,7 +177,10 @@ A beautiful young woman character exactly matching @img1[character consistency] 
 A surreal urban battlefield in a frozen future, temperature at –200°C. Endless snowfields, cracked asphalt, rusted metal, shattered glass, and burning wreckage. The sky is heavy lead-grey, with violent winds carrying ice particles. Sound echoes sharply in the empty cold. Lighting is fully realistic—deep contrast, volumetric fog, reflections on ice and metal,
 ```
 
+> 🔗 [Original Source](https://x.com/RizwanAly07)
+
 ---
+
 ### Brutalist Dystopian SUV Escape
 
 **Prompt:**
@@ -143,15 +188,21 @@ A surreal urban battlefield in a frozen future, temperature at –200°C. Endles
 Use reference images lock the consistency 100% Cinematic video, 15 seconds duration, brutalist dystopian style, hyper-realistic, photorealistic 4K. Timeline: 0-5 seconds: A powerful brutalist character wearing a long black hooded coat, stone-textured robotic arms and boots, and a cracked concrete helmet with a glowing horizontal orange visor stands next to a
 ```
 
+> 🔗 [Original Source](https://x.com/ShamsAmin56)
+
 ---
+
 ### Hologram to sports car transformation
 
 **Prompt:**
 ```
-Shot 1 (0:00 – 0:02) | Opening Frame A close-up of a tattooed male arm with a sleek black smartwatch in a futuristic LED-lit corridor. The person raises their wrist and taps it. A faint, minimal holographic UI briefly appears (subtle glow), not the main focus. Camera quickly shifts attention away. Shot 2 (0:02 – 0:04) | Quick Interaction Fast swipe gesture. 
+Shot 1 (0:00 – 0:02) | Opening Frame A close-up of a tattooed male arm with a sleek black smartwatch in a futuristic LED-lit corridor. The person raises their wrist and taps it. A faint, minimal holographic UI briefly appears (subtle glow), not the main focus. Camera quickly shifts attention away. Shot 2 (0:02 – 0:04) | Quick Interaction Fast swipe gesture.
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### No Ticket, No Problem Action Comedy
 
 **Prompt:**
@@ -159,7 +210,10 @@ Shot 1 (0:00 – 0:02) | Opening Frame A close-up of a tattooed male arm with a 
 TITLE: “No Ticket, No Problem” Seedance 2 | 15-second cinematic action-comedy | jungle adventure parody | high-speed chaos | dark American humor dialogue | exaggerated reactions | dynamic camera | punchy sound design A rugged jungle theme park entrance. Primitive wooden fences, tall gates, and a massive hanging wooden sign reading “CAT UNIVERSE.” Lush overgr
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Russian-Voiced Tokusatsu Action Sequence
 
 **Prompt:**
@@ -167,7 +221,10 @@ TITLE: “No Ticket, No Problem” Seedance 2 | 15-second cinematic action-comed
 [0s–3s] Dramatic close-up of the character from [@ Image1]. She wears a sleek white form-fitting tokusatsu battle suit with subtle armor plating, reminiscent of Japanese Super Sentai live-action series. Wind blows across a desolate rocky wasteland behind her. She speaks in Russian, her voice emotional and conflicted. White English subtitle text appears at th
 ```
 
+> 🔗 [Original Source](https://x.com/IamEmily2050)
+
 ---
+
 ### Cinematic Gaming Short with Seamless Transitions
 
 **Prompt:**
@@ -175,7 +232,10 @@ TITLE: “No Ticket, No Problem” Seedance 2 | 15-second cinematic action-comed
 Generate a 15-second high-energy creative gaming short film with deep voice-over narration, focusing on storyboard arrangement and smooth transitions. [Camera and Transition Arrangement] 0-5s: Handheld camera quickly zooms in on a monitor flashing red RGB lights. When the character on screen raises their hand, use 'action match transition' to seamlessly tran
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Pixel Art Horror RPG Gameplay Scene
 
 **Prompt:**
@@ -183,7 +243,10 @@ Generate a 15-second high-energy creative gaming short film with deep voice-over
 Screen recording of a 2D top-down pixel art horror RPG game, Japanese indie style reminiscent of The Witch's House and Ib. A stoic pale-haired anime girl sprite navigates a decaying Victorian mansion interior, dark muted palette with flickering candlelight casting long pixel shadows. Sparse windows reveal a pale moonlit night sky outside. [0s–3s] The girl sp
 ```
 
+> 🔗 [Original Source](https://x.com/IamEmily2050)
+
 ---
+
 ### Dragonflight Trials POV
 
 **Prompt:**
@@ -191,7 +254,10 @@ Screen recording of a 2D top-down pixel art horror RPG game, Japanese indie styl
 First-person POV from a rider approaching a massive black dragon from behind on a wooden mountain platform. The dragon stands at a starting ramp facing a wooden gate reading \"DRAGONFLIGHT TRIALS START\" with dragon-emblem banners on each side. Mountains and clouds beyond. The rider wears worn white leather gloves, dirt on hands. A white leather saddle with st
 ```
 
+> 🔗 [Original Source](https://x.com/pabloprompt)
+
 ---
+
 ### Storm-Wyrm and Shaolin Monk Battle
 
 **Prompt:**
@@ -199,7 +265,10 @@ First-person POV from a rider approaching a massive black dragon from behind on 
 A hyper-realistic, high-octane cinematic video still set in a narrow, labyrinthine desert canyon at night. A colossal Storm-Wyrm—a serpentine dragon forged from turbulent thunderclouds and internal lattice-works of blue lightning—violently erupts from a dry riverbed, breaching like a whale through the canyon floor. It sends explosive shockwaves of pulverized
 ```
 
+> 🔗 [Original Source](https://x.com/aiwithadb)
+
 ---
+
 ### Japanese Schoolgirl Scale-Shifting Adventure
 
 **Prompt:**
@@ -207,7 +276,10 @@ A hyper-realistic, high-octane cinematic video still set in a narrow, labyrinthi
 photrealism movie style 0:00 – 0:02 EXT. PARK – DAY – TREE BRANCH A Japanese schoolgirl crouches on a branch— She launches forward decisively. Camera dives with her. 0:02 – 0:04 0:02 – 0:04 FREE FALL → PICNIC TABLE She drops fast toward a picnic table— IMPACT— The moment she hits— Scale snap: she’s now tiny (soda-can size). Table surface becomes a vast lands
 ```
 
+> 🔗 [Original Source](https://x.com/OlivioSarikas)
+
 ---
+
 ### Belly Dance Performance Prompt
 
 **Prompt:**
@@ -215,7 +287,10 @@ photrealism movie style 0:00 – 0:02 EXT. PARK – DAY – TREE BRANCH A Japane
 A glamorous belly dance woman's style with high heels, a beautiful face, eyebrows, and a smooth body
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Fairy and Puppy Macro Perspective Structured Prompt
 
 **Prompt:**
@@ -223,7 +298,10 @@ A glamorous belly dance woman's style with high heels, a beautiful face, eyebrow
 { \"cinematography\": { \"camera_perspective\": \"Extreme low-angle 'ant-view' tracking, looking up from the puppy's snout toward the fairy's descent; camera then snaps to a side-profile 'drag-race' shot alongside the fairy's face.\", \"lens\": \"5mm ultra-fisheye; the puppy’s whiskers appear as massive, obsidian-black bridge cables stretching into the horizon.\", \"de
 ```
 
+> 🔗 [Original Source](https://x.com/itxabdullaa)
+
 ---
+
 ### Multi-Shot High Speed Car Chase
 
 **Prompt:**
@@ -231,7 +309,10 @@ A glamorous belly dance woman's style with high heels, a beautiful face, eyebrow
 SHOT 01 Ultra-low front tracking shot inches above asphalt, a high-performance sports car already at full speed blasting through a tight urban street, suspension compressed, reflections streaking across glossy body panels, extreme motion blur on surroundings, no buildup, immediate velocity, hyper-realistic, cinematic, 8k detail. SHOT 02 Side close tracking s
 ```
 
+> 🔗 [Original Source](https://x.com/kingofdairyque)
+
 ---
+
 ### Showgirl Escape Noir-Western Sequence
 
 **Prompt:**
@@ -239,7 +320,10 @@ SHOT 01 Ultra-low front tracking shot inches above asphalt, a high-performance s
 0-3s: A showgirl in torn silk stockings and feathered headdress crouches behind the bar, clutching a satchel, eyes darting toward the back door. 3-7s: She makes a run for it across the sawdust floor, passing drunken cowboys who reach for her but miss by inches, her sequins catching the light like scattered diamonds. 7-12s: The bouncer in a brocade vest lunge
 ```
 
+> 🔗 [Original Source](https://x.com/GlitterPixely)
+
 ---
+
 ### Greenery and Environmental Evolution Video Prompt
 
 **Prompt:**
@@ -247,7 +331,10 @@ SHOT 01 Ultra-low front tracking shot inches above asphalt, a high-performance s
 Importance of Greenery in Human Life “Start with a dull, grey city filled with pollution, dry trees, and tired people coughing. The sky looks hazy and lifeless. Slowly transition as greenery begins to grow—trees sprout, grass spreads, flowers bloom, and the sky turns bright blue. Show people breathing fresh air, smiling, and children playing happily. Birds f
 ```
 
+> 🔗 [Original Source](https://x.com/JosieMorgan__)
+
 ---
+
 ### Female warrior transformation combat
 
 **Prompt:**
@@ -255,7 +342,10 @@ Importance of Greenery in Human Life “Start with a dull, grey city filled with
 Cinematic continuous single-take shot, IMAX film simulation, Panavision C-series 35mm lens, f/4, strong backlighting, heavy shadows, desaturated grey tones. Low-angle shot from behind a battle-worn Western female warrior sitting motionless on a massive black warhorse on dark soil under a dull grey sky. She wears damaged black armor, long blonde hair partiall
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Jakarta Mecha vs Monster Scene
 
 **Prompt:**
@@ -263,7 +353,10 @@ Cinematic continuous single-take shot, IMAX film simulation, Panavision C-series
 15-second one-take continuous tracking shot, cinematic handheld feel. Color grading, lighting tone, and overall ambience cold bluish-grey foggy atmosphere throughout the entire video. No background music, only diegetic sound effects: destruction debris, screams, car engine, metallic nano-tech transformation sounds, laser blast, and monster roar. 0–3s: Wide e
 ```
 
+> 🔗 [Original Source](https://x.com/beranalogi)
+
 ---
+
 ### 2D Anime Action Sequence: Wind Knight vs Shadow Beast
 
 **Prompt:**
@@ -271,7 +364,10 @@ Cinematic continuous single-take shot, IMAX film simulation, Panavision C-series
 A 23-second ultra-cinematic 2D anime action sequence at night. Dark blue sky, stars, bright full moon with strong rim light. Burning medieval village in background: flaming huts, black smoke, floating embers. Dry rocky hills, dusty ground. Fluid 24fps animation, painterly style, dynamic motion blur, dramatic cameras, epic orchestral swell. 0-2s: Sweeping low
 ```
 
+> 🔗 [Original Source](https://x.com/Maercihh)
+
 ---
+
 ### Beat-Driven Streetwear Video
 
 **Prompt:**
@@ -279,7 +375,10 @@ A 23-second ultra-cinematic 2D anime action sequence at night. Dark blue sky, st
 FORMAT: 15s / 150 BPM / 15 SHOTS SUBJECT: @[image1] WARDROBE: Streetwear ENVIRONMENT: Street MOOD: Playful → stylish STYLE: Beat-driven cinematic CORE IDEA: Her actions create exaggerated sound effects SHOT FLOW: Step → bass hit Turn → whoosh Hand move → click Walk synced with beat She notices Plays with movement Builds rhythm Full sequence Stylish walk Sync
 ```
 
+> 🔗 [Original Source](https://x.com/ChillaiKalan__)
+
 ---
+
 ### European Piazza guitar performance
 
 **Prompt:**
@@ -287,7 +386,10 @@ FORMAT: 15s / 150 BPM / 15 SHOTS SUBJECT: @[image1] WARDROBE: Streetwear ENVIRON
 Cinematic, high-quality video of a beautiful young woman with auburn hair in a messy romantic updo, wearing an elegant, flowy, off-the-shoulder white dress. She is sitting gracefully on the cobblestone ground of a sunlit, grand European piazza, gently strumming a white acoustic guitar and singing a song. A fluffy white Ragdoll cat with a bushy tail is walkin
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Secret Cat Economy Underground Base Prompt
 
 **Prompt:**
@@ -295,7 +397,10 @@ Cinematic, high-quality video of a beautiful young woman with auburn hair in a m
 hyper-realistic nighttime city apartment setting. The scene begins with a quiet, dimly lit room where a household cat sits calmly on a sofa while the human sleeps in the background. Subtle moonlight enters through the window, creating a mysterious atmosphere. As the clock hits midnight, the cat suddenly becomes alert. The camera follows in smooth cinematic m
 ```
 
+> 🔗 [Original Source](https://x.com/aiwithaly)
+
 ---
+
 ### Futuristic hovercraft savanna chase
 
 **Prompt:**
@@ -303,7 +408,10 @@ hyper-realistic nighttime city apartment setting. The scene begins with a quiet,
 Start high above a vast savanna as the camera dives in a fast circling orbit. Below, a futuristic hovercraft-spacecraft hybrid streaks along a pale hardpack trail, skimming just above the ground. Its design is sleek and unforgettable: obsidian body, razor-curved wings, glowing red energy seams, and a luminous anti-gravity core that ripples the air beneath it
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cat in High Heels Security Footage
 
 **Prompt:**
@@ -311,7 +419,10 @@ Start high above a vast savanna as the camera dives in a fast circling orbit. Be
 [store type and name] security camera, 2019, grainy overhead wide shot, [store name] security guard tells woman they cant let their cat walk in high heels in their store, a silky short fur black bombay cat in red high heels walks back and forth in front of them she responds to the guard \"but she loves them!\" 12fps
 ```
 
+> 🔗 [Original Source](https://x.com/BrentLynch)
+
 ---
+
 ### The Sandcastle Cinematic Hyperlapse
 
 **Prompt:**
@@ -319,7 +430,10 @@ Start high above a vast savanna as the camera dives in a fast circling orbit. Be
 THE SANDCASTLE Cinematic hyperlapse, 16:9, 15 seconds, photorealistic, beach golden-hour lighting, overhead and low-angle shots. [0:00–0:04] A man arrives at an empty beach at sunrise with a bucket, shovel, and inexplicable determination. Hyperlapse
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### High-Speed Kinetic Typography 'Nekozamurai' Motion Graphics
 
 **Prompt:**
@@ -327,7 +441,10 @@ THE SANDCASTLE Cinematic hyperlapse, 16:9, 15 seconds, photorealistic, beach gol
 The cat in the image is at the back of the layer and swings a sword repeatedly in sync with the sound. Completely ignore the background of the reference image. Ultra-fast kinetic typography (15 seconds total), futuristic minimalist motion graphics, high-end After Effects style. Color palette is black, white, and red. Extremely high-tempo staccato rhythm, pre
 ```
 
+> 🔗 [Original Source](https://x.com/Naonekozamurai)
+
 ---
+
 ### Cinematic Time-Freeze Sports Bar Scene
 
 **Prompt:**
@@ -335,15 +452,21 @@ The cat in the image is at the back of the layer and swings a sword repeatedly i
 Use @ Reference Image as the main character, keeping facial features and body proportions consistent throughout. She is a 30-year-old woman. Cinematic time-freeze short film, 15 seconds, ultra-realistic, shot on Arri Alexa Mini, 35mm lens, moody sports bar interior lighting with neon accents, volumetric haze, dynamic hard shadows, shallow depth of field. [0:
 ```
 
+> 🔗 [Original Source](https://x.com/miilesus)
+
 ---
+
 ### Tiny Agent Casino Heist Action
 
 **Prompt:**
 ```
-0:00 – 0:02 INT. CASINO – TABLE LEVEL – NIGHT Ultra low-angle macro shot tracking him from the side. A 3 cm tall agent in a suit sprints across a casino table. Giant chips, dice, dollar bills, champagne glasses, and handguns tower around him. Shallow depth of field, cinematic lighting, motion blur. 0:02 – 0:05 CONTINUOUS – HIGH SPEED RUN camera tracking him 
+0:00 – 0:02 INT. CASINO – TABLE LEVEL – NIGHT Ultra low-angle macro shot tracking him from the side. A 3 cm tall agent in a suit sprints across a casino table. Giant chips, dice, dollar bills, champagne glasses, and handguns tower around him. Shallow depth of field, cinematic lighting, motion blur. 0:02 – 0:05 CONTINUOUS – HIGH SPEED RUN camera tracking him
 ```
 
+> 🔗 [Original Source](https://x.com/OlivioSarikas)
+
 ---
+
 ### Cinematic Wuxia Combat Sequence
 
 **Prompt:**
@@ -351,7 +474,10 @@ Use @ Reference Image as the main character, keeping facial features and body pr
 Cinematic wuxia combat sequence, 15-second continuous shot. Opening with a wide establishing shot of a dry-leaf courtyard. @[reference image_ 1] male saber-wielder with a long blade vs. @[reference image_2] female rapier-wielder with a slender sword.
 ```
 
+> 🔗 [Original Source](https://x.com/Iancu_ai)
+
 ---
+
 ### Cinematic Romantic Storyboard
 
 **Prompt:**
@@ -359,7 +485,10 @@ Cinematic wuxia combat sequence, 15-second continuous shot. Opening with a wide 
 PORTION 1 (0 :00–0:04) The First Glance Visual Prompt: Ultra-realistic cinematic video, golden hour lighting, modern university campus, soft warm tones, shallow depth of field. Ai Girllie (24, elegant, subtle futuristic vibe) walks past a glass building. John (26, photographer, casual aesthetic) lifts his camera, pauses as he notices her. Slow-motion eye con
 ```
 
+> 🔗 [Original Source](https://x.com/Inshrah_ali_)
+
 ---
+
 ### Cartoon Child and Chicken Chase
 
 **Prompt:**
@@ -367,7 +496,10 @@ PORTION 1 (0 :00–0:04) The First Glance Visual Prompt: Ultra-realistic cinemat
 The cartoon child walks left to right along the playground path, holding a half-eaten sandwich in the right hand. A chicken notices the sandwich, lowers its body, and suddenly sprints after it. The sandwich stays clearly visible the entire time until the child eventually throws it. The route remains unobstructed, moving from the path to the slide and then to
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cinematic Surfer Slow-Motion Barrel
 
 **Prompt:**
@@ -375,15 +507,21 @@ The cartoon child walks left to right along the playground path, holding a half-
 A cinematic slow-motion shot of a surfer riding inside a massive hollow ocean wave (barrel), smooth tracking camera at water level following alongside the surfer, the wave curls overhead forming a perfect tunnel, detailed water textures, splashes and mist particles, teal and deep blue color grading, high contrast, natural sunlight filtering through the wave,
 ```
 
+> 🔗 [Original Source](https://x.com/auqibhabib)
+
 ---
+
 ### Fantasy Warhorse Aqueduct Action Shot
 
 **Prompt:**
 ```
-Warhorse sprint on a cliff aqueduct (15 seconds, single continuous shot) A sweeping wide of ancient cliffs and a narrow aqueduct clinging to them. The camera dives to a tiny moving spark: a rider on a warhorse sprinting impossibly fast along the stone channel. Lock-on: hooves strike, water splashes, stone chips fly. The camera slingshots past, whips around, 
+Warhorse sprint on a cliff aqueduct (15 seconds, single continuous shot) A sweeping wide of ancient cliffs and a narrow aqueduct clinging to them. The camera dives to a tiny moving spark: a rider on a warhorse sprinting impossibly fast along the stone channel. Lock-on: hooves strike, water splashes, stone chips fly. The camera slingshots past, whips around,
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cinematic Commercial Sequence Part 1
 
 **Prompt:**
@@ -391,7 +529,10 @@ Warhorse sprint on a cliff aqueduct (15 seconds, single continuous shot) A sweep
 Cinematic speaker commercial, smooth transitions. Use multiple shots with varied camera angles (wide, medium, close-up), not a single continuous take. 1–2s: A tired man gets home, opens the door, turns on the light. Quiet apartment. 3–4s He sits on the sofa. Close-up
 ```
 
+> 🔗 [Original Source](https://x.com/HIX_AI_)
+
 ---
+
 ### Urban Shockwave Tracking Shot
 
 **Prompt:**
@@ -399,15 +540,21 @@ Cinematic speaker commercial, smooth transitions. Use multiple shots with varied
 A lone figure standing still in the middle of a street, wind starting to rise. A massive shockwave expands from behind, tearing through buildings and streets instantly. Urban environment disintegrating outward in all directions. Wide tracking shot pushing toward the figure, shockwave catching up, debris flying past lens, environment collapsing in real time.
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Autonomous High-Speed Chase
 
 **Prompt:**
 ```
-High-speed urban environment under extreme pressure. Hyper-realistic, grounded physics. The tone shifts from human tension to machine-level precision. Shot on 35mm anamorphic lens, f/2.8. Natural motion blur, realistic exposure, high dynamic range. Golden hour light cutting through dust, glass particles, and atmospheric haze. Subject: A skilled driver under 
+High-speed urban environment under extreme pressure. Hyper-realistic, grounded physics. The tone shifts from human tension to machine-level precision. Shot on 35mm anamorphic lens, f/2.8. Natural motion blur, realistic exposure, high dynamic range. Golden hour light cutting through dust, glass particles, and atmospheric haze. Subject: A skilled driver under
 ```
 
+> 🔗 [Original Source](https://x.com/AllaAisling)
+
 ---
+
 ### Prehistoric POV Paragliding Action
 
 **Prompt:**
@@ -415,7 +562,10 @@ High-speed urban environment under extreme pressure. Hyper-realistic, grounded p
 VISUAL STYLE: Use live-action feature film realism with crisp action-camera sharpness and ancient atmospheric haze. CHARACTERS: Define a pair of gloved human hands gripping worn paraglider toggles, dark flying boots, and multiple massive prehistoric predators crossing the flight path. STAGE: Set a vast prehistoric canyon that drops from open sky into fern-ch
 ```
 
+> 🔗 [Original Source](https://x.com/Xaroon_x)
+
 ---
+
 ### 3D Cartoon Ramen Eating Animation
 
 **Prompt:**
@@ -423,7 +573,10 @@ VISUAL STYLE: Use live-action feature film realism with crisp action-camera shar
 The 3D character from Image 1 performs actions in the style of a 3D cartoon animation. The movements alternate between fast motion and sudden stops, proceeding with a good tempo. Scene: The character from Image 1 is eating ramen at a food stall. Scene 1: Angle from below. She looks at the bowl of ramen and raises her chopsticks, looking impatient and excited
 ```
 
+> 🔗 [Original Source](https://x.com/L0fc54feio50017)
+
 ---
+
 ### Continuous Life Transformation Sequence
 
 **Prompt:**
@@ -431,7 +584,10 @@ The 3D character from Image 1 performs actions in the style of a 3D cartoon anim
 Cinematic continuous side-scrolling sequence, 16:9, 15 seconds. One unbroken shot — the camera tracks smoothly from left to right without cutting, following a single person through their entire life as the environment transforms
 ```
 
+> 🔗 [Original Source](https://x.com/TechieBySA)
+
 ---
+
 ### Shinjuku Kabukicho Cinematic Portrait
 
 **Prompt:**
@@ -439,7 +595,10 @@ Cinematic continuous side-scrolling sequence, 16:9, 15 seconds. One unbroken sho
 Shinjuku Kabukicho at dusk, a woman illuminated by neon lights looks back. The road surface after the rain reflects the light, and steam from a street stall crosses the screen. [Camera] Low-angle slow dolly-in, shallow depth of field, 35mm film texture. [Lighting] Red and blue neon rim lights, cinematic contrast.
 ```
 
+> 🔗 [Original Source](https://x.com/mousou_ai_)
+
 ---
+
 ### Animated Penguin Winter Slide Prompt
 
 **Prompt:**
@@ -447,7 +606,10 @@ Shinjuku Kabukicho at dusk, a woman illuminated by neon lights looks back. The r
 Imagine a charming, animated penguin stepping onto a glossy, icy surface under the bright glow of a cinematic winter sun. The camera captures a close-up of the penguin’s determined face as it attempts to walk, only to comically slide forward with a little stumble.
 ```
 
+> 🔗 [Original Source](https://x.com/kaan_alper)
+
 ---
+
 ### Sci-Fi Romantic Scene
 
 **Prompt:**
@@ -455,7 +617,10 @@ Imagine a charming, animated penguin stepping onto a glossy, icy surface under t
 15-second cinematic sci-fi romantic scene, two characters lying in a vast field of white roses, both in silver space suits — @Character_A: woman, long vivid auburn-red hair
 ```
 
+> 🔗 [Original Source](https://x.com/altphotos_pl)
+
 ---
+
 ### Pixar-Style Magical Girl in Library
 
 **Prompt:**
@@ -463,7 +628,10 @@ Imagine a charming, animated penguin stepping onto a glossy, icy surface under t
 A breathtaking 3D Pixar-style magical animated video, 15 seconds long, set inside a vast ancient circular library with towering wooden bookshelves reaching infinitely upward. SCENE 1 (0-4 sec): A cute magical girl with blonde curly pigtails tied with big pink bows, wearing a dark crimson fantasy dress with white frills and a tiny crown, stands before a large
 ```
 
+> 🔗 [Original Source](https://x.com/im_shahid7)
+
 ---
+
 ### Underground Crystal Cavern Mag-Lev Racing
 
 **Prompt:**
@@ -471,7 +639,10 @@ A breathtaking 3D Pixar-style magical animated video, 15 seconds long, set insid
 Start inside the mouth of a colossal underground cavern as the camera rushes forward and drops in a spiraling dive into the depths. Below, a mag-lev racing pod hurtles along a natural crystal rail formation deep underground, banking through impossible geological curves. Its design is minimal and luminous: a teardrop-shaped transparent cockpit revealing the p
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Olympic Hammer Throw Broadcast Simulation
 
 **Prompt:**
@@ -479,7 +650,10 @@ Start inside the mouth of a colossal underground cavern as the camera rushes for
 [BROADCAST SETUP] Live TV sports broadcast signal, 1080i HD resolution, 50fps. Shot on professional ENG stadium cameras. Standard TV color balance with natural daylight. No color grading, no cinematic filters, no artificial post-processing. Real-world stadium acoustics and ambient light. Audio Style: Immersive spatial sound design. Loud stadium atmosphere, c
 ```
 
+> 🔗 [Original Source](https://x.com/techhalla)
+
 ---
+
 ### Cyberpunk Rooftop Pursuit
 
 **Prompt:**
@@ -487,7 +661,10 @@ Start inside the mouth of a colossal underground cavern as the camera rushes for
 0:00-0:02: Close-up of her face as she regains balance, then a quick wide shot. She looks up at a dark hatch. 0:02-0:05: Rapid jump-cuts: she crouches, then leaps with a powerful burst of energy through the ceiling opening. First-person view looking up, followed by a side view of her soaring through the gap. 0:05-0:07: She lands on a rainy skyscraper roof, t
 ```
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Action Thriller Leviathan Chase
 
 **Prompt:**
@@ -495,7 +672,10 @@ Start inside the mouth of a colossal underground cavern as the camera rushes for
 Using the uploaded reference image as the subject: (0–2.5s) A frantic, vibrating handheld tracking shot follows her as she sprints across a shattered bridge, wearing a pink hoodie. The footage speed-ramps from fast-forward into ultra slow motion. Behind her, a colossal leviathan—formed from bioluminescent water and jagged ice scales—surges forward. The camer
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Cinematic Ballerina in Flooded Opera House
 
 **Prompt:**
@@ -503,7 +683,10 @@ Using the uploaded reference image as the subject: (0–2.5s) A frantic, vibrati
 16:9, 15-second ultra cinematic photoreal sequence, seamless 3-shot progression, no subtitles, no logos. Inside a vast abandoned opera house flooded with two inches of mirror-still water at blue hour, a lone ballerina in a black silk dress stands center stage. Shot 1: extreme macro from beneath the water as her pointe shoe touches down, sending silver drople
 ```
 
+> 🔗 [Original Source](https://x.com/IamEmily2050)
+
 ---
+
 ### Bollywood Street Dance Template
 
 **Prompt:**
@@ -511,7 +694,10 @@ Using the uploaded reference image as the subject: (0–2.5s) A frantic, vibrati
 Dance movie, Bollywood movie style, fast-paced high-speed cuts, 24FPS. Location: Photorealistic style, West Indian shopping street in the 1980s. Characters: A total of 25 dancers/actors. The appearance of 4 people per image is provided in a 2x2 grid, so reproduce them faithfully. Composition: The protagonist (@ image1) starts a sharp Bollywood-style dance al
 ```
 
+> 🔗 [Original Source](https://x.com/minmin_4410)
+
 ---
+
 ### Kuwait City Apartment Night Mood
 
 **Prompt:**
@@ -519,7 +705,10 @@ Dance movie, Bollywood movie style, fast-paced high-speed cuts, 24FPS. Location:
 Ultra-realistic 15s vertical video, cozy high-rise apartment overlooking Kuwait City at night. Warm interior glow vs cool deep blue skyline, cinematic lighting, soft motion, 8K detail. 0–3s Close-up of warm Edison bulbs → quick pan over wooden counter (mug, books, plants). 3–6s Camera glides toward large window, interior reflections fading as city comes into
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Cinematic Reality Collapse One-Take
 
 **Prompt:**
@@ -527,7 +716,10 @@ Ultra-realistic 15s vertical video, cozy high-rise apartment overlooking Kuwait 
 One continuous shot drifting above a city skyline at night as the sky begins to fracture. The camera slowly moves forward as reality distorts — stars appear through cracks in the sky. At the 2-second mark a lightning god strikes downward while a void entity tears open a dimensional rift. The camera accelerates into the collapsing space between them. Building
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### GYM Rush Morning Beat-Synced Routine
 
 **Prompt:**
@@ -535,7 +727,10 @@ One continuous shot drifting above a city skyline at night as the sky begins to 
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[image1] \u003c ATTACH YOUR IMAGE. WARDROBE: Sleep tee and lounge shorts at home. Compression tee, joggers, training shoes outside. ENVIRONMENT: Small bedroom, dim bathroom light, stairwell echo, early street haze, neon-lit gym, locker room mirror. Everything feels raw, humid, and kinetic. MOOD: Sle
 ```
 
+> 🔗 [Original Source](https://x.com/Strength04_X)
+
 ---
+
 ### Rainbow Hair Concert Video
 
 **Prompt:**
@@ -543,7 +738,10 @@ FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[image1] \u003c
 A young woman with long rainbow-colored hair (blue, green, pink gradient) stands in the middle of a massive outdoor music festival crowd. She drinks from a can as colored laser beams sweep through haze and stage lights pulse behind her. Confetti rains down around the dancing crowd. Energetic nighttime atmosphere, wide-angle concert photography style, vibrant
 ```
 
+> 🔗 [Original Source](https://x.com/Itswsm105f)
+
 ---
+
 ### Superman Cinematic Action Sequence
 
 **Prompt:**
@@ -551,7 +749,10 @@ A young woman with long rainbow-colored hair (blue, green, pink gradient) stands
 0:00-0:03 SCENE: Mid-air, Metropolis skyline. A high-tech mercenary fires a shoulder-mounted laser cannon. ACTION: Superman flies directly into the beam. The red energy dissipates against his chest. He doesn’t even blink. SFX: High-energy HISS followed by a heavy metallic THUD. 0:03-0:07 ACTION: Superman hits a burst of speed, leaving a vapor cone behind him
 ```
 
+> 🔗 [Original Source](https://x.com/chatgptpaglu)
+
 ---
+
 ### Surreal Musical Sculpture Animation
 
 **Prompt:**
@@ -559,7 +760,10 @@ A young woman with long rainbow-colored hair (blue, green, pink gradient) stands
 A continuous dolly-in glides along a surreal wooden sound sculpture perched on a stone overlook above the sea, bathed in golden-hour light. The instrument twists upward in intersecting curves and blocky voids—planks of varying size, density, and color are embedded at odd angles across its looping form. Some beams curve like ribs, others jut out like cantilev
 ```
 
+> 🔗 [Original Source](https://x.com/guicastellanos1)
+
 ---
+
 ### Anime Character Book Catch
 
 **Prompt:**
@@ -567,7 +771,10 @@ A continuous dolly-in glides along a surreal wooden sound sculpture perched on a
 A 5-second verification animation. The character is surprised and catches a book titled \"Meikyo\". [Character Settings] 100% complete maintenance of the character design, hairstyle, and outfit from the input image. [Background Settings] Solid flat studio background.
 ```
 
+> 🔗 [Original Source](https://x.com/naoki2021n)
+
 ---
+
 ### Vintage Shaw Brothers Wuxia Style
 
 **Prompt:**
@@ -575,7 +782,10 @@ A 5-second verification animation. The character is surprised and catches a book
 1960s Shaw Brothers wuxia-comedy meets absurd romance, dramatic lighting, theatrical acting, exaggerated reactions, old Hong Kong film grain, punchy sound effects, dark American humor dialogue, playful fourth-wall breaks, light
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cinematic Lifestyle Call Sequence
 
 **Prompt:**
@@ -583,7 +793,10 @@ A 5-second verification animation. The character is surprised and catches a book
 FORMAT: 15s / 135 BPM / 14 SHOTS SUBJECT: @[image1] WARDROBE: Casual → slightly refined ENVIRONMENT: Room → balcony → open sky MOOD: Low → relieved → strong STYLE: Cinematic lifestyle CORE IDEA: A call changes her emotional state SHOT FLOW: Sitting quietly, distant look Phone rings She hesitates Answers slowly Listening… expression softens Small nod Stands u
 ```
 
+> 🔗 [Original Source](https://x.com/ChillaiKalan__)
+
 ---
+
 ### Multi-Scene Calligraphy and Fairy Animation
 
 **Prompt:**
@@ -591,23 +804,32 @@ FORMAT: 15s / 135 BPM / 14 SHOTS SUBJECT: @[image1] WARDROBE: Casual → slightl
 Please refer to the provided image and generate the entire scene as a single animation video. SCENE 1 (0-4 seconds) - Shouting \"Wa~!\" - The fairy faces forward, opens her mouth wide, and shouts \"Wa~!\" energetically. - Rainbow ripple effects spread out from the front of her face as if sound is being emitted. - Her body vibrates slightly in time with the volum
 ```
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### Chef Spicy Food Prank POV
 
 **Prompt:**
 ```
-The scene opens from a first-person POV at a polished wooden dining table inside the kitchen, capturing local ceramic dishware and copper-rimmed serving bowls under warm amber and white light. The chef sits across the table, dressed in a white chef's coat, enjoying a spread of regional dishes. The mood is relaxed, ambient kitchen sounds fill the air. At 0s, 
+The scene opens from a first-person POV at a polished wooden dining table inside the kitchen, capturing local ceramic dishware and copper-rimmed serving bowls under warm amber and white light. The chef sits across the table, dressed in a white chef's coat, enjoying a spread of regional dishes. The mood is relaxed, ambient kitchen sounds fill the air. At 0s,
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cinematic World-Altering Magic Script
 
 **Prompt:**
 ```
-Seedance 2■ 15-second script (Flashy enhanced version | Full viral spec) ■ Concept: Magic capable of rewriting a city in one shot - not just an attack, but 'world alteration' ■ 0.0-2.0s [Abnormality (Strong)]: Video of Paris at night -\u003e Space glitches (buildings distort, pixel collapse). Eiffel Tower momentarily turns into noise. SE: 'Giii... (Data collapse 
+Seedance 2■ 15-second script (Flashy enhanced version | Full viral spec) ■ Concept: Magic capable of rewriting a city in one shot - not just an attack, but 'world alteration' ■ 0.0-2.0s [Abnormality (Strong)]: Video of Paris at night -\u003e Space glitches (buildings distort, pixel collapse). Eiffel Tower momentarily turns into noise. SE: 'Giii... (Data collapse
 ```
 
+> 🔗 [Original Source](https://x.com/noriyang_crypt)
+
 ---
+
 ### K-Pop Plaza Dance Battle
 
 **Prompt:**
@@ -615,7 +837,10 @@ Seedance 2■ 15-second script (Flashy enhanced version | Full viral spec) ■ C
 @ img1 : character reference, main dancer A, female, short gray hair, stylish K-pop outfit from reference, sharp choreography @ img2 : character reference, main dancer B, female, short pink hair, stylish K-pop outfit from reference, sharp choreography Two professional K-pop dancers ( @ img1 as Dancer A and @ img2 as Dancer B) face off in an intense yet fun d
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### 3D Animation Monkey Warrior Battle
 
 **Prompt:**
@@ -623,7 +848,10 @@ Seedance 2■ 15-second script (Flashy enhanced version | Full viral spec) ■ C
 [0:00-0:02] Pre-fight: An anthropomorphic monkey warrior in full traditional chinese armour is surrounded by an army of soldiers wearing metallic armor of gold and white. The warrior is laughing, finding his situation both exciting and halarious. The enemy soldiers are closing in all around him. He spins his staff playfully at his right side, twirling it beh
 ```
 
+> 🔗 [Original Source](https://x.com/PocketScreenAI)
+
 ---
+
 ### Cinematic Time-Freeze Sports Bar Prompt
 
 **Prompt:**
@@ -631,7 +859,10 @@ Seedance 2■ 15-second script (Flashy enhanced version | Full viral spec) ■ C
 Use @ Reference Image as the main character, keeping facial features and body proportions consistent throughout. He is a 30-year-old man. Cinematic time-freeze short film, 15 seconds, ultra-realistic, shot on Arri Alexa Mini, 35mm lens, moody sports bar interior lighting
 ```
 
+> 🔗 [Original Source](https://x.com/chrisfirst)
+
 ---
+
 ### Wasteland Sister Battle
 
 **Prompt:**
@@ -639,7 +870,10 @@ Use @ Reference Image as the main character, keeping facial features and body pr
 Close-up of @[reference image 1] in a white skin-tight combat suit, saying in Korean, \"Sister, do we really have to fight?\" Cut to @[reference image2] in a black skin-tight combat suit, saying in Korean, \"Yes, this is our fate, little sister.\" They charge at each other and break into an intense, high-speed battle across the wasteland. The camera whirls dizzy
 ```
 
+> 🔗 [Original Source](https://x.com/Iancu_ai)
+
 ---
+
 ### Surreal Luxury Film Sequence
 
 **Prompt:**
@@ -647,7 +881,10 @@ Close-up of @[reference image 1] in a white skin-tight combat suit, saying in Ko
 Ultra-cinematic surreal luxury film, 9:16 vertical, 15 seconds, hyper-real, no cheap AI look. Three camera moves — no more. The entire film is built from slow, expensive, intentional motion. No rapid cuts. No montage. Every transition is a camera move, not an edit.
 ```
 
+> 🔗 [Original Source](https://x.com/AuraDomoAi)
+
 ---
+
 ### Emotional Hospital Interaction
 
 **Prompt:**
@@ -655,7 +892,10 @@ Ultra-cinematic surreal luxury film, 9:16 vertical, 15 seconds, hyper-real, no c
 A calm, modern hospital room. A patient is lying on a bed while a professional, kind doctor stands beside him, gently checking his pulse and speaking softly. The camera slowly tracks from the side in a single continuous motion for the full 15 seconds. As the doctor leans slightly closer to examine the patient, the patient looks at the doctor and becomes emot
 ```
 
+> 🔗 [Original Source](https://x.com/DoctorAmna11)
+
 ---
+
 ### Paris Runway Transformation
 
 **Prompt:**
@@ -663,7 +903,10 @@ A calm, modern hospital room. A patient is lying on a bed while a professional, 
 Created based on Paris Fashion Week BGM and actual runway scenes. [00:00-00:8] An extremely beautiful model walking the Paris Fashion Week runway; her outfit smoothly transforms from a mini-skirt to a long skirt. Simultaneously, the top also smoothly transforms into a long dress. [00:08-00:15] The beautiful model poses at the end of the runway before turning
 ```
 
+> 🔗 [Original Source](https://x.com/old_pgmrs_will)
+
 ---
+
 ### Earth Zoom to Robot Workshop
 
 **Prompt:**
@@ -671,7 +914,10 @@ Created based on Paris Fashion Week BGM and actual runway scenes. [00:00-00:8] A
 Epic cinematic Earth zoom-in sequence starting from deep outer space. Camera begins with a majestic wide shot of planet Earth floating in the void (0-5s), then rapidly accelerates and dives toward the surface at breathtaking speed, piercing through glowing atmosphere layers, rushing clouds, and continents with dramatic motion blur, light streaks, and intense
 ```
 
+> 🔗 [Original Source](https://x.com/yuday9909)
+
 ---
+
 ### Ocean Trench to Surface Transition
 
 **Prompt:**
@@ -679,7 +925,10 @@ Epic cinematic Earth zoom-in sequence starting from deep outer space. Camera beg
 A single continuous impossible camera shot begins deep underwater in a vast ocean trench — bioluminescent creatures drift past in the darkness. The camera accelerates upward at speed, bursting through the ocean surface in a wall of spray and light, then continues rising
 ```
 
+> 🔗 [Original Source](https://x.com/HBCoop_)
+
 ---
+
 ### Ancient Indian Kingdom FPV Flight
 
 **Prompt:**
@@ -687,7 +936,10 @@ A single continuous impossible camera shot begins deep underwater in a vast ocea
 extremely fast-paced cinematic FPV flying through the ancient Indian Videha kingdom, hyper-realistic, 4K, dynamic motion, rushing through grand palaces, temples, marketplaces, courtyards, scholars, people, golden sunlight, dramatic lighting, depth of field, epic scale, lush greenery, riverbanks, horses and chariots in motion, immersive, cinematic color gradi
 ```
 
+> 🔗 [Original Source](https://x.com/shushant_l)
+
 ---
+
 ### Urban Rampage Tracking Shot
 
 **Prompt:**
@@ -695,7 +947,10 @@ extremely fast-paced cinematic FPV flying through the ancient Indian Videha king
 A driver gripping the wheel, eyes wide, swerving violently at full speed. Dodges collapsing buildings as a giant creature rampages through the city. Urban streets being destroyed, cars flipping, dust clouds rising. Front tracking shot pulling backward from the car, creature appearing in background, debris crashing around, cinematic destruction synced with mo
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Handheld 35mm Film Aesthetic Prompt
 
 **Prompt:**
@@ -703,7 +958,10 @@ A driver gripping the wheel, eyes wide, swerving violently at full speed. Dodges
 Format: 35mm film emulation, handheld cinematography, natural film grain, shallow depth of field, subtle focus breathing, imperfect stabilization, cinematic dynamic range Audio: No background music, only diegetic sound — wind shear, panicked breathing, claws
 ```
 
+> 🔗 [Original Source](https://x.com/Lukakh_)
+
 ---
+
 ### Dreamy Fairytale Logo Animation
 
 **Prompt:**
@@ -711,7 +969,10 @@ Format: 35mm film emulation, handheld cinematography, natural film grain, shallo
 Referencing the image, create a gentle and dreamy logo appearance animation. Start with soft pink and light blue light gently and warmly enveloping a black background, then the logo slowly floats up to represent a weightless dream world. Small stars, hearts, and bubbles drift around to create a cute fairytale atmosphere, and the logo is completed with a sens
 ```
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### Glacial Canyon Frost Battle
 
 **Prompt:**
@@ -719,7 +980,10 @@ Referencing the image, create a gentle and dreamy logo appearance animation. Sta
 Environment: A colossal glacial canyon under pale blue twilight. Massive ice walls tower above a frozen river while snowstorms sweep through the valley. The environment glows faintly with reflected moonlight from crystalline ice formations. Action: 15.0s sequence. A gigantic glacier tiger made of solid ice and glowing frost veins prowls across the frozen riv
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Found-Footage Talking Rabbits
 
 **Prompt:**
@@ -727,23 +991,32 @@ Environment: A colossal glacial canyon under pale blue twilight. Massive ice wal
 3D animated film style, ultra high quality, cinematic lighting, global illumination, soft shadows, depth of field, ultra detailed fur, cute characters, smooth animation, natural lighting, handheld camera feel, found-footage comedy style, realistic camera movement, playful atmosphere Scene: A group of fluffy forest rabbits stand in a bright forest clearing. T
 ```
 
+> 🔗 [Original Source](https://x.com/oggii_0)
+
 ---
+
 ### Ancient Battlefield to Microscopic Civilization
 
 **Prompt:**
 ```
-Epic wide-angle shot of a vast ancient battlefield at golden hour, thousands of warriors clashing with swords and shields under a hazy amber sky thick with smoke and ash. A lone archer in weathered bronze armor, face streaked with dirt, draws a longbow with deliberate tension. The arrow releases with a sharp twang. Camera immediately snaps behind the arrow, 
+Epic wide-angle shot of a vast ancient battlefield at golden hour, thousands of warriors clashing with swords and shields under a hazy amber sky thick with smoke and ash. A lone archer in weathered bronze armor, face streaked with dirt, draws a longbow with deliberate tension. The arrow releases with a sharp twang. Camera immediately snaps behind the arrow,
 ```
 
+> 🔗 [Original Source](https://x.com/itxabdullaa)
+
 ---
+
 ### Jungle Explorer One-Shot
 
 **Prompt:**
 ```
-One fearless female explorer in beige crop top, jungle shorts, rope belt, muddy skin, long dark hair loose. Swinging from giant vines above ancient forest. Main frame from rear. Small rectangular inset top-right shows front face and torso. SCENE: Camera locked behind her as she is already mid-swing at high speed over massive jungle canyon. No cuts. Maintain 
+One fearless female explorer in beige crop top, jungle shorts, rope belt, muddy skin, long dark hair loose. Swinging from giant vines above ancient forest. Main frame from rear. Small rectangular inset top-right shows front face and torso. SCENE: Camera locked behind her as she is already mid-swing at high speed over massive jungle canyon. No cuts. Maintain
 ```
 
+> 🔗 [Original Source](https://x.com/FutureVibesAi)
+
 ---
+
 ### War-Torn Street Emotional Scene
 
 **Prompt:**
@@ -751,7 +1024,10 @@ One fearless female explorer in beige crop top, jungle shorts, rope belt, muddy 
 A war-torn street with destroyed buildings and smoke in the background. A small child sits alone holding a damaged toy, dust on face, eyes filled with fear and confusion. Slow camera zoom, muted colors, cinematic lighting, emotional atmosphere, realistic style.
 ```
 
+> 🔗 [Original Source](https://x.com/JosieMorgan__)
+
 ---
+
 ### Post-Apocalyptic Sci-Fi Action Sequence
 
 **Prompt:**
@@ -759,7 +1035,10 @@ A war-torn street with destroyed buildings and smoke in the background. A small 
 Image1 character as the subject a male, black oversized hoodie, black oversized baggy jeans, black sneakers. Radiation-enhanced superhuman speed and strength, awakened orange-yellow glowing pupils, veins bulging. intense aura. Scene: Abandoned Chicago high-rise ruins, exposed rebar, cracked concrete, suspended derelict vehicles, rusted steel walkways, mutant
 ```
 
+> 🔗 [Original Source](https://x.com/harboriis)
+
 ---
+
 ### Daily Routine Split-Screen Comparison
 
 **Prompt:**
@@ -767,7 +1046,10 @@ Image1 character as the subject a male, black oversized hoodie, black oversized 
 Split screen: STYLE: High-end stylized 3D animated character, cinematic lighting, expressive faces, polished materials, exaggerated but believable motion, comedic visual storytelling with split-screen sequences. WARDROBE: Man Image2 — oversized graphic tee and jogger pants entire film, never changes. Woman Image1 — western casuals shots 1–6, sharp blazer tro
 ```
 
+> 🔗 [Original Source](https://x.com/dasachins)
+
 ---
+
 ### Shadow Monarch Tundra Scene
 
 **Prompt:**
@@ -775,7 +1057,10 @@ Split screen: STYLE: High-end stylized 3D animated character, cinematic lighting
 Hyperrealistic cinematic shot, 35mm anamorphic lens, heavy film grain, aggressive handheld camera with visible sway. Teal and amber palette with violet-purple accents. No zoom. Snowstorm atmosphere, volumetric fog, breath vapor visible [0s-3s] Low-angle shot from ground level. Vast frozen tundra, dark overcast sky, heavy snow falling. @ShadowMonarch walks fo
 ```
 
+> 🔗 [Original Source](https://x.com/im_shahid7)
+
 ---
+
 ### Kawaii Chibi Phoebe with Baby Chicks
 
 **Prompt:**
@@ -783,7 +1068,10 @@ Hyperrealistic cinematic shot, 35mm anamorphic lens, heavy film grain, aggressiv
 Use the same face from the reference image without changing facial features. ultra-kawaii 3D chibi CGI animation, plush toy aesthetic with realistic fabric and fur textures. Cute blonde anime girl Phoebe from Wuthering Waves as chibi: huge head, tiny body, long blonde hair with white wide-brim hat, blue ribbon and butterfly clip, blue cape and white-black ou
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Astronaut Resting in White Roses
 
 **Prompt:**
@@ -791,7 +1079,10 @@ Use the same face from the reference image without changing facial features. ult
 An extraordinarily beautiful American woman with long deep vibrant orange hair spread elegantly around her, breathtakingly perfect symmetrical face, flawless porcelain skin, captivating eyes, high cheekbones, full red lips, lying peacefully on her back in the center of a massive bed of blooming pure white roses. She is wearing a clean, detailed white astrona
 ```
 
+> 🔗 [Original Source](https://x.com/aiimagine_daily)
+
 ---
+
 ### Stardust Shoujo Anime Prompt
 
 **Prompt:**
@@ -799,7 +1090,10 @@ An extraordinarily beautiful American woman with long deep vibrant orange hair s
 [Video Concept] A 10-second scene of a girl surrounded by stardust, crying while thinking of someone. Three lines whispered in Japanese. Deep purple and silver colors. Particles synchronize with her emotions. [Character] A silver-haired girl with flowing hair and an ethereal gown. Transitioning from silence to earnestness to tears. [Background] Night sky wit
 ```
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### Epic Wildlife Campaign Trailer
 
 **Prompt:**
@@ -807,7 +1101,10 @@ An extraordinarily beautiful American woman with long deep vibrant orange hair s
 Create a 16-second ultra-cinematic wildlife trailer in vertical 9:16 format featuring three iconic animals: an elephant, a cheetah, and a gorilla. The film must feel epic, emotional, powerful, and expensive — like a luxury nature campaign mixed with a cinematic movie
 ```
 
+> 🔗 [Original Source](https://x.com/AuraDomoAi)
+
 ---
+
 ### High-Octane Izakaya Jet Entrance
 
 **Prompt:**
@@ -815,7 +1112,10 @@ Create a 16-second ultra-cinematic wildlife trailer in vertical 9:16 format feat
 A woman late for a mixer flies at Mach 1 using leg jet engines, crashes through a suburban house window, and seamlessly slides into her seat at an Izakaya.
 ```
 
+> 🔗 [Original Source](https://x.com/eijo_AIart)
+
 ---
+
 ### Kung Fu Culinary Master Action Part 1
 
 **Prompt:**
@@ -823,7 +1123,10 @@ A woman late for a mixer flies at Mach 1 using leg jet engines, crashes through 
 ACTION: A poster girl wearing a traditional cheongsam who is clumsy but actually a kung fu master. While wrapping soup dumpling skins at high speed in the kitchen, she accidentally scatters a large amount of flour. From the white smoke, dozens of soup dumplings rise into the air in a line like a dragon.
 ```
 
+> 🔗 [Original Source](https://x.com/HanaPetalAI)
+
 ---
+
 ### Glowing Humanoid Protagonist and Desert Ruins
 
 **Prompt:**
@@ -831,7 +1134,10 @@ ACTION: A poster girl wearing a traditional cheongsam who is clumsy but actually
 image1 as the glowing humanoid protagonist and starting pose (lone powerful figure with dramatic blue energy glow, keep exact biomechanical design, intricate mechanical-organic fusion, and intense presence), image4 as the ancient desert coliseum ruins environment and awakening
 ```
 
+> 🔗 [Original Source](https://x.com/folarihn)
+
 ---
+
 ### Orbital Ring Structural Failure
 
 **Prompt:**
@@ -839,7 +1145,10 @@ image1 as the glowing humanoid protagonist and starting pose (lone powerful figu
 Gigantic orbital ring around an alien planet, structural failure propagating at high velocity, entire sections tearing apart while traffic is still moving across it. Wide shot: the ring mid-rotation, a fracture suddenly racing along its surface faster than expected. Hard tracking: camera locked to the crack as it splits structural layers, tearing through hab
 ```
 
+> 🔗 [Original Source](https://x.com/AllaAisling)
+
 ---
+
 ### Iris Transition into Memory World
 
 **Prompt:**
@@ -847,7 +1156,10 @@ Gigantic orbital ring around an alien planet, structural failure propagating at 
 camera orbits 90 degrees to the left then rapidly iris in to the girl, going through her iris into a mirrored world with inverted colors of a shattered world. Dozens of shards of glass, each reflecting a different fragment of memory from the girl's past floats in a dark mysterious void.
 ```
 
+> 🔗 [Original Source](https://x.com/PocketScreenAI)
+
 ---
+
 ### Cinematic Lifestyle Mood Shift
 
 **Prompt:**
@@ -855,7 +1167,10 @@ camera orbits 90 degrees to the left then rapidly iris in to the girl, going thr
 FORMAT: 15s / 135 BPM / 14 SHOTS SUBJECT: @[image1] WARDROBE: Casual → slightly elevated ENVIRONMENT: Room → street → brighter world MOOD: Neutral → excited → confident STYLE: Cinematic lifestyle CORE IDEA: One message shifts her whole vibe SHOT FLOW: Sitting bored Phone buzz Reads message → expression changes Quick stand up Outfit adjustment Mirror glance L
 ```
 
+> 🔗 [Original Source](https://x.com/Kashberg_0)
+
 ---
+
 ### Ballet Dancer vs Boxer Cinematic Fight
 
 **Prompt:**
@@ -863,7 +1178,10 @@ FORMAT: 15s / 135 BPM / 14 SHOTS SUBJECT: @[image1] WARDROBE: Casual → slightl
 Japanese anime style with the exhilarating feel of a competitive fighting game. Set in a boxing ring, 15 seconds, 30fps, no subtitles. High-contrast cinematic lighting, volumetric light, atmospheric particles and smoke, with a strong audience presence. The overall pacing is clean and sharp, with decisive and powerful camera movement, no dragging. High dynami
 ```
 
+> 🔗 [Original Source](https://x.com/KanaWorks_AI)
+
 ---
+
 ### Product Review UGC Prompt
 
 **Prompt:**
@@ -871,15 +1189,21 @@ Japanese anime style with the exhilarating feel of a competitive fighting game. 
 Woman talking to camera, reviewing product how happy she is with it saying \"Meno is best supplement i ever used!\"
 ```
 
+> 🔗 [Original Source](https://x.com/Lukakharatishv6)
+
 ---
+
 ### Volcanic Man City Destruction
 
 **Prompt:**
 ```
-A massive man in his late 30s with volcanic ash streaking his skin, shaved head and ember-orange eyes, wearing a heavy basalt-plated mantle embedded with molten fissures glowing beneath the armor — hook at second two: he slams both fists into a city plaza and the molten fissures ignite, sending seismic shockwaves through the ground. The pavement splits open 
+A massive man in his late 30s with volcanic ash streaking his skin, shaved head and ember-orange eyes, wearing a heavy basalt-plated mantle embedded with molten fissures glowing beneath the armor — hook at second two: he slams both fists into a city plaza and the molten fissures ignite, sending seismic shockwaves through the ground. The pavement splits open
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Immersive High-Speed Office Melee
 
 **Prompt:**
@@ -887,7 +1211,10 @@ A massive man in his late 30s with volcanic ash streaking his skin, shaved head 
 15-second, no-dialogue, fully immersive high-speed brutal fight short film. Two characters @ image1 and @ image2 . Live-action realistic style. Close-quarters, high-speed chaotic melee combat with no rules, fully out-of-control brawling. No flashy choreography—pure raw. Continuous exchange of punches, kicks, blocks, body checks, throws, and grappling entangl
 ```
 
+> 🔗 [Original Source](https://x.com/doctorwasif)
+
 ---
+
 ### Funny Cat Breakfast Wake-up Call
 
 **Prompt:**
@@ -895,7 +1222,10 @@ A massive man in his late 30s with volcanic ash streaking his skin, shaved head 
 A hyper-realistic video shot in a modern Western-style bedroom in the morning. An American couple is sleeping peacefully in bed with soft, natural daylight coming through the window. A tabby orange cat is running through the bedroom doorway, holding its own food bowl in its mouth. The cat jumps onto the bed and runs between the two sleeping figures. First, i
 ```
 
+> 🔗 [Original Source](https://x.com/ElserAIOfficial)
+
 ---
+
 ### Dark Lava Creature Transformation Prompt
 
 **Prompt:**
@@ -903,7 +1233,10 @@ A hyper-realistic video shot in a modern Western-style bedroom in the morning. A
 Character reference strictly follow face identity Final form dark lava creature inspirationLocation destroyed battlefield police surrounding0-3 seconds medium shot slow pushMain character kneeling breathing heavily injuredHands on ground slight trembling visiblePolice enter frame
 ```
 
+> 🔗 [Original Source](https://x.com/Sheldon056)
+
 ---
+
 ### Flying Carpet Escape Scene
 
 **Prompt:**
@@ -911,7 +1244,10 @@ Character reference strictly follow face identity Final form dark lava creature 
 Continuous uncut handheld tracking shot, photorealistic, 24fps. YOUR IMAGE on a flying carpet races through ancient Egyptian desert ruins under overcast skies. Massive sand golems hurl boulders — he dodges with dives, sharp pull-ups and snap-rolls, carpet flexing with realistic physics, debris flying past the lens.
 ```
 
+> 🔗 [Original Source](https://x.com/rahulnanda86)
+
 ---
+
 ### Colored Pencil Time-lapse Flower Field
 
 **Prompt:**
@@ -919,23 +1255,32 @@ Continuous uncut handheld tracking shot, photorealistic, 24fps. YOUR IMAGE on a 
 A fantastic landscape of a flower field meticulously drawn with colored pencils, with spreading colorful flowers (densely blooming from small to large), and every single petal and leaf carefully rendered. A clear blue sky with soft clouds floating slowly, deep blue gradients, and the texture of the sky expressed through characteristic colored pencil strokes.
 ```
 
+> 🔗 [Original Source](https://x.com/Naonekozamurai)
+
 ---
+
 ### Chibi Phoebe Anime Description
 
 **Prompt:**
 ```
-POV: Someone stealthily stole Phoebe Chibi’s rice from her bowl Watch her instantly boil over😂 A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi Chupi', exaggerated big head, tiny body, adorable round face, big sparkling eyes with heart-shaped highlights, blonde hair with blue ribbons, wearing her signature oversized white and 
+POV: Someone stealthily stole Phoebe Chibi’s rice from her bowl Watch her instantly boil over😂 A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi Chupi', exaggerated big head, tiny body, adorable round face, big sparkling eyes with heart-shaped highlights, blonde hair with blue ribbons, wearing her signature oversized white and
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### Futuristic Cyberpunk Logo Motion Graphic
 
 **Prompt:**
 ```
-Referencing the uploaded logo image, please create a futuristic motion graphic video of about 10 seconds. 0-1 sec: Faint blue noise, scanning lines, and data particles appear on a black background. 1-2.5 sec: A circular HUD, thin luminous lines, and a scanning ring activate, starting to draw the outer perimeter of the logo. 2.5-4 sec: A character silhouette 
+Referencing the uploaded logo image, please create a futuristic motion graphic video of about 10 seconds. 0-1 sec: Faint blue noise, scanning lines, and data particles appear on a black background. 1-2.5 sec: A circular HUD, thin luminous lines, and a scanning ring activate, starting to draw the outer perimeter of the logo. 2.5-4 sec: A character silhouette
 ```
 
+> 🔗 [Original Source](https://x.com/noriyang_crypt)
+
 ---
+
 ### Cybernetic Motion Graphic Logo Reveal
 
 **Prompt:**
@@ -943,7 +1288,10 @@ Referencing the uploaded logo image, please create a futuristic motion graphic v
 Referencing the uploaded logo image, create a futuristic logo reveal animation on a black background. Start with blue noise, scanlines, circular HUD, and scanning effects, with the outer edge of the logo drawn in glowing lines. The character inside should also emerge from light particles and lines, and finally, the entire logo should complete in neon blue an
 ```
 
+> 🔗 [Original Source](https://x.com/noriyang_crypt)
+
 ---
+
 ### Orange Cat Adventure: Pyramid Simulation
 
 **Prompt:**
@@ -951,7 +1299,10 @@ Referencing the uploaded logo image, create a futuristic logo reveal animation o
 STORY FORMAT: 15s / 152 BPM / ONE CONTINUOUS SHOT / 3D adventure-comedy / stylized ancient-tomb fantasy TONE: tense survival → frantic ingenuity → claustrophobic horror → absurd cosmic twist SUBJECTS: Orange cat explorer in rugged fedora-style hat, brown leather outfit, holding a torch, axe strapped at waist; Ancient sarcophagi; Swarm of black scarab beetles
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Assassination Sequence Parametric Prompt
 
 **Prompt:**
@@ -959,7 +1310,10 @@ STORY FORMAT: 15s / 152 BPM / ONE CONTINUOUS SHOT / 3D adventure-comedy / styliz
 CHARACTERS: A: [ref_image] an assassin with a blade and fluid movement B: armored guards with shields and coordinated attacks ENVIRONMENT dimly lit palace corridor with pillars and polished stone floor FIGHT PROFILE STYLE: elegant ENERGY: high WEAPONS: melee INTENT: assassination
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Complex Action Sequence with Transformations
 
 **Prompt:**
@@ -967,7 +1321,10 @@ CHARACTERS: A: [ref_image] an assassin with a blade and fluid movement B: armore
 ## Phase C (0.20s): Lantern Activation, Explosion, Panoramic View (0.07s) Instant cut to black. Fixed camera. Blackout where only human silhouettes are visible (silence before special move). A flower emblem (5 petals, red+gray, 40% width) appears in center, golden explosion light radiates in 8 directions. Vertical golden energy beam extends downward from emb
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Tokyo Café Barista Latte Art Close-up
 
 **Prompt:**
@@ -975,7 +1332,10 @@ CHARACTERS: A: [ref_image] an assassin with a blade and fluid movement B: armore
 A barista in a small Tokyo café pours steamed milk into a dark espresso from 15cm height in one continuous motion. Milk stream hitting crema, creating a rosetta pattern, steam rising and curling in cold morning air, condensation on the ceramic cup, the barista's hand steady with visible tendons, apron fabric shifting, reflection of neon sign in the glass cou
 ```
 
+> 🔗 [Original Source](https://x.com/AImaniaChannel)
+
 ---
+
 ### Plot to Megacity Construction Timelapse
 
 **Prompt:**
@@ -983,7 +1343,10 @@ A barista in a small Tokyo café pours steamed milk into a dark espresso from 15
 Cinematic timelapse sequence, 16:9, 15 seconds. Opens with a wide aerial shot looking down at a completely empty flat plot of land — dirt, nothing around it, golden morning light. Time begins accelerating. Foundation crews arrive, concrete is poured, steel frames rise from the ground. Roads begin forming outward in every direction. Buildings grow upward at t
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Mother's Day Atmosphere Video Prompt
 
 **Prompt:**
@@ -991,7 +1354,10 @@ Cinematic timelapse sequence, 16:9, 15 seconds. Opens with a wide aerial shot lo
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Early morning Mother’s Day atmosphere, soft golden sunrise, warm pastel tones, gentle natural light bloom, cozy suburban garden, cinematic depth of field, photorealistic 8K
 ```
 
+> 🔗 [Original Source](https://x.com/alifcoder)
+
 ---
+
 ### Taekwondo Cat Rooftop Chase
 
 **Prompt:**
@@ -999,7 +1365,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Earl
 A sleepy orange cat in a crisp white taekwondo uniform dozes off in the middle of a disciplined dojo within the first two seconds, while rows of other cats practice punches with perfect focus, instantly creating a humorous hook, and the scene snaps into motion as a stern black cat master in a gray Taoist robe storms in and scolds him before grabbing a fly sw
 ```
 
+> 🔗 [Original Source](https://x.com/im_shahid7)
+
 ---
+
 ### Ancient Indian Kingdom FPV
 
 **Prompt:**
@@ -1007,7 +1376,10 @@ A sleepy orange cat in a crisp white taekwondo uniform dozes off in the middle o
 extremely fast-paced cinematic FPV flying through the ancient Indian Matsya Kingdom at sunrise, hyper-realistic, detailed sandstone palaces, grand forts, bustling markets, warriors in traditional armor, royal processions, temples with intricate carvings, flowing rivers and lush greenery, dynamic camera movements with rapid dives, sharp turns, epic scale, atm
 ```
 
+> 🔗 [Original Source](https://x.com/shushant_l)
+
 ---
+
 ### Graphite to Carbon Fiber Transformation
 
 **Prompt:**
@@ -1015,7 +1387,10 @@ extremely fast-paced cinematic FPV flying through the ancient Indian Matsya King
 pencil sketch fades as 3d geometry rises eraser marks vanish, leaving real heat haze camera arcs from 2d lines to glossy finish
 ```
 
+> 🔗 [Original Source](https://x.com/FarAICoder)
+
 ---
+
 ### Rotating Sneaker Ad Sequence
 
 **Prompt:**
@@ -1023,7 +1398,10 @@ pencil sketch fades as 3d geometry rises eraser marks vanish, leaving real heat 
 An ad for a pair of running shoes, the sneakers are rotating on a pedestal in a dark studio while a mountain trail scene is projected onto them. Top-notch ad sound effects, No Monologue
 ```
 
+> 🔗 [Original Source](https://x.com/JohnnyWang8802)
+
 ---
+
 ### Futuristic Alien Marketplace Prompt
 
 **Prompt:**
@@ -1031,7 +1409,10 @@ An ad for a pair of running shoes, the sneakers are rotating on a pedestal in a 
 [Scene] A busy futuristic alien marketplace with neon lights, holograms, and glowing plants. [Subject] Alien merchants selling glowing Alien food, robots moving through crowds. [Action] Trading and movement, robot carrying floating items passes, fruit sliced
 ```
 
+> 🔗 [Original Source](https://x.com/itsPolloAI)
+
 ---
+
 ### Stone Colossus Action Sequence
 
 **Prompt:**
@@ -1039,7 +1420,10 @@ An ad for a pair of running shoes, the sneakers are rotating on a pedestal in a 
 A 15-second cinematic action sequence that starts instantly with an epic ultra-wide shot of a gigantic stone colossus striding through a storm-covered desert while tiny riders race across the dunes below at full speed. The camera is already moving fast from the first frame, sweeping low and aggressive past shattered pillars and exploding sand. At 7 seconds e
 ```
 
+> 🔗 [Original Source](https://x.com/im_shahid7)
+
 ---
+
 ### Coastal City Evolution 10,000-Year Timelapse
 
 **Prompt:**
@@ -1047,7 +1431,10 @@ A 15-second cinematic action sequence that starts instantly with an epic ultra-w
 [CINEMATIC SETUP] Film Style: Photorealistic 8K, 65mm IMAX. One continuous forward dolly — no cuts. The camera glides steadily forward at chest height, as if walking through time, while the coastal landscape and city evolve dramatically around it over 10,000 years. Lens: 24mm wide-angle, shallow horizon line with subtle sea mist and horizon glow. Color Grade
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Nostalgic Dream Meadow Sequence
 
 **Prompt:**
@@ -1055,7 +1442,10 @@ A 15-second cinematic action sequence that starts instantly with an epic ultra-w
 15-second cinematic video, vertical 9:16. A surreal golden meadow at sunset. A young girl (8–10 years old) standing barefoot in tall glowing grass. Liquid sunlight rays flow and bend around her like soft ribbons. Translucent memory echoes of the same girl appear around her — laughing, running, fading into glowing particles. Character face remains consistent,
 ```
 
+> 🔗 [Original Source](https://x.com/SimplyAnnisa)
+
 ---
+
 ### Time-Lapse City Evolution in 8K IMAX
 
 **Prompt:**
@@ -1063,7 +1453,10 @@ A 15-second cinematic action sequence that starts instantly with an epic ultra-w
 Film Style: Photorealistic 8K, 65mm IMAX. One continuous forward dolly — no cuts. The camera glides steadily forward at chest height, as if walking through time, while the coastal landscape and city evolve dramatically around it over 10,000 years. Lens: 24mm
 ```
 
+> 🔗 [Original Source](https://x.com/MrDasOnX)
+
 ---
+
 ### Seedance 2.0 Storyboard Narrative Prompt
 
 **Prompt:**
@@ -1071,7 +1464,10 @@ Film Style: Photorealistic 8K, 65mm IMAX. One continuous forward dolly — no cu
 Reference the 9-panel storyboard in @ Image1, following the sequence from left to right, top to bottom, generate a short Liaozhai story in Shaw Brothers studio style.
 ```
 
+> 🔗 [Original Source](https://x.com/vista8)
+
 ---
+
 ### Warehouse Action Sequence Prompt
 
 **Prompt:**
@@ -1079,7 +1475,10 @@ Reference the 9-panel storyboard in @ Image1, following the sequence from left t
 Action sequence in a cluttered warehouse. Fighter dodges attacks using parkour moves, grabs a bamboo pole to counter multiple opponents, backflips off walls, and weaponizes surrounding props. Rapid cuts between punches, kicks, and comedic timing
 ```
 
+> 🔗 [Original Source](https://x.com/vista8)
+
 ---
+
 ### Evolution of Civilization Video Prompt
 
 **Prompt:**
@@ -1087,7 +1486,10 @@ Action sequence in a cluttered warehouse. Fighter dodges attacks using parkour m
 \"Every civilization begins with a dream.\" A single neuron firing → synapses connecting into a brain → a child's eye opening → hand drawing on cave wall → pyramid under construction → Renaissance city with domes and spires → industrial revolution with steam and gears → digital age with holographic displays → quantum realm with impossible architecture floating
 ```
 
+> 🔗 [Original Source](https://x.com/vista8)
+
 ---
+
 ### Tropical Seaplane Aerial Adventure
 
 **Prompt:**
@@ -1095,7 +1497,10 @@ Action sequence in a cluttered warehouse. Fighter dodges attacks using parkour m
 Create a hyper-realistic, cinematic 14-second aerial adventure video in 4K, shot on RED camera with anamorphic lenses, vibrant color grading, golden sunlight, and crystal-clear turquoise water. Style: mix of National Geographic documentary and Hollywood action (think Top Gun meets Maldives travel film). Dynamic drone-style camera movement, motion blur on fas
 ```
 
+> 🔗 [Original Source](https://x.com/Maercihh)
+
 ---
+
 ### Photorealistic Sandworm Hunt Short Film
 
 **Prompt:**
@@ -1103,7 +1508,10 @@ Create a hyper-realistic, cinematic 14-second aerial adventure video in 4K, shot
 Cinematic short film, photorealistic VFX. 15-second desert hunt at high noon. Blinding light, zero shade, heat shimmer on everything. [0–2s] Overhead drone — red desert canyon system. Sandstone towers, wind-carved arches, dry riverbeds. One figure: a woman on a sand-skiff — a flat wooden board with a triangular sail, gliding across compacted sand on bone run
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cyberpunk K-Pop Animation
 
 **Prompt:**
@@ -1111,7 +1519,10 @@ Cinematic short film, photorealistic VFX. 15-second desert hunt at high noon. Bl
 hand drawn dynamic k-pop dance sequence with k-pop choreography in a cyberpunk setting, fit, extremely high quality, alluring, wide lens, extreme foreshortening, pg-13, futuristic, hand drawn anime, expert choreography, backup dancers, in a crowded rave, smoke machines, light show, backlit, tutting, amazing choreography, hand drawn animation, masterpiece, ul
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Food Delivery Rush Cinematic Prompt
 
 **Prompt:**
@@ -1119,7 +1530,10 @@ hand drawn dynamic k-pop dance sequence with k-pop choreography in a cyberpunk s
 FOOD DELIVERY RUSH” VERSION FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: @[image1] ENVIRONMENT: Bedroom → street → traffic → restaurant → customer doorstep MOOD ARC: Chill → urgency → time pressure → fast execution → small relief SHOT LIST (Beat-synced) 1. Lying relaxed, scrolling phone 2. Order notification pops up (Uber Eats/Zomato style) 3
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Butterfly Swarm to Ethereal Dancer Loop
 
 **Prompt:**
@@ -1127,7 +1541,10 @@ FOOD DELIVERY RUSH” VERSION FORMAT: 15 seconds / 145 BPM / 15 beat-synced shot
 Cinematographic video, 8 seconds. Picking up from the swirling vortex of glowing blue morpho butterflies. The massive cloud of butterflies rapidly converges into a dark, foggy void. In a flash of ethereal light, the swarm materializes a stunning woman wearing an elegant deep-blue evening gown embroidered with shimmering butterflies. She possesses massive, ma
 ```
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Soviet Hospital Rooftop Horror Sequence
 
 **Prompt:**
@@ -1135,7 +1552,10 @@ Cinematographic video, 8 seconds. Picking up from the swirling vortex of glowing
 A hyper-real cinematic horror-thriller sequence set on an abandoned rooftop of a crumbling Soviet-era hospital at dusk. Orange dying light, heavy wind, loose debris rolling across concrete. Sound includes metallic creaking, distant sirens, and thousands of bird wings.
 ```
 
+> 🔗 [Original Source](https://x.com/viktoryia_hedz)
+
 ---
+
 ### Glacier Planet Escape
 
 **Prompt:**
@@ -1143,7 +1563,10 @@ A hyper-real cinematic horror-thriller sequence set on an abandoned rooftop of a
 The female protagonist is running rapidly on a glacier on an icy planet, with a giant glacier about to collapse behind her. A helicopter flies in, and at the moment the glacier is about to collapse, she jumps and grabs the rope hanging from the helicopter, successfully escaping the collapsing glacier. Then, the camera follows with a rising aerial shot. Reali
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Sneaker Material Morph Transformation
 
 **Prompt:**
@@ -1151,15 +1574,21 @@ The female protagonist is running rapidly on a glacier on an icy planet, with a 
 Ultra-realistic cinematic video, 15s, 24fps. A single sneaker sits on a clean infinite white surface, rotating slowly 360°. The sneaker's silhouette and shape never change - only its material and texture morph continuously. CAMERA: Slow elegant orbit around the sneaker, smooth dolly push-ins to highlight texture detail, occasional extreme close-up on sole, l
 ```
 
+> 🔗 [Original Source](https://x.com/FutureVibesAi)
+
 ---
+
 ### Comedic Cat VTuber Parody Prompt
 
 **Prompt:**
 ```
-Style: hyper-comedic, dramatic soap-opera parody, fast cuts, exaggerated reactions, anime-realism hybrid, vibrant lighting, TikTok UI overlays, chaotic energy Scene 1 (0–1s) Interior, messy bedroom. A white tiger in loose pajamas slurps instant noodles at a cluttered desk, eyes glued to a glowing monitor. SFX: slurp slurp White Tiger (muttering): “Let’s see 
+Style: hyper-comedic, dramatic soap-opera parody, fast cuts, exaggerated reactions, anime-realism hybrid, vibrant lighting, TikTok UI overlays, chaotic energy Scene 1 (0–1s) Interior, messy bedroom. A white tiger in loose pajamas slurps instant noodles at a cluttered desk, eyes glued to a glowing monitor. SFX: slurp slurp White Tiger (muttering): “Let’s see
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Tokyo Tsunami Disaster Scene
 
 **Prompt:**
@@ -1167,7 +1596,10 @@ Style: hyper-comedic, dramatic soap-opera parody, fast cuts, exaggerated reactio
 A catastrophic 200-meter tsunami wall looms on the horizon beyond Tokyo's iconic skyline at dusk, Shot 1 — Wide establishing shot from a helicopter perspective, high above the city. The massive wave approaches in the distance, backlit by dying golden light,
 ```
 
+> 🔗 [Original Source](https://x.com/kaan_alper)
+
 ---
+
 ### Seedance 2.0 Summoning Ritual Cinematic Video
 
 **Prompt:**
@@ -1175,7 +1607,10 @@ A catastrophic 200-meter tsunami wall looms on the horizon beyond Tokyo's iconic
 Ultra-realistic cinematic shot with film-grade fog and particle effects, 15 seconds, 30fps, no background music, no subtitles. Refer to Image 1 and maintain consistent character appearance. The shot begins with an extreme close-up from a low angle, featuring dynamic cinematic camera movement with a rapid push-in and slight handheld shake. The character’s bod
 ```
 
+> 🔗 [Original Source](https://x.com/KanaWorks_AI)
+
 ---
+
 ### Underwater Coral Mech Chase
 
 **Prompt:**
@@ -1183,7 +1618,10 @@ Ultra-realistic cinematic shot with film-grade fog and particle effects, 15 seco
 A young pearl diver kid with glowing coral armor, fluid hair drifting in water, and a shell-powered jet pack rockets into frame in the first two seconds, spiraling through a reef tunnel as a massive coral mech leviathan crashes through the ocean floor behind him, instantly creating the hook. The chase unfolds through a breathtaking underwater kingdom— swimmi
 ```
 
+> 🔗 [Original Source](https://x.com/Ankit_patel211)
+
 ---
+
 ### High-Stakes Bank Heist Action
 
 **Prompt:**
@@ -1191,7 +1629,10 @@ A young pearl diver kid with glowing coral armor, fluid hair drifting in water, 
 Cinematic high-stakes bank heist escape featuring a sharp male character (use Image1 as face reference). Ultra-realistic, intense pacing, seamless action transitions. Character: Face must stay consistent with Image1. Focused, slightly tense expression. Wearing a dark suit, slightly messy, sweat visible. Environment: Modern bank interior turning chaotic, alar
 ```
 
+> 🔗 [Original Source](https://x.com/harboriis)
+
 ---
+
 ### Cinematic Pianist Performance Prompt
 
 **Prompt:**
@@ -1199,7 +1640,10 @@ Cinematic high-stakes bank heist escape featuring a sharp male character (use Im
 Cinematic butterfly lighting, medium shot of a handsome pianist in a sleek, elegant black suit, his hands moving fluidly across the keys. Cut to a close-up of his enraptured expression, eyes gently closed, focused and serene. Audio features melodious piano notes and subtle crowd ambience from the concert hall.
 ```
 
+> 🔗 [Original Source](https://x.com/CodeByPoonam)
+
 ---
+
 ### Gothic City Detective
 
 **Prompt:**
@@ -1207,7 +1651,10 @@ Cinematic butterfly lighting, medium shot of a handsome pianist in a sleek, eleg
 In a rain-soaked Gothic city, a detective stands on the edge of a high-rise building, his trench coat flapping violently in the strong wind. The camera slowly pulls back from his determined profile, revealing a bird's-eye night view of the entire city, where neon lights are blurred by the rain. A voice-over rings out: \"In this city, everyone has a secret.\" F
 ```
 
+> 🔗 [Original Source](https://x.com/CodeByPoonam)
+
 ---
+
 ### Fisheye POV Glide Sequence
 
 **Prompt:**
@@ -1215,7 +1662,10 @@ In a rain-soaked Gothic city, a detective stands on the edge of a high-rise buil
 START — Ground POV (Fisheye distortion) Camera placed extremely low, almost touching the ground. Concrete texture stretched and curved due to fisheye lens. Transition: smooth tilt-up as she rides into frame. GLIDE — Side Tracking (Wide distortion) Camera tracks alongside her.
 ```
 
+> 🔗 [Original Source](https://x.com/SimplyAnnisa)
+
 ---
+
 ### Endless Runner Mobile Game Video Prompt
 
 **Prompt:**
@@ -1223,7 +1673,10 @@ START — Ground POV (Fisheye distortion) Camera placed extremely low, almost to
 Vertical endless runner, front 3/4 camera (no side view). A young mobile app maker runs and jumps toward camera across office platforms, collecting floating coins clearly labeled ‘MRR’ (glowing text on each coin). A giant corporate 9-to-5 boss monster chases directly behind him in the same lane, almost catching him. Fast, bright, addictive mobile game style
 ```
 
+> 🔗 [Original Source](https://x.com/david_attisaas)
+
 ---
+
 ### Synthetic human stealth infiltration routine
 
 **Prompt:**
@@ -1231,7 +1684,10 @@ Vertical endless runner, front 3/4 camera (no side view). A young mobile app mak
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced infiltration routine SUBJECT: A synthetic human with chrome jawline plating. WARDROBE: Translucent cooling mesh top. Form-fitting matte-black stealth suit, tactical harness, and magnetic climbing boots. ENVIRONMENT: Neon-lit
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Food Delivery Rush Storyboard
 
 **Prompt:**
@@ -1239,7 +1695,10 @@ FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced infiltration routine SUBJECT: A s
 FOOD DELIVERY RUSH” VERSION FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: @[image1] 📍 ENVIRONMENT: Bedroom → street → traffic → restaurant → customer doorstep 🎭 MOOD ARC: Chill → urgency → time pressure → fast execution → small relief ⚡ SHOT LIST
 ```
 
+> 🔗 [Original Source](https://x.com/AIwithSynthia)
+
 ---
+
 ### Fantasy Griffin Nesting and Goblin Selfie
 
 **Prompt:**
@@ -1247,7 +1706,10 @@ FOOD DELIVERY RUSH” VERSION FORMAT: 15 seconds / 145 BPM / 15 beat-synced shot
 A majestic griffin weaves an impossibly perfect nest of golden feathers, ancient runes and glowing crystals in the fork of an enchanted oak in a sun-drenched fantasy forest, every strand placed with architectural intention. The camera orbits slowly like a nature documentary — golden backlit feathers glowing like cathedral glass, dramatic close-ups of each de
 ```
 
+> 🔗 [Original Source](https://x.com/oggii_0)
+
 ---
+
 ### Fantasy Village Character Montage
 
 **Prompt:**
@@ -1255,15 +1717,21 @@ A majestic griffin weaves an impossibly perfect nest of golden feathers, ancient
 Refer to the attached character reference sheet @image_1 and select various scenes from @image_1 to create a cinematic multi-shot sequence of the woman walking through a fantasy village. various settings. 24fps. Cinematic montage, fantasy solo harp music score
 ```
 
+> 🔗 [Original Source](https://x.com/iampauldonis)
+
 ---
+
 ### Dust Devil Playground Viral Video
 
 **Prompt:**
 ```
-A hyper-real handheld mobile phone video set in an open dusty field in rural Brazil. Dry sandy ground, scattered trees, distant low houses. Bright midday sunlight, warm tones, slight haze. Visual style is slightly compressed with natural shake and motion blur, like real phone footage. Ambient sound includes wind, children laughing, and dust swirling. Shot 1 
+A hyper-real handheld mobile phone video set in an open dusty field in rural Brazil. Dry sandy ground, scattered trees, distant low houses. Bright midday sunlight, warm tones, slight haze. Visual style is slightly compressed with natural shake and motion blur, like real phone footage. Ambient sound includes wind, children laughing, and dust swirling. Shot 1
 ```
 
+> 🔗 [Original Source](https://x.com/rahulnanda86)
+
 ---
+
 ### Continuous Easter Sunrise Aerial Shot
 
 **Prompt:**
@@ -1271,7 +1739,10 @@ A hyper-real handheld mobile phone video set in an open dusty field in rural Bra
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Early morning Easter atmosphere, soft golden sunrise, dew-covered grass, pastel tones, natural light bloom, photorealistic ground-to-aerial cinematic 8K Shot 01 (0:00–2:00): Camera begins
 ```
 
+> 🔗 [Original Source](https://x.com/RAVIKUMARSAHU78)
+
 ---
+
 ### Stylized 3D Character Beat-Synced Sequence
 
 **Prompt:**
@@ -1279,7 +1750,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Earl
 FORMAT: 15s / 15 SHOTS / chaotic routine synced to beat SUBJECT: Dark-skinned young female character, purple eyes, twin afro buns with purple beads, expressive face (based on reference image) STYLE: High-end stylized 3D
 ```
 
+> 🔗 [Original Source](https://x.com/ImozemhePeniel)
+
 ---
+
 ### Minimalist Bauhaus Motion Graphics Evolution
 
 **Prompt:**
@@ -1287,7 +1761,10 @@ FORMAT: 15s / 15 SHOTS / chaotic routine synced to beat SUBJECT: Dark-skinned yo
 [Visual Core]: Pure black background with self-illuminating white lines, continuous one-shot without edits. [Motion Path]: 1. [Origin]: Central white point pulsing with dissipating ripples. 2. [Line]: Stretching horizontally to the edges. 3. [Geometry]: Lines evolve into a 9x9 grid, then curve into a perfect circle. 4. [3D Transition]: The circle stretches i
 ```
 
+> 🔗 [Original Source](https://x.com/origan260224)
+
 ---
+
 ### Slow Motion NYC Winter Bullet Time
 
 **Prompt:**
@@ -1295,15 +1772,21 @@ FORMAT: 15s / 15 SHOTS / chaotic routine synced to beat SUBJECT: Dark-skinned yo
 Cinematic 8K ultra-realistic slow-motion scene of a woman in a white button-down shirt and black trousers slipping mid-air on an icy New York City street. Time freezes at the exact moment of imbalance as shards of ice, scattered cubes, and a spilled coffee cup explode outward, with liquid droplets suspended in perfect detail. A subtle red digital glitch mask
 ```
 
+> 🔗 [Original Source](https://x.com/meng_dagg695)
+
 ---
+
 ### FPV flying through Kuru Kingdom
 
 **Prompt:**
 ```
-extremely fast-paced cinematic FPV flying through the ancient Indian Kuru Kingdom at golden hour, hyper-realistic, 4K. high-speed aerial dive over vast fertile plains and the Ganges river, then weave through grand palaces of Hastinapura with intricate carvings, towering pillars, and royal courtyards filled with warriors, elephants, chariots, and citizens in 
+extremely fast-paced cinematic FPV flying through the ancient Indian Kuru Kingdom at golden hour, hyper-realistic, 4K. high-speed aerial dive over vast fertile plains and the Ganges river, then weave through grand palaces of Hastinapura with intricate carvings, towering pillars, and royal courtyards filled with warriors, elephants, chariots, and citizens in
 ```
 
+> 🔗 [Original Source](https://x.com/shushant_l)
+
 ---
+
 ### Aviation Mystery Cinematic Teaser
 
 **Prompt:**
@@ -1311,7 +1794,10 @@ extremely fast-paced cinematic FPV flying through the ancient Indian Kuru Kingdo
 A dark, cinematic teaser inspired by an unexplained aviation mystery. Opening shot: a commercial airplane flying peacefully above dense clouds at night, faint cabin lights glowing. Cut to a close-up of a radar screen glitching, the signal flickering erratically.
 ```
 
+> 🔗 [Original Source](https://x.com/AuraDomoAi)
+
 ---
+
 ### Sci-Fi Warrior vs Giant Mecha Beast
 
 **Prompt:**
@@ -1319,7 +1805,10 @@ A dark, cinematic teaser inspired by an unexplained aviation mystery. Opening sh
 Character Setting: Image 1 (Subject) A cold and dangerous female warrior with pale skin, black braided hair, wearing high-reflectivity black bio-mechanical armor (Image 2) with exposed skeleton and metal spine, wearing a starry-textured dark cloak and holding a giant black sword. Image 3 (Equipped Form): High-tech combat form with liquid black machinery cove
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Bullet Time Selfie - Primitive Caveman
 
 **Prompt:**
@@ -1327,7 +1816,10 @@ Character Setting: Image 1 (Subject) A cold and dangerous female warrior with pa
 FORMAT: 15s / ONE CONTINUOUS SHOT / BULLET TIME SELFIE PARAMS: \u003cCHARACTER\u003e: a caveman in primitive fur clothing, athletic and alert, holding a wooden spear \u003cENVIRONMENT\u003e: an open rocky plain with dust, scattered bones, and harsh daylight \u003cUNEXPECTED_EVENT\u003e: a
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Bullet Time Selfie - Survival Warrior
 
 **Prompt:**
@@ -1335,7 +1827,10 @@ FORMAT: 15s / ONE CONTINUOUS SHOT / BULLET TIME SELFIE PARAMS: \u003cCHARACTER\u
 FORMAT: 15s / ONE CONTINUOUS SHOT / BULLET TIME SELFIE PARAMS: \u003cCHARACTER\u003e: an exhausted young woman in weathered fur-and-leather survival gear, carrying a two-handed sword \u003cENVIRONMENT\u003e: a foggy forest path at dusk with soft diffused light and low visibility
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Sorceress Sigil Battle
 
 **Prompt:**
@@ -1343,7 +1838,10 @@ FORMAT: 15s / ONE CONTINUOUS SHOT / BULLET TIME SELFIE PARAMS: \u003cCHARACTER\u
 Shot 1 (00: 00–00:01) – MS, Dolly in + Whip Pan A white-haired sorceress stands in an ancient archive filled with hanging talismans and bells, painting a sigil. Dark mist erupts from the ground—she reacts instantly, dodging and countering with a sweeping brush strike. VFX: Distorted, pulsing shadow mist. SFX: Paper rustle, soft bells, low hum. Shot 2 (00: 01
 ```
 
+> 🔗 [Original Source](https://x.com/0xbeinginvested)
+
 ---
+
 ### Cinematic Volcanic Dragon Rescue
 
 **Prompt:**
@@ -1351,7 +1849,10 @@ Shot 1 (00: 00–00:01) – MS, Dolly in + Whip Pan A white-haired sorceress sta
 Ultra-cinematic fantasy action sequence in a volcanic kingdom at bright midday, with blazing sunlight cutting through ash, smoke, and heat shimmer. Start instantly with an epic ultra-wide shot of a black-stone fortress collapsing over a river of lava as a wingless knight sprints across a crumbling chain bridge while a young dragon tumbles from a broken tower
 ```
 
+> 🔗 [Original Source](https://x.com/umesh_ai)
+
 ---
+
 ### Elegant British Female Character Portrait
 
 **Prompt:**
@@ -1359,15 +1860,21 @@ Ultra-cinematic fantasy action sequence in a volcanic kingdom at bright midday, 
 fair skin with a subtle rosy undertone, and refined facial features with light blue eyes. She has an effortlessly elegant UK-based look, blending modern city style with a touch of classic charm. She is wearing a chic yet casual outfit — tailored high-waisted trousers, white
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### 15-Shot Cinematic Travel Sequence
 
 **Prompt:**
 ```
-FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: @[image1] ENVIRONMENT: Apartment → bathroom → kitchen → taxi → airport terminal → security check → boarding gate → airplane cabin → hotel room night MOOD ARC: Late wake-up → high-pressure travel rush → relief → quiet exhaustion SHOT CHANGES (key differences): • Shot 11: exits apartment, jumps into 
+FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: @[image1] ENVIRONMENT: Apartment → bathroom → kitchen → taxi → airport terminal → security check → boarding gate → airplane cabin → hotel room night MOOD ARC: Late wake-up → high-pressure travel rush → relief → quiet exhaustion SHOT CHANGES (key differences): • Shot 11: exits apartment, jumps into
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### 90s Japanese TV Drama Scene
 
 **Prompt:**
@@ -1375,7 +1882,10 @@ FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: @[image1] ENVIRONME
 1990s Japanese TV drama style. A boyfriend is sitting next to his girlfriend. A mother is sitting next to the father. All dialogue for the four characters is in Japanese. A 15-second multi-cut scene depicting awkwardness. A typical cramped Japanese dining room, with a table full of homemade food. Four characters surround the crowded table. The boyfriend sits
 ```
 
+> 🔗 [Original Source](https://x.com/Limewritelight)
+
 ---
+
 ### Evolution of an Empire Timeline
 
 **Prompt:**
@@ -1383,7 +1893,10 @@ FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: @[image1] ENVIRONME
 Visualize \"Time builds empires\". From a single grain of sand → desert → village → city-state → palace → emergence of an empire.
 ```
 
+> 🔗 [Original Source](https://x.com/MiguelMaestroIA)
+
 ---
+
 ### Blink and Move Mannequin Horror
 
 **Prompt:**
@@ -1391,7 +1904,10 @@ Visualize \"Time builds empires\". From a single grain of sand → desert → vi
 Scene: Security room, multiple monitors A guard watches a still mannequin in a hallway. He blinks. It’s closer. He rewinds footage. Every time he blinks… it moves. He forces his eyes open. Tears stream. The camera glitches. The mannequin is gone. A hand touches his shoulder.
 ```
 
+> 🔗 [Original Source](https://x.com/yourPlugAI)
+
 ---
+
 ### Stone Giant Desert Crossing
 
 **Prompt:**
@@ -1399,7 +1915,10 @@ Scene: Security room, multiple monitors A guard watches a still mannequin in a h
 A fast-moving cinematic shot shows a stone giant crossing a desert as riders race below. Slow motion captures a rider on its arm, then the camera dives to reveal a glowing city within.
 ```
 
+> 🔗 [Original Source](https://x.com/SmartToolsDaily)
+
 ---
+
 ### Crying Anime Girl Lip-Sync Prompt
 
 **Prompt:**
@@ -1407,7 +1926,10 @@ A fast-moving cinematic shot shows a stone giant crossing a desert as riders rac
 High-quality Japanese anime, masterpiece, ultra-high definition, top-quality animation, cinematic. A cute anime girl is wailing in a comically exaggerated expression. A large volume of tears bursts out vigorously from her eyes in both directions, flying in a wide arching parabola to the sides. The tears continue to fly in a symmetrical arc, sparkling and pop
 ```
 
+> 🔗 [Original Source](https://x.com/Naonekozamurai)
+
 ---
+
 ### Minimalist Brand Animation Template
 
 **Prompt:**
@@ -1415,7 +1937,10 @@ High-quality Japanese anime, masterpiece, ultra-high definition, top-quality ani
 Ultra-smooth motion design sequence. Solid black background throughout. Minimalist white-on-black aesthetic. No edits—a single, continuous, uninterrupted visual evolution. Fixed static center shot, no camera movement. All motion occurs within the subject. Self-luminous white forms on absolute black, no grain, no shadows. Style: Luxury tech brand motion logo,
 ```
 
+> 🔗 [Original Source](https://x.com/AbleGPT)
+
 ---
+
 ### Cinematic Skateboarder Kickflip
 
 **Prompt:**
@@ -1423,7 +1948,10 @@ Ultra-smooth motion design sequence. Solid black background throughout. Minimali
 A skateboarder in a orange hoodie launches off a half-pipe and executes a kickflip 10 feet in the air. Skatepark at golden hour, long shadows. Low angle tracking shot following the board. High contrast, vivid colors, slow motion on the peak of the jump.
 ```
 
+> 🔗 [Original Source](https://x.com/yourPlugAI)
+
 ---
+
 ### Beat-Synced Fitness Journey Arc
 
 **Prompt:**
@@ -1431,7 +1959,10 @@ A skateboarder in a orange hoodie launches off a half-pipe and executes a kickfl
 FORMAT: 15 seconds / 142 BPM / 15 beat-synced shots SUBJECT: A Girl with blonde hair ENVIRONMENT: Messy room → mirror → wardrobe → door → street → gym → weights → mirror → treadmill → sweat → exit → street → home → mirror → room MOOD ARC: Insecure → determined →
 ```
 
+> 🔗 [Original Source](https://x.com/AIwithSynthia)
+
 ---
+
 ### Midnight Fog Steam Train in Highlands
 
 **Prompt:**
@@ -1439,7 +1970,10 @@ FORMAT: 15 seconds / 142 BPM / 15 beat-synced shots SUBJECT: A Girl with blonde 
 A vintage steam train from the 1920s moves through a dense Scottish Highland fog at midnight, its headlamp cutting a yellow cone through the grey. The camera begins in a wide exterior shot tracking alongside the train as it
 ```
 
+> 🔗 [Original Source](https://x.com/SaniBulaAI)
+
 ---
+
 ### Overgrown Megacity Jungle
 
 **Prompt:**
@@ -1447,7 +1981,10 @@ A vintage steam train from the 1920s moves through a dense Scottish Highland fog
 A dense jungle in 2200 where nature has fully reclaimed a megacity. Skyscraper frames are wrapped in 200 years of vines and growth, their interiors now ecosystems. But the technology embedded in the city still functions. Neon signs
 ```
 
+> 🔗 [Original Source](https://x.com/tussiwe)
+
 ---
+
 ### Mariana Trench Submersible Descent
 
 **Prompt:**
@@ -1455,7 +1992,10 @@ A dense jungle in 2200 where nature has fully reclaimed a megacity. Skyscraper f
 A deep sea submersible descends slowly through the complete darkness of the Mariana Trench, its exterior floodlights the only illumination in an absolute black void. The camera sits at the nose of the vessel looking
 ```
 
+> 🔗 [Original Source](https://x.com/SaniBulaAI)
+
 ---
+
 ### Maine Lighthouse Keeper Character Study
 
 **Prompt:**
@@ -1463,7 +2003,10 @@ A deep sea submersible descends slowly through the complete darkness of the Mari
 The last human lighthouse keeper in the world sits in the lantern room of his lighthouse off the coast of Maine, watching a fully autonomous shipping fleet pass silently in the fog below. He is in his seventies, weather-worn, unhurried. The
 ```
 
+> 🔗 [Original Source](https://x.com/tussiwe)
+
 ---
+
 ### Floating Victorian Ballroom in the Clouds
 
 **Prompt:**
@@ -1471,7 +2014,10 @@ The last human lighthouse keeper in the world sits in the lantern room of his li
 An impossibly grand Victorian ballroom floats suspended above the clouds at 10,000 feet, its walls made entirely of glass revealing an endless sky in every direction. Dozens of couples in formal
 ```
 
+> 🔗 [Original Source](https://x.com/SaniBulaAI)
+
 ---
+
 ### Ice Cave Explorer Sequence
 
 **Prompt:**
@@ -1479,7 +2025,10 @@ An impossibly grand Victorian ballroom floats suspended above the clouds at 10,0
 A solo cave explorer descends on a rope into a vertical ice cave in the Greenland glacier, their headlamp the only light source. As they descend, the ice walls around them glow from within, a deep electric blue that intensifies with depth.
 ```
 
+> 🔗 [Original Source](https://x.com/tussiwe)
+
 ---
+
 ### Laundromat Blues Folk Trio
 
 **Prompt:**
@@ -1487,7 +2036,10 @@ A solo cave explorer descends on a rope into a vertical ice cave in the Greenlan
 Wide, static shot: really loud mint-green washers thrum down both walls while fluorescents buzz, dryers whum-whum, wet laundry thuds ka-THUNK-ka-THUNK, and ceiling vents breathe a steady whoosh. A folk trio—guitar, upright bass, washboard—sit
 ```
 
+> 🔗 [Original Source](https://x.com/guicastellanos1)
+
 ---
+
 ### Claymation Miniature Chef Prompt
 
 **Prompt:**
@@ -1495,7 +2047,10 @@ Wide, static shot: really loud mint-green washers thrum down both walls while fl
 A small clay chef preparing food in a cozy miniature kitchen, claymation style, handcrafted figure with visible fingerprint textures and soft rounded features, tiny pots and fresh vegetables on a little counter, warm overhead lighting, stop-motion animation look, charming handmade imperfections, playful and cozy mood, shallow depth of field focused on the ch
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Anime character omelet cooking story template
 
 **Prompt:**
@@ -1503,7 +2058,10 @@ A small clay chef preparing food in a cozy miniature kitchen, claymation style, 
 [Video Content] A 2D anime style character acting in the real world. [Video Length] 15 seconds. [Frame Rate] 60fps. [Character] Refer to input image. [Character Action] Anime-exaggerated movements that show emotions and personality suitable for the character. [Character Style] 2D anime style. [Era/Season/Weather] Auto. [Location (Background)] Location suitab
 ```
 
+> 🔗 [Original Source](https://x.com/seiiiiiiiiiiru)
+
 ---
+
 ### 3D Anime Character Scenario Template
 
 **Prompt:**
@@ -1511,7 +2069,10 @@ A small clay chef preparing food in a cozy miniature kitchen, claymation style, 
 [Video Content] A 3D anime style character acting in the real world. [Video Length] 15 seconds. [Frame Rate] 60fps. [Character] Refer to input image. [Character Action] Anime-style exaggerated movements that reflect emotions and personality suitable for the character. [Character Style] 3D anime style. [Era/Season/Climate] Leave to AI. [Location (Background)]
 ```
 
+> 🔗 [Original Source](https://x.com/seiiiiiiiiiiru)
+
 ---
+
 ### Parkour Character Composition Prompt
 
 **Prompt:**
@@ -1519,7 +2080,10 @@ A small clay chef preparing food in a cozy miniature kitchen, claymation style, 
 composite the character `image_1` and animation over the reference `video_1` The character should follow the camera pan, walking from right to left while performing parkour moves, and finish by striking a pose for the camera.
 ```
 
+> 🔗 [Original Source](https://x.com/tea_story_hoshi)
+
 ---
+
 ### Chibi Baby Go-Kart Race Montage
 
 **Prompt:**
@@ -1527,7 +2091,10 @@ composite the character `image_1` and animation over the reference `video_1` The
 Format: 15s / 150 BPM / 15 shots / cute animal-suit babies racing go-karts through a giant supermarket Subjects: 9 chibi baby characters based on @[image1], exact face style, oversized glossy eyes, round cheeks, pacifiers kept in mouth, soft plush
 ```
 
+> 🔗 [Original Source](https://x.com/hAru_mAki_ch)
+
 ---
+
 ### Aquatic Warrior Orca Ride
 
 **Prompt:**
@@ -1535,7 +2102,10 @@ Format: 15s / 150 BPM / 15 shots / cute animal-suit babies racing go-karts throu
 A powerful aquatic warrior riding a massive orca, long hair flowing in water, wearing sleek ocean armor. She holds a large ancient trident, glowing faintly, her expression focused and intense. 0-3s Wide underwater shot. She rides the orca at high speed through deep ocean.
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### High-Speed Motorcycle Action
 
 **Prompt:**
@@ -1543,7 +2113,10 @@ A powerful aquatic warrior riding a massive orca, long hair flowing in water, we
 A rider at full speed, aggressive control, no hesitation. 0-3s Low tracking behind bike. Extreme speed. 3-5s Helicopter above. Shadow passing. 5-7s Ground impacts around him. Near misses. 7-9s Sharp turn. Camera whip pan. 9-11s Jump over obstacle. 11-13s Slow motion.
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Warrior Fire Ignition Sequence
 
 **Prompt:**
@@ -1551,7 +2124,10 @@ A rider at full speed, aggressive control, no hesitation. 0-3s Low tracking behi
 A warrior kneeling, exhausted, surrounded by destruction, barely conscious. 0-3s Stillness. Smoke everywhere. 3-5s Small flame ignites on his chest. 5-7s Fire spreads across body. Clothes burning away. 7-9s He rises slowly. Flames intensify violently. 9-11s Explosion of fire.
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Collapsing Colosseum Gladiatorial Action
 
 **Prompt:**
@@ -1559,7 +2135,10 @@ A warrior kneeling, exhausted, surrounded by destruction, barely conscious. 0-3s
 A Roman gladiator, covered in dust and blood, standing in a collapsing colosseum. 0-3s Camera rushes through arena. Crowd screaming. 3-5s Massive crack in the ground. Structure begins collapsing. 5-7s Columns fall. Dust explosion everywhere. 7-9s Camera spins around gladiator
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Desert Warrior Sandstorm Sequence
 
 **Prompt:**
@@ -1567,7 +2146,10 @@ A Roman gladiator, covered in dust and blood, standing in a collapsing colosseum
 A desert warrior on foot, wrapped in cloth, barely visible in the storm. 0-3s Massive sandstorm wall approaching. 3-5s Camera rushes into storm. Visibility drops instantly. 5-7s Sand hitting violently. Figures forming in storm. 7-9s Warrior fights through them. Ultra fast
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Cinematic Creator Scene Transformation
 
 **Prompt:**
@@ -1575,7 +2157,10 @@ A desert warrior on foot, wrapped in cloth, barely visible in the storm. 0-3s Ma
 A creator standing in a dull, gray environment, bored expression. 0-3s Everything looks flat, lifeless. 3-5s He taps on invisible interface. 5-7s Colors explode into the scene. 7-9s Environment transforms city becomes cinematic. 9-12s Lights, motion, VFX appear everywhere.
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Epic Ink-Wash Fantasy Warrior Scene
 
 **Prompt:**
@@ -1583,7 +2168,10 @@ A creator standing in a dull, gray environment, bored expression. 0-3s Everythin
 Subject Character: A young female warrior with long black hair braided into multiple strands, her hair flying in the wind like ink-colored banners. Her face is cold and pale, eyes deep-set, lips pursed, and her gaze is as sharp as a blade. She wears all-black metallic armor with faint starlight flowing on its surface, as if galaxy shards were forged into ste
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Ancient Kingdom FPV Flight
 
 **Prompt:**
@@ -1591,7 +2179,10 @@ Subject Character: A young female warrior with long black hair braided into mult
 extremely fast-paced cinematic FPV flying through the ancient Gandhara kingdom at its peak, hyper-realistic, 4K detail, golden-hour lighting, soaring over grand Buddhist stupas, Greco-Indian architecture, bustling ancient marketplaces, monks in saffron robes, intricate stone carvings, silk road traders, dramatic mountain backdrops, epic scale, immersive dept
 ```
 
+> 🔗 [Original Source](https://x.com/shushant_l)
+
 ---
+
 ### Q-Style 3D Cartoon Character Consistency Prompt
 
 **Prompt:**
@@ -1599,7 +2190,10 @@ extremely fast-paced cinematic FPV flying through the ancient Gandhara kingdom a
 Image 1 is the lead character — maintain identical facial features, proportions, and identity throughout. She is a Q-style 3D cartoon girl with long straight black hair parted in the center flowing to her waist, silky and smooth, wearing a jade-colored rabbit hair clip
 ```
 
+> 🔗 [Original Source](https://x.com/crayon1267)
+
 ---
+
 ### Cinematic tsunami city chase
 
 **Prompt:**
@@ -1607,7 +2201,10 @@ Image 1 is the lead character — maintain identical facial features, proportion
 A man sprinting through a coastal city, panic in his eyes, water reflecting in the distance. Turns as a colossal tsunami wave rises behind buildings, swallowing everything in its path. Modern seaside city with streets flooding, cars abandoned, people running in chaos . Tracking shot moving backward in front of him, camera shaking as water crashes through str
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Retro Anime Apple Splitting Cat Dance
 
 **Prompt:**
@@ -1615,7 +2212,10 @@ A man sprinting through a coastal city, panic in his eyes, water reflecting in t
 [Japanese Retro Anime] style. An [apple] is placed on a table. Background is [light green]. Fixed camera. Soft studio lighting. Maintain art style in all frames. The [apple] splits horizontally at exactly the middle height (50:50 top/bottom). The top half and bottom half are equal in height. The top half rises while maintaining the shape of the top of the [a
 ```
 
+> 🔗 [Original Source](https://x.com/Atg_Tsukimao)
+
 ---
+
 ### Chibi Firefly Anime Style
 
 **Prompt:**
@@ -1623,7 +2223,10 @@ A man sprinting through a coastal city, panic in his eyes, water reflecting in t
 Vertical 9:16 15 seconds, ultra-cute chibi anime style, AI-generated (AIGC). Adorable super-deformed chibi Firefly from Honkai
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Action movie end credits sequence
 
 **Prompt:**
@@ -1631,7 +2234,10 @@ Vertical 9:16 15 seconds, ultra-cute chibi anime style, AI-generated (AIGC). Ado
 animated dynamic and flashy end credits to an action movie, every role done by \"fofr\", the end credits switch from scene to scene, not just a credits roll, beautifully designed end credits sequence
 ```
 
+> 🔗 [Original Source](https://x.com/fofrAI)
+
 ---
+
 ### 90s Anime Sword Fart Fail
 
 **Prompt:**
@@ -1639,7 +2245,10 @@ animated dynamic and flashy end credits to an action movie, every role done by \
 90s Japanese anime style. A character comes to pull out a legendary sword. They strike a pose and deliver grand lines, straining and shouting to pull it out with all their might, but they accidentally fart, leading to a pathetic moment. Great camera direction with wind blowing. Then they fart. Silence follows, the world stops for a moment, the sword comes ou
 ```
 
+> 🔗 [Original Source](https://x.com/ponzponz15)
+
 ---
+
 ### Chinese Dim Sum Shop Girl Character
 
 **Prompt:**
@@ -1647,7 +2256,10 @@ animated dynamic and flashy end credits to an action movie, every role done by \
 SUBJECTS: Character: a young Chinese dim sum shop girl, delicate chibi proportions, refined and cute facial features but with a tense expression, slightly furrowed brows and rapid breathing, carrying a clear sense of pressure and a hint of fear; short hair slightly flipped
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Daily Life to Fantasy Commercial Prompt
 
 **Prompt:**
@@ -1655,7 +2267,10 @@ SUBJECTS: Character: a young Chinese dim sum shop girl, delicate chibi proportio
 In a room with morning light, someone jumps comically out of bed and sleepily brushes their teeth at the sink. After being startled by toast in the kitchen, they head out into the sunrise as the words 'Good Morning' float in the air. The style suddenly shifts to 2D animation as they race through the city. Returning to live-action, they arrive at the office w
 ```
 
+> 🔗 [Original Source](https://x.com/KusoPhoto)
+
 ---
+
 ### 3D Cartoon Bear Beekeeper
 
 **Prompt:**
@@ -1663,7 +2278,10 @@ In a room with morning light, someone jumps comically out of bed and sleepily br
 Morning sun. Alps. A bear in a beekeeper suit lifts the hive lid. [0-3s] he greets the bees, \"good morning team\" \"this is Mike, I'm your new product manager\" [6-9s] The bees lean forward. he takes a step
 ```
 
+> 🔗 [Original Source](https://x.com/sumi404_ai)
+
 ---
+
 ### Cinematic Male Commercial - Subway Scene
 
 **Prompt:**
@@ -1671,7 +2289,10 @@ Morning sun. Alps. A bear in a beekeeper suit lifts the hive lid. [0-3s] he gree
 A high-end cinematic commercial featuring a consistent male throughout. Photorealistic style, 4K resolution, shallow depth of field, realistic lighting, and shadows. 0–2s: In a crowded, noisy subway. Chaotic environment with people pushing and moving. Slight
 ```
 
+> 🔗 [Original Source](https://x.com/itsPolloAI)
+
 ---
+
 ### Martian Mecha Combat
 
 **Prompt:**
@@ -1679,7 +2300,10 @@ A high-end cinematic commercial featuring a consistent male throughout. Photorea
 A sleek, agile aerial mecha with glowing blue thrusters transitions smoothly from flying into a dramatic superhero landing on a dusty, red Martian battlefield. The moment it lands, it seamlessly transitions into hand-to-hand combat, delivering a devastating spinning back kick to a larger, blocky, spider-like enemy tank. Dust kicks up in a massive cloud, lens
 ```
 
+> 🔗 [Original Source](https://x.com/harboriis)
+
 ---
+
 ### First-Person POV Hangzhou Dining Prank
 
 **Prompt:**
@@ -1687,7 +2311,10 @@ A sleek, agile aerial mecha with glowing blue thrusters transitions smoothly fro
 realistic live-action, single continuous shot, full first-person POV, no cuts, no angle changes, no scene transitions, no montage, no flash cuts, no music, no subtitles. Only two characters: my unseen first-person POV and @ Image1 sitting across from me. Natural ambient sound only: light restaurant noise, tableware, distant water, faint voices, chewing, spit
 ```
 
+> 🔗 [Original Source](https://x.com/IamEmily2050)
+
 ---
+
 ### Vinyl Record to Sandstone Canyon Transition
 
 **Prompt:**
@@ -1695,7 +2322,10 @@ realistic live-action, single continuous shot, full first-person POV, no cuts, n
 A weathered hand places a turntable needle onto a spinning vinyl, warm golden light, dust particles. Camera tracks the needle into the groove. Grooves expand into vast sandstone canyons. Miniature cloaked nomads with torches move through. The needle's shadow looms
 ```
 
+> 🔗 [Original Source](https://x.com/Yoni_attlan)
+
 ---
+
 ### Porsche 911 GT3 RS Night Street Race
 
 **Prompt:**
@@ -1703,7 +2333,10 @@ A weathered hand places a turntable needle onto a spinning vinyl, warm golden li
 Cinematic night street racing sequence featuring a Porsche 911 GT3 RS with a focused female driver (use Image1 as the face reference). Maintain exact facial identity from the reference image throughout the entire video. Ultra-realistic visuals with smooth transitions between interior and exterior shots. Driver Young female driver whose face matches Image1 ex
 ```
 
+> 🔗 [Original Source](https://x.com/john_my07)
+
 ---
+
 ### Cinematic Winter Date Prompt
 
 **Prompt:**
@@ -1711,7 +2344,10 @@ Cinematic night street racing sequence featuring a Porsche 911 GT3 RS with a foc
 An 8K high-definition cinematic prompt. Against a backdrop of winter illuminations on a tree-lined street with falling snow, a woman in a red cat-ear hooded coat and a black cherry-patterned skirt behaves enchantingly. Using dynamic perspective from an ultra-wide lens and smooth camera work, she leans toward the camera to perform 'coyly cute' cat poses and w
 ```
 
+> 🔗 [Original Source](https://x.com/KusoPhoto)
+
 ---
+
 ### Japanese High School Girl Cinematic Sequence
 
 **Prompt:**
@@ -1719,7 +2355,10 @@ An 8K high-definition cinematic prompt. Against a backdrop of winter illuminatio
 FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: japanese beautiful high school girl.she has beautiful black hair and cute face. ENVIRONMENT: Apartment → bathroom → kitchen → taxi → airport terminal → security check → boarding gate → airplane
 ```
 
+> 🔗 [Original Source](https://x.com/eijo_AIart)
+
 ---
+
 ### Majestic Ballet and Humpback Whale Prompt
 
 **Prompt:**
@@ -1727,7 +2366,10 @@ FORMAT: 15 seconds / 145 BPM / 15 beat-synced shots SUBJECT: japanese beautiful 
 A hyper-realistic, high-octane cinematic video. A colossal, barnacled humpback whale violently erupts from a turbulent, deep blue ocean in a massive, twisting breach, sending explosive shockwaves of frothing white water high into the air. Riding the apex of the whale's back is a fiercely athletic ballerina in a shimmering, electric-blue tutu. Instead of rema
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Studio Ghibli Style Animation Scene
 
 **Prompt:**
@@ -1735,7 +2377,10 @@ A hyper-realistic, high-octane cinematic video. A colossal, barnacled humpback w
 You are generating 9 sequential video clips for an animated short film titled \"Pip's Adventure — Scene 1: The Threshold\". Cinematic, Studio Ghibli style. The clips form a continuous story — a timid mouse discovers a crack in a garden wall and steps through into the unknown. Character: Pip is a small brown field mouse with oversized ears, pink inner ears, whi
 ```
 
+> 🔗 [Original Source](https://x.com/miku_diffract)
+
 ---
+
 ### Glitch Reality Living Room Transition
 
 **Prompt:**
@@ -1743,15 +2388,21 @@ You are generating 9 sequential video clips for an animated short film titled \"
 Style 100% real-life filmed texture, iPhone documentary look, handheld single take feeling, natural low-light environment, slight breathing shake, subtle focus hunting, soft sensor noise in shadows. Character Reference: Use Image1 as the exact character reference. Face, body, posture, clothing must remain identical. No stylization drift. Environment A dark l
 ```
 
+> 🔗 [Original Source](https://x.com/egeberkina)
+
 ---
+
 ### NYC Bullet-Time Coffee Spill
 
 **Prompt:**
 ```
-15-second cinematic bullet-time sequence. Scene: A businesswoman wearing a white button-down shirt, black trousers, and black heels slips on an icy New York City sidewalk. As her foot slides forward, time suddenly freezes mid-fall. Action: Her body is suspended mid-air in a dramatic falling pose while a cup of coffee explodes into a huge brown liquid splash 
+15-second cinematic bullet-time sequence. Scene: A businesswoman wearing a white button-down shirt, black trousers, and black heels slips on an icy New York City sidewalk. As her foot slides forward, time suddenly freezes mid-fall. Action: Her body is suspended mid-air in a dramatic falling pose while a cup of coffee explodes into a huge brown liquid splash
 ```
 
+> 🔗 [Original Source](https://x.com/j_smeaton99)
+
 ---
+
 ### Urban Time-Freeze Sequence
 
 **Prompt:**
@@ -1759,7 +2410,10 @@ Style 100% real-life filmed texture, iPhone documentary look, handheld single ta
 FORMAT: 15s / 135 BPM / 13 SHOTS / beat-synced SUBJECT: @[image1] WARDROBE: Neutral streetwear, long coat ENVIRONMENT: Busy city street → everything frozen mid-motion MOOD: Confusion → curiosity → quiet control MUSIC: Pulsing ambient electronic COLOR LOGIC: Muted tones with sharp highlights STYLE: Ultra-real cinematic SHOT FLOW: CU phone glitching time (08:1
 ```
 
+> 🔗 [Original Source](https://x.com/ChillaiKalan__)
+
 ---
+
 ### Colossal Scale Surprise Interaction
 
 **Prompt:**
@@ -1767,7 +2421,10 @@ FORMAT: 15s / 135 BPM / 13 SHOTS / beat-synced SUBJECT: @[image1] WARDROBE: Neut
 A character is the focus of the image. The character is positioned in a busy outdoor location during the golden hour (late afternoon), with warm, natural sunlight. A tiny figure is actively climbing the character. The camera is positioned at a dramatic low angle, looking up from the ground, starting close to the tiny figure and panning up alongside the chara
 ```
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Ancient Indian Kingdom FPV Flight
 
 **Prompt:**
@@ -1775,15 +2432,21 @@ A character is the focus of the image. The character is positioned in a busy out
 extremely fast-paced cinematic FPV flying through the ancient Indian Anga kingdom, hyper-realistic, 4K, golden-hour lighting, richly detailed ancient architecture with sandstone palaces, bustling marketplaces, warriors in traditional armor, elephants marching, priests performing rituals near rivers, flowing silk garments, fire torches, temples, and royal cou
 ```
 
+> 🔗 [Original Source](https://x.com/shushant_l)
+
 ---
+
 ### Alien Attack FPV Cinematic Video
 
 **Prompt:**
 ```
-Ultra-fast FPV shot skimming the street through a burning city at night. Alien ships drop into frame from above, flying low between skyscrapers and staying directly ahead. Their cannons charge and fire, explosions erupt in sequence along the road. The camera tilts sharply upward mid-flight, bringing the ships into full view overhead. It then banks hard into 
+Ultra-fast FPV shot skimming the street through a burning city at night. Alien ships drop into frame from above, flying low between skyscrapers and staying directly ahead. Their cannons charge and fire, explosions erupt in sequence along the road. The camera tilts sharply upward mid-flight, bringing the ships into full view overhead. It then banks hard into
 ```
 
+> 🔗 [Original Source](https://x.com/AllaAisling)
+
 ---
+
 ### Cat Opera Hero Action Sequence
 
 **Prompt:**
@@ -1791,31 +2454,43 @@ Ultra-fast FPV shot skimming the street through a burning city at night. Alien s
 A cinematic, stylized 16:9 animated sequence set in a grand opera house, blending comedy, action, and musical chaos, following this fast-paced shot-by-shot script (each shot ~0.6–1.0s): [Shot 1] 0s-0.8s: Narrow backstage corridor. An orange cat wearing a conical hat, black leather jacket, and jeans clutches a guitar, nervously shuffling forward. Dim warm lig
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Cinematic Vertical Fashion Commercial
 
 **Prompt:**
 ```
-A 15-second cinematic vertical TV commercial prompt featuring a natural and expressive young Japanese woman with bright black hair as the protagonist. She wears a floral black sheer organza baby doll mini dress, black high socks, and platform Mary Janes. The story begins in a chic morning bedroom and unfolds with comical monotone 2D animation of her rushing 
+A 15-second cinematic vertical TV commercial prompt featuring a natural and expressive young Japanese woman with bright black hair as the protagonist. She wears a floral black sheer organza baby doll mini dress, black high socks, and platform Mary Janes. The story begins in a chic morning bedroom and unfolds with comical monotone 2D animation of her rushing
 ```
 
+> 🔗 [Original Source](https://x.com/KusoPhoto)
+
 ---
+
 ### The Secret Life of a Pet Parrot
 
 **Prompt:**
 ```
-Cinematic 8K live-action style video. A dimly lit bedroom at night. Extremely shallow depth of field (F1.2), with perfect focus only on the parrot in the foreground and a heavily blurred background. No UI or text on screen. The protagonist is a tiny rosy-faced lovebird with pale blue feathers, a white face, and bright pink round cheeks. It is tucked under a 
+Cinematic 8K live-action style video. A dimly lit bedroom at night. Extremely shallow depth of field (F1.2), with perfect focus only on the parrot in the foreground and a heavily blurred background. No UI or text on screen. The protagonist is a tiny rosy-faced lovebird with pale blue feathers, a white face, and bright pink round cheeks. It is tucked under a
 ```
 
+> 🔗 [Original Source](https://x.com/genel_ai)
+
 ---
+
 ### Surreal Skater Dachshund
 
 **Prompt:**
 ```
-Fisheye lens skatepark shot on a sunny day with chain-link fences and graffiti-covered ramps in the background. Camera starts low on the empty concrete bowl, then a skater in a white t-shirt, baggy jeans, and a red cap rolls into frame - standing on top of a dachshund dog that runs along like a living skateboard, its little legs pumping. The skater balances 
+Fisheye lens skatepark shot on a sunny day with chain-link fences and graffiti-covered ramps in the background. Camera starts low on the empty concrete bowl, then a skater in a white t-shirt, baggy jeans, and a red cap rolls into frame - standing on top of a dachshund dog that runs along like a living skateboard, its little legs pumping. The skater balances
 ```
 
+> 🔗 [Original Source](https://x.com/oggii_0)
+
 ---
+
 ### Luxury Editorial Book Flip
 
 **Prompt:**
@@ -1823,15 +2498,21 @@ Fisheye lens skatepark shot on a sunny day with chain-link fences and graffiti-c
 A close up, top down view of an open photography coffee table book. Beautiful full page portrait photos, one photo per page. A hand turns the pages gradually, we see many pages each with a full spread and a compelling award winning photo.
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Backstage Fashion Chaos
 
 **Prompt:**
 ```
-One-sentence story: [A dynamic storm in the backstage before a high fashion show begins: chaos, raw emotion, and aggressive preparation.] Concept: [The \"meat grinder\" effect. The frame is constantly filled with people. Assistants and makeup artists are blurred by movement (motion blur), while the focus is on the sharp, aggressive movements of the girls. The 
+One-sentence story: [A dynamic storm in the backstage before a high fashion show begins: chaos, raw emotion, and aggressive preparation.] Concept: [The \"meat grinder\" effect. The frame is constantly filled with people. Assistants and makeup artists are blurred by movement (motion blur), while the focus is on the sharp, aggressive movements of the girls. The
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Micro-Scale Ant POV Construction Site
 
 **Prompt:**
@@ -1839,7 +2520,10 @@ One-sentence story: [A dynamic storm in the backstage before a high fashion show
 { \"shot\": { \"composition\": \"POV ant extremely low to ground with terrain-scale distortion\", \"lens\": \"macro ground lens with deep depth exaggeration\", \"camera_movement\": \"fast ground sprint, vertical climb, sudden drops, obstacle weaving\" }, \"subject\": { \"description\": \"ant running at extreme speed across construction site at insect scale\", \"props\": \"rocks, t
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Flying Witch Departure
 
 **Prompt:**
@@ -1847,7 +2531,10 @@ One-sentence story: [A dynamic storm in the backstage before a high fashion show
 A Japanese girl around 13 years old. Short black hair with a delicate adolescent expression, mixing anxiety and expectation. Wearing a simple black A-line knee-length dress with slightly puffed long sleeves and no decoration. Black tights and simple flat shoes. A large red ribbon on her head. The girl is straddling a bamboo broom, sitting firmly with both le
 ```
 
+> 🔗 [Original Source](https://x.com/AIakira23)
+
 ---
+
 ### Serene Luxury Spa Visual
 
 **Prompt:**
@@ -1855,15 +2542,21 @@ A Japanese girl around 13 years old. Short black hair with a delicate adolescent
 Cinematic 15-second visual set in a luxurious marble bathroom with warm golden ambient lighting reflecting softly across water and glass. A woman reclines in a foam-filled bathtub, calm and composed. The camera begins with a slow side-profile close-up as she gently looks away. Movement is smooth and unhurried, with soft slow-motion as her fingers glide acros
 ```
 
+> 🔗 [Original Source](https://x.com/mmendie__)
+
 ---
+
 ### Ghost Ship Cinematic Sequence
 
 **Prompt:**
 ```
-Imagine the most legendary ghost ship in cinematic history… but this time, it doesn’t just sail. It wakes up from the silent depths of a coral grave, the Flying Dutchman-style pirate wreck slowly rips itself free from the ocean floor, rises through the abyss like a vengeful titan, then explodes through the surface in a cataclysmic eruption of water and fury 
+Imagine the most legendary ghost ship in cinematic history… but this time, it doesn’t just sail. It wakes up from the silent depths of a coral grave, the Flying Dutchman-style pirate wreck slowly rips itself free from the ocean floor, rises through the abyss like a vengeful titan, then explodes through the surface in a cataclysmic eruption of water and fury
 ```
 
+> 🔗 [Original Source](https://x.com/seirdotmk)
+
 ---
+
 ### Victorian Gothic Man on Sofa
 
 **Prompt:**
@@ -1871,7 +2564,10 @@ Imagine the most legendary ghost ship in cinematic history… but this time, it 
 @Image1 as the first frame. A grief-stricken man in a dark Victorian suit sits on a crimson sofa in a dim Gothic room. Drunken camera, swaying handheld, soft defocused, tilted dutch angle, blurred edges. He lurches forward off the sofa, grabs a crystal decanter from the side
 ```
 
+> 🔗 [Original Source](https://x.com/kiwikiwi_jo)
+
 ---
+
 ### Baby Plush Anime Opening
 
 **Prompt:**
@@ -1879,7 +2575,10 @@ Imagine the most legendary ghost ship in cinematic history… but this time, it 
 Full-color Japanese anime. Fast camera movement, strong speed ramping, high animation density, a 24 FPS anime opening. A viewpoint darting left and right, with dynamic poses. type: anime_opening_continuous_camera_flythrough style: dark fantasy anime, cel-shaded 2D, high contrast; characters use the attached tiled baby plush mascot design: SD/chibi, pastel st
 ```
 
+> 🔗 [Original Source](https://x.com/hAru_mAki_ch)
+
 ---
+
 ### Stylized Library Combat Scene
 
 **Prompt:**
@@ -1887,15 +2586,21 @@ Full-color Japanese anime. Fast camera movement, strong speed ramping, high anim
 A 19-year-old woman with micro braids dyed deep indigo, warm brown skin, wearing a shredded athletic wrap top and cargo trousers - hook: extreme snap zoom to her eyes, pupils dilate, she exhales smoke in cold air, then launches a dynamic surge directly into frame. Combat takes place in an abandoned symmetrical library - towering bookshelves as leading lines,
 ```
 
+> 🔗 [Original Source](https://x.com/AIwithSarah_)
+
 ---
+
 ### NBA Finals Game-Winning Moment
 
 **Prompt:**
 ```
-Theme: The final play in the atmosphere of the NBA Finals, a superstar's step-back three-pointer for the game-winning shot. Duration: 15 seconds. Frame: 9:16. Vertical screen. Style: Ultra-realistic sports live broadcast + cinematic bullet time replay of key moments. Core principle: Like a live broadcast, not a game, not a commercial studio shoot. 15-second 
+Theme: The final play in the atmosphere of the NBA Finals, a superstar's step-back three-pointer for the game-winning shot. Duration: 15 seconds. Frame: 9:16. Vertical screen. Style: Ultra-realistic sports live broadcast + cinematic bullet time replay of key moments. Core principle: Like a live broadcast, not a game, not a commercial studio shoot. 15-second
 ```
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Graceful Hip-Hop Dance Loop
 
 **Prompt:**
@@ -1903,7 +2608,10 @@ Theme: The final play in the atmosphere of the NBA Finals, a superstar's step-ba
 @image1 as Zasuko A looping video of a girl dancing gracefully and cutely, just like a professional dancer. Filmed from a fixed camera position, the girl stays within the frame while performing a graceful hip-hop dance on the spot.
 ```
 
+> 🔗 [Original Source](https://x.com/zasuko_michiksa)
+
 ---
+
 ### Neon Alley Fight Cinematic Prompt
 
 **Prompt:**
@@ -1911,7 +2619,10 @@ Theme: The final play in the atmosphere of the NBA Finals, a superstar's step-ba
 Shot on ALEXA 65mm anamorphic lens. Photorealistic cinematic quality. Aspect ratio 2.39:1 widescreen. Teal shadows, warm amber highlights. Film grain. Rain-soaked neon-lit night. Lens flares, motion blur. Dolby Vision HDR. 0.0s–2.5s: Extreme low-angle tracking shot — two girls face each other in a narrow neon-lit alley, rain pouring hard. One in a soaked lea
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Fairy FPV Flight Macro World
 
 **Prompt:**
@@ -1919,7 +2630,10 @@ Shot on ALEXA 65mm anamorphic lens. Photorealistic cinematic quality. Aspect rat
 Extreme macro FPV tracking shot, camera tightly attached to a fairy's back, synchronized with wing flapping frequency. 8mm probe lens ultra wide macro with extreme perspective distortion, grass blades appear like towering skyscrapers at frame edges. Very shallow depth of field (f/1.4 simulated) with radial motion blur, foreground bokeh from fast-moving polle
 ```
 
+> 🔗 [Original Source](https://x.com/jzaib4269)
+
 ---
+
 ### Black Cat Warrior Martial Arts Fight
 
 **Prompt:**
@@ -1927,7 +2641,10 @@ Extreme macro FPV tracking shot, camera tightly attached to a fairy's back, sync
 Black cat warrior, desert sandstorm, backlit ink-mist. Fast/slow-mo. Ferocious short-weapon combat. Tattered robes. Cold, lonely cinematic oriental martial arts style, shallow DOF.
 ```
 
+> 🔗 [Original Source](https://x.com/AliceInTheData)
+
 ---
+
 ### Surreal Collage Animation Prompt
 
 **Prompt:**
@@ -1935,7 +2652,10 @@ Black cat warrior, desert sandstorm, backlit ink-mist. Fast/slow-mo. Ferocious s
 Mixed media collage animation, paper cutouts. An ultra-fast montage of cutout fragments featuring only the girl's parts. All cutout fragments are haphazardly pasted onto a concrete wall one after another as collage materials representing a body cut into pieces.
 ```
 
+> 🔗 [Original Source](https://x.com/pan_soramame_da)
+
 ---
+
 ### SUV Studio Projection Prompt
 
 **Prompt:**
@@ -1943,7 +2663,10 @@ Mixed media collage animation, paper cutouts. An ultra-fast montage of cutout fr
 An ad for a modern SUV, the car is driving in a studio while a countryside scene is projected onto it
 ```
 
+> 🔗 [Original Source](https://x.com/fofrAI)
+
 ---
+
 ### Lacoste Surreal Tennis Match
 
 **Prompt:**
@@ -1951,7 +2674,10 @@ An ad for a modern SUV, the car is driving in a studio while a countryside scene
 Handheld documentary realism, natural sunlight, tennis match atmosphere, slight motion shake. Character Reference: Use Image1 as the exact tennis player reference. Maintain identical face, body structure, hairstyle, and outfit identity. Environment: Luxury tennis stadium in Monaco. Crowd watching quietly. Hook (0–3s): The clay court suddenly splits open. A m
 ```
 
+> 🔗 [Original Source](https://x.com/egeberkina)
+
 ---
+
 ### 90s Street Dance VHS Style
 
 **Prompt:**
@@ -1959,7 +2685,10 @@ Handheld documentary realism, natural sunlight, tennis match atmosphere, slight 
 A 90s era home video, she is street dancing on a warm city street at dusk in baggy 90s clothes to an early 90s hip‑hop track, a group of people are around her cheering her moves, especially when she pulls out a massive move.
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### The Seed - Time and Scale Transition
 
 **Prompt:**
@@ -1967,7 +2696,10 @@ A 90s era home video, she is street dancing on a warm city street at dusk in bag
 THE SEED — Amazon Rainforest, One Tree, All Time One impossible continuous shot. Through matter. Through scale. Through time. No cuts. [0s–2s] The camera floats in the canopy of the Amazon rainforest. Dense, dripping, impossibly green. Toucans call. Monkeys move through branches. The camera drifts downward through layers of leaves — each layer a different sh
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Cinematic Street Dance Sequence
 
 **Prompt:**
@@ -1975,7 +2707,10 @@ THE SEED — Amazon Rainforest, One Tree, All Time One impossible continuous sho
 SUBJECTS: A male street dance expert, white buzz cut, wearing small gold hoop earrings and a gold rope chain. Dressed in a dark brown hoodie, a pure white crew neck shirt underneath, dark brown loose pants, and white sneakers. ENVIRONMENT: Pure seamless background, slightly cool gray tone, clean space with no distractions. STYLE: cinematic realism, studio da
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### KTV Mirror Scene Narrative
 
 **Prompt:**
@@ -1983,15 +2718,21 @@ SUBJECTS: A male street dance expert, white buzz cut, wearing small gold hoop ea
 Realistic photorealistic style, vertical 9:16, 10 seconds, first-person perspective, in front of a large mirror on the KTV private room wall, warm golden wall lamps + blue-purple laser background, 0-3 seconds: The shot (i.e., \"I\") sees her in the mirror [Picture 1]—she stands with her back to the camera in front of the mirror, adjusting her hair, black backl
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Epic Temple Adventure Sequence
 
 **Prompt:**
 ```
-Film scene starting . Adventure epic film.The explorer img1 enters the temple and sees the lichen-covered sandstone and tree roots. She sees a carved img2 on one of the walls and touches it. She moves toward a corridor with volumetric light and comes across a dark corridor. Bold contrast, vibrant jungle greens against weathered grey stone, sharp focus. Film 
+Film scene starting . Adventure epic film.The explorer img1 enters the temple and sees the lichen-covered sandstone and tree roots. She sees a carved img2 on one of the walls and touches it. She moves toward a corridor with volumetric light and comes across a dark corridor. Bold contrast, vibrant jungle greens against weathered grey stone, sharp focus. Film
 ```
 
+> 🔗 [Original Source](https://x.com/anacoding)
+
 ---
+
 ### Scrolling Kitten Storyboard
 
 **Prompt:**
@@ -1999,7 +2740,10 @@ Film scene starting . Adventure epic film.The explorer img1 enters the temple an
 SHOT 1: Camera: Top-down, static Kitten tucked in blanket burrito, exactly like the start frame. Phone glowing on its face. One paw lazily swiping up on the phone. Other paw reaching into the chip bag, bringing a chip to mouth. Slow crunching. Eyes glazed
 ```
 
+> 🔗 [Original Source](https://x.com/1littlecoder)
+
 ---
+
 ### Ancient Kingdom of Pontus Cinematic FPV
 
 **Prompt:**
@@ -2007,7 +2751,10 @@ SHOT 1: Camera: Top-down, static Kitten tucked in blanket burrito, exactly like 
 extremely fast-paced FPV flying through the ancient Kingdom of Pontus at its peak, cinematic and hyper-realistic, sweeping over rugged Black Sea cliffs, dense green forests, and grand Hellenistic cities with marble temples and fortified walls, soldiers training in courtyards, markets bustling with traders, golden sunlight casting dramatic shadows, epic scale
 ```
 
+> 🔗 [Original Source](https://x.com/shushant_l)
+
 ---
+
 ### Luxury Electric SUV Commercial
 
 **Prompt:**
@@ -2015,7 +2762,10 @@ extremely fast-paced FPV flying through the ancient Kingdom of Pontus at its pea
 Create a cinematic luxury car commercial following a European city lifestyle narrative. A teal electric SUV drives through sunlit streets, passing cafés, pedestrians, and scooters. Show elegant urban moments People enjoying coffee, a dog walking, and city life flowing around the car. Include dynamic angles (aerial, low-angle, close-ups), premium details (spi
 ```
 
+> 🔗 [Original Source](https://x.com/ginacostag_)
+
 ---
+
 ### Cyberpunk Samurai Duel
 
 **Prompt:**
@@ -2023,7 +2773,10 @@ Create a cinematic luxury car commercial following a European city lifestyle nar
 Intense cyberpunk night street duel, neon-drenched rainy Tokyo alley, a red-armored female samurai with glowing katana draws her blade in slow motion as rain droplets scatter realistically, opponent in black tactical gear lunges with energy claws, fast-paced choreographed combat with sparks flying and puddles splashing, dynamic tracking shots circling the fi
 ```
 
+> 🔗 [Original Source](https://x.com/Aiwithkumail)
+
 ---
+
 ### Kaleidoscope Cat Motion Control Prompt
 
 **Prompt:**
@@ -2031,7 +2784,10 @@ Intense cyberpunk night street duel, neon-drenched rainy Tokyo alley, a red-armo
 Kaleidoscope rotation: Based on s14 Phase C. - The entire screen starts rotating counter-clockwise (2-3 degrees/f). - 8-12 white cats (#3) and black cats (#4) are arranged in a kaleidoscope pattern (Large/Medium/Small). - The character (#1) remains in the center. Cats individually maintain a sine wave sway. - 'Somebody's calling — I can't hear a thing': Text
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### NYC Icy Slip Bullet Time
 
 **Prompt:**
@@ -2039,7 +2795,10 @@ Kaleidoscope rotation: Based on s14 Phase C. - The entire screen starts rotating
 Cinematic 8K, ultra-realistic slow-motion video of a woman in a white button-down shirt and black trousers mid-air as she slips on an icy New York City street. Large cubes of ice and a spilled cup of coffee with a massive brown splash are suspended in the air around her. She has a red patterned digital glitch mask over her eyes. The camera performs a 360-deg
 ```
 
+> 🔗 [Original Source](https://x.com/ChillaiKalan__)
+
 ---
+
 ### Cyberpunk Monitor Screen Breach POV
 
 **Prompt:**
@@ -2047,7 +2806,10 @@ Cinematic 8K, ultra-realistic slow-motion video of a woman in a white button-dow
 First-person handheld POV from a man sitting at a modern gaming desk. A large curved monitor shows a realistic pale woman with silver-white hair and a dark futuristic outfit. She notices him and reaches toward the glass. He reaches back. Their hands meet. She suddenly grabs his hand, and he pulls. The monitor surface ripples like liquid at the contact point,
 ```
 
+> 🔗 [Original Source](https://x.com/dr_cintas)
+
 ---
+
 ### Multi-Reference Chibi Adventure
 
 **Prompt:**
@@ -2055,15 +2817,21 @@ First-person handheld POV from a man sitting at a modern gaming desk. A large cu
 SUBJECTS Character: Chibi-style young adventurer @[image1] Treasure Chest: Exquisite and noble treasure chest @[image2] Sword: Rare legendary sword @[image3] ENVIRONMENT A narrow cave extending in a single direction toward the end, with uneven ground featuring broken stone steps
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### One-Take Cinematic Horror Scene
 
 **Prompt:**
 ```
-one-take cinematic horror scene, old apartment hallway at night, one young woman holding a phone light, slow tracking shot, tense silence. first step: ceiling light suddenly goes out, brief blackout, light returns, hallway seems normal. second step: light goes out again, slightly longer blackout, faint strange sound, light returns, bathroom door is now more 
+one-take cinematic horror scene, old apartment hallway at night, one young woman holding a phone light, slow tracking shot, tense silence. first step: ceiling light suddenly goes out, brief blackout, light returns, hallway seems normal. second step: light goes out again, slightly longer blackout, faint strange sound, light returns, bathroom door is now more
 ```
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Rainy Night Romantic Tension Scene
 
 **Prompt:**
@@ -2071,7 +2839,10 @@ one-take cinematic horror scene, old apartment hallway at night, one young woman
 Style: Cinematic, romantic tension, realistic handheld Setting: Night, Italian city (Rome/Milan), heavy rain, warm streetlights reflecting on wet pavement Mood: Intimate + emotionally charged 0–2s Handheld close-up, slightly unstable camera.Heavy rain pouring onto the pavement.A man and a woman stand under one umbrella, very close. Water drips from the edges
 ```
 
+> 🔗 [Original Source](https://x.com/craftian_keskin)
+
 ---
+
 ### Boxing Training Montage
 
 **Prompt:**
@@ -2079,7 +2850,10 @@ Style: Cinematic, romantic tension, realistic handheld Setting: Night, Italian c
 Create a boxing training montage young boxer working with an old coach, hitting pads, jumping rope, heavy bag. Gritty gym lighting, sweat flying in slow motion. Give me that Rocky energy.
 ```
 
+> 🔗 [Original Source](https://x.com/harboriis)
+
 ---
+
 ### Western Narrative Multi-Cut Video Prompt
 
 **Prompt:**
@@ -2087,7 +2861,10 @@ Create a boxing training montage young boxer working with an old coach, hitting 
 @_girl01: The first image __b6p3w5d.png. @_man01: The second image _r4t8v1n.png. The setting is a dusty Western movie scene. [Cut 0] @_girl01 enters the frame from the left, brushing back her bangs as if feeling the heat, and looks up at the sky. [Cut 1] A bright, shining sun. [Cut 2] Over-the-shoulder shot of @_girl01 seeing @_man01. @_girl01's back is on t
 ```
 
+> 🔗 [Original Source](https://x.com/mikumiku_aloha)
+
 ---
+
 ### City Time Freeze Cinematic Sequence
 
 **Prompt:**
@@ -2095,7 +2872,10 @@ Create a boxing training montage young boxer working with an old coach, hitting 
 Cinematic ultra-realistic 15-second short film, western girl in a dark jacket walking through a busy city sidewalk, natural daylight, hard shadows, shallow depth of field, shot on Arri Alexa Mini, 50mm lens. She walks confidently through moving pedestrians, phones, conversations, and pigeons flying in a bright sky. She snaps her fingers — a white spherical s
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Steampunk Aviator Girl vs Mechanical Wolf
 
 **Prompt:**
@@ -2103,7 +2883,10 @@ Cinematic ultra-realistic 15-second short film, western girl in a dark jacket wa
 A bold little girl in a crimson aviator hood, brass goggles, and a satchel of clockwork tools swings into frame in the first two seconds from a dirigible mooring rope as a bronze-fanged mechanical wolf with piston legs bursts through the wall of a sky-bazaar behind her, instantly creating the hook, and the cartoon becomes a fast steampunk fairy-tale action r
 ```
 
+> 🔗 [Original Source](https://x.com/rovvmut_)
+
 ---
+
 ### Detailed Gacha Game Summon Animation
 
 **Prompt:**
@@ -2111,7 +2894,10 @@ A bold little girl in a crimson aviator hood, brass goggles, and a satchel of cl
 Reference image is used for reference only, not as a start frame. Social game gacha production style. Up-tempo, exciting BGM with sound effects like electronic tones, lottery sounds, and confirmation sounds. The girl with a pacifier does not speak and her mouth does not move at all. All transitions are flashy effects with impacts, flashes, and UI glows. Imme
 ```
 
+> 🔗 [Original Source](https://x.com/Kashiko_AIart)
+
 ---
+
 ### Cinematic Luxury Pizza Commercial
 
 **Prompt:**
@@ -2119,7 +2905,10 @@ Reference image is used for reference only, not as a start frame. Social game ga
 Ultra cinematic high-energy food commercial, fast-paced luxury kitchen, warm sunlight, marble and steel reflections, shallow depth of field, aggressive camera movement, stable tracking, ultra-realistic. Western woman chef with straight blonde hair, maintaining consistent facial identity, prepares a premium pizza. 0–2s — rapid vegetable chopping (tomato, caps
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Bioluminescent Alien Planet Exploration
 
 **Prompt:**
@@ -2127,7 +2916,10 @@ Ultra cinematic high-energy food commercial, fast-paced luxury kitchen, warm sun
 Alien jungle planet with bioluminescent megaflora and floating islands connected by vines. Adventurous tracking shot following explorers as pterosaur creatures soar. Vibrant cinematic, two moons in teal sky, gentle wind and glowing pulse motion
 ```
 
+> 🔗 [Original Source](https://x.com/Alin_Reaper05)
+
 ---
+
 ### Origami House Paper Animation
 
 **Prompt:**
@@ -2135,7 +2927,10 @@ Alien jungle planet with bioluminescent megaflora and floating islands connected
 Top-down shot of a blank white sheet of paper on a desk. A pencil draws a small house. The drawing begins folding itself upward off the page — the house pops into a 3D paper structure. Trees sprout around it as origami folds, a paper river unfolds and starts flowing
 ```
 
+> 🔗 [Original Source](https://x.com/rezkhere)
+
 ---
+
 ### POV Rooftop Chase Prompt
 
 **Prompt:**
@@ -2143,7 +2938,10 @@ Top-down shot of a blank white sheet of paper on a desk. A pencil draws a small 
 Handheld POV chase sequence across rain-soaked rooftops at night. The runner leaps from one building to the next — the moment their foot leaves the edge, the building behind them begins crumbling and folding inward like a collapsing cardboard box. Camera stays tight
 ```
 
+> 🔗 [Original Source](https://x.com/rezkhere)
+
 ---
+
 ### Abandoned Train Station Rebuilding Prompt
 
 **Prompt:**
@@ -2151,7 +2949,10 @@ Handheld POV chase sequence across rain-soaked rooftops at night. The runner lea
 Static wide shot of a crumbling abandoned train station at dusk. Dust hangs in the air, broken windows, overgrown vines. A single flickering light appears on the rusted tracks. Suddenly the station begins rebuilding itself
 ```
 
+> 🔗 [Original Source](https://x.com/rezkhere)
+
 ---
+
 ### Anime Promotion Video Ad Prompt
 
 **Prompt:**
@@ -2159,7 +2960,10 @@ Static wide shot of a crumbling abandoned train station at dusk. Dust hangs in t
 Create a 15-second anime advertising video referring to this image. The dialogue should be professional voice actor Japanese throughout. Use a multi-cut composition with diverse scenes every 0.5 to 3 seconds (emotional character expressions, immersive adventure/daily life scenes, beautiful background scenery, etc.) in a well-paced rhythm to create an engagin
 ```
 
+> 🔗 [Original Source](https://x.com/SSSS_CRYPTOMAN)
+
 ---
+
 ### Cyberpunk Urban Runner Animation
 
 **Prompt:**
@@ -2167,7 +2971,10 @@ Create a 15-second anime advertising video referring to this image. The dialogue
 Neon-drenched megacity at night. Rain-slick rooftops. A cyberpunk runner with glowing boots sparks fire with every stride while drones hunt her through the foggy skyline. Low-angle tracking, vertical leaps
 ```
 
+> 🔗 [Original Source](https://x.com/nijokestu)
+
 ---
+
 ### Temple Rooftop Chase Animation
 
 **Prompt:**
@@ -2175,7 +2982,10 @@ Neon-drenched megacity at night. Rain-slick rooftops. A cyberpunk runner with gl
 Now she’s sprinting across ancient temple rooftops, blue energy bursting from her body, leaping fearlessly as a spectral dragon coils around her mid-flight. The camera chases from below, then orbits wildly toward the blood moon.
 ```
 
+> 🔗 [Original Source](https://x.com/nijokestu)
+
 ---
+
 ### Cinematic Warrior and Dragon Spirit Prompt
 
 **Prompt:**
@@ -2183,7 +2993,10 @@ Now she’s sprinting across ancient temple rooftops, blue energy bursting from 
 Lightning cracks across floating ruins. The warrior slams her glowing sword into stone, golden energy erupts. She leaps into the void as a living blue dragon spirit swirls around her
 ```
 
+> 🔗 [Original Source](https://x.com/nijokestu)
+
 ---
+
 ### Roman Gladiator Coliseum Epic
 
 **Prompt:**
@@ -2191,7 +3004,10 @@ Lightning cracks across floating ruins. The warrior slams her glowing sword into
 Epic cinematic scene of a powerful Roman gladiator standing in the center of a massive ancient colosseum arena, wearing detailed bronze armor and a red plume helmet, holding a large battle shield and sword, thousands of spectators in the background cheering in stone stands, golden sunset lighting casting long shadows across the sand, dust particles in the ai
 ```
 
+> 🔗 [Original Source](https://x.com/j_smeaton99)
+
 ---
+
 ### Modern Architecture Glide Prompt
 
 **Prompt:**
@@ -2199,7 +3015,10 @@ Epic cinematic scene of a powerful Roman gladiator standing in the center of a m
 Cinematic daytime scene in a modern architectural space with soft natural light Camera glides toward a floating glass-like window Inside it fragments of scenes particles and light streaks merge into one final frame Minimal environment clean reflections slow motion
 ```
 
+> 🔗 [Original Source](https://x.com/kate_osita_)
+
 ---
+
 ### Stormy Sea Monster Encounter
 
 **Prompt:**
@@ -2207,15 +3026,21 @@ Cinematic daytime scene in a modern architectural space with soft natural light 
 A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide.
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Speeder Chase Cliffside City Action
 
 **Prompt:**
 ```
-Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the 
+Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Low FPS Flipbook Animation
 
 **Prompt:**
@@ -2223,7 +3048,10 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 A video produced frame-by-frame at 10 FPS, like a flipbook. Every line differs per frame, creating a flipbook-like animation. It maintains a pale color palette and the refined expression of ink wash painting, depicting a woman's natural movements exactly as they are.
 ```
 
+> 🔗 [Original Source](https://x.com/eijo_AIart)
+
 ---
+
 ### 1980s Sci-Fi Captain Evacuation
 
 **Prompt:**
@@ -2231,7 +3059,10 @@ A video produced frame-by-frame at 10 FPS, like a flipbook. Every line differs p
 1980s vintage sci fi live broadcast practical photography, heroic, white bodysuit wearing, daring attractive space captain woman, action pose, issuing evacuation orders firing blaster left, sci-fi corridor, refugees running behind her, alien warriors attacking from the left, 1980s sci-fi , film grain, amber lighting, cinematic, multiple shots, soaring orches
 ```
 
+> 🔗 [Original Source](https://x.com/BrentLynch)
+
 ---
+
 ### Surfer on a Big Wave
 
 **Prompt:**
@@ -2239,7 +3070,10 @@ A video produced frame-by-frame at 10 FPS, like a flipbook. Every line differs p
 A daytime scene of a white surfer riding a big wave shining in emerald green. Riding through a tube-shaped wave. Intense water spray flying around. Grand scale. 8k.
 ```
 
+> 🔗 [Original Source](https://x.com/AIakira23)
+
 ---
+
 ### High-Speed Urban Chase and Transformation
 
 **Prompt:**
@@ -2247,15 +3081,21 @@ A daytime scene of a white surfer riding a big wave shining in emerald green. Ri
 A high-speed chase sequence where a character moves through a crowded street, transforms mid-run, and interacts with the environment dynamically.
 ```
 
+> 🔗 [Original Source](https://x.com/AIFrontliner)
+
 ---
+
 ### Seedance 2.0 Benchmark Comparison Prompts
 
 **Prompt:**
 ```
-1. The person initiates walking forward, starting with a natural step. Arm swing, head movement, and gait are realistic and continuous. No sudden acceleration or sliding. 2. A massive game of Jenga reaching its structural limit. The tower leans dramatically, defying physics through sheer tension. A player's hand trembles as they attempt to remove a critical 
+1. The person initiates walking forward, starting with a natural step. Arm swing, head movement, and gait are realistic and continuous. No sudden acceleration or sliding. 2. A massive game of Jenga reaching its structural limit. The tower leans dramatically, defying physics through sheer tension. A player's hand trembles as they attempt to remove a critical
 ```
 
+> 🔗 [Original Source](https://x.com/CuriousRefuge)
+
 ---
+
 ### Noir Sci-Fi City Single-Shot
 
 **Prompt:**
@@ -2263,7 +3103,10 @@ A high-speed chase sequence where a character moves through a crowded street, tr
 15-second continuous single-shot cinematic sequence. No cuts. No scene transitions. Dark noir futuristic city at night, wet streets reflecting dim yellow streetlights, heavy fog drifting between buildings, 1940s-inspired architecture mixed with subtle sci-fi elements, atmosphere
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Character Painting Time-lapse
 
 **Prompt:**
@@ -2271,7 +3114,10 @@ A high-speed chase sequence where a character moves through a crowded street, tr
 time-lapse video of this character painting this room orange, when he finishes painting, the camera zooms into his face, and he waves.
 ```
 
+> 🔗 [Original Source](https://x.com/fuserstudio)
+
 ---
+
 ### Romantic Dance in a Celestial Setting
 
 **Prompt:**
@@ -2279,7 +3125,10 @@ time-lapse video of this character painting this room orange, when he finishes p
 Video of two people dancing. With varied camera work. Graceful and romantic dance like jazz or contemporary. Dancing on the clouds. Aurora and planets in the distance. Include a mix of shots: the woman spinning, close-ups of happy faces, poses where the back is deeply arched, and romantic long shots of the two people backlit.
 ```
 
+> 🔗 [Original Source](https://x.com/applete77191758)
+
 ---
+
 ### Cinematic Realism Style Prompt
 
 **Prompt:**
@@ -2287,7 +3136,10 @@ Video of two people dancing. With varied camera work. Graceful and romantic danc
 [STYLE] Full live-action cinematic realism throughout. High-contrast chiaroscuro lighting with deep shadow compression and oppressive darkness. Intense camera impact with explosive pacing, but grounded in photographic texture. Real motion blur with subtle film grain.
 ```
 
+> 🔗 [Original Source](https://x.com/LewisAi_Lab)
+
 ---
+
 ### Cat vs Kung Fu Master Duel
 
 **Prompt:**
@@ -2295,7 +3147,10 @@ Video of two people dancing. With varied camera work. Graceful and romantic danc
 Create a cinematic kung fu duel between a small, highly skilled cat and a legendary human kung fu master in an ancient temple courtyard at dusk. The cat moves with lightning-fast paw strikes, agile flips, low sweeping footwork, tail-balanced spins, and precise martial-arts poses.
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Intergalactic Space Battle
 
 **Prompt:**
@@ -2303,7 +3158,10 @@ Create a cinematic kung fu duel between a small, highly skilled cat and a legend
 Massive intergalactic warzone filled with hundreds of ultra-advanced futuristic starships clashing in deep space...
 ```
 
+> 🔗 [Original Source](https://x.com/Trisha_Techie)
+
 ---
+
 ### Character Fall Sequence - Segment 1
 
 **Prompt:**
@@ -2311,7 +3169,10 @@ Massive intergalactic warzone filled with hundreds of ultra-advanced futuristic 
 0-3s (Initial Descent): The character falls through the daytime sky in free fall, eyes closed, frowning slightly. Hair flies violently against the wind. Red electrical arcs begin to flicker on the skin. Motion blur on the surrounding clouds is intense.
 ```
 
+> 🔗 [Original Source](https://x.com/adsgeniestudio)
+
 ---
+
 ### Holographic Crystal Tree Animation
 
 **Prompt:**
@@ -2319,7 +3180,10 @@ Massive intergalactic warzone filled with hundreds of ultra-advanced futuristic 
 premium motion graphics video with floating holographic particles and crystal-like structures building into a majestic glowing tree with flowing light leaves. Dark void background, elegant and magical animation.
 ```
 
+> 🔗 [Original Source](https://x.com/zeng_wt)
+
 ---
+
 ### Ancient Kingdom of Urartu FPV
 
 **Prompt:**
@@ -2327,7 +3191,10 @@ premium motion graphics video with floating holographic particles and crystal-li
 extremely fast-paced cinematic FPV flying through the ancient Kingdom of Urartu at its peak, sweeping over massive stone fortresses, terraced mountains, and ancient cities around Lake Van, dynamic high-speed motion with sharp turns, dives, and climbs, realistic ancient architecture, warriors, markets, and temples in motion, golden hour lighting, volumetric s
 ```
 
+> 🔗 [Original Source](https://x.com/shushant_l)
+
 ---
+
 ### Singing Woman Character Reference Prompt
 
 **Prompt:**
@@ -2335,7 +3202,10 @@ extremely fast-paced cinematic FPV flying through the ancient Kingdom of Urartu 
 Generate a scene of a young Japanese woman singing under weeping cherry blossoms using \u003cimage_1\u003e as a character reference. Lip-sync with the input audio. No microphone. Multi-shot.
 ```
 
+> 🔗 [Original Source](https://x.com/Artoid_XYZ)
+
 ---
+
 ### Battle-Damaged Megacity Mech
 
 **Prompt:**
@@ -2343,7 +3213,10 @@ Generate a scene of a young Japanese woman singing under weeping cherry blossoms
 Photorealistic blockbuster cinema. 16:9. ARRI anamorphic, heavy 35mm grain, no color grade, only practical lighting. References: Pacific Rim, District 9, Mad Max Fury Road. A battle-damaged mech 40 stories tall stands in a destroyed Tokyo-Seoul megacity at night. Unpainted
 ```
 
+> 🔗 [Original Source](https://x.com/plasm0)
+
 ---
+
 ### Rampaging Android Girl in Lab
 
 **Prompt:**
@@ -2351,7 +3224,10 @@ Photorealistic blockbuster cinema. 16:9. ARRI anamorphic, heavy 35mm grain, no c
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. A doctor shouting, \"Waaah! Stop it! Please stop it!\" but the girl doesn't stop. There is a big explosion, and the lab is destroyed.
 ```
 
+> 🔗 [Original Source](https://x.com/JessyRosyyy)
+
 ---
+
 ### Anime Parody Running with Bread Scene Prompt
 
 **Prompt:**
@@ -2359,7 +3235,10 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 Daytime, a slope lined with cherry blossoms (outdoors). She bursts out of the front door with a piece of toast in her mouth. A parody of the classic anime 'I'm late, I'm late!' trope. The camera captures her profile while only the background flows by at high speed. Along the way, she rhythmically avoids various obstacles. - Evades a stray cat jumping out wit
 ```
 
+> 🔗 [Original Source](https://x.com/xc5_)
+
 ---
+
 ### Male Street Dancer Studio Shot
 
 **Prompt:**
@@ -2367,7 +3246,10 @@ Daytime, a slope lined with cherry blossoms (outdoors). She bursts out of the fr
 SUBJECTS: A male street dance expert, white buzz cut, wearing small gold hoop earrings and a gold rope chain. Dressed in a dark brown hoodie, a pure white crew neck shirt underneath, dark brown loose pants, and white sneakers. ENVIRONMENT: Pure seamless background, slightly cool
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Samurai Sword Slash and Noto Ritual
 
 **Prompt:**
@@ -2375,7 +3257,10 @@ SUBJECTS: A male street dance expert, white buzz cut, wearing small gold hoop ea
 Extreme close-up from low angle. The torso twists away from the draw side — the left shoulder drops forward, the right shoulder pulls back, weight loading into the rear hip. Magenta energy arcs swirl around the torso, building intensity. A bright flash ignites at the sword hilt.The body uncoils — explosive rush directly toward the camera with heavy motion bl
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Horror Carnival Transformation
 
 **Prompt:**
@@ -2383,7 +3268,10 @@ Extreme close-up from low angle. The torso twists away from the draw side — th
 Cinematic horror-fantasy sequence at a brightly lit night carnival. Starts with a close-up of a cute, small, fluffy blue cotton candy monster looking shocked. Cut to several young children greedily eating blue cotton candy. Back to the small monster looking furious as its eyes glow. The monster then explodes into a massive cloud of blue smoke that towers ove
 ```
 
+> 🔗 [Original Source](https://x.com/ChillaiKalan__)
+
 ---
+
 ### Massive Mechanical Transformation Scene
 
 **Prompt:**
@@ -2391,7 +3279,10 @@ Cinematic horror-fantasy sequence at a brightly lit night carnival. Starts with 
 A quiet environment suddenly disrupted by a massive transformation. Objects in the scene begin shifting and assembling into a giant mechanical creature. The camera pulls back to reveal scale. Dust, debris, and shockwaves
 ```
 
+> 🔗 [Original Source](https://x.com/JaynitMakwana)
+
 ---
+
 ### Asteroid City Impact Scene
 
 **Prompt:**
@@ -2399,7 +3290,10 @@ A quiet environment suddenly disrupted by a massive transformation. Objects in t
 A glowing asteroid enters the atmosphere above a sprawling metropolis at night. The camera tracks the meteor streaking across the sky before it slams into the city center. A massive shockwave blasts outward, flattening buildings and throwing cars through the air. A gigantic fireball rises above the crater as dust clouds engulf the skyline. Asteroid impact di
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Epic Cyberpunk Aerial Combat Sequence
 
 **Prompt:**
@@ -2407,7 +3301,10 @@ A glowing asteroid enters the atmosphere above a sprawling metropolis at night. 
 A Japanese woman is the protagonist. The setting is high above the skyscrapers of a collapsed near-future city. An aerial space at night with broken elevated walkways, crumbling walls, protruding steel beams, shattered glass, smoke, dust, pale blue backlighting, flashing neon, and drifting sparks. The ground is far below, a high-altitude location with a cons
 ```
 
+> 🔗 [Original Source](https://x.com/onofumi_AI)
+
 ---
+
 ### High-Energy Cinematic Transformation
 
 **Prompt:**
@@ -2415,7 +3312,10 @@ A Japanese woman is the protagonist. The setting is high above the skyscrapers o
 A camera rapidly orbits a woman standing in an open space at night. She wears a flowing white outfit. As she spins, the outfit explodes into glowing particles and digital fragments
 ```
 
+> 🔗 [Original Source](https://x.com/heyDhavall)
+
 ---
+
 ### Bacon Latte Commercial Prompt
 
 **Prompt:**
@@ -2423,7 +3323,10 @@ A camera rapidly orbits a woman standing in an open space at night. She wears a 
 ・Starting from a logo or a cool visual ・Being handed a drink during a marathon ・It's a Bacon Latte ・Confused at first, but after drinking it... ・Getting energized ・Logo ・Bacon Latte, half-price sale now on!
 ```
 
+> 🔗 [Original Source](https://x.com/dogdog464646)
+
 ---
+
 ### Cinematic Scene Structure and Camera Movement
 
 **Prompt:**
@@ -2431,7 +3334,10 @@ A camera rapidly orbits a woman standing in an open space at night. She wears a 
 ## Scene 1 | Green Screen Entrance [Camera] Center fixed, front / bust-up frame [Direction] Character slides in from the bottom of the screen. Emphasizing a studio feel while looking at the camera with a smile. [IN] Slide down 0.3s ease-out ## Scene 2 | Right Eye Close-up [Camera] Extreme close-up, centered on the right eye -\u003e rapid zoom-in (0.4s)
 ```
 
+> 🔗 [Original Source](https://x.com/gibkun1)
+
 ---
+
 ### Pixar Style Traffic Cone Short
 
 **Prompt:**
@@ -2439,7 +3345,10 @@ A camera rapidly orbits a woman standing in an open space at night. She wears a 
 A Pixar-style short about a nervous little traffic cone who dreams of being a finish line pylon at a major race. Other cones mock its ambitions. A construction worker accidentally places it at a marathon finish line. The cone's painted face shifts from terror to joy as runners pass. Confetti falls on its cone head. Other cones watch on TV, inspired. Audio: T
 ```
 
+> 🔗 [Original Source](https://x.com/ArtificialAnlys)
+
 ---
+
 ### Cinematic Beach Sunset Scene
 
 **Prompt:**
@@ -2447,7 +3356,10 @@ A Pixar-style short about a nervous little traffic cone who dreams of being a fi
 A scene from a movie. A beautiful and sad video. All dialogue is in English with Japanese subtitles at the bottom. A beautiful sunset on a beach on the West Coast of America. Cut 1: A boy sitting on a dike looking at the sunset sea with a sad expression. An older man sits next to him. He says, \"Well, a lot of things happen in life.\" Cut 2: The boy glances at
 ```
 
+> 🔗 [Original Source](https://x.com/_3912657840)
+
 ---
+
 ### 90s Indonesian Drama Rain Scene
 
 **Prompt:**
@@ -2455,15 +3367,21 @@ A scene from a movie. A beautiful and sad video. All dialogue is in English with
 Nostalgic and emotional footage in the style of a 1990s Indonesia trendy drama. City at night. An Indonesian salaryman and a Sundanesse office lady in their early twenties are running together in a sudden rain shower. Both are soaking wet, with rain clinging to their hair and clothes, laughing breathlessly. The man is wearing a dark suit typical of the 90s.
 ```
 
+> 🔗 [Original Source](https://x.com/woleswoosh)
+
 ---
+
 ### 1990s VHS Home Video Style
 
 **Prompt:**
 ```
-Create a 15-second cinematic home-video style outdoor scene set in the early 1990s. Several children are playing together in a neighborhood park, capturing the authentic spirit of 1990s childhood. The environment feels genuinely period-correct: simple playground equipment, worn metal swings, old slide, dusty paths, apartment blocks in the background, parked 
+Create a 15-second cinematic home-video style outdoor scene set in the early 1990s. Several children are playing together in a neighborhood park, capturing the authentic spirit of 1990s childhood. The environment feels genuinely period-correct: simple playground equipment, worn metal swings, old slide, dusty paths, apartment blocks in the background, parked
 ```
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Cinematic Action Sequence for Seedance 2.0
 
 **Prompt:**
@@ -2471,7 +3389,10 @@ Create a 15-second cinematic home-video style outdoor scene set in the early 199
 Chapter 1: Part 1 | Sudden Descent from Sky and Fast Against Wind (Prequel: 0-15s) [Camera Movement \u0026 Scene Setting] A 15-second disaster-level opening full of suffocation and grand scale comparison. Emphasis on physical preparation of 'feeling the pressure before seeing the object.' Tones are low-saturation cold gray, overcast diffused light, air filled wit
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Vibrant 3D Geometric Infinite Space
 
 **Prompt:**
@@ -2479,7 +3400,10 @@ Chapter 1: Part 1 | Sudden Descent from Sky and Fast Against Wind (Prequel: 0-15
 A swarm of ultra-refined and glittering 3D cubes, an infinite 3D space, infinite patterns, light reflections, high definition, multicolored, fantastic, psychedelic, macro photography, studio lighting, complex patterns, geometric.
 ```
 
+> 🔗 [Original Source](https://x.com/Naonekozamurai)
+
 ---
+
 ### Industrial Ring Battle Environment
 
 **Prompt:**
@@ -2487,7 +3411,10 @@ A swarm of ultra-refined and glittering 3D cubes, an infinite 3D space, infinite
 Visual reference for the battle atmosphere and composition Scene setting: The fight takes place inside a ring surrounded by tall metal fences. The environment is enclosed, creating a sense of pressure and intensity. The fences should feel heavy, industrial, and destructible.
 ```
 
+> 🔗 [Original Source](https://x.com/FVRB_FanProject)
+
 ---
+
 ### Cinematic Electrical Storm Prompt
 
 **Prompt:**
@@ -2495,7 +3422,10 @@ Visual reference for the battle atmosphere and composition Scene setting: The fi
 Ultra-realistic cinematic disaster, extreme electrical storm, continuous lightning impacts, ground-level survival perspective, explosive energy strikes, debris ignition, rapid pacing, handheld chase camera, high contrast lighting flashes, hard cuts only, no fade, no dissolve, no morph transition. Shot 1: Camera sprinting, sky already flashing violently, thun
 ```
 
+> 🔗 [Original Source](https://x.com/AllaAisling)
+
 ---
+
 ### Ancient Book Stormy Sea Diorama
 
 **Prompt:**
@@ -2503,7 +3433,10 @@ Ultra-realistic cinematic disaster, extreme electrical storm, continuous lightni
 A hyper-realistic, cinematic video captures an ancient, open book transforming into a living diorama of a stormy sea. The camera, in an extreme close-up, glides over the book's yellowed pages and a simple illustration of a boat on a choppy sea. The sound of a storm begins to fade in, breaking the silence of an old library.
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Universal Freeze-Frame Prompt
 
 **Prompt:**
@@ -2511,7 +3444,10 @@ A hyper-realistic, cinematic video captures an ancient, open book transforming i
 Use the provided image as the very first frame. Create a single continuous shot where time is 100% frozen in place - absolute zero motion from any human, vehicle, flame, snow, smoke or particle. The camera moves with high energy: dramatic dolly zoom, orbiting, weaving between objects, low and high angles. Cinematic film look, only camera is moving.
 ```
 
+> 🔗 [Original Source](https://x.com/lukasersil)
+
 ---
+
 ### Futuristic Action Short Film Prompt
 
 **Prompt:**
@@ -2519,7 +3455,10 @@ Use the provided image as the very first frame. Create a single continuous shot 
 Original Action Short Film: It opens with a futuristic city with almost real movie texture, gradually transitioning to a high-energy two-dimensional action style. Characters chase, leap and confront at high speed between neon viaducts and high-rise buildings.
 ```
 
+> 🔗 [Original Source](https://x.com/lloydcreates)
+
 ---
+
 ### Fae-Ranger World Tree Video Prompt
 
 **Prompt:**
@@ -2527,7 +3466,10 @@ Original Action Short Film: It opens with a futuristic city with almost real mov
 A nimble fae-ranger diving on a leaf-bladed wind-board down the colossal hollow trunk of a decaying World Tree, weaving effortlessly through a vertical fungal bazaar, dodging giant stag beetles, fluttering moth-riders, and tethered acorn-pubs.
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Police Station Narrative Sequence Prompt
 
 **Prompt:**
@@ -2535,7 +3477,10 @@ A nimble fae-ranger diving on a leaf-bladed wind-board down the colossal hollow 
 A man arrives at the police station and parks. [cut] Smoke from the hood. [cut] Takes the flower and gets out. [cut] Enters; a police officer is suspicious behind the counter. Sign: 'License Renewal'. [cut] Leaves the flower and ID card. [cut] She is astonished. [cut] He laughs nervously. No music.
 ```
 
+> 🔗 [Original Source](https://x.com/lisaknowsai)
+
 ---
+
 ### Cinematic Car Chase Sequence Prompt
 
 **Prompt:**
@@ -2543,7 +3488,10 @@ A man arrives at the police station and parks. [cut] Smoke from the hood. [cut] 
 A man goes to the parked car. [cut] Gets in. [cut] Starts; the dashboard flower vibrates. [cut] Accelerates and drives like crazy. [cut] Drives wild, crashing into trash cans and mailboxes. [cut] People scream on the sidewalk. No music.
 ```
 
+> 🔗 [Original Source](https://x.com/lisaknowsai)
+
 ---
+
 ### Bullet Time 360 Orbit Prompt
 
 **Prompt:**
@@ -2551,7 +3499,10 @@ A man goes to the parked car. [cut] Gets in. [cut] Starts; the dashboard flower 
 Bullet time effect. A young woman in a mustard-yellow jumpsuit slipping and falling backward on a suburban sidewalk in front of a modest house with a wooden fence. A banana peel lies on the ground beneath her, implying the cause of the fall. Groceries burst out of a paper bag mid-air—fresh vegetables, tomatoes, oranges, leafy greens, a baguette, and an egg c
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Cartoon Kitchen Snack Chaos
 
 **Prompt:**
@@ -2559,7 +3510,10 @@ Bullet time effect. A young woman in a mustard-yellow jumpsuit slipping and fall
 Cartoon-style giant kitchen at night, warm fridge light + moonlight, Pixar-like rendering, vibrant colors, soft rounded characters, humorous tone. Three goofy pajama-clad characters grab snacks chaotically — stuffing cookies, drinks, and food into bags, crumbs and wrappers flying. [CUT] They hear a sound → freeze → panic and sprint toward the exit, bags boun
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Martial Arts Combat Choreography
 
 **Prompt:**
@@ -2567,7 +3521,10 @@ Cartoon-style giant kitchen at night, warm fridge light + moonlight, Pixar-like 
 15-second vertical, hyper-real, minimal VFX, focus on choreography. Two elite fighters, one fire-based, one stealth-based. 0.0–5.0s Close-range combat, realistic strikes, grapples, footwork. 5.0–10.0s Momentum shifts, shadow fighter uses speed, fire fighter adapts. 10.0–15.0s Clean decisive finish, no spectacle, pure technique. End text: “VICTORY”
 ```
 
+> 🔗 [Original Source](https://x.com/CurieuxExplorer)
+
 ---
+
 ### Toy Battle Macro Cinematography
 
 **Prompt:**
@@ -2575,7 +3532,10 @@ Cartoon-style giant kitchen at night, warm fridge light + moonlight, Pixar-like 
 two toy figures waking up and fighting on a desktop at midnight. macro photography to make 3-inch models look massive. dust particles in the light shaft. sparks on weapon collision. compact rhythm. late-night study atmosphere.
 ```
 
+> 🔗 [Original Source](https://x.com/rryssf_)
+
 ---
+
 ### Cinematic Cliff Dive and Dragon Flight Prompt
 
 **Prompt:**
@@ -2583,7 +3543,10 @@ two toy figures waking up and fighting on a desktop at midnight. macro photograp
 The camera shoots up from below, passing over the jagged cliff face, then suddenly tilts down to reveal the surging sea below, waves crashing against the black rocks. A woman [Image 1] stands at the edge of the cliff, looking fearlessly into the whirlpool as if challenging it to roll up higher waves. She steps forward without hesitation and leaps off the cli
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Sea Monster Storm Survival
 
 **Prompt:**
@@ -2591,7 +3554,10 @@ The camera shoots up from below, passing over the jagged cliff face, then sudden
 A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide. It clamps its teeth onto the boat, splintering the wood, and violently drags it beneath the churning oce
 ```
 
+> 🔗 [Original Source](https://x.com/rovvmut_)
+
 ---
+
 ### 3D Printer Time-lapse Prompt
 
 **Prompt:**
@@ -2599,15 +3565,21 @@ A lone man struggles to steady himself on a small boat in the middle of a violen
 3D printer layer by layer constructing a detailed miniature building, time-lapse style, warm workshop lighting, shallow depth of field focusing on the print head
 ```
 
+> 🔗 [Original Source](https://x.com/AImaniaChannel)
+
 ---
+
 ### First-Person POV Sword Flying
 
 **Prompt:**
 ```
-Generate a first-person perspective (POV) video of a woman in green (@Image1) flying on a sword through mountains. Real-life cinematic style. The camera mimics human eyes (no face/body shown, only the sword). Shot 1: Looking down at shoes and dress. Shot 2: Looking forward while flying. Extreme shaking and speed. One-take flow. Only environmental sounds, no 
+Generate a first-person perspective (POV) video of a woman in green (@Image1) flying on a sword through mountains. Real-life cinematic style. The camera mimics human eyes (no face/body shown, only the sword). Shot 1: Looking down at shoes and dress. Shot 2: Looking forward while flying. Extreme shaking and speed. One-take flow. Only environmental sounds, no
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### First-Person POV White Crane Flight
 
 **Prompt:**
@@ -2615,7 +3587,10 @@ Generate a first-person perspective (POV) video of a woman in green (@Image1) fl
 Hyper-realistic first-person flight video, fully simulating the POV of the white crane from @Image1. Flying through cloud seas and immortal mountains. Passing near ancient cliff buildings, diving, skimming over tiled pavilions. Tyndall light beams through clouds. Strong wind noise, immersive POV, rich details, camera movement fits bird flight logic. Smooth f
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Wing Chun Anime Fight Choreography Prompt
 
 **Prompt:**
@@ -2623,7 +3598,10 @@ Hyper-realistic first-person flight video, fully simulating the POV of the white
 Act as a professional fight choreographer of the anime industry with extensive knowledge of Wing Chun and Chinese wushu fighting style. Create a fast paced and dynamic fight scene between Jinx @Image4 and Knibbz@Image5 . Jinx should have dirt and scratches slightly smeered on his face like in @Image6 in this fight. Their feet shift back and forth with Jinx s
 ```
 
+> 🔗 [Original Source](https://x.com/PocketScreenAI)
+
 ---
+
 ### Cinematic supernatural duel: The Ink Monk vs the Paper Dragon
 
 **Prompt:**
@@ -2631,7 +3609,10 @@ Act as a professional fight choreographer of the anime industry with extensive k
 The Ink Monk vs the Paper Dragon A cinematic supernatural duel. A silent monk in soaked black robes stands in an abandoned calligraphy hall during torrential rain. He fights using brushstroke sigils, flowing ink whips, and a lacquer-black staff. His
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Photorealistic Cinematic Action Video Prompt
 
 **Prompt:**
@@ -2639,7 +3620,10 @@ The Ink Monk vs the Paper Dragon A cinematic supernatural duel. A silent monk in
 Photorealistic cinematic 16:9. Non-stop kinetic action. Camera never stops moving. No cuts longer than 1.5 seconds. Shot like a $200M blockbuster. Anamorphic lens throughout. [0.0s] SMASH OPEN — extreme low angle, motorcycle wheel fills frame, wet asphalt inches away,
 ```
 
+> 🔗 [Original Source](https://x.com/plasm0)
+
 ---
+
 ### Miniature Fantasy Action Short Film Prompt
 
 **Prompt:**
@@ -2647,7 +3631,10 @@ Photorealistic cinematic 16:9. Non-stop kinetic action. Camera never stops movin
 Original Miniature Fantasy Action Short Film: In a study late at night, two original combat models in the collection cabinet suddenly wake up under the moonlight. They launch an epic battle between the narrow desktop and ornaments. The camera adopts macro movie photography to highlight the huge scale contrast. Light slants in from outside the window, with du
 ```
 
+> 🔗 [Original Source](https://x.com/TopviewAIhq)
+
 ---
+
 ### São Paulo Parkour at Sunset Prompt
 
 **Prompt:**
@@ -2655,7 +3642,10 @@ Original Miniature Fantasy Action Short Film: In a study late at night, two orig
 VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, black curly hair flying free, wearing faded yellow shorts and a white tank top with scuffed trainers, runs full speed across the rooftops of São Paulo's dense favela skyline as the sun sets blood orange
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Pixar-Style Builder Queue Prompt (0-5s)
 
 **Prompt:**
@@ -2663,7 +3653,10 @@ VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, bla
 [00:00–00:05] Pixar-style 3D animation. A muddy British building site with scaffolding, half-built brick walls, and a cement mixer. A queue of burly builders in hi-vis vests and muddy steel-toe boots wait nervously. A battered, ancient, moth-eaten pointed wizard hat sits on an
 ```
 
+> 🔗 [Original Source](https://x.com/real_michal)
+
 ---
+
 ### Pixar-style 3D animation of iridescent fabric on a marble pedestal
 
 **Prompt:**
@@ -2671,7 +3664,10 @@ VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, bla
 [00:00–00:05] Pixar-style 3D animation. A shimmering translucent fabric with a subtle iridescent weave rests perfectly folded on a clean white marble pedestal in a minimalist showroom — white walls, soft directional lighting, nothing else. Slow orbit shot circling the pedestal.
 ```
 
+> 🔗 [Original Source](https://x.com/real_michal)
+
 ---
+
 ### Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole
 
 **Prompt:**
@@ -2679,7 +3675,10 @@ VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, bla
 Classic 1920s Harlem barbershop interior scene in full black-and-white / sepia tone except for the vibrant spinning barber pole (bright red, white, and blue stripes with glowing motion blur) which is the ONLY thing in full color. At least three dapper barbers in vintage aprons and white shirts actively cutting hair with scissors and clippers, chatting and la
 ```
 
+> 🔗 [Original Source](https://x.com/Bic_Revelation)
+
 ---
+
 ### Giantess Anime Climbing Scene Prompt
 
 **Prompt:**
@@ -2687,7 +3686,10 @@ Classic 1920s Harlem barbershop interior scene in full black-and-white / sepia t
 High-quality anime style, 2D animation. Warm, cinematic lighting with sunlight filtering through blinds. A tiny man wearing a green hoodie and blue jeans runs across a wooden floor toward a giantess. He climbs up her massive foot and leg, which are covered in black fishnet stockings, using the fishnet holes to climb. Dynamic low-angle camera following his as
 ```
 
+> 🔗 [Original Source](https://x.com/EHuanglu)
+
 ---
+
 ### Chameleon Sneeze Comedy Short
 
 **Prompt:**
@@ -2695,7 +3697,10 @@ High-quality anime style, 2D animation. Warm, cinematic lighting with sunlight f
 FORMAT: 12s / 1 Continuous Dolly Shot / Vibrant 3D Animation / Extreme Squash and Stretch SUBJECTS: A tiny, bug-eyed chameleon. A fluffy, yellow, pollen-covered butterfly. ENVIRONMENT: A lush, highly detailed tropical jungle branch. Warm sunlight filtering through green leaves. MOOD: Escalating panic, silent comedy, cartoon physics. TIMELINE: 0:00–0:03: Clos
 ```
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)
 
 **Prompt:**
@@ -2703,7 +3708,10 @@ FORMAT: 12s / 1 Continuous Dolly Shot / Vibrant 3D Animation / Extreme Squash an
 Cinematic 15-second visual set in a luxurious marble bathroom with warm golden ambient lighting reflecting softly across water and glass. A woman reclines in a foam-filled bathtub, calm and composed. The camera begins with a slow side-profile close-up as she gently looks away.
 ```
 
+> 🔗 [Original Source](https://x.com/mmendie__)
+
 ---
+
 ### Cinematic Nu-Metal Nightmare Style Prompt
 
 **Prompt:**
@@ -2711,7 +3719,10 @@ Cinematic 15-second visual set in a luxurious marble bathroom with warm golden a
 { \"style_name\": \"Cinematic Nu-Metal Nightmare\", \"art_direction\": \"High-contrast chiaroscuro lighting on a desaturated, cool-toned palette, punctuated by a menacing, pulsing crimson backlight. High-grain 35mm film emulation with pronounced anamorphic lens flares and halation
 ```
 
+> 🔗 [Original Source](https://x.com/ainarioapp)
+
 ---
+
 ### Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)
 
 **Prompt:**
@@ -2719,7 +3730,10 @@ Cinematic 15-second visual set in a luxurious marble bathroom with warm golden a
 Image 1 serves as the starting frame. Only half of a brown wooden fan blade is in the extreme foreground, diagonally cutting the screen from bottom left to top right, slightly blurred. The fan blade rotates slowly and continuously throughout. Timeline: 0-2 seconds: The woman is lying down, relaxed and smiling, breathing lightly, hands resting gently on her c
 ```
 
+> 🔗 [Original Source](https://x.com/xpg0970)
+
 ---
+
 ### 1980s fantasy film scene of a knight fighting a lake monster
 
 **Prompt:**
@@ -2727,15 +3741,21 @@ Image 1 serves as the starting frame. Only half of a brown wooden fan blade is i
 1980s live-action fantasy film, shot on arri with zeiss 35mm lenses. A knight is wading through a lake, facing off with a massive lake monster, as villagers look in the background. It's a gray, overcast day. Fog in the air. Cut to: close on the knight's determined face as
 ```
 
+> 🔗 [Original Source](https://x.com/DrDreamsMusic)
+
 ---
+
 ### Girl and Cat Transformation Video Prompt (Seedance 2.0)
 
 **Prompt:**
 ```
-Girl Character: Subject Core: delicate East Asian female character. Appearance Style: ethereal dreamy illustration/manga style. Facial Features: Skin: pearl-like porcelain skin, soft pink blush. Eyes: bright, clear cerulean blue eyes. Expression: gentle, clear, fragile/melancholic expression. Lips: delicate, slightly parted lips. Accessories: delicate pearl 
+Girl Character: Subject Core: delicate East Asian female character. Appearance Style: ethereal dreamy illustration/manga style. Facial Features: Skin: pearl-like porcelain skin, soft pink blush. Eyes: bright, clear cerulean blue eyes. Expression: gentle, clear, fragile/melancholic expression. Lips: delicate, slightly parted lips. Accessories: delicate pearl
 ```
 
+> 🔗 [Original Source](https://x.com/Cosmoslucy13)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Spring Imprisonment (Ancient Romance)
 
 **Prompt:**
@@ -2743,7 +3763,10 @@ Girl Character: Subject Core: delicate East Asian female character. Appearance S
 Image Quality Style: Cinematic, 4K ultra-clear, extremely smooth CG. Lighting Atmosphere: Soft, dreamy spring morning light, Tyndall effect, highlights with slight bloom. Environmental Elements: Ancient style window side, outside the window is full of blooming flowers, pink petals gently swirl into the room with the wind. Character Settings: Female Lead [@Im
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Seamless Transformation Video: Modern Office to 1920s Gangster Film
 
 **Prompt:**
@@ -2751,15 +3774,21 @@ Image Quality Style: Cinematic, 4K ultra-clear, extremely smooth CG. Lighting At
 A seamless transformation short video, switching from a modern daily indoor scene to a retro 1920s gangster film world with extreme contrast. The total duration is 7 seconds, combining the impact of vertical fashion transformation with a cinematic aspect ratio, resulting in extremely refined visuals and quality comparable to high-end theatrical films. Part 1
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Prehistoric Dirt Bike POV: Racing Against Dinosaurs
 
 **Prompt:**
 ```
-VISUAL STYLE: Use live-action feature film realism with crisp action-camera sharpness and prehistoric atmospheric haze. Subtle motion blur from vibration, micro-jitters from suspension stress. CHARACTERS: Define a strict POV with mud-slick gloved hands gripping a dirt bike handlebar. Right hand aggressively feathering a sticking throttle, left hand riding a 
+VISUAL STYLE: Use live-action feature film realism with crisp action-camera sharpness and prehistoric atmospheric haze. Subtle motion blur from vibration, micro-jitters from suspension stress. CHARACTERS: Define a strict POV with mud-slick gloved hands gripping a dirt bike handlebar. Right hand aggressively feathering a sticking throttle, left hand riding a
 ```
 
+> 🔗 [Original Source](https://x.com/ai_gezgini)
+
 ---
+
 ### Cinematic Warrior Transformation VFX
 
 **Prompt:**
@@ -2767,7 +3796,10 @@ VISUAL STYLE: Use live-action feature film realism with crisp action-camera shar
 15-second dramatic cinematic transformation VFX, ancient temple arena under cosmic energy storm, hyper-detailed armor morphing with glowing particles and lens flares, 8K, powerful rim lighting and energy bursts. 0–2s: Wide static shot, lone warrior in tattered robes kneels centered in glowing rune circle. 2–4s: Low-angle push-in, ancient runes ignite brightl
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Cinematic Battle Prompt for Female Operative
 
 **Prompt:**
@@ -2775,7 +3807,10 @@ VISUAL STYLE: Use live-action feature film realism with crisp action-camera shar
 Character A highly trained female operative in a sleek black tactical suit, calm, focused, controlled breathing, sharp eyes scanning constantly. Dual pistols in hand, precise and efficient. 0-3s Camera starts inside a luxury bank. Slow push through a tense standoff—security guards aiming, civilians frozen. She stands in the center, perfectly still. 3-5s With
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Seedance 2.0 Freeze Frame Cinematic Shot
 
 **Prompt:**
@@ -2783,7 +3818,10 @@ Character A highly trained female operative in a sleek black tactical suit, calm
 Use image as the starting frame for a single, continuous shot in freeze time. The camera dramatically weaves through the completely frozen scene.
 ```
 
+> 🔗 [Original Source](https://x.com/jerrod_lew)
+
 ---
+
 ### FPV Drone Racing Chase in Apocalyptic City
 
 **Prompt:**
@@ -2791,7 +3829,10 @@ Use image as the starting frame for a single, continuous shot in freeze time. Th
 FPV drone camera chasing a pack of 2 racing cars speeding together on a super narrow curvy road in a ruined apocalyptic city. The cars are racing and chasing each other aggressively, drifting through sharp turns, overtaking, bumping slightly, and competing for position. The FPV camera flies low behind them, swinging left and right, diving and rising with the
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Fluffy Cat Watchmaker Scene Prompt
 
 **Prompt:**
@@ -2799,7 +3840,10 @@ FPV drone camera chasing a pack of 2 racing cars speeding together on a super na
 Create a 15-second ultra-realistic workshop scene with a fluffy cat acting like a meticulous watchmaker. The cat sits upright at a wooden workbench under a bright lamp, wearing tiny round glasses and a miniature work apron, surrounded by gears, watch parts, tools, and magnifying lenses. 0–5s: the cat carefully holds a small watch with both paws, inspecting d
 ```
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Kids TV Studio Pig Man Host Prompt
 
 **Prompt:**
@@ -2807,7 +3851,10 @@ Create a 15-second ultra-realistic workshop scene with a fluffy cat acting like 
 Bright colourful kids TV studio, funny playful energy, the pig man host stands centre stage in a cheerful children’s show set, wearing his black robe and scarf, big pig ears, smiling as he leads a silly dance. Beside him, a monkey man in a bright red costume plays
 ```
 
+> 🔗 [Original Source](https://x.com/CaptainHaHaa)
+
 ---
+
 ### Wide shot of an astronaut skiing on a lunar plain
 
 **Prompt:**
@@ -2815,7 +3862,10 @@ Bright colourful kids TV studio, funny playful energy, the pig man host stands c
 Wide shot. A lone astronaut in a dusty orange pressure suit with dark blue-gray harness straps and black boots skis across a vast lunar plain, leaving two long parallel tracks in the gray regolith behind. The astronaut is mid-stride, poles planted,
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### 2D Carving Morphing into Human Woman
 
 **Prompt:**
@@ -2823,7 +3873,10 @@ Wide shot. A lone astronaut in a dusty orange pressure suit with dark blue-gray 
 The 2D carved woman gradually becomes human. Natural skin colour starts to appear in her finger tips and the natural skin colour quickly spreads across her skin. Her face turns towards the camera as it morphs into a beautiful woman's face that has the same features as the stone carving. Her bracelet, necklace and headdress become real gold and are embedded w
 ```
 
+> 🔗 [Original Source](https://x.com/pzf_ai)
+
 ---
+
 ### Bullet Time Effect in a College Canteen
 
 **Prompt:**
@@ -2831,7 +3884,10 @@ The 2D carved woman gradually becomes human. Natural skin colour starts to appea
 Bullet time effect. College canteen. A student in a wrinkled shirt pitches forward mid-stride, arms flung wide, surrendering everything at once — masala dosa unfolding like a golden ribbon mid-flight, momos in loose constellation, samosa split open with filling frozen mid-bloom,
 ```
 
+> 🔗 [Original Source](https://x.com/harsha3d)
+
 ---
+
 ### Reluctant Dancing Woman in Kimono MV
 
 **Prompt:**
@@ -2839,7 +3895,10 @@ Bullet time effect. College canteen. A student in a wrinkled shirt pitches forwa
 The background is predominantly white with pastel-colored patterns scattered throughout; . Do not show the attached character sheet in the video.A woman in a black kimono dances with a reluctant, annoyed expression, as if she does not want to be there. The scene is styled like a dynamic dance music video with rapid multi-cut editing: close-ups of her exasper
 ```
 
+> 🔗 [Original Source](https://x.com/IHayato)
+
 ---
+
 ### Cinematic black and white portrait of a young woman with a tear
 
 **Prompt:**
@@ -2847,7 +3906,10 @@ The background is predominantly white with pastel-colored patterns scattered thr
 black and white cinematic portrait of a young woman wearing a flowing black abaya and a soft black hijab, modest elegant look, the hijab delicately wrapped, a few subtle hair strands gently visible from the back, side profile, natural beauty with soft freckles, minimal makeup, calm but deeply emotional expression dramatic side lighting, Rembrandt style, half
 ```
 
+> 🔗 [Original Source](https://x.com/sara4ai)
+
 ---
+
 ### Rural Scene: Woman Walking in Rain
 
 **Prompt:**
@@ -2855,7 +3917,10 @@ black and white cinematic portrait of a young woman wearing a flowing black abay
 A blonde woman in a plaid shirt and green rubber boots walks down a muddy rural village road in the pouring rain, carrying two metal buckets towards a barn filled with cows.
 ```
 
+> 🔗 [Original Source](https://x.com/aisocity)
+
 ---
+
 ### Glam-Comedy Pigeon Fashion Short
 
 **Prompt:**
@@ -2863,7 +3928,10 @@ A blonde woman in a plaid shirt and green rubber boots walks down a muddy rural 
 15-second glam-comedy fashion short, luxury event lighting. Same subject throughout: a plump city pigeon with glossy feathers and absurd confidence strutting down a celebrity red carpet. 0–3s: photographers flash while the pigeon walks toward camera like a superstar. 3–6s: human celebrities step aside as the pigeon owns the runway, head bob perfectly in rhyt
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Cinematic Fantasy Battle Trailer: Eldrath vs. Vespera
 
 **Prompt:**
@@ -2871,7 +3939,10 @@ A blonde woman in a plaid shirt and green rubber boots walks down a muddy rural 
 Cinematic 16:9 ultra-detailed fantasy battle trailer in the mythical realm of Aetherion. Massive floating islands of glowing crystal and ancient moss-covered ruins drift through endless golden skies. A colossal ancient dragon named Eldrath leads a desperate alliance of silver-armored elves and griffin riders to defend the Heart Crystal against the Obsidian S
 ```
 
+> 🔗 [Original Source](https://x.com/AIishere_art)
+
 ---
+
 ### High-Speed Female Swordswoman Battle Animation
 
 **Prompt:**
@@ -2879,7 +3950,10 @@ Cinematic 16:9 ultra-detailed fantasy battle trailer in the mythical realm of Ae
 High-speed battle motion by a female swordswoman, performing a fierce sword dance (camera angle, subject distance, and focus are all left to the AI), executing various sword techniques such as Flame Slash, Explosive Ice Slash, and Thunder Slash without stopping from start to finish. Include effects that burst out to fill the screen, and generate a high-quali
 ```
 
+> 🔗 [Original Source](https://x.com/souhiro_meem_ch)
+
 ---
+
 ### Handheld Astronaut Footage Prompt
 
 **Prompt:**
@@ -2887,7 +3961,10 @@ High-speed battle motion by a female swordswoman, performing a fierce sword danc
 SINGLE TAKE. Handheld by a second astronaut on the surface. Shaky. Human. Camera operator breathes too loud. Framing drifts. Feels like a personal clip that leaked. LIGHTING: Raw sunlight from camera left. No fill. High contrast. AUDIO: Two sets of breathing on open channel.
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### 15-Second Continuous Action Sequence
 
 **Prompt:**
@@ -2895,7 +3972,10 @@ SINGLE TAKE. Handheld by a second astronaut on the surface. Shaky. Human. Camera
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Hyper-realistic cinematic fantasy, large-scale creature physics, volumetric fire simulation, heat distortion, dynamic airflow, atmospheric perspective Single continuous subject: rider firmly
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Cyberpunk Woman Video Prompt
 
 **Prompt:**
@@ -2903,7 +3983,10 @@ SINGLE TAKE. Handheld by a second astronaut on the surface. Shaky. Human. Camera
 A cinematic 10-second video of a beautiful young East Asian woman in a dark alley of a neon-lit cyberpunk city at night. She has short platinum blonde hair, glowing blue cybernetic eyes, and wears a worn leather jacket with neon-trimmed tech accessories. [00:00-03:00s] —
 ```
 
+> 🔗 [Original Source](https://x.com/AyccAI)
+
 ---
+
 ### AR Mixed-Media Video Prompt: Furina in a Glass Cup
 
 **Prompt:**
@@ -2911,7 +3994,10 @@ A cinematic 10-second video of a beautiful young East Asian woman in a dark alle
 Static close-up shot. A realistic human hand interacts with a flat 2D animated character of Furina — a blue and white dress anime girl with long light blue hair — inside a clear glass cup placed on a wooden table. [0-2s] The hand pushes the 2D Furina character into the glass from above, she resists and grips the rim. [2-5s] She loses grip and falls to the bo
 ```
 
+> 🔗 [Original Source](https://x.com/Mayz1169)
+
 ---
+
 ### Pupu Pulling Up a Willow Tree: Shaw Brothers Wuxia Style
 
 **Prompt:**
@@ -2919,7 +4005,10 @@ Static close-up shot. A realistic human hand interacts with a flat 2D animated c
 The video is based on the style of 1970s Shaw Brothers martial arts films, featuring obviously artificial rockeries and fake farmhouse courtyards. Technicolor, high saturation, unnatural dramatic lighting, old film grain texture, and a studio set feel. No subtitles. [0-7s] The camera slowly pushes in with a low-angle upward shot, the focus firmly locked on P
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Epic Battle Between Giant Python and Chinese Dragon
 
 **Prompt:**
@@ -2927,7 +4016,10 @@ The video is based on the style of 1970s Shaw Brothers martial arts films, featu
 Ultra-realistic cinematic disaster epic, single continuous shot, no cuts, no montage, no multiple-camera language, documentary-style realism, IMAX-scale clarity, natural film grain, high dynamic range, physically accurate daylight, realistic atmospheric perspective, authentic reflections, volumetric dust and smoke, true-to-life city lighting and environmenta
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Sci-Fi Action Film Aesthetic Video Prompt
 
 **Prompt:**
@@ -2935,7 +4027,10 @@ Ultra-realistic cinematic disaster epic, single continuous shot, no cuts, no mon
 Fast low-angle tracking, rainy dark gorge. Pink-haired woman in tactical gear vs woman in white bodysuit fighting atop speeding train. Martial arts, sparks, motion blur, moody teal-grey sci-fi action film aesthetic.
 ```
 
+> 🔗 [Original Source](https://x.com/AIByLeo)
+
 ---
+
 ### Ultra-Refined Motion Design Sequence
 
 **Prompt:**
@@ -2943,7 +4038,10 @@ Fast low-angle tracking, rainy dark gorge. Pink-haired woman in tactical gear vs
 Ultra-refined motion design sequence. Absolute black background. Monochrome white visual language with subtle accents of negative space. Single continuous shot — no cuts, no camera movement. All transformation emerges from the center. Self-illuminated geometry, razor-sharp edges, no noise, no gradients. 0–1s [GENESIS] A thin vertical white beam fades into ex
 ```
 
+> 🔗 [Original Source](https://x.com/Ciri_ai)
+
 ---
+
 ### Melancholic Mountain Woman Video Prompt
 
 **Prompt:**
@@ -2951,7 +4049,10 @@ Ultra-refined motion design sequence. Absolute black background. Monochrome whit
 A cinematic 15-second video of a beautiful young East Asian woman with long flowing silver hair, standing alone on a fog-covered mountain peak at dawn. She wears a dark minimalist coat, looking into the distance with a calm, melancholic expression. [00:00-03:00s] —
 ```
 
+> 🔗 [Original Source](https://x.com/AyccAI)
+
 ---
+
 ### 10-Second Cinematic Vertical Action Prompt
 
 **Prompt:**
@@ -2959,15 +4060,21 @@ A cinematic 15-second video of a beautiful young East Asian woman with long flow
 A 10-second cinematic vertical video, 9:16, one continuous unbroken tracking shot, massive blockbuster fantasy action, ultra-premium VFX, hyper-detailed storm ocean at night. The camera stays behind the female hero for the entire shot in a wide full-body framing, clearly showing
 ```
 
+> 🔗 [Original Source](https://x.com/yuday9909)
+
 ---
+
 ### 2D Animated Fight Scene
 
 **Prompt:**
 ```
-A 2D animated fight scene between two characters, Anya and Kannakamui. Anya moves quickly, circling around and delivering many punches and flying kicks. The ground cracks and dust rises into the air. Kannakamui twists and turns her body rapidly, using quick movements, dodges, and blocks to avoid the attacks. Each strike creates gusts of wind and loud impact 
+A 2D animated fight scene between two characters, Anya and Kannakamui. Anya moves quickly, circling around and delivering many punches and flying kicks. The ground cracks and dust rises into the air. Kannakamui twists and turns her body rapidly, using quick movements, dodges, and blocks to avoid the attacks. Each strike creates gusts of wind and loud impact
 ```
 
+> 🔗 [Original Source](https://x.com/Itswsm105f)
+
 ---
+
 ### Chibi Anime Girl Ice Cream Tragedy Prompt
 
 **Prompt:**
@@ -2975,7 +4082,10 @@ A 2D animated fight scene between two characters, Anya and Kannakamui. Anya move
 { \"character\": { \"description\": \"A tiny chibi anime girl with a short black bob haircut, straight bangs, and a small metallic hair clip, wearing a soft plush penguin hoodie with a yellow beak on top, black outer texture, white belly patch, wing-style sleeves, and tiny yellow penguin feet\" }, \"scene\": { \"environment\": \"Park bench at sunset with warm golden li
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### 15-second seamless one-take transition video
 
 **Prompt:**
@@ -2983,7 +4093,10 @@ A 2D animated fight scene between two characters, Anya and Kannakamui. Anya move
 Create a 15-second seamless one-take cinematic video transitioning through [ Image 1 to Image 6] Strictly no hard cuts, no fades, and no opacity changes. Use fluid, continuous camera movements (like whip-pans or zooms)
 ```
 
+> 🔗 [Original Source](https://x.com/opener_ai)
+
 ---
+
 ### Underground City 'ARC' Tour VFX Prompt
 
 **Prompt:**
@@ -2991,7 +4104,10 @@ Create a 15-second seamless one-take cinematic video transitioning through [ Ima
 [Cinematic Location VFX: 15 seconds] [0-3s]: In POV (first-person perspective), an old underground door, located at @image1, slowly opens. From the gap in the door, a warm, vivid \"neon gold\" light spills out, contrasting sharply with the cold concrete texture. [3-7s]: As the camera passes through the door, the surrounding walls shatter into pieces with a \"cr
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### Prompt for Young Man in Café
 
 **Prompt:**
@@ -2999,7 +4115,10 @@ Create a 15-second seamless one-take cinematic video transitioning through [ Ima
 \"A young man, early 20s, short black hair slightly messy, wearing a plain white t-shirt and dark jeans, sits alone at a small wooden café table, holding a white ceramic coffee cup in both hands, looking down at it. His face: calm, somewhere else in his thoughts. This is his face
 ```
 
+> 🔗 [Original Source](https://x.com/nsketchai)
+
 ---
+
 ### Two-Scene Narrative of Elemental Magic and Fire Dance
 
 **Prompt:**
@@ -3007,7 +4126,10 @@ Create a 15-second seamless one-take cinematic video transitioning through [ Ima
 A male character creates a glowing crystal core and sends it to a female character, who absorbs its power to begin a magnificent fire dance on water.\" \"intent\": \"Generate a cinematic, two-scene narrative that showcases two distinct but connected forms of elemental magic
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Detailed multi-scene action prompt for Seedance 2.0
 
 **Prompt:**
@@ -3015,7 +4137,10 @@ A male character creates a glowing crystal core and sends it to a female charact
 Setting: Dark fortress interior with towering metal structures. Teal/cyan illumination leaks through gaps between massive pillars. Metallic reflective floor. Character: White-haired girl with red eyes. Mechanical angel in white armor plating. Wings on her back emit blue energy. [1: HIGH-SPEED FLIGHT WITH BOOST TRAILS] Extreme top-down angle. A tiny white lig
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Cinematic Sci-Fi Blockbuster Video Prompt
 
 **Prompt:**
@@ -3023,7 +4148,10 @@ Setting: Dark fortress interior with towering metal structures. Teal/cyan illumi
 [CINEMATIC SETUP] Style: Ultra-realistic sci-fi blockbuster, epic alien war film, high-end cinematic action. Camera: IMAX-style action cinematography, dynamic tracking shots. Lens: 24mm, 35mm, 50mm. Color Grade: Cold blue steel tones, deep blacks, intense orange energy blasts.
 ```
 
+> 🔗 [Original Source](https://x.com/MayorKingAI)
+
 ---
+
 ### iPhone Free-Fall Multi-Dimensional Chase Video Prompt
 
 **Prompt:**
@@ -3031,7 +4159,10 @@ Setting: Dark fortress interior with towering metal structures. Teal/cyan illumi
 Core Concept: A continuous free-fall illusion where an iPhone 17 Pro Max \"drops\" facing upwards, and the character leaps after it. As they fall together, rapid match-cut background and wardrobe changes simulate passing through multiple dimensions. THE \"UNREACHABLE\" RULE: During the entire flight sequence (Scenes 2-5), the woman is strictly unable to catch th
 ```
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Continuous Shot Downhill Longboard Run
 
 **Prompt:**
@@ -3039,7 +4170,10 @@ Core Concept: A continuous free-fall illusion where an iPhone 17 Pro Max \"drops
 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill longboard run, viral energy, max chaos. SUBJECTS: First-person downhill longboard rider, front foot, deck nose, and flickering trucks appearing low in frame during drops, slides, and stair gaps. Flower pots, café chairs, scooters, cats, delivery bikes, tourists, and laundry erupt around the rider as sudd
 ```
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Seedance 2.0 prompt for a lunar landing scene
 
 **Prompt:**
@@ -3047,7 +4181,10 @@ Core Concept: A continuous free-fall illusion where an iPhone 17 Pro Max \"drops
 NASA APOLLO SPACESUIT A7L \"WORN ON ANOTHER WORLD\" DNA: July 20, 1969. 102 hours, 45 minutes, 40 seconds into the mission. One small step. Arri Alexa 65. Ultra-wide. Grain progressive — starts clinical-clean, ends at maximum as the lunar surface
 ```
 
+> 🔗 [Original Source](https://x.com/guicastellanos1)
+
 ---
+
 ### Catastrophic Ocean Event Prompt
 
 **Prompt:**
@@ -3055,7 +4192,10 @@ NASA APOLLO SPACESUIT A7L \"WORN ON ANOTHER WORLD\" DNA: July 20, 1969. 102 hour
 Hyperrealistic catastrophic ocean event, extreme scale, violent water physics, ground-level survival perspective, continuous sprint motion, debris, wind force, pressure impact, high-speed destruction, no pauses, hard cuts only, no fade, no dissolve, no morph transition Shot 1: Camera running at full speed along a beach, people already screaming, wind buildin
 ```
 
+> 🔗 [Original Source](https://x.com/AllaAisling)
+
 ---
+
 ### Japanese Festival Mask Figure and Colossal Serpentine Titan
 
 **Prompt:**
@@ -3063,7 +4203,10 @@ Hyperrealistic catastrophic ocean event, extreme scale, violent water physics, g
 CHARACTERS: Define one figure in a Japanese festival mask with a staff at the curb, recoiling pedestrians at the sidewalk edge, and a colossal serpentine abyssal titan with a ridge-backed silhouette and city-scale mass that rises after the second strike.
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Nature Reclaiming Megacity Prompt
 
 **Prompt:**
@@ -3071,7 +4214,10 @@ CHARACTERS: Define one figure in a Japanese festival mask with a staff at the cu
 A woman in her mid-30s with dark braided hair entwined with living vines, wearing layered organic armor of bark and woven leaves, skin traced with glowing emerald root veins — opening frame is a medium close-up of her standing barefoot in the center of an abandoned concrete megacity plaza, completely still as small plants begin sprouting through cracks in th
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Woman Falling from Rooftop into Surreal Dreamscape
 
 **Prompt:**
@@ -3079,7 +4225,10 @@ A woman in her mid-30s with dark braided hair entwined with living vines, wearin
 \"A young woman with long dark hair, wearing a white blouse, a flowing burgundy skirt, and white sneakers, stands on the edge of a high rooftop at night, looking out over a glowing modern city. A shadowy figure suddenly rushes in from behind and violently pushes her off the edge. Her expression turns from confusion to shock as she begins to fall. The camera f
 ```
 
+> 🔗 [Original Source](https://x.com/TopviewAIhq)
+
 ---
+
 ### Lone Traveler on a Glass Ocean under Twilight
 
 **Prompt:**
@@ -3087,15 +4236,21 @@ A woman in her mid-30s with dark braided hair entwined with living vines, wearin
 A lone traveler walks across a vast, glass-like ocean under a violet twilight sky. Beneath the transparent water, millions of stars twinkle and pulse as if the entire universe is submerged. Each step ripples through the cosmic depths, distorting galaxies and nebulae like liquid reflections of infinity.
 ```
 
+> 🔗 [Original Source](https://x.com/umesh_ai)
+
 ---
+
 ### 15-Second Cinematic Luxury Perfume Commercial
 
 **Prompt:**
 ```
-Ultra cinematic 15-second luxury perfume commercial, based on #Image1 storyboard, smooth continuous sequence flowing through each moment seamlessly, elegant and sensual pacing Fluid cinematic glide, macro dolly + soft orbit + gentle push-ins, seamless transitions masked by petals, depth blur, and motion continuity, no hard cuts, everything flows organically 
+Ultra cinematic 15-second luxury perfume commercial, based on #Image1 storyboard, smooth continuous sequence flowing through each moment seamlessly, elegant and sensual pacing Fluid cinematic glide, macro dolly + soft orbit + gentle push-ins, seamless transitions masked by petals, depth blur, and motion continuity, no hard cuts, everything flows organically
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Flamenco Dancer on a Slackline
 
 **Prompt:**
@@ -3103,7 +4258,10 @@ Ultra cinematic 15-second luxury perfume commercial, based on #Image1 storyboard
 cinematic wide low angle shot of a female flamenco dancer trying to balance and dance alongside the guitarist on a slack line between cliffs.
 ```
 
+> 🔗 [Original Source](https://x.com/guicastellanos1)
+
 ---
+
 ### Seamless Continuous One-Take Video Prompt
 
 **Prompt:**
@@ -3111,7 +4269,10 @@ cinematic wide low angle shot of a female flamenco dancer trying to balance and 
 Generate a seamless continuous one-take video from [img1] [img2] [img3] [img4] [img5] [img6].
 ```
 
+> 🔗 [Original Source](https://x.com/egeberkina)
+
 ---
+
 ### Kaiju Scorpion Desert Battle Video Prompt
 
 **Prompt:**
@@ -3119,7 +4280,10 @@ Generate a seamless continuous one-take video from [img1] [img2] [img3] [img4] [
 n intensely realistic, VFX-heavy cinematic sequence shot on ARRI Alexa 65. In a vast, heat-shimmering desert, a lone warrior faces a mountain-sized scorpion kaiju. The camera tracks low as the creature's massive right pincer, textured like ancient stone and obsidian
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Cinematic 2D Anime Scene Prompt
 
 **Prompt:**
@@ -3127,7 +4291,10 @@ n intensely realistic, VFX-heavy cinematic sequence shot on ARRI Alexa 65. In a 
 Create a top-tier 2D anime animation scene (\"$1B quality\"), using a strict keyframe process (key frames → in-betweening → interpolation). Only output cinematic continuous footage, without any explanation. Strict reference usage:
 ```
 
+> 🔗 [Original Source](https://x.com/NACHOS2D_)
+
 ---
+
 ### Cinematic King Scene Prompt (Image-to-Video)
 
 **Prompt:**
@@ -3135,7 +4302,10 @@ Create a top-tier 2D anime animation scene (\"$1B quality\"), using a strict key
 The camera starts low and follows a red carpet up to a delapidated throne in a large castle chamber. The scene cuts to a man who speaks with concern: \"My Lord, we need to tell the people.\" The King, he is old and wearing a broken crown, turns back as the angle cuts to a wide shot. The camera then cuts to the kings face as he yells: \"We tell them nothing!\"
 ```
 
+> 🔗 [Original Source](https://x.com/jerrod_lew)
+
 ---
+
 ### Seedance 2.0 CG Video Prompt: Tea Kill - Instant Purgatory
 
 **Prompt:**
@@ -3143,7 +4313,10 @@ The camera starts low and follows a red carpet up to a delapidated throne in a l
 Visual Style: Chinese style anime 3D CG, IMAX cinematic quality. Atmospheric Tone: Contrasting violent aesthetics, coexisting demonic, wicked, elegant, and cruel elements. Color Palette: Predominantly dark cyan, dark gold, amber, and emerald green, high contrast, strong sense of spatial depth. Character Setting: Young female cult leader. Exquisitely beautifu
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Kung Fu Girl Image-to-Video Action Scene
 
 **Prompt:**
@@ -3151,15 +4324,21 @@ Visual Style: Chinese style anime 3D CG, IMAX cinematic quality. Atmospheric Ton
 Using the input image as the exact character reference, generate a 15-second high-quality 3D cinematic fighting video. The character starts from the same pose, pulls back the hand gesture, then bursts forward into intense close-combat choreography with dodging, rapid punches, elbow strikes, spinning kicks, a brief airborne moment, and a powerful landing dash
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Rain-Soaked NYC Street Fight Cinematic Video Prompt
 
 **Prompt:**
 ```
-Shot on ALEXA 65mm anamorphic lens. Photorealistic cinematic quality. Aspect ratio 2.39:1 widescreen. Teal shadows, warm amber highlights. Film grain. Rain-soaked New York street at night. Neon signs, streetlights reflecting on wet asphalt. Steam rising from manholes. Lens flares, motion blur. Dolby Vision HDR. 0.0s–2.5s: Extreme low-angle tracking shot — a 
+Shot on ALEXA 65mm anamorphic lens. Photorealistic cinematic quality. Aspect ratio 2.39:1 widescreen. Teal shadows, warm amber highlights. Film grain. Rain-soaked New York street at night. Neon signs, streetlights reflecting on wet asphalt. Steam rising from manholes. Lens flares, motion blur. Dolby Vision HDR. 0.0s–2.5s: Extreme low-angle tracking shot — a
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Canyon Wingsuit Thread Prompt
 
 **Prompt:**
@@ -3167,7 +4346,10 @@ Shot on ALEXA 65mm anamorphic lens. Photorealistic cinematic quality. Aspect rat
 WORLD BUILD A wingsuit pilot threading an impossible canyon route through ancient stone monuments during sunrise wind. Fear, precision, airspeed. LOOK BIBLE Ultra-wide cliff geography, warm edge light, cold shadows in canyon depth, fast ground
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Watchmaker Close-up Orbit Prompt
 
 **Prompt:**
@@ -3175,7 +4357,10 @@ WORLD BUILD A wingsuit pilot threading an impossible canyon route through ancien
 Extreme close-up on an elderly watchmaker’s hands delicately assembling a tiny mechanical gear inside an open pocket watch. The camera slowly orbits 360 degrees around the hands while the fingers make precise micro-adjustments. Dust motes float in a single beam of morning
 ```
 
+> 🔗 [Original Source](https://x.com/myothercoolname)
+
 ---
+
 ### Infinite Fall — Beer Catch Cinematic Video Prompt
 
 **Prompt:**
@@ -3183,7 +4368,10 @@ Extreme close-up on an elderly watchmaker’s hands delicately assembling a tiny
 INFINITE FALL — Beer Catch [image1] Guy: lean young man, wavy blonde hair, thin glasses, black short-sleeve open shirt, dark grey pinstripe wide-leg trousers, large silver belt buckle, brown leather loafers, arm tattoos, silver bracelets. Expression: not panicked — annoyed at the bottle, nothing more. IMAX 65mm aggressive handheld — camera itself in freefall
 ```
 
+> 🔗 [Original Source](https://x.com/0xInk_)
+
 ---
+
 ### Shaw Brothers Style Cat Fight Video Prompt
 
 **Prompt:**
@@ -3191,7 +4379,10 @@ INFINITE FALL — Beer Catch [image1] Guy: lean young man, wavy blonde hair, thi
 Mimic the style of Shaw Brothers films, set in a wild snowy mountain, with cold tones, high-contrast lighting, and heavy film grain. The orange cat protagonist (wearing coarse cloth woodcutter clothes, carrying a machete on its shoulder) walks through the snow, with the wind and snow howling. It squats down and gently places a gray mouse next to a dying whit
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Prompt for Post-Apocalyptic Warrior
 
 **Prompt:**
@@ -3199,7 +4390,10 @@ Mimic the style of Shaw Brothers films, set in a wild snowy mountain, with cold 
 SUBJECTS: A female post-apocalyptic future warrior (referred to consistently as “the female warrior”), short hair pressed backward by high-speed airflow, face marked with dust and fine scars; wearing layered wasteland tactical gear: a tight heat-resistant inner layer + a damaged
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Video Prompt for Seasonal Tree Animation
 
 **Prompt:**
@@ -3207,7 +4401,10 @@ SUBJECTS: A female post-apocalyptic future warrior (referred to consistently as 
 FORMAT: 15s / 90 BPM / 8 SHOTS SUBJECT: Single tree STYLE: Stylized nature animation ENVIRONMENT: Minimal landscape MOOD: Calm, poetic, beautiful SHOT 1: Bare tree (winter). SHOT 2: Snow melts → buds appear. SHOT 3: Spring bloom explosion. SHOT 4: Leaves grow dense (summer).
 ```
 
+> 🔗 [Original Source](https://x.com/aleenaamiir)
+
 ---
+
 ### Grounded Action Sequence in a Gothic Cathedral
 
 **Prompt:**
@@ -3215,7 +4412,10 @@ FORMAT: 15s / 90 BPM / 8 SHOTS SUBJECT: Single tree STYLE: Stylized nature anima
 I tried a completely \"grounded\" action sequence inside a gothic cathedral, far from neon lights and exaggerated VFX. The realism level is tremendous with Arri Alexa texture and natural lighting. A solid fight choreography that adheres to the laws of physics...
 ```
 
+> 🔗 [Original Source](https://x.com/0kncn)
+
 ---
+
 ### High-Tempo Dark Fantasy Action Trailer
 
 **Prompt:**
@@ -3223,7 +4423,10 @@ I tried a completely \"grounded\" action sequence inside a gothic cathedral, far
 high-tempo dark fantasy action trailer, Use Image for all character and logo. [0-2s] ultra-low drone shot skimming across ruined fantasy fortress, storm, lightning illuminating walls, low string pizzicato begins; [2-4s] extreme close-up of hero's eyes emerging from darkness, slow deliberate sword draw; [4-5s] low angle — hero raises sword shouting in Japanes
 ```
 
+> 🔗 [Original Source](https://x.com/SSSS_CRYPTOMAN)
+
 ---
+
 ### Warrior Woman Riding a Dragon Cinematic Video Prompt
 
 **Prompt:**
@@ -3231,7 +4434,10 @@ high-tempo dark fantasy action trailer, Use Image for all character and logo. [0
 The camera rockets up from below, tearing past jagged cliff walls, then whips into a downward tilt to reveal the ocean below in full violent eruption, waves detonating against black rock. On the cliff edge stands a warrior woman, utterly fearless, gazing into the maelstrom as if daring it to rise higher. She steps forward without hesitation and leaps off the
 ```
 
+> 🔗 [Original Source](https://x.com/1littlecoder)
+
 ---
+
 ### Dramatic Surf Sequence Video Prompt
 
 **Prompt:**
@@ -3239,7 +4445,10 @@ The camera rockets up from below, tearing past jagged cliff walls, then whips in
 A dramatic surf sequence begins in a violent tropical storm at a reef break. A surfer drops down the face of a giant dark-green wave and drives into the barrel. The camera accelerates and locks just behind the surfboard’s tail, tracking through the hollow tube.
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Ultimate Tropical Escape Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -3247,7 +4456,10 @@ A dramatic surf sequence begins in a violent tropical storm at a reef break. A s
 [Core Concept: Ultimate Tropical Escape] 1. Scene Composition and Action (Scene \u0026 Action) Opening: The viewpoint is a third-person tracking shot following a cute 20-year-old Japanese woman with brown hair from behind. She is wearing a sophisticated resort style consisting of a tropical-style crop-top camisole and tight denim hot pants, lightly pulling a pink
 ```
 
+> 🔗 [Original Source](https://x.com/genel_ai)
+
 ---
+
 ### Cinematic Horror at Jakarta KRL Commuter Line Station
 
 **Prompt:**
@@ -3255,7 +4467,10 @@ A dramatic surf sequence begins in a violent tropical storm at a reef break. A s
 cinematic horror. Jakarta KRL Commuter Line station at night, Sudirman station platform, harsh yellow-white fluorescent overhead lighting, worn dirty tiled floor, blue KRL train car parked at platform, Indonesian signage on walls. A young woman in [reference outfit] poses next to the train car taking a selfie, smiling. On the train wall behind her, a large a
 ```
 
+> 🔗 [Original Source](https://x.com/NyaiiBubu)
+
 ---
+
 ### Seedance 2.0 prompt for a continuous cartoon sequence
 
 **Prompt:**
@@ -3263,7 +4478,10 @@ cinematic horror. Jakarta KRL Commuter Line station at night, Sudirman station p
 15-second continuous single-shot cartoon sequence. No cuts. No scene transitions. Soft watercolor style, pastel sky tones, fluffy textures, dreamy lighting, calm gentle animation, peaceful mood Scene: A small bear lying on grass, looking at the sky. 0–4s — setup Slow
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Hyper-realistic Cyberpunk POV Action Sequence
 
 **Prompt:**
@@ -3271,7 +4489,10 @@ cinematic horror. Jakarta KRL Commuter Line station at night, Sudirman station p
 Hyper-realistic first-person POV inside a dense cyberpunk megacity at night, the camera represents the character’s eyes, both hands frequently entering frame with subtle finger motion, slight tremble from adrenaline. Action sequence: the POV character sprints through a narrow neon-lit alley, heavy breathing driving camera rhythm, rapid head turns scanning su
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Soulslike 3D Action Game Boss Introduction
 
 **Prompt:**
@@ -3279,7 +4500,10 @@ Hyper-realistic first-person POV inside a dense cyberpunk megacity at night, the
 A video in the style of a Soulslike 3D action game. A boss introduction movie. A mage character enters the hall of a crystal cave. Then, as the ground shakes, the ceiling cracks, and a giant humanoid demon falls down. A battle begins between the terrifyingly roaring demon and the young girl! Fight, Tarnished.
 ```
 
+> 🔗 [Original Source](https://x.com/naoyuki_okada)
+
 ---
+
 ### Epic Fantasy Battle Sequence Prompt
 
 **Prompt:**
@@ -3287,7 +4511,10 @@ A video in the style of a Soulslike 3D action game. A boss introduction movie. A
 Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rings, opening with a sweeping aerial crane shot pulling back over a massive ruined battlefield where thousands of armored Norse warriors charge through ash and smoke toward three colossal stone giants crackling with blue lightning, then cutting to a low ground-level tracking shot r
 ```
 
+> 🔗 [Original Source](https://x.com/a_shimanski)
+
 ---
+
 ### Cat Making Pancakes Cinematic Prompt
 
 **Prompt:**
@@ -3295,7 +4522,10 @@ Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rin
 Cinematic realistic animation, static locked wide camera. Cozy kitchen, morning light through window. Orange tabby cat in striped apron stands upright at wooden counter, flour dust on fur, all ingredients visible: milk bottle, flour bowl, fresh eggs carton, vanilla extract, sugar, whisk, mixing bowl, chocolate chips, blueberries, butter, stack of finished pa
 ```
 
+> 🔗 [Original Source](https://x.com/im_shahid7)
+
 ---
+
 ### Prompt for Dark Fantasy Anime Battle
 
 **Prompt:**
@@ -3303,7 +4533,10 @@ Cinematic realistic animation, static locked wide camera. Cozy kitchen, morning 
 Dark fantasy anime style 2D animation. Fast-paced magic battle. A white-haired sorceress instantly summons a massive glowing purple magic circle beneath her, arcane symbols spinning rapidly. She raises her hand and shouts: \"消え去れ！\" Multiple purple energy bolts fire forward
 ```
 
+> 🔗 [Original Source](https://x.com/Mayz1169)
+
 ---
+
 ### Horror Short Film Concept
 
 **Prompt:**
@@ -3311,7 +4544,10 @@ Dark fantasy anime style 2D animation. Fast-paced magic battle. A white-haired s
 A man's desperate attempt to reach his missing girlfriend leads him to a sealed tunnel where an impossible reunion awaits but something is deeply wrong.
 ```
 
+> 🔗 [Original Source](https://x.com/Tonmapu)
+
 ---
+
 ### Glowing Portal in Paris Prompt
 
 **Prompt:**
@@ -3319,7 +4555,10 @@ A man's desperate attempt to reach his missing girlfriend leads him to a sealed 
 One continuous shot: a mysterious glowing portal suddenly appears and starts tearing apart a rainy Paris avenue.
 ```
 
+> 🔗 [Original Source](https://x.com/Gugombly)
+
 ---
+
 ### Horror Animation Scene Breakdown
 
 **Prompt:**
@@ -3327,7 +4566,10 @@ One continuous shot: a mysterious glowing portal suddenly appears and starts tea
 Scene 1 horror animation. Flat paper-puppet look, rough textures, dark muted colors, slight projector flicker. 15-second vertical video (9:16), 5 cuts. Cut1 (0-3s) Night Japanese street, flickering streetlight. Young woman alone at bus stop. Paper cut-out style, slow push-in.
 ```
 
+> 🔗 [Original Source](https://x.com/TomaAIbijo)
+
 ---
+
 ### Physics-Focused Test Prompt: Warrior vs. Giant Hand
 
 **Prompt:**
@@ -3335,7 +4577,10 @@ Scene 1 horror animation. Flat paper-puppet look, rough textures, dark muted col
 This is already the complete English prompt describing a physics-based animation. The prompt describes a female warrior performing high-speed movement across a damaged bridge while evading a massive descending stone hand from a giant. The animation uses realistic physics with contact-driven movement, momentum transfer, and environmental interaction. The scen
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Cinematic Post-Apocalyptic Survival Sequence
 
 **Prompt:**
@@ -3343,7 +4588,10 @@ This is already the complete English prompt describing a physics-based animation
 \"[CINEMATIC SETUP] Genre \u0026 Mood: Gritty Post-Apocalyptic Survival. Tense, visceral, and hyper-realistic. Film Stock \u0026 Lens: Shot on 35mm anamorphic lens, f/2.8 for shallow depth of field. Teal-orange desaturated color grade with earthy, dusty undertones. Lighting \u0026 Atmosphere: Dramatic volumetric Golden Hour light with heavy dust motes and heat haze. Charact
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Cinematic Battle Prompt: Wolf vs. Rooster
 
 **Prompt:**
@@ -3351,7 +4599,10 @@ This is already the complete English prompt describing a physics-based animation
 Pixar 3D animated forest clearing. Sunny day, god rays through trees, green grass, flowers. CHARACTERS: - Giant armored wolf: black fur, gold sword, yellow eyes, furious and humiliated, attacks with full rage - Tiny rooster: red comb, completely unbothered, bored expression, deflects everything with casual wing flaps SEQUENCE: 0-3s — Wolf roars, raises sword
 ```
 
+> 🔗 [Original Source](https://x.com/SPEEDAI07)
+
 ---
+
 ### Seedance 2.0 prompt for a premium lifestyle commercial video
 
 **Prompt:**
@@ -3359,7 +4610,10 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 [Style] Premium Lifestyle Commercial short film, HD mobile phone front camera texture (Vlog interactive perspective), cinematic realistic colors, soft light on the face, pay attention to storyboard arrangement and lip-syncing, single person appearance. [Duration] 15 seconds [Scene] Integrated bedroom + bar area, warm desk lamp intertwined with purple and yel
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic Prompt for Omega Speedmaster
 
 **Prompt:**
@@ -3367,7 +4621,10 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 OMEGA SPEEDMASTER MOONWATCH \"BORN QUALIFIED\" 65mm IMAX. Ultra-wide anamorphic Panavision. Film grain building progressively — starts clean, ends maximum. Key light: cold white — mission control fluorescent. Secondary: warm capsule interior amber. Flares: from the hesalite
 ```
 
+> 🔗 [Original Source](https://x.com/guicastellanos1)
+
 ---
+
 ### Cat Master Fairy Tale Thriller Video Prompt
 
 **Prompt:**
@@ -3375,7 +4632,10 @@ OMEGA SPEEDMASTER MOONWATCH \"BORN QUALIFIED\" 65mm IMAX. Ultra-wide anamorphic 
 Seedance 2 Prompt (15 seconds total, each shot ~0.6–1.2s) Cinematic dark fairy-tale thriller with comedic twist, eerie enchanted forest, low-key lighting, cold moonlight filtering through dense trees, volumetric fog, high contrast shadows, dynamic handheld camera, expressive character animation, fast-paced storytelling. S1 (0.9s) Wide shot: An orange cat old
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Cinematic Anime Scene: Stormy Seaside Promenade
 
 **Prompt:**
@@ -3383,7 +4643,10 @@ Seedance 2 Prompt (15 seconds total, each shot ~0.6–1.2s) Cinematic dark fairy
 16:9 cinematic anime-style story, highly detailed, dramatic lighting, intense emotional atmosphere, stormy seaside promenade, rough ocean, dark blue-gray sky, wet pavement reflecting light, sea spray, violent wind. A mad-scientist-like Japanese man with messy black
 ```
 
+> 🔗 [Original Source](https://x.com/ai_lifehack55)
+
 ---
+
 ### Kitten Secretly Eating Snacks Cinematic Video Prompt
 
 **Prompt:**
@@ -3391,15 +4654,21 @@ Seedance 2 Prompt (15 seconds total, each shot ~0.6–1.2s) Cinematic dark fairy
 A cute kitten secretly eating snacks under the covers in bed at night. Hears footsteps, panics, hides the snacks, and fakes sleep with soft purring. Owner opens the door, peeks in, then leaves. Coast clear — the kitten pulls the snacks back out and keeps munching. Dark cozy bedroom, moonlight, cinematic lighting, smooth animation.
 ```
 
+> 🔗 [Original Source](https://x.com/lynneatyoumind)
+
 ---
+
 ### Animated Tomato Character Giving Food Storage Advice
 
 **Prompt:**
 ```
-A cute, plump red tomato character speaks directly to the camera. With perfect lip-sync, it says in an energetic voice, \"Everyone, are you putting us tomatoes in the refrigerator? Actually, that's a no-go! The cold takes away the sweetness, so please store us at room temperature! It's best to chill us just before eating!\" The character makes slight bouncing 
+A cute, plump red tomato character speaks directly to the camera. With perfect lip-sync, it says in an energetic voice, \"Everyone, are you putting us tomatoes in the refrigerator? Actually, that's a no-go! The cold takes away the sweetness, so please store us at room temperature! It's best to chill us just before eating!\" The character makes slight bouncing
 ```
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Espionage-Thriller Fight Scene Prompt with Image References
 
 **Prompt:**
@@ -3407,7 +4676,10 @@ A cute, plump red tomato character speaks directly to the camera. With perfect l
 Mei Tactical suit.png = Mei: East Asian woman, long straight black hair, black leather tactical suit with gold accent piping along collar, shoulders, and wrist cuffs, gold buckle utility belt, dual thigh holsters, black flat-heeled boots with gold chevron trim. Dex Rei Tactical suit.png = Dex Rei: East Asian woman, dark green twin ponytails with blunt-cut ba
 ```
 
+> 🔗 [Original Source](https://x.com/KimAkiyama81)
+
 ---
+
 ### Real Movie Texture to Anime Action Transition Prompt
 
 **Prompt:**
@@ -3415,7 +4687,10 @@ Mei Tactical suit.png = Mei: East Asian woman, long straight black hair, black l
 Original Action Short Film: It opens with a futuristic city with almost real movie texture, gradually transitioning to a high-energy two-dimensional action style. Characters chase, leap and confront at high speed between neon viaducts and high-rise buildings. The lens language is stable at first and then explosive; the materials transition from real metal an
 ```
 
+> 🔗 [Original Source](https://x.com/TopviewAIhq)
+
 ---
+
 ### Cinematic WWE Wrestling Match with Shocking Twist
 
 **Prompt:**
@@ -3423,7 +4698,10 @@ Original Action Short Film: It opens with a futuristic city with almost real mov
 [CINEMATIC SETUP] Style: Professional 4K TV Sports Broadcast footage, handheld ringside camera mixed with wide crane shots. Lens/Aperture: 35mm broadcast lens, deep depth of field to keep the crowd in view. Color Grade: High-contrast, saturated \"Main Event\" lighting with vibrant blues and reds. Atmosphere: Volumetric haze, strobe light flashes from the crowd
 ```
 
+> 🔗 [Original Source](https://x.com/Ankit_patel211)
+
 ---
+
 ### Packed Sports Bar Phone Camera Aesthetic
 
 **Prompt:**
@@ -3431,7 +4709,10 @@ Original Action Short Film: It opens with a futuristic city with almost real mov
 aesthetic: phone held up in a packed sports bar, wall of TVs glowing behind audio: crowd chant building, stomping getting louder, bass underneath timeline: - \"0-4s: Phone camera inside a packed sports bar. Hundreds of people. Wall of screens behind them.
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Nike Basketball Sprint Video Prompt
 
 **Prompt:**
@@ -3439,7 +4720,10 @@ aesthetic: phone held up in a packed sports bar, wall of TVs glowing behind audi
 { \"description\": \"A young player stands on a rainy urban court gripping a basketball. He explodes forward sprinting through puddles toward the hoop in the background, rain streaking past. Two fast dribbles on wet concrete. He plants his foot hard and launches into the
 ```
 
+> 🔗 [Original Source](https://x.com/koldo2k)
+
 ---
+
 ### Kit Kat Baseball Throw Video Prompt
 
 **Prompt:**
@@ -3447,7 +4731,10 @@ aesthetic: phone held up in a packed sports bar, wall of TVs glowing behind audi
 { \"description\": \"Over the shoulder of a young man in a beanie and jacket on a wet urban street at golden hour. He winds up and hurls a baseball toward the building across the street. The camera stays attached to the ball as it spins forward crossing the street,
 ```
 
+> 🔗 [Original Source](https://x.com/koldo2k)
+
 ---
+
 ### GoPro Logo Transformation Video Prompt
 
 **Prompt:**
@@ -3455,7 +4742,10 @@ aesthetic: phone held up in a packed sports bar, wall of TVs glowing behind audi
 { \"description\": \"The GoPro logo on the stormy wave begins to vibrate. The four colored squares eject outward and reshape into the limbs of a surfer holding a GoPro Hero 12 camera in one hand. The surfer drops into the barrel, arm extended filming with the camera. A
 ```
 
+> 🔗 [Original Source](https://x.com/koldo2k)
+
 ---
+
 ### Elemental Chaos Battle on a Coastal Battlefield
 
 **Prompt:**
@@ -3463,7 +4753,10 @@ aesthetic: phone held up in a packed sports bar, wall of TVs glowing behind audi
 A massive coastal battlefield where ocean, land, and sky collide. Three colossal creatures engage: — a sky dragon with metallic scales and storm wings — a fire colossus emerging from volcanic fissures — a giant ocean leviathan rising from the sea Opening frame: wide shot of coastline — ocean churning, volcano erupting, storm clouds gathering overhead. Hook a
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Fast-Paced Dragon Launch Continuation
 
 **Prompt:**
@@ -3471,7 +4764,10 @@ A massive coastal battlefield where ocean, land, and sky collide. Three colossal
 Create a fast-paced cinematic continuation with rapid action and dynamic camera movement. The dragon instantly launches off the cliff with explosive force — no pause. Rocks and debris scatter outward as wings snap open mid-air. Camera immediately locks into a high-speed tracking
 ```
 
+> 🔗 [Original Source](https://x.com/ulprompts)
+
 ---
+
 ### Seedance 2.0 Prompt: Tired Woman in a Cluttered Room
 
 **Prompt:**
@@ -3479,7 +4775,10 @@ Create a fast-paced cinematic continuation with rapid action and dynamic camera 
 FORMAT: 15s / ONE CONTINUOUS SHOT / top-down overhead follow, no cuts SUBJECTS: A tired woman in a loose tank top and sleep shorts, slow habitual movement. Slightly smeared eyeliner, bare feet, heavy posture, detached face. ENVIRONMENT: A cramped cluttered
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Tentacle Family Breakfast Animation Test
 
 **Prompt:**
@@ -3487,7 +4786,10 @@ FORMAT: 15s / ONE CONTINUOUS SHOT / top-down overhead follow, no cuts SUBJECTS: 
 Morning. Kitchen. (Character 1) skillfully manipulates a frying pan with multiple tentacles, cooking pancakes. Beside him, (Character 2) holds a teapot with a suction-cup tentacle, brewing fragrant coffee. All the kitchen utensils have transformed into organic shapes, and iridescent steam rises from them. (Character 3) mutters, \"Mom and Dad, you look weird,\"
 ```
 
+> 🔗 [Original Source](https://x.com/nanohana_hanana)
+
 ---
+
 ### Original Dark Fantasy Action Short Film
 
 **Prompt:**
@@ -3495,7 +4797,10 @@ Morning. Kitchen. (Character 1) skillfully manipulates a frying pan with multipl
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned.
 ```
 
+> 🔗 [Original Source](https://x.com/markgadala)
+
 ---
+
 ### Transformation Blockbuster Video Prompt
 
 **Prompt:**
@@ -3503,7 +4808,10 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 A speeding bus ______\u003e A towering T-Rex mecha in the middle of a storm . Rain physics Mechanical detail. Cinematic camera work that feels straight out of IMAX .🔥
 ```
 
+> 🔗 [Original Source](https://x.com/shien119)
+
 ---
+
 ### Seedance 2.0 Prompt: Biblical Combat Epic
 
 **Prompt:**
@@ -3511,7 +4819,10 @@ A speeding bus ______\u003e A towering T-Rex mecha in the middle of a storm . Ra
 Hyper-realistic biblical combat epic, IMAX cinematography, Ridley Scott scale. 11 rapid shots in 15 seconds. The impossible battle: shepherd boy vs 9-foot giant. One stone. Oil painting texture with cinematic realism. No dialogue. Percussion-driven score. Colour: bronze armour,
 ```
 
+> 🔗 [Original Source](https://x.com/Ankit_patel211)
+
 ---
+
 ### Cinematic Kunoichi Fight Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -3519,7 +4830,10 @@ Hyper-realistic biblical combat epic, IMAX cinematography, Ridley Scott scale. 1
 ultra cinematic 15-second continuous action sequence, a deadly kunoichi in a sleek combat outfit stands in a snowy Japanese temple courtyard, holding a pistol in each hand, absolute control and lethal focus before instant explosive engagement ultra immersive close-proximity system, body-follow tracking + tight orbit + aggressive push-ins, camera stays extrem
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Hyperreal FPV Downhill Stair Run
 
 **Prompt:**
@@ -3527,7 +4841,10 @@ ultra cinematic 15-second continuous action sequence, a deadly kunoichi in a sle
 FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral energy, max chaos SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame during drops and hard turns. Vendors, laundry, scooters, dogs, chickens, cars, and pedestrians erupt around the rider as sudden obstacles. ENVIRONMENT: Dense Brazilian hillside stre
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Female Warrior in Tactical Suit at High Speed
 
 **Prompt:**
@@ -3535,7 +4852,10 @@ FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral 
 A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Cyberpunk Action Scene: Freefall and Car Interception Prompt (Chapter 2)
 
 **Prompt:**
@@ -3543,7 +4863,10 @@ A female warrior with shoulder-length hair, the ends naturally flipping outward,
 Chapter 2 (0–15 seconds): Freefall · Purple AITO R7 Enters the Frame Style: Rough realism style, using real footage, 35mm handheld camera, with subtle natural shake and film grain. Camera: Single continuous third-person tracking shot (no cuts), high-speed vertical tracking throughout, no cuts. Lighting: Dazzling, high-contrast Chongqing midday sun, strong gl
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Seedance 2.0 Fox Beauty Transformation Effect Replication
 
 **Prompt:**
@@ -3551,15 +4874,21 @@ Chapter 2 (0–15 seconds): Freefall · Purple AITO R7 Enters the Frame Style: R
 [Style] Dark Oriental Fantasy Transformation, cinematic texture, 8K ultra-clear, photorealistic, DaVinci high-grade color grading [Duration] 12 seconds [Scene] Bright modern home corridor (Shot 1) → Dim living room · Dark velvet sofa (Shots 2-3) [Character] Young Asian female, black long hair, Image 1 [00:00-00:01] Shot 1: Particle Dissolve. Mid-shot, bright
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic Disaster Sequence Prompt for Seedance 2.0 Fast
 
 **Prompt:**
 ```
-Ultra-realistic cinematic destruction sequence, dense modern city, extreme physical danger, aggressive forward motion, handheld chase camera, collapsing architecture, debris interaction, volumetric dust, shockwaves, no stability, no safe zones, high intensity pacing, hard cuts only, no fade, no dissolve, no morph transition. Shot 1: Camera already sprinting 
+Ultra-realistic cinematic destruction sequence, dense modern city, extreme physical danger, aggressive forward motion, handheld chase camera, collapsing architecture, debris interaction, volumetric dust, shockwaves, no stability, no safe zones, high intensity pacing, hard cuts only, no fade, no dissolve, no morph transition. Shot 1: Camera already sprinting
 ```
 
+> 🔗 [Original Source](https://x.com/AllaAisling)
+
 ---
+
 ### JSON Prompt Structure for Macro FPV Fairy Flight
 
 **Prompt:**
@@ -3567,7 +4896,10 @@ Ultra-realistic cinematic destruction sequence, dense modern city, extreme physi
 { \"cinematography\": { \"camera_perspective\": \"extreme macro FPV tracking shot, camera tightly attached to the fairy's back, synchronized with wing flapping frequency\", \"lens\": \"8mm probe lens ultra wide macro, extreme perspective distortion, grass blades appear like towering skyscrapers at frame edges\", \"depth_of_field\": \"very shallow depth of field (f/1.4 si
 ```
 
+> 🔗 [Original Source](https://x.com/EHuanglu)
+
 ---
+
 ### 2D Stickman Battle Animation Prompt for Seedance 2.0
 
 **Prompt:**
@@ -3575,7 +4907,10 @@ Ultra-realistic cinematic destruction sequence, dense modern city, extreme physi
 STYLE: Clean 2D stickman animation with thin confident lines, no shading, no textures, no dialogue, no subtitles. Only speed lines, smear frames, impact rings, skid marks, and small sharp red blood accents on the hardest hits. Brutal, stylish, fluid, old-school internet stick-fight energy. MAIN CHARACTER: A solid black stickman martial artist with a tied kun
 ```
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Dark Fantasy FPV Battle Video Prompt
 
 **Prompt:**
@@ -3583,7 +4918,10 @@ STYLE: Clean 2D stickman animation with thin confident lines, no shading, no tex
 Psychic powers, monster combat, destruction, and cinematic scale, all from a single prompt
 ```
 
+> 🔗 [Original Source](https://x.com/MayorKingAI)
+
 ---
+
 ### Surreal Japanese Scene with Bounty Hunters Prompt
 
 **Prompt:**
@@ -3591,7 +4929,10 @@ Psychic powers, monster combat, destruction, and cinematic scale, all from a sin
 A surreal Japanese scene in pink and pastel tones using Manga aesthetics. Scene composition: Bokeh background of cherry blossom trees in bloom and flowers floating away gently. Static camera with sharp focus on mid-ground where a centre-frame buff male pianist is seen from the back, dressed in a tuxedo and playing a grand piano. Frame-right is a cool looking
 ```
 
+> 🔗 [Original Source](https://x.com/asheem01)
+
 ---
+
 ### Detailed Seedance 2.0 prompt for a dancing fox girl
 
 **Prompt:**
@@ -3599,7 +4940,10 @@ A surreal Japanese scene in pink and pastel tones using Manga aesthetics. Scene 
 Use @Image1 as the character reference. Keep character design, hairstyle, ears, tail, outfit, and colors perfectly consistent. 【Subject】 A blue-haired fox girl with long flowing hair, large fluffy fox ears, and a huge fluffy tail. She wears a shrine-maiden inspired outfit with loose sleeves and a short skirt. She stands in a Japanese shrine setting with a re
 ```
 
+> 🔗 [Original Source](https://x.com/Reiria123)
+
 ---
+
 ### Cinematic Office Scene Video Prompt
 
 **Prompt:**
@@ -3607,7 +4951,10 @@ Use @Image1 as the character reference. Keep character design, hairstyle, ears, 
 Slow tracking shot across a minimalist office desk, steaming ceramic coffee cup releasing gentle vapor wisps, soft Monday morning sunlight streaming through sheer curtains, clean MacBook and small succulent in frame, warm beige and oak wood tones, peaceful cinematic atmosphere, 4k photorealistic, smooth camera movement
 ```
 
+> 🔗 [Original Source](https://x.com/InterestedBrain)
+
 ---
+
 ### High-Speed Transition Video Prompt for Seedance 2.0 Omni
 
 **Prompt:**
@@ -3615,7 +4962,10 @@ Slow tracking shot across a minimalist office desk, steaming ceramic coffee cup 
 Core Concept: A dramatic contrast between a chaotic wake-up and a polished, professional office look achieved through high-speed \"portal\" transitions and a continuous spin mechanic. Transition Mechanics: The Portal Smack: Starts in bed. The character aggressively smacks the camera lens to silence the alarm, triggering a warp/whoosh speed-portal effect. The S
 ```
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Found Footage Comedy: Shadow Glitch Dance Video Prompt
 
 **Prompt:**
@@ -3623,7 +4973,10 @@ Core Concept: A dramatic contrast between a chaotic wake-up and a polished, prof
 [Style] Pseudo-documentary (Vlog Style), hyper-realism, fixed camera real-shot feel, natural light, suspenseful comedy tone, mobile phone vertical screen shooting texture [Duration] 15 seconds [Scene] Ordinary family living room, in front of a white wall, afternoon side light streaming in from the window, yoga mat on the floor, clear human shadow cast on the
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Video Generation Prompt: Routine with Multiple Scenes and Outfits
 
 **Prompt:**
@@ -3631,7 +4984,10 @@ Core Concept: A dramatic contrast between a chaotic wake-up and a polished, prof
 Format: 15 seconds / 145 BPM / 15 shots / Beat-synchronized routine. Subject: @[image1]. Outfits: Loose sweater and jeans for a lazy afternoon, and a fitted little black dress, stilettos, and delicate accessories for going out. Environment: Sunny, lazy living room, messy but cozy dressing table, entrance mirror, metal elevator door, followed by city neon lig
 ```
 
+> 🔗 [Original Source](https://x.com/AyccAI)
+
 ---
+
 ### Mecha High-Speed Movement Cinematic Prompt (RAY-G)
 
 **Prompt:**
@@ -3639,7 +4995,10 @@ Format: 15 seconds / 145 BPM / 15 shots / Beat-synchronized routine. Subject: @[
 For the giant mecha \u003c\u003c\u003cImage 1\u003e\u003e\u003e (RAY-G) you provided, I have designed a 15-second video script for high-speed movement, featuring an extremely concise, stylish, and gravity-defying style. This prompt combines the agility of \"Mobile Suit Gundam: The Witch from Mercury\" with the mechanical coldness of \"Metal Gear,\" focusing on **\"instant burst power\" and \"st
 ```
 
+> 🔗 [Original Source](https://x.com/MiraMusic_AI)
+
 ---
+
 ### Seedance 2.0 Prompt: Void Lord Transformation Sequence
 
 **Prompt:**
@@ -3647,7 +5006,10 @@ For the giant mecha \u003c\u003c\u003cImage 1\u003e\u003e\u003e (RAY-G) you prov
 Core Theme: Void Lord: Total Decay Prompt: 0-3s · Otherworldly Engraving Low-angle shot. The Void Entity's right hand is embedded in the altar, and dark veins appear in a fractal geometric pattern.
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Laundromat Rave Phone Camera Aesthetic
 
 **Prompt:**
@@ -3655,7 +5017,10 @@ Core Theme: Void Lord: Total Decay Prompt: 0-3s · Otherworldly Engraving Low-an
 aesthetic: phone camera from deep in the crowd, low angle, shaky, vertical energy audio: thumping house music, bass rattling washer doors, spin cycles as percussion, crowd screaming timeline: - \"0-3s: Phone pushes through a door into a brightly lit laundromat.
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Summer Pool Party Montage Video Prompt
 
 **Prompt:**
@@ -3663,7 +5028,10 @@ aesthetic: phone camera from deep in the crowd, low angle, shaky, vertical energ
 [Style] Summer Pool Party Montage, Rapid Cuts, 4K high definition, high saturation bright tones [Duration] 15 seconds [Scene] Sunny outdoor pool party, two-story apartment building background, pool edge crowded with people, yellow inflatable floats on the water surface [Characters] Blonde woman, redhead woman, black-haired woman, all wearing colorful pattern
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Slapstick Spy Cat Firecracker Scene Prompt
 
 **Prompt:**
@@ -3671,7 +5039,10 @@ aesthetic: phone camera from deep in the crowd, low angle, shaky, vertical energ
 Playful high-stakes slapstick cinematic scene in an abandoned wooden warehouse with warm amber sunlight and cool industrial shadows. A mischievous ginger tabby cat wearing a tiny tactical harness performs a secret “spy mission” while suspended from a rope, holding a lit firecracker. Below him, a plump white chicken wearing a blue nightcap sleeps on grain sac
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### Cyberpunk City Rainy Night Video Prompt
 
 **Prompt:**
@@ -3679,7 +5050,10 @@ Playful high-stakes slapstick cinematic scene in an abandoned wooden warehouse w
 Vertical screen 9:16, cyberpunk future city rainy night, high-density skyscrapers, cyan-blue neon main tone, small amount of magenta highlights, wet streets with obvious mirror reflection, car light reflections and water reflections on the ground, thin fog and volumetric light in the air, rich details of futuristic architecture, overall atmosphere is cold, l
 ```
 
+> 🔗 [Original Source](https://x.com/AyccAI)
+
 ---
+
 ### Ghibli Style Egyptian Market Scene with Crocodile Servant
 
 **Prompt:**
@@ -3687,7 +5061,10 @@ Vertical screen 9:16, cyberpunk future city rainy night, high-density skyscraper
 Ghibli animation style. Scene 1: In a bustling Egyptian market, a wealthy human master and his muscular crocodile servant stand in front of another vendor's stall. The master is examining the vendor's goods, while the muscular crocodile servant, looking serious and bored, holds the master's goods over his head. The crocodile servant is muscular, wearing ring
 ```
 
+> 🔗 [Original Source](https://x.com/migrok293703)
+
 ---
+
 ### Dystopian Surreal Cinematic Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -3695,15 +5072,21 @@ Ghibli animation style. Scene 1: In a bustling Egyptian market, a wealthy human 
 A dark, cinematic surreal film set in a post-war dystopian city, muted tones, cold color grading, shallow depth of field, soft film grain, dramatic lighting. Scene 1: A cracked empty street near a foggy shoreline. A woman in a long grey coat walks slowly toward the camera. Beside her floats a giant fragmented human face made of broken buildings and concrete,
 ```
 
+> 🔗 [Original Source](https://x.com/AIwithkhan)
+
 ---
+
 ### Seedance 2.0 Color Transformation Video Prompt
 
 **Prompt:**
 ```
-Generate a 15-second high-quality live-action style special effects short film, primarily showcasing a young woman achieving seamless, smooth switching of scenes and outfits by sliding a floating UI color wheel. Pay attention to shot composition and transition rhythm. The footage must have excellent depth of field, and the character's face must remain clear 
+Generate a 15-second high-quality live-action style special effects short film, primarily showcasing a young woman achieving seamless, smooth switching of scenes and outfits by sliding a floating UI color wheel. Pay attention to shot composition and transition rhythm. The footage must have excellent depth of field, and the character's face must remain clear
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 One-Shot Cinematic Camera Movement Prompt
 
 **Prompt:**
@@ -3711,7 +5094,10 @@ Generate a 15-second high-quality live-action style special effects short film, 
 One-shot continuous camera movement prompt: City of Gods and Buddhas · Master's Stage] The camera executes a single, continuous shot, pitching, rolling, rotating, and speeding through a giant Oriental fantasy divine capital. [Starting Frame - Scene in Figure 1]: The camera swoops down from the sky, passing over a giant, pale, suspended moon, rapidly approach
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Photorealistic 2.5D Anime Scene Prompt
 
 **Prompt:**
@@ -3719,7 +5105,10 @@ One-shot continuous camera movement prompt: City of Gods and Buddhas · Master's
 Photorealistic, high-definition 2.5D anime. All dialogue is in Japanese. The girl's height is 153 cm and the man's height is 185 cm. shot1 On the street in Akihabara at night. Bust shot of the girl. The girl's height is 153 cm. The girl closes her eyes painfully and looks down. The camera also PANs down according to her movement.
 ```
 
+> 🔗 [Original Source](https://x.com/_3912657840)
+
 ---
+
 ### Historical News Broadcast Video Prompt
 
 **Prompt:**
@@ -3727,7 +5116,10 @@ Photorealistic, high-definition 2.5D anime. All dialogue is in Japanese. The gir
 Use the web search function to identify a globally famous and positive historical news story related to the date July 20, 1969. Present the content in the format of a Japanese news broadcast from the late Showa period. The narrator should explain the events clearly in a solemn, hopeful, and historical tone, like a vintage news broadcast reporting internation
 ```
 
+> 🔗 [Original Source](https://x.com/KimikoOsugi)
+
 ---
+
 ### Museum Crowd Phone Camera Aesthetic
 
 **Prompt:**
@@ -3735,7 +5127,10 @@ Use the web search function to identify a globally famous and positive historica
 aesthetic: phone held up in the middle of a packed crowd inside a museum gallery audio: bass booming off marble, every sound doubled by the echo timeline: - \"0-5s: Surrounded by a massive crowd, filmed with a phone camera inside a grand museum gallery. High
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Comedic ADHD Cat Teacher Short Film
 
 **Prompt:**
@@ -3743,7 +5138,10 @@ aesthetic: phone held up in the middle of a packed crowd inside a museum gallery
 Fast-paced comedic parody Seedance 2 short film set in an elementary school classroom. An orange cat teacher (wearing bright lipstick, an exaggerated pink wig, a pearl necklace, and a primary school teacher outfit) stands at the blackboard teaching. A black cat student (white shirt, dark blue shorts) displays constant hyperactive behavior at his desk: chatti
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Seedance 2.0 Realistic Ancient Town Parkour Transformation
 
 **Prompt:**
@@ -3751,7 +5149,10 @@ Fast-paced comedic parody Seedance 2 short film set in an elementary school clas
 Realistic ancient style parkour transformation. Female protagonist [@Figure 1] in a realistic style, fair complexion, black wavy long hair, black dress, slightly sweaty face with sharp eyes. 15-second one-shot continuous handheld follow-up. Scene: Ancient town at dusk, wet bluestone, cool and warm lighting tone. Action Logic: 0-3s Steps on and flips a tea st
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Salmon Bite Sensory Experience Prompt
 
 **Prompt:**
@@ -3759,7 +5160,10 @@ Realistic ancient style parkour transformation. Female protagonist [@Figure 1] i
 15-second cinematic video, ultra-smooth camera, natural focus pulls, warm-to-cool color shift, photorealistic 8K, ARRI Alexa look. Macro close-up of a Michelin-style salmon rose—glossy, orange-pink layers. Knife makes a slow precise slice, oils shimmer (0–3s). Focus pulls to a calm young man in side profile as he lifts a bite (3–5s). Extreme close-up bite—sl
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### Golden Nunchaku Action Sequence Prompt for Seedance 2.0
 
 **Prompt:**
@@ -3767,7 +5171,10 @@ Realistic ancient style parkour transformation. Female protagonist [@Figure 1] i
 A glowing golden nunchaku spins rapidly in both hands, carving bright arcs against the dark background. Each swing leaves luminous gold trails that linger in the air. The nunchaku swings widen — golden arc trails stretch across the entire screen, overlapping and crisscrossing in every direction. The trails glow brighter with each pass, filling the dark space
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### High-speed anime duel in sky ruins
 
 **Prompt:**
@@ -3775,7 +5182,10 @@ A glowing golden nunchaku spins rapidly in both hands, carving bright arcs again
 High-speed anime duel in ruins in the sky, lightning, energy clashes, cinematic action.
 ```
 
+> 🔗 [Original Source](https://x.com/IATiago)
+
 ---
+
 ### Whimsical Easter Bunny Drama Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -3783,7 +5193,10 @@ High-speed anime duel in ruins in the sky, lightning, energy clashes, cinematic 
 Seedance 2 Prompt (15 seconds total, each shot ~0.6–1.2s) Cinematic dark whimsical drama, 18th-century Paris street at night, light snowfall, moody blue-gray tones, gas lamps glowing through fog, wet cobblestone reflections, stylized historical fantasy, subtle comedic undertone, dynamic camera movement, soft film grain. S1 (0.9s) Wide shot: A white rabbit ge
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Romantic Comedy Scene: Wall Pin and Flirtation
 
 **Prompt:**
@@ -3791,7 +5204,10 @@ Seedance 2 Prompt (15 seconds total, each shot ~0.6–1.2s) Cinematic dark whims
 Seedance V2 👌 Character tone: high-end romantic comedy, deadpan flirtation, over-serious male lead, quick-witted female lead, cinematic realism, sweet-chaotic chemistry, every frame like a poster Male lead: bespoke black suit, white shirt collar slightly open, handsome and severe, powerful aura, trying very hard to look cold and dominant, but secretly nervo
 ```
 
+> 🔗 [Original Source](https://x.com/IamEmily2050)
+
 ---
+
 ### Reflecting Japanese Text in Seedance 2.0 Videos
 
 **Prompt:**
@@ -3799,7 +5215,10 @@ Seedance V2 👌 Character tone: high-end romantic comedy, deadpan flirtation, o
 Figure 1 (@図1) refers to the text on the store signs appearing in the scene. The glyphs written in Figure 1 should be faithfully reproduced and used on the signs. The first line of text is used for the first store's sign, the second line for the second store's sign, the third line for the third store's sign, and the fourth line for the fourth store's sign. ~
 ```
 
+> 🔗 [Original Source](https://x.com/pan_soramame_da)
+
 ---
+
 ### Realistic to Anime Transition Video Prompt
 
 **Prompt:**
@@ -3807,7 +5226,10 @@ Figure 1 (@図1) refers to the text on the store signs appearing in the scene. T
 Futuristic city transitioning from realistic film style to anime energy visuals, fast cinematic action.
 ```
 
+> 🔗 [Original Source](https://x.com/OtakuMachine)
+
 ---
+
 ### Seedance 2.0 Prompt for Cinematic Desert Fight Scene
 
 **Prompt:**
@@ -3815,7 +5237,10 @@ Futuristic city transitioning from realistic film style to anime energy visuals,
 Black warrior cat in a desert swept by a sandstorm, slow motion + quick cuts, cinematic lighting, martial arts choreography.
 ```
 
+> 🔗 [Original Source](https://x.com/EnzoSanchezIA)
+
 ---
+
 ### First-Person Shooter POV Scene
 
 **Prompt:**
@@ -3823,7 +5248,10 @@ Black warrior cat in a desert swept by a sandstorm, slow motion + quick cuts, ci
 First-person shooter in a warehouse, fast movement, gunfight, explosions, cinematic handheld POV.
 ```
 
+> 🔗 [Original Source](https://x.com/NovaIAHQ)
+
 ---
+
 ### AAA Game Trailer Style Futuristic Neon City Video Prompt
 
 **Prompt:**
@@ -3831,7 +5259,10 @@ First-person shooter in a warehouse, fast movement, gunfight, explosions, cinema
 Futuristic neon city, cinematic camera moves, high realism, reflections, immersive game trailer style.
 ```
 
+> 🔗 [Original Source](https://x.com/EmmaUsesAi)
+
 ---
+
 ### Action Hero Combat Scene
 
 **Prompt:**
@@ -3839,7 +5270,10 @@ Futuristic neon city, cinematic camera moves, high realism, reflections, immersi
 Action hero in neon ruined city, energy blade combat, cinematic camera, fast cuts, boss reveal.
 ```
 
+> 🔗 [Original Source](https://x.com/TheAva_AI)
+
 ---
+
 ### Miniature Fantasy Battle on Desk Video Prompt
 
 **Prompt:**
@@ -3847,7 +5281,10 @@ Action hero in neon ruined city, energy blade combat, cinematic camera, fast cut
 Miniature fantasy battle on desk, macro cinematic shots, dust particles, dramatic lighting.
 ```
 
+> 🔗 [Original Source](https://x.com/TheoBuildsAI)
+
 ---
+
 ### Elderly woman opening envelope video prompt
 
 **Prompt:**
@@ -3855,7 +5292,10 @@ Miniature fantasy battle on desk, macro cinematic shots, dust particles, dramati
 [Subject]: An 85-year-old woman with deeply lined, expressive skin and silver hair tied in a loose bun. Wearing a soft, wool cardigan. [Action Sequence (0-15s)]: 0-5s: Close-up on weathered hands trembling slightly as they open an old, yellowed envelope. The sound of
 ```
 
+> 🔗 [Original Source](https://x.com/lukasersil)
+
 ---
+
 ### Lightning Wolf Chase Sequence (Dreamina/Seedance 2)
 
 **Prompt:**
@@ -3863,7 +5303,10 @@ Miniature fantasy battle on desk, macro cinematic shots, dust particles, dramati
 **Environment:** A massive grassland under a violent thunderstorm. Rolling plains stretch toward distant mountains while lightning flashes illuminate the rain-soaked terrain. **Action:** 15.0s sequence from the POV of a lightning wolf racing through tall grass. Sparks of electricity crackle along the edges of the wolf’s vision as energy builds with every str
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Rucker Park Slam Dunk Viral Video
 
 **Prompt:**
@@ -3871,7 +5314,10 @@ Miniature fantasy battle on desk, macro cinematic shots, dust particles, dramati
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly black woman in a floral dress and sneakers is dribbling a basketball against a young, athletic streetballer in a jersey. The woman performs a lightning-fast crossover dribble, blowing past the stunned defende
 ```
 
+> 🔗 [Original Source](https://x.com/Viafin23)
+
 ---
+
 ### Cinematic Chinese Style City Culture Ad
 
 **Prompt:**
@@ -3879,7 +5325,10 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 Cinematic Chinese style city culture creative advertisement, ultra-realistic 8K, first-person soothing tracking shot, smooth slow-paced camera movement, strong atmosphere of an ancient capital like Beijing, healing humanistic feeling, strong sense of immersion, clear and realistic details of architecture and nature. The entire film length is within 15 second
 ```
 
+> 🔗 [Original Source](https://x.com/crayon1267)
+
 ---
+
 ### Epic Post-Apocalyptic Warrior Transformation Video Prompt
 
 **Prompt:**
@@ -3887,7 +5336,10 @@ Cinematic Chinese style city culture creative advertisement, ultra-realistic 8K,
 A dark, post-apocalyptic city covered in smoke, debris, and burning ruins, cinematic wide aerial shot, dramatic cloudy sky with fire embers floating in the air, destroyed buildings on both sides, abandoned cars, cracked roads glowing faintly with heat A powerful female warrior descends rapidly from the sky, long hair flowing in slow motion, camera follows he
 ```
 
+> 🔗 [Original Source](https://x.com/AIwithSynthia)
+
 ---
+
 ### Detailed Stickman Fight prompt for Seedance 2.0
 
 **Prompt:**
@@ -3895,7 +5347,10 @@ A dark, post-apocalyptic city covered in smoke, debris, and burning ruins, cinem
 FORMAT: 15s / 182 BPM / 7 CUTS / minimalist 2D stick-fight animation, pure white background, ultra-fast readability SUBJECTS: Two 2D stick fighters drawn in solid black lines on a blank white field. One is lean, evasive, and elastic. The other is wider, heavier, and constantly presses forward with crushing force. ENVIRONMENT: Empty white void, no props. Only
 ```
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Japanese High School Girl Mecha Transformation
 
 **Prompt:**
@@ -3903,7 +5358,10 @@ FORMAT: 15s / 182 BPM / 7 CUTS / minimalist 2D stick-fight animation, pure white
 { \"model\": \"seedance-2.0\", \"task\": \"generation\", \"type\": \"directed_video\", \"metadata\": { \"scene\": \"A Japanese high school girl taking a nap on the school rooftop is interrupted by a giant monster. She reluctantly transforms into a futuristic battle suit with a single
 ```
 
+> 🔗 [Original Source](https://x.com/eijo_AIart)
+
 ---
+
 ### Detailed Seedance 2.0 prompt for recreating a 90s Japanese dating sim game
 
 **Prompt:**
@@ -3911,7 +5369,10 @@ FORMAT: 15s / 182 BPM / 7 CUTS / minimalist 2D stick-fight animation, pure white
 90s Japanese dating simulation game screen, cel-shaded anime style, clear outlines, cherry blossom pink and warm pastel colors, translucent ADV text window permanently displayed at the bottom of the screen, nostalgic and bittersweet atmosphere. Heroine: 17 years old, waist-length chestnut straight long hair, straight bangs, large amber eyes, white sailor uni
 ```
 
+> 🔗 [Original Source](https://x.com/kinopioai_ai)
+
 ---
+
 ### 2.5D Anime Scene: Akihabara Night
 
 **Prompt:**
@@ -3919,7 +5380,10 @@ FORMAT: 15s / 182 BPM / 7 CUTS / minimalist 2D stick-fight animation, pure white
 Photorealistic, high-definition 2.5D anime. All dialogue is in Japanese. The woman's height is 153 cm and the man's height is 185 cm. shot1 Street in Akihabara at night. Bust shot of the girl. The girl's height is 153 cm. The girl closes her eyes in pain and looks down. The camera also pans down with the movement.
 ```
 
+> 🔗 [Original Source](https://x.com/_3912657840)
+
 ---
+
 ### Cinematic Car-to-Robot Transformation
 
 **Prompt:**
@@ -3927,7 +5391,10 @@ Photorealistic, high-definition 2.5D anime. All dialogue is in Japanese. The wom
 A continuous, cinematic tracking shot of a sleek, midnight black sports car with glowing neon cyan trim speeding down a wet, neon-lit futuristic city highway at night. Mid-drift, the car initiates a complex, seamless transformation: the hood splits, wheels rotate inward, and intricate mechanical armor panels dynamically unfold while maintaining rapid forward
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Basketball Dribbling Social Media Video Prompt
 
 **Prompt:**
@@ -3935,7 +5402,10 @@ A continuous, cinematic tracking shot of a sleek, midnight black sports car with
 Social media video,shaky camera: Medium shot of a man in his back garden, dribbling a basketball, with a mini basketball court behind him. He is positioned as if he is about to do a reverse shot without looking at the hoop. A cute dog is walking in the background,
 ```
 
+> 🔗 [Original Source](https://x.com/buraktuyan)
+
 ---
+
 ### Japanese City Street Photography Video Prompt
 
 **Prompt:**
@@ -3943,15 +5413,21 @@ Social media video,shaky camera: Medium shot of a man in his back garden, dribbl
 Overall Style: Japanese city street photography, fast-paced fragmented editing. Interweaving cold and warm light and shadow, night scenes with a slight cyberpunk neon atmosphere, cinematic quality. BGM and Sound Effects: Fast-paced and bright Japanese pop-rock, clear drum beats, vocals full of emotional tension, strict synchronization of scene cuts with musi
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Contrast Transformation Video Prompt: Office Worker to Gothic Queen
 
 **Prompt:**
 ```
-A contrast video containing a seamless transition. Scene 1: First-person handheld everyday camera movement. Bright office corridor, white walls and grid ceiling, uniform and realistic lighting. An Asian female wearing black-rimmed glasses and a small pink hair clip, dressed in a loose black hooded sweatshirt with white letters and black pants. She shows the 
+A contrast video containing a seamless transition. Scene 1: First-person handheld everyday camera movement. Bright office corridor, white walls and grid ceiling, uniform and realistic lighting. An Asian female wearing black-rimmed glasses and a small pink hair clip, dressed in a loose black hooded sweatshirt with white letters and black pants. She shows the
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic Sci-Fi Action Video Prompt on Train Tracks
 
 **Prompt:**
@@ -3959,7 +5435,10 @@ A contrast video containing a seamless transition. Scene 1: First-person handhel
 Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge... two women fighting on top of a moving train, cinematic sci-fi action.
 ```
 
+> 🔗 [Original Source](https://x.com/KI_HAL_2023)
+
 ---
+
 ### Seedance 2.0 Prompt: Cute Adventure Story
 
 **Prompt:**
@@ -3967,7 +5446,10 @@ Dramatic low-angle tracking shot speeding along rain-slicked train tracks throug
 Cute Adventure Story A stylized 3D animated fantasy adventure with a cute brave young explorer, big expressive eyes, small backpack, colorful outfit, magical forest environment, playful cinematic lighting, high-quality 3D animation, charming family-friendly tone, exciting
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### 15-Second Microdrama: Alien Cat Twist
 
 **Prompt:**
@@ -3975,7 +5457,10 @@ Cute Adventure Story A stylized 3D animated fantasy adventure with a cute brave 
 Scene (0–5s): A stormy suburban American street at night, rain pouring, streetlights flickering. Close-up of a 7-year-old blond boy (soaked, cheeks flushed) crouching down, gently picking up a shivering stray orange cat. The cat meows weakly, clinging to his chest. Smash cut — the front door bursts open as the boy rushes into a warm yet tense living room. Hi
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Black Cat Warrior Martial Arts Video Prompt
 
 **Prompt:**
@@ -3983,7 +5468,10 @@ Scene (0–5s): A stormy suburban American street at night, rain pouring, street
 A black cat warrior in light armor stands alone in a desert... yellow sand rolls like ink mist... elegant yet ferocious,
 ```
 
+> 🔗 [Original Source](https://x.com/FellMentKE)
+
 ---
+
 ### Image-to-Video Transformation Sequence
 
 **Prompt:**
@@ -3991,7 +5479,10 @@ A black cat warrior in light armor stands alone in a desert... yellow sand rolls
 Seedance Image-to-Video Prompt: Reference the four-panel comic strip in @Image 1 for a fast, beat-synced transformation, 15 seconds vertical screen. 0-2 seconds: Dynamic transformation of the first panel—woman in black with a surprised expression in a ruined city, slow push-in shot; 3-5 seconds: Second panel—black tentacles surge out from the ground fissure,
 ```
 
+> 🔗 [Original Source](https://x.com/joshesye)
+
 ---
+
 ### Action-Horror Underwater Chase Prompt
 
 **Prompt:**
@@ -3999,7 +5490,10 @@ Seedance Image-to-Video Prompt: Reference the four-panel comic strip in @Image 1
 Visual Style: Action-horror cinematography, fast-paced editing, volumetric sun rays, gritty texture, hyper-realistic water bubbles, and visceral blood physics, 8k resolution. 0-1: Extreme Wide Shot - The Pursuit A high-octane chase scene. The diver streaks like a torpedo through
 ```
 
+> 🔗 [Original Source](https://x.com/Daeng_Tinggi)
+
 ---
+
 ### Noir Fantasy Film Sequence Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4007,7 +5501,10 @@ Visual Style: Action-horror cinematography, fast-paced editing, volumetric sun r
 Noir fantasy film sequence. Opening shot: The camera enters a house. On a perch sits a futuristic mechanical bird with glowing eyes and intricate metallic feathers. A shelf in a dark study is filled with antique apothecary jars and glass vials containing shimmering, bubbling potions in neon amber and violet. A smooth camera transition moves through atmospher
 ```
 
+> 🔗 [Original Source](https://x.com/MiguelMaestroIA)
+
 ---
+
 ### Cinematic Survival Thriller Setup
 
 **Prompt:**
@@ -4015,7 +5512,10 @@ Noir fantasy film sequence. Opening shot: The camera enters a house. On a perch 
 This prompt is designed entirely for video generation from text, so reference images are unnecessary. [CINEMATIC SETUP] Genre \u0026amp; Mood: A rough survival thriller. High tension, raw, hyper-realistic. Film Stock \u0026amp; Lens:
 ```
 
+> 🔗 [Original Source](https://x.com/sailorv321)
+
 ---
+
 ### Seedance 2.0 Fashion Lookbook Video Prompt
 
 **Prompt:**
@@ -4023,7 +5523,10 @@ This prompt is designed entirely for video generation from text, so reference im
 [Style] Top-Down Fashion Lookbook, cinematic quality, 8K ultra-clear, smooth beat synchronization, extremely impactful visual rhythm. [Duration] 13 seconds. [Scene] Fixed top-down perspective (Bird's Eye View), camera locked directly below and not moving. Foreground: Blurred dark brown wooden ceiling fan blades rotating slowly, occasionally obscuring the len
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Complex Action Sequence Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4031,7 +5534,10 @@ This prompt is designed entirely for video generation from text, so reference im
 Dark navy background. A few small objects drift along a wide circular orbit — the rotation center sits in the upper right of the frame, the camera watches from the outer edge. A decorated box, a striped ball, and a couple of carnival items arc past one by one, curving leftward across the view. Sparse confetti strips and gold coins float through the air. Thre
 ```
 
+> 🔗 [Original Source](https://x.com/LurkShade)
+
 ---
+
 ### Cherry Blossom Invasion VFX Video Prompt
 
 **Prompt:**
@@ -4039,7 +5545,10 @@ Dark navy background. A few small objects drift along a wide circular orbit — 
 Inside a packed train, every passenger suddenly explodes into millions of glowing, colorful digital voxels. The pixels swarm like a massive cloud, bursting through the train windows and flying toward Tokyo Tower. The swarm wraps around the tower, transforming it into a colossal, glowing cherry blossom tree made of light and data. Swarm intelligence VFX, mass
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### Textbook Inspiration Video Prompt for Seedance 2
 
 **Prompt:**
@@ -4047,7 +5556,10 @@ Inside a packed train, every passenger suddenly explodes into millions of glowin
 Close-up of a student opening a fresh textbook. Thousands of glowing golden letters and 3D geometric diagrams erupt from the pages, swirling around the classroom like a cyclone of knowledge. The diagrams assemble into a life-sized holographic solar system rotating in mid-air. Soft magical lighting, macro detail, cinematic bokeh.
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### Gritty Post-Apocalyptic Survival Cinematic Setup Prompt
 
 **Prompt:**
@@ -4055,7 +5567,10 @@ Close-up of a student opening a fresh textbook. Thousands of glowing golden lett
 [CINEMATIC SETUP] Genre \u0026amp; Mood: Gritty Post-Apocalyptic Survival. Tense, visceral, and hyper-realistic. Film Stock \u0026amp; Lens: Shot on 35mm anamorphic lens, f/2.8 for shallow depth of field. Teal-orange desaturated color grade with earthy, dusty undertones. Lighting \u0026amp; Atmosphere:
 ```
 
+> 🔗 [Original Source](https://x.com/Leksautomate)
+
 ---
+
 ### Seedance 2.0 Hammer Throw Prompt
 
 **Prompt:**
@@ -4063,7 +5578,10 @@ Close-up of a student opening a fresh textbook. Thousands of glowing golden lett
 FORMAT: 15s / ONE CONTINUOUS SHOT / hammer throw return SUBJECTS: A warrior with a rune-carved stone warhammer, facing a colossal blue-green beast across a valley. SCENE: One continuous shot. The warrior is already spinning the warhammer in tall grass,
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Firefly Jar Release Image-to-Video prompt
 
 **Prompt:**
@@ -4071,15 +5589,21 @@ FORMAT: 15s / ONE CONTINUOUS SHOT / hammer throw return SUBJECTS: A warrior with
 First Frame Image Prompt: A cozy children's picture book lies open on a wooden table, showing a detailed illustration of a glass mason jar filled with glowing cartoon fireflies, a metal lid on top. A realistic human hand enters from the right, fingers gripping the edge of the illustrated lid as if about to twist it open. Close-up shot, dim warm evening atmos
 ```
 
+> 🔗 [Original Source](https://x.com/noorwithwifi)
+
 ---
+
 ### Cyberpunk MV Opening Sequence Prompt
 
 **Prompt:**
 ```
-【Opening Shot Sequence · Total Duration 15 seconds · 7 Switching Shots】 ■ Shot 1 (0:00–0:02) Drone Ultra-Wide · Cosmic Colony Panorama Enters from the exterior shell of the space colony with an ultra-wide drone shot. The interior of the massive ring-shaped colony slowly unfolds—morning light penetrates the curved transparent dome, obliquely shining into the 
+【Opening Shot Sequence · Total Duration 15 seconds · 7 Switching Shots】 ■ Shot 1 (0:00–0:02) Drone Ultra-Wide · Cosmic Colony Panorama Enters from the exterior shell of the space colony with an ultra-wide drone shot. The interior of the massive ring-shaped colony slowly unfolds—morning light penetrates the curved transparent dome, obliquely shining into the
 ```
 
+> 🔗 [Original Source](https://x.com/MiraMusic_AI)
+
 ---
+
 ### Detailed JSON Prompt for Dimensional Slash Effect in Seedance 2
 
 **Prompt:**
@@ -4087,7 +5611,10 @@ First Frame Image Prompt: A cozy children's picture book lies open on a wooden t
 { \"effect_analysis\": { \"theme\": \"Dimensional Slash and Space Shattering\", \"primary_colors\": [\"Vibrant Red\", \"Deep Black\", \"Bright White\", \"Pale Cyan (Character)\"], \"visual_elements\": [ \"Sharp curved energy trails\", \"Radial glass-shattering lines\", \"Debris and floating rock fragments\", \"Nebula-like cosmic background\", \"Intense lens flare and glow\" ] }, \"repro
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### School Supplies Transformation into Robot
 
 **Prompt:**
@@ -4095,7 +5622,10 @@ First Frame Image Prompt: A cozy children's picture book lies open on a wooden t
 Macro shot of a desk. Mechanical pencils, rulers, and erasers begin to flip and transform, clicking together like complex machinery. Within seconds, they form a tiny, intelligent bipedal robot that bows to the student. Sharp metal textures, intricate mechanical animation, photorealistic 8k.
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### Seedance 2.0 prompt for a monster choir with black-and-white to color transition
 
 **Prompt:**
@@ -4103,7 +5633,10 @@ Macro shot of a desk. Mechanical pencils, rulers, and erasers begin to flip and 
 SUBJECTS: A large group of diverse, cute monsters. Reference Image1 for their specific design and character consistency. They are designed as exquisite physical miniature puppets (made of tactile materials like felt, clay, and resin). Initially rendered in pure black-and-white. They are extremely joyful and highly expressive, focusing entirely on singing. EN
 ```
 
+> 🔗 [Original Source](https://x.com/tea_story_hoshi)
+
 ---
+
 ### Cyberpunk Magical Girl Anime Video Prompt
 
 **Prompt:**
@@ -4111,7 +5644,10 @@ SUBJECTS: A large group of diverse, cute monsters. Reference Image1 for their sp
 16:9 widescreen, cel-shaded 2D anime style, hand-drawn look, cyberpunk magical girl color palette — deep midnight blue, electric cyan, holographic silver, neon purple accents, 24fps, shallow depth of field.
 ```
 
+> 🔗 [Original Source](https://x.com/finshelley)
+
 ---
+
 ### Live football broadcast video prompt
 
 **Prompt:**
@@ -4119,7 +5655,10 @@ SUBJECTS: A large group of diverse, cute monsters. Reference Image1 for their sp
 15-second live football broadcast sequence, no slow motion, realistic stadium atmosphere, huge roaring crowd, bright stadium floodlights, television sports coverage style, fast athletic motion, authentic turf physics. Same subject throughout: an elderly grandmother football
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Dialogue Scene in a Van
 
 **Prompt:**
@@ -4127,7 +5666,10 @@ SUBJECTS: A large group of diverse, cute monsters. Reference Image1 for their sp
 There are three characters. The black-haired man in the passenger seat is Clock, the white-haired man driving is Weiss, and the woman in the back seat is Reina. Make the facial expressions and acting change according to the dialogue. Photorealistic, high-definition 2.5D animation. Inside a moving Hiace van. The camera is a bust shot of Reina.
 ```
 
+> 🔗 [Original Source](https://x.com/_3912657840)
+
 ---
+
 ### Abandoned Hospital Dream Infection Video
 
 **Prompt:**
@@ -4135,7 +5677,10 @@ There are three characters. The black-haired man in the passenger seat is Clock,
 Abandoned Hospital Dream Infection (8 shots, ~15s) – Organic-Tech ParasiteDim abandoned hospital corridor at night, flickering emergency lights, overgrown vines and rusted medical equipment. [0-2s] Shot 1: Forward tracking shot following woman in nurse scrubs
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### High-End RPG Boss Battle Sequence
 
 **Prompt:**
@@ -4143,7 +5688,10 @@ Abandoned Hospital Dream Infection (8 shots, ~15s) – Organic-Tech ParasiteDim 
 High-end RPG boss battle actual gameplay footage, photorealistic 8k graphics. A 15-second dynamic action sequence. [0-3 seconds]: The giant boss [@ image3] unleashes an ultimate technique, a bright red shockwave that destroys the entire screen. The screen shakes violently. The game's HUD (UI) is displayed, and the HP bars of the four characters on the edge o
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### Ice Giant vs. Magma Titan Battle (Dreamina/Seedance 2)
 
 **Prompt:**
@@ -4151,7 +5699,10 @@ High-end RPG boss battle actual gameplay footage, photorealistic 8k graphics. A 
 **Environment:** A frozen glacial valley under pale arctic twilight. Deep cobalt shadows across the ice field with cold blue ambient light reflecting from massive glacier walls. Snow particles drifting through the air. Frozen lake surfaces acting as natural mirrors for diegetic reflections. **Action:** 15.0s sequence. A towering figure composed of crystallin
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Hand-to-Hand Skill Clash Cinematic Prompt
 
 **Prompt:**
@@ -4159,7 +5710,10 @@ High-end RPG boss battle actual gameplay footage, photorealistic 8k graphics. A 
 HAND-TO-HAND → SKILL CLASH (15s) Ultra-realistic cinematic fight while keeping the original background intact. REFERENCE FRAMES: - Image 1: Establishing frame — Aaron and Yvonne standing on the quiet street, facing each other. No UI visible. Environment is stable and
 ```
 
+> 🔗 [Original Source](https://x.com/aaronkowz)
+
 ---
+
 ### Bullet Time Effect at Subway Station
 
 **Prompt:**
@@ -4167,7 +5721,10 @@ HAND-TO-HAND → SKILL CLASH (15s) Ultra-realistic cinematic fight while keeping
 Bullet time effect. Inside an underground subway station, a young woman in a beige long trench coat rushes towards the closing subway door at the last moment, leaning forward and leaping into the air, extending her arm forward. The black handbag in her other hand flies out. Her phone, lipstick, papers, and headphones explode from the bag, suspended and froze
 ```
 
+> 🔗 [Original Source](https://x.com/AyccAI)
+
 ---
+
 ### The Noodle Master Scene Description
 
 **Prompt:**
@@ -4175,7 +5732,10 @@ Bullet time effect. Inside an underground subway station, a young woman in a bei
 sprints across a dense cyberpunk Japanese town, carrying stacked ramen bowls and a delivery canister, his black and yellow outfit glowing with subtle neon reflections. 0–3s: wide establishing shot (3s), lateral tracking shot as he runs along narrow tiled rooftops, traditional
 ```
 
+> 🔗 [Original Source](https://x.com/AICO_fly)
+
 ---
+
 ### 15-Second Seedance 2.0 Fast Commercial
 
 **Prompt:**
@@ -4183,7 +5743,10 @@ sprints across a dense cyberpunk Japanese town, carrying stacked ramen bowls and
 shot1 (3 seconds): A sci-fi atmosphere in a futuristic office floor. An android office woman walks across the floor expressionlessly. shot2 (3 seconds): The android woman is working at her desk, operating a holographic UI. shot3 (3 seconds): She hands a USB memory stick to her robot boss, and the neon text \"Job done!\" floats above the android woman's hand. s
 ```
 
+> 🔗 [Original Source](https://x.com/BarlowHakusyaku)
+
 ---
+
 ### Soulslike Boss Introduction Cinematic
 
 **Prompt:**
@@ -4191,7 +5754,10 @@ shot1 (3 seconds): A sci-fi atmosphere in a futuristic office floor. An android 
 A video in the style of a Soulslike 3D action game. A boss introduction movie. A wizard character advances through a crystal cave and encounters three giant, evil wolves. The scene ends at the moment the terrifying wolves attack.
 ```
 
+> 🔗 [Original Source](https://x.com/naoyuki_okada)
+
 ---
+
 ### Epic Multi-Shot Sequence of Sun Wukong on a Mythological Battlefield
 
 **Prompt:**
@@ -4199,15 +5765,21 @@ A video in the style of a Soulslike 3D action game. A boss introduction movie. A
 Cinematic hyper-dynamic fast-paced multi-shot sequence, epic mythological battlefield, IMAX film simulation, 35mm Panavision lens, f/4, heavy cinematic color grading, dramatic contrast between dark necrotic tones and radiant golden divine light. Shot 1: Extreme close-up on Sun Wukong’s face, covered in dirt and blood, golden eyes flickering with exhaustion y
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Cinematic Unreal Engine Video Prompt with Shockwave Effect
 
 **Prompt:**
 ```
-Ultra-cinematic Unreal Engine video, ray tracing, rainy small-town street at night, grey-blue tone, 35mm, 4:3. Medium-close western woman, wet light-brown hair, dark coat, cold expression. Camera tilts up as rain splashes. She steps → blue shockwave spreads, color drains, rain freezes mid-air, blue aura forms.................. Find the rest of the prompt on 
+Ultra-cinematic Unreal Engine video, ray tracing, rainy small-town street at night, grey-blue tone, 35mm, 4:3. Medium-close western woman, wet light-brown hair, dark coat, cold expression. Camera tilts up as rain splashes. She steps → blue shockwave spreads, color drains, rain freezes mid-air, blue aura forms.................. Find the rest of the prompt on
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Seedance 2.0 Y2K Pool Party Video Prompt
 
 **Prompt:**
@@ -4215,15 +5787,21 @@ Ultra-cinematic Unreal Engine video, ray tracing, rainy small-town street at nig
 [Style] Y2K Pool Party, MiniDV camera footage texture (Camcorder Footage), overexposed warm yellow, film grain, VHS interference lines, fast-paced beat synchronization. [Duration] 15 seconds. [Scene] 2000s American backyard pool party, scorching sun, dazzling light spots on the water surface, folding lounge chairs, silver CD player, rainbow inflatable float,
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Ultra-High-Speed Metric Montage Prompt
 
 **Prompt:**
 ```
-Overall composition: - An ultra-high-speed metric montage that switches characters every 0.1 seconds according to the following sequence. - Background, pose, and actions are random (up to the model). - Each cut must be a video, not a still image, and include camera work. Sequence: - 0.0s-0.1s: 😆 White hair, light pink gradient twin-tailed girl - 0.1s-0.2s: 
+Overall composition: - An ultra-high-speed metric montage that switches characters every 0.1 seconds according to the following sequence. - Background, pose, and actions are random (up to the model). - Each cut must be a video, not a still image, and include camera work. Sequence: - 0.0s-0.1s: 😆 White hair, light pink gradient twin-tailed girl - 0.1s-0.2s:
 ```
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### Street dance circle video prompt
 
 **Prompt:**
@@ -4231,15 +5809,21 @@ Overall composition: - An ultra-high-speed metric montage that switches characte
 aesthetic: phone in the middle of a street dance circle, tight crowd surrounding audio: hip-hop beat building, crowd hyping, clapping getting louder timeline: - \"0-4s: Phone camera inside a street dance circle. A ring of a hundred people. In the center, an
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Detailed Seedance 2.0 prompt for a skeleton girl playing piano in a miniature diorama
 
 **Prompt:**
 ```
-Subject: Subject 1: A cute and stylish skeleton girl. She wears a navy sailor-style jacket, a pink pleated skirt, and a wide-brimmed hat adorned with a small skull. Her skeleton fingers are highly flexible, delicate, and expressive. For consistency in appearance and character, please refer to reference image. Environment: A high-quality 3D miniature diorama 
+Subject: Subject 1: A cute and stylish skeleton girl. She wears a navy sailor-style jacket, a pink pleated skirt, and a wide-brimmed hat adorned with a small skull. Her skeleton fingers are highly flexible, delicate, and expressive. For consistency in appearance and character, please refer to reference image. Environment: A high-quality 3D miniature diorama
 ```
 
+> 🔗 [Original Source](https://x.com/tea_story_hoshi)
+
 ---
+
 ### Japanese Dark Fantasy Action Short Film Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4247,7 +5831,10 @@ Subject: Subject 1: A cute and stylish skeleton girl. She wears a navy sailor-st
 Original Japanese-Style Dark Fantasy Action Short Film: Inside a dilapidated shrine hall, a white-robed warrior and a black-armored samurai engage in their final battle amid an atmosphere reminiscent of ritual chanting. Wooden beams creak, paper screens tear apart, and fragments scatter as moonlight filters through drifting dust and smoke. Tatami mats are di
 ```
 
+> 🔗 [Original Source](https://x.com/MiraMusic_AI)
+
 ---
+
 ### Silhouetted Swordsman Combat Prompt
 
 **Prompt:**
@@ -4255,7 +5842,10 @@ Original Japanese-Style Dark Fantasy Action Short Film: Inside a dilapidated shr
 SHOT: camera_motion: tracking shot movement_dynamics: The camera stays anchored on the central silhouetted swordsman, executing fast micro-pans and sudden whip-pans to frame each incoming enemy from the darkness. The camera shakes violently on each high-impact flash to emphasize the kinetic energy and aggressive strobing rhythm of the scene. ACTIONS: core_ac
 ```
 
+> 🔗 [Original Source](https://x.com/vladimircherner)
+
 ---
+
 ### Seedance 2 Cyberpunk Bar Dialogue Prompt
 
 **Prompt:**
@@ -4263,15 +5853,21 @@ SHOT: camera_motion: tracking shot movement_dynamics: The camera stays anchored 
 Image1 as MAN. Image2 as WOMAN. Same faces throughout. Do not alter facial proportions. Cyberpunk bar interior — neon haze, dark ambient lighting, smoky atmosphere. 15 seconds. All dialogue in Hindi language. MAN and WOMAN at the bar, leaning close. A
 ```
 
+> 🔗 [Original Source](https://x.com/rahulnanda86)
+
 ---
+
 ### Cinematic Scene of London in Bloom
 
 **Prompt:**
 ```
-Cinematic Scene 1 (0-4s): aerial drone shot gliding low over the Thames at golden hour, Big Ben rising through a blizzard of pink cherry blossom petals, reflections shimmering on the water, slow zoom in. Scene 2 (4-8s): upward-angle close-up of Big Ben's clock face, ornate gold gothic details sharp, pink petals drifting across the frame and briefly covering 
+Cinematic Scene 1 (0-4s): aerial drone shot gliding low over the Thames at golden hour, Big Ben rising through a blizzard of pink cherry blossom petals, reflections shimmering on the water, slow zoom in. Scene 2 (4-8s): upward-angle close-up of Big Ben's clock face, ornate gold gothic details sharp, pink petals drifting across the frame and briefly covering
 ```
 
+> 🔗 [Original Source](https://x.com/patchworkfilmuk)
+
 ---
+
 ### Dramatic Character Gacha Reveal Sequence
 
 **Prompt:**
@@ -4279,7 +5875,10 @@ Cinematic Scene 1 (0-4s): aerial drone shot gliding low over the Thames at golde
 Gacha production A dramatic character gacha reveal sequence. Phase 1: Against a dark backdrop featuring a large calligraphic emblem and halftone dot pattern decorations matching the character's aesthetic, golden cross-shaped stars fly in from off-screen with lens flare light spikes, landing into a horizontal row with pulsating flash impacts. Multiple waves o
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Feral Werewolf Transformation Cinematic Sequence
 
 **Prompt:**
@@ -4287,7 +5886,10 @@ Gacha production A dramatic character gacha reveal sequence. Phase 1: Against a 
 Camera Simulation Shot on 65mm IMAX film with a vintage anamorphic lens. Noticeable film grain, subtle gate weave, and soft halation on highlights. Occasional lens breathing subtly warps the image as the body mutates. Lighting Style A dead, fog-covered wasteland under a massive dim moon. Moonlight is unnaturally cold, casting blue-gray tones across the entir
 ```
 
+> 🔗 [Original Source](https://x.com/Gwsubsa)
+
 ---
+
 ### Sci-fi Anime Single-Shot Action Sequence
 
 **Prompt:**
@@ -4295,7 +5897,10 @@ Camera Simulation Shot on 65mm IMAX film with a vintage anamorphic lens. Noticea
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Sci-fi anime action aesthetic. Palette: cold whites, blue lighting, floating debris. Scene: Interior of space station with broken gravity. 0–3s — tension Camera drifts slowly. Character floating,
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Scientific Storytelling Video on Honeybee Venom and Cancer
 
 **Prompt:**
@@ -4303,7 +5908,10 @@ Camera Simulation Shot on 65mm IMAX film with a vintage anamorphic lens. Noticea
 TITLE: NATURE’S CODE — THE VENOM THAT TARGETS CANCER FORMAT: Seedance 2.0 | 15s | 6 cinematic cuts | Hyper-real | Science storytelling INTENT Create a visually compelling, scientifically grounded narrative explaining how honeybee venom (melittin) interacts with cancer cells. Tone must be educational, precise, and cinematic, avoiding exaggeration or cure clai
 ```
 
+> 🔗 [Original Source](https://x.com/CurieuxExplorer)
+
 ---
+
 ### Exploration Robot in Bio-luminescent Garden Prompt
 
 **Prompt:**
@@ -4311,7 +5919,10 @@ TITLE: NATURE’S CODE — THE VENOM THAT TARGETS CANCER FORMAT: Seedance 2.0 | 
 Hyper-realistic cinematic 3D video, Unreal Engine quality, ray tracing, 24fps, smooth camera movement, shallow depth of field, volumetric fog, golden-hour + soft neon glow. Story: A lone red exploration robot enters an abandoned overgrown bio-luminescent garden searching for a faint energy signal. 0–2s: Wide shot, robot enters gate, slow push-in. 2–4s: Close
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Sci-Fi Dark Comedy Chase Scene
 
 **Prompt:**
@@ -4319,7 +5930,10 @@ Hyper-realistic cinematic 3D video, Unreal Engine quality, ray tracing, 24fps, s
 Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental laboratory filled with glowing glass tubes, holographic screens, and flickering neon panels, a white-clad orange cat patient (wearing a full-body hospital gown with a white bandage wrapped around its forehead) frantically sprints between metallic workstations, pursued by a relentl
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Chinese-Style Wuxia Battle Animation Prompt
 
 **Prompt:**
@@ -4327,7 +5941,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 9. Chinese-style animation Chinese-style animated wuxia battle scene, cinematic action sequence, a calm Shaolin monk in flowing orange and red robes fighting a fierce samurai in dark lacquered armor with a katana, ancient bamboo forest at dusk, drifting mist, falling leaves,
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Car Transformation Sequence Prompt
 
 **Prompt:**
@@ -4335,7 +5952,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 7. Car transformation 15-second cinematic transformation sequence, a sleek black sports car racing down a neon-lit highway at night, then transforming into a powerful futuristic fighter jet in mid-motion, intricate mechanical panels shifting, wheels folding inward, metal armor
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Fight Scene Prompt: Impact and Recovery
 
 **Prompt:**
@@ -4343,7 +5963,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 6. Fight scene 0–1.5s (Shot 1): Low-angle shot. A fighter slams into the ground, sliding across dust as their opponent lands heavily, cracking the floor beneath their feet. VFX: dust burst, ground cracks SFX: impact hit, debris scatter 1.5–3s (Shot 2): Crane shot rising. Both
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### 3D Fantasy Animation Prompt
 
 **Prompt:**
@@ -4351,7 +5974,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 5. 3D animation 15-second 3D fantasy animation, cinematic storytelling, a young boy walking alone through a mysterious enchanted forest at golden dusk, soft volumetric light through the trees, magical atmosphere, detailed moss, roots, glowing particles in the air, the boy
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Horror Scene Prompt: Moving Chair
 
 **Prompt:**
@@ -4359,7 +5985,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 4. Horror scene 0–1.5s (Shot 1): Low-angle shot from the floor. A wooden chair drags slowly across the room on its own, stopping abruptly. Shadows stretch unnaturally along the walls as a door creaks open in the background. VFX: shadow stretch, dust particles SFX: wood scrape,
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Emotional Drama Scene Prompt
 
 **Prompt:**
@@ -4367,7 +5996,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 3. Showing emotions: 15-second cinematic emotional drama scene, a wife confronting her husband after discovering betrayal, intimate apartment interior at night, dim warm lighting, tense silence, the wife is emotionally shattered, eyes wet with tears, trembling lips, hurt,
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Funny Scene Prompt: Cop and Cat
 
 **Prompt:**
@@ -4375,7 +6007,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 2. funny scene 0–1.5s (Shot 1): Wide shot. A funny anthropomorphic police cop stops a sneaky orange cat in a city alley at night, gently placing him against the wall while checking him. Streetlights cast dramatic shadows; the cat already looks nervous and guilty. Dialogue:
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Bullet Time Cinematic Prompt
 
 **Prompt:**
@@ -4383,7 +6018,10 @@ Original Sci-Fi Dark Comedy Action Short Film: Inside a high-tech experimental l
 Businessman falling on Wall Street, coffee exploding mid-air, ice \u0026 droplets frozen, camera orbits 360° at ground level
 ```
 
+> 🔗 [Original Source](https://x.com/ubaid792792)
+
 ---
+
 ### Transformation Sequence: Tentacles and Alien Hiss
 
 **Prompt:**
@@ -4391,7 +6029,10 @@ Businessman falling on Wall Street, coffee exploding mid-air, ice \u0026 droplet
 0–2s Handheld shaky tracking close-up, wind swirling hard, red tentacles floating around her, camera unstable and breathing. 2–4s Tentacles suddenly snap and wrap tightly around her body from behind, pulling her upward slightly as she reacts instantly, her body jerking and resisting, movements sharp and uncontrolled. 4–6s A deep alien voice echoes: “Serve us
 ```
 
+> 🔗 [Original Source](https://x.com/D_studioproject)
+
 ---
+
 ### Sci-Fi Warrior Cinematic Video Prompt
 
 **Prompt:**
@@ -4399,7 +6040,10 @@ Businessman falling on Wall Street, coffee exploding mid-air, ice \u0026 droplet
 CHARACTER REFERENCE Imagen1= warrior face. Imagen2= red robotic armor. IMAX 70mm, Panavision 35mm f4, handheld sway, live-action sci-fi 4K, shallow DOF, teal-blue tone, red sword only warm light, dense fog, hard cuts, SFX only, face stable.
 ```
 
+> 🔗 [Original Source](https://x.com/abxxai)
+
 ---
+
 ### Original Ocean Fantasy Fashion Short Film Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4407,7 +6051,10 @@ CHARACTER REFERENCE Imagen1= warrior face. Imagen2= red robotic armor. IMAX 70mm
 Original ocean fantasy fashion short film, pure artistic visual expression, aesthetic, quiet, dreamy, high-end. The scene is an abstract ocean-inspired space, with a clean and pure dark background. The light in the frame comes only from the clothing texture and a small amount of glowing marine particles, the overall effect is soft and restrained. The main co
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Kaiju Battle in Japanese Industrial Park Prompt
 
 **Prompt:**
@@ -4415,7 +6062,10 @@ Original ocean fantasy fashion short film, pure artistic visual expression, aest
 \"In an industrial park on the outskirts of a Japanese prefecture, [CHARACTER 1] and [CHARACTER 2] both stand 50 meters tall. Wide establishing shot: both facing off, smoke rising, buildings tiny beneath them. Cut to ground
 ```
 
+> 🔗 [Original Source](https://x.com/TechieBySA)
+
 ---
+
 ### Apocalyptic Naval Disaster Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4423,7 +6073,10 @@ Original ocean fantasy fashion short film, pure artistic visual expression, aest
 {\"lang\":\"zh\",\"prompt\":\"Style and Atmosphere: Apocalypse-level naval annihilation, dominated by low-saturation steel blue and gunmetal gray, with explosive amber and aviation fuel flames piercing the gray area. The interior of the oppressive storm cumulonimbus clouds is illuminated by lightning. Rain streaks cut across all surfaces. Telephoto compression laye
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic Fantasy Action Scene
 
 **Prompt:**
@@ -4431,7 +6084,10 @@ Original ocean fantasy fashion short film, pure artistic visual expression, aest
 A cinematic fantasy action scene with strong Chinese vibes, ancient mountain temple ruins at night, red lantern glow, drifting mist, moonlight, falling ash, a brave human hero standing in front of a massive dark creature, tense standoff, dramatic atmosphere, high-detail armor,
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Shadow Slash Frenzy Cinematic Prompt
 
 **Prompt:**
@@ -4439,15 +6095,21 @@ A cinematic fantasy action scene with strong Chinese vibes, ancient mountain tem
 [Character Reference: image] Strictly follow the reference character's face, long straight silver hair, and the medical eyepatch over her left eye. Do not change identity or facial structure. Fixed appearance: Glowing dark right eye, long silver hair flowing with the wind, a medical eyepatch over the left eye, a torn and slightly bloodstained black school sw
 ```
 
+> 🔗 [Original Source](https://x.com/oggii_0)
+
 ---
+
 ### Boyfriend POV Travel Vlog Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Boyfriend POV first-person travel Vlog, handheld phone follow-up shooting, slight camera shake, authentic travel shooting feel, bright sunshine, gentle and healing, real-life shooting style cinematic color tone, healing background music. The girlfriend (appearance referenced from [Image 1], with appropriate clothing matched to each environment) is presented 
+Boyfriend POV first-person travel Vlog, handheld phone follow-up shooting, slight camera shake, authentic travel shooting feel, bright sunshine, gentle and healing, real-life shooting style cinematic color tone, healing background music. The girlfriend (appearance referenced from [Image 1], with appropriate clothing matched to each environment) is presented
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Hyper-realistic Cinematic Video of a Colossal Lobster in Venice
 
 **Prompt:**
@@ -4455,7 +6117,10 @@ Boyfriend POV first-person travel Vlog, handheld phone follow-up shooting, sligh
 Create a hyper-realistic, cinematic video of a colossal, mountain-sized lobster emerging from the turquoise waters of Venice's Grand Canal. The lobster rises directly in front of the ornate Doge's Palace, its massive red and orange claws lifting toward a moody, overcast sky. Waves crash violently against the Gothic arches of the palace, sending white sea spr
 ```
 
+> 🔗 [Original Source](https://x.com/aaliya_va)
+
 ---
+
 ### Gritty Handheld 35mm Aesthetic
 
 **Prompt:**
@@ -4463,15 +6128,21 @@ Create a hyper-realistic, cinematic video of a colossal, mountain-sized lobster 
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright indoor daylight with soft shadows. Controlled handheld tracking shot (3rd person POV, over-the-shoulder), stabilized cinematic motion with subtle natural shake. Atmosphere: casual home living room, quiet,
 ```
 
+> 🔗 [Original Source](https://x.com/AngelNwoha)
+
 ---
+
 ### 2D Fighting Game Sequence Prompt
 
 **Prompt:**
 ```
-# ═══════════════════════════════════════════════ # PROJECT: 2D Fighting Game Sequence # SPECS: Playstation 4 / 30FPS / Budget 500M JPY # ═══════════════════════════════════════════════ visual_config: style: \u003e 2D anime-style fighting video game screenshot, cel-shaded, bold outlines, dark metallic stone architecture palette, manga-style dynamic lines, arcade 
+# ═══════════════════════════════════════════════ # PROJECT: 2D Fighting Game Sequence # SPECS: Playstation 4 / 30FPS / Budget 500M JPY # ═══════════════════════════════════════════════ visual_config: style: \u003e 2D anime-style fighting video game screenshot, cel-shaded, bold outlines, dark metallic stone architecture palette, manga-style dynamic lines, arcade
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Black-and-White Alley Scene Prompt
 
 **Prompt:**
@@ -4479,7 +6150,10 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright indoor 
 ENVIRONMENT: A black-and-white alley at night. One overhead streetlight. Slightly wet ground with reflections. Walls and building structures on both sides. The alley extends forward with visible depth. No pedestrians. SOUND: Footsteps, paper scraping on the ground, light wind.
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Magical Paper Origami Dragon
 
 **Prompt:**
@@ -4487,7 +6161,10 @@ ENVIRONMENT: A black-and-white alley at night. One overhead streetlight. Slightl
 A crumbling old bookshop at midnight. A single book on a shelf slowly opens by itself, and from its pages a tiny paper origami dragon unfolds, stretches its wings, and takes flight through the shop, breathing miniature flames that ignite other books, each one releasing paper birds, whales, and castles that fill the room in a swirling paper universe. Warm can
 ```
 
+> 🔗 [Original Source](https://x.com/monali_dambre)
+
 ---
+
 ### Bullet Time Dragon Battle Cinematic
 
 **Prompt:**
@@ -4495,7 +6172,10 @@ A crumbling old bookshop at midnight. A single book on a shelf slowly opens by i
 as exact armored warrior and black-blue dragon base design with rider pose, Image3 as exact blue fire breath and icy scale texture reference, Image5 as fire dragon battle scale and opposing dragon design reference, Image1 Image2 as intense fire explosion lighting and particle reference Hyper-realistic 3D CGI cinematic dark fantasy battle, epic high-budget fa
 ```
 
+> 🔗 [Original Source](https://x.com/monali_dambre)
+
 ---
+
 ### 2D Fighting Game Sequence Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4503,7 +6183,10 @@ as exact armored warrior and black-blue dragon base design with rider pose, Imag
 # ═══════════════════════════════════════════════ # PROJECT: 2D Fighting Game Sequence # SPECS: Playstation 4 / 30FPS / Budget 500M JPY # ═══════════════════════════════════════════════ visual_config: style: \u003e 2D anime-style fighting video game screenshot, cel-shaded, bold outlines, gold-purple-crimson palette, manga-style dynamic lines, arcade game aestheti
 ```
 
+> 🔗 [Original Source](https://x.com/yachimat_manga)
+
 ---
+
 ### Cyberpunk Samurai Battle Video Prompt
 
 **Prompt:**
@@ -4511,7 +6194,10 @@ as exact armored warrior and black-blue dragon base design with rider pose, Imag
 Pitch-black night, a rain-soaked future Sengoku battlefield. Innumerable cyber samurai, clad in glowing armor, Japanese-patterned hologram decorations, neon family crests, and swords running with electricity, clash on a vast battlefield. In the background, a giant cybernetic castle, burning torii gates, collapsed Japanese-style megastructures, and drone lant
 ```
 
+> 🔗 [Original Source](https://x.com/takamasa045)
+
 ---
+
 ### Cinematic Martial Arts Sequence for Seedance 2
 
 **Prompt:**
@@ -4519,7 +6205,10 @@ Pitch-black night, a rain-soaked future Sengoku battlefield. Innumerable cyber s
 cinematic martial arts confrontation in broad daylight, a blind shaolin monk wearing a dark, stylized combat outfit inspired by legendary fighters stands calm and centered, eyes closed, surrounded by multiple hostile creatures emerging from a traditional Japanese landscape Ultra cinematic choreography coverage, mix of slow dolly-ins + orbit moves + whip pans
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Daily Routine 15-Cut Sequence Prompt
 
 **Prompt:**
@@ -4527,7 +6216,10 @@ cinematic martial arts confrontation in broad daylight, a blind shaolin monk wea
 Show me @[image1]'s daily routine in 15 different cuts. Use different transitions and camera techniques.
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Snowboarder Avalanche Escape Prompt
 
 **Prompt:**
@@ -4535,7 +6227,10 @@ Show me @[image1]'s daily routine in 15 different cuts. Use different transition
 A snowboarder in a neon blue suit races down a steep alpine ridge as a massive avalanche begins collapsing behind him. At the 2-second mark he hits a natural snow ramp and launches across a deep crevasse. Camera follows close behind as the avalanche wave explodes through the mountain slope. He lands on a narrow ice ridge and continues descending through flyi
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Cinematic Storyboard: Cool Couple in a Convertible
 
 **Prompt:**
@@ -4543,7 +6238,10 @@ A snowboarder in a neon blue suit races down a steep alpine ridge as a massive a
 Generate a 16:9 video featuring top Asian handsome men and beautiful women, created according to the following storyboard: [Shot 1] Time: 0s to 1s, Shot Type: Medium shot, fixed, Camera Movement: Stable, no movement, Subject Action/Expression: Male and female sitting in a red convertible, looking forward in profile, with a cool expression, Visual Effects: No
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Emotional Close-Up Scene
 
 **Prompt:**
@@ -4551,7 +6249,10 @@ Generate a 16:9 video featuring top Asian handsome men and beautiful women, crea
 A woman sits motionless at a wooden table, her tangled hair falling over pale cheeks. Her trembling fingertips clutch a creased photograph. A single tear catches the cold blue light from a rain-streaked window. Slow push-in to extreme close-up, shallow depth of field.
 ```
 
+> 🔗 [Original Source](https://x.com/Pixo_AI)
+
 ---
+
 ### Surreal Transformation to Cosmic Romance
 
 **Prompt:**
@@ -4559,7 +6260,10 @@ A woman sits motionless at a wooden table, her tangled hair falling over pale ch
 Fixed camera, cinematic framing. A character stands center frame in a surreal dark space. Their left hand slowly clenches into a fist. As the fist tightens, multiple glowing floating spheres around them begin to vibrate and suddenly burst into particles. At the exact moment of impact, the character dissolves into bright pink star particles. The particles exp
 ```
 
+> 🔗 [Original Source](https://x.com/ChillaiKalan__)
+
 ---
+
 ### Planet-sized Quantum Computer World
 
 **Prompt:**
@@ -4567,7 +6271,10 @@ Fixed camera, cinematic framing. A character stands center frame in a surreal da
 Planet-sized quantum computer world where continents are made of living code, data storms raging, teleportation portals opening between realities, seamless transition between parallel versions of the same city, swirling camera through portals, Matrix + Inception visuals, multiverse shift. Hope you like it, and I need to go for a walk, see you later😊
 ```
 
+> 🔗 [Original Source](https://x.com/Alin_Reaper05)
+
 ---
+
 ### Pastel Cloud Animation Prompt
 
 **Prompt:**
@@ -4575,7 +6282,10 @@ Planet-sized quantum computer world where continents are made of living code, da
 Ultra-cute pastel cloud animation, soft rounded chibi style, bright sky tones, smooth bouncy physics, cinematic motion. 0–4s: Cloud floats → wakes with cute expression. 4–8s: Spins and zooms playfully, leaving puff trails. 8–12s: Interacts with sun/birds, energetic movement. 12–15s: Hero center frame, happy bounce, sparkle. Soft daylight, smooth camera, whol
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### 1990s Japanese Trendy Drama Style Video Prompt
 
 **Prompt:**
@@ -4583,7 +6293,10 @@ Ultra-cute pastel cloud animation, soft rounded chibi style, bright sky tones, s
 Nostalgic and emotional footage in the style of a 1990s Japanese trendy drama. City at night. A Japanese salaryman and a Japanese office lady in their early twenties are running together in a sudden rain shower. Both are soaking wet, with rain clinging to their hair and clothes, laughing breathlessly. The man is wearing a dark suit typical of the 90s.
 ```
 
+> 🔗 [Original Source](https://x.com/umitsuru_fire)
+
 ---
+
 ### Bullet Time Falling Businessman
 
 **Prompt:**
@@ -4591,7 +6304,10 @@ Nostalgic and emotional footage in the style of a 1990s Japanese trendy drama. C
 Bullet time effect. A businessman in white shirt and black tie slipping and falling backwards on icy wet street in Wall Street, New York. Coffee cup standing on ground, liquid exploding outward frozen in mid-air. Ice chunks, water droplets, and coffee splash all completely suspended — time is frozen. Tall buildings on both sides creating a canyon effect. Cam
 ```
 
+> 🔗 [Original Source](https://x.com/oggii_0)
+
 ---
+
 ### Ice Cream Trickster Showdown Video Prompt
 
 **Prompt:**
@@ -4599,7 +6315,10 @@ Bullet time effect. A businessman in white shirt and black tie slipping and fall
 { \"style\": \"stylized 3D animation, hyperreal pop, squash-and-stretch\", \"mood\": \"fast slapstick mischief with fake wins and payoff\", \"characters\": { \"child\": \"round-faced, huge eyes, copper-red pigtails, yellow polka-dot dress\", \"vendor\": \"tall man, curled mustache, crimson vest, tilted cap, brass ice cream paddle\" }, \"environment\": { \"location\": \"sunlit ston
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### Cat Master and Bear Pharaoh Cinematic Comedy
 
 **Prompt:**
@@ -4607,7 +6326,10 @@ Bullet time effect. A businessman in white shirt and black tie slipping and fall
 Cinematic dark comedy adventure shot on Arri Alexa 35 with handheld jitter, exaggerated reaction shots, and punchy fast-cut editing, featuring moody torch lighting, dusty particle VFX, and a claustrophobic ancient pyramid atmosphere. S1: Low-angle tracking shot as an orange cat explorer in an Indiana Jones-style outfit leads a line of nervous cat apprentices
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Anime Girls Cyberpunk Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4615,7 +6337,10 @@ Cinematic dark comedy adventure shot on Arri Alexa 35 with handheld jitter, exag
 Three anime girls (left: short black hair with horn accessories, black-cyan-magenta cyberpunk outfit; center: long silver-white hair, red eyes, black dress; right: red ponytail, blue eyes, white outfit) stand still as holographic wireframe CG objects surrounding them crack and explode into cyan particle dust over 6 seconds — fragments scatter outward like sh
 ```
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Epic Marvel Studios Tone Martial Arts Scene
 
 **Prompt:**
@@ -4623,7 +6348,10 @@ Three anime girls (left: short black hair with horn accessories, black-cyan-mage
 Epic Marvel Studios tone, dramatic lighting, fast cuts, slow-motion impacts, bass hits, heroic orchestral rise. 0.0–0.8s: Wide shot — Martial arts dojo. Orange cat in white taekwondo uniform stands center, surrounded by colorful rabbit students in high school tracksuits.
 ```
 
+> 🔗 [Original Source](https://x.com/sketchfxuhd)
+
 ---
+
 ### Seedance 2.0 Detailed Combat Video Prompt: Maid Blade Dance
 
 **Prompt:**
@@ -4631,15 +6359,21 @@ Epic Marvel Studios tone, dramatic lighting, fast cuts, slow-motion impacts, bas
 Title: \"Maid Blade Dance - Mei vs Coco\" Duration: \"15 seconds\" Input: A: \"\u003c\u003c\u003cImage 1\u003e\u003e\u003e\" B: \"\u003c\u003c\u003cImage 2\u003e\u003e\u003e\" Characters: A: Name: \"Mei Kirishima\" Weapon: \"Sword of Hesitation (Black Purple)\" B: Name: \"Coco Sakuraba\" Weapon: \"Ribbon Spear (Silver + Red Ribbon)\" Movement Core: A: [\"High-speed multi-hit slash\", \"Black-purple aura\", \"Multi-blur afterimage\"] B: [\"
 ```
 
+> 🔗 [Original Source](https://x.com/MiraMusic_AI)
+
 ---
+
 ### Seedance 2.0: Meteorite Defense at Shibuya Crossing (Hex Prompt)
 
 **Prompt:**
 ```
-A cinematic 10-second VFX sequence. A blazing meteor falls from space towards Earth. At Shibuya Scramble Crossing, a man with white hair, red eyes, and Shibuya-style clothes stands in the center of the crossing, forming a finger gun and aiming upwards. Purple energy converges at his fingertip from the surroundings and is fired as a powerful beam. The energy 
+A cinematic 10-second VFX sequence. A blazing meteor falls from space towards Earth. At Shibuya Scramble Crossing, a man with white hair, red eyes, and Shibuya-style clothes stands in the center of the crossing, forming a finger gun and aiming upwards. Purple energy converges at his fingertip from the surroundings and is fired as a powerful beam. The energy
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### High-Energy Japan Travel Documentary Montage
 
 **Prompt:**
@@ -4647,7 +6381,10 @@ A cinematic 10-second VFX sequence. A blazing meteor falls from space towards Ea
 Travel documentary footage of Japan, shot on Sony A7 IV, natural film grain, photorealistic, no CGI, no stylization. [0-3s] A real weathered red torii gate at night. Camera starts ground-level at the base of the gate looking up — then rapidly orbits 180 degrees around the torii post, accelerating as it swings, revealing the misty stone steps and orange lante
 ```
 
+> 🔗 [Original Source](https://x.com/croflaiworks)
+
 ---
+
 ### 1970s Shaw Brothers Kung Fu Cinema Scene
 
 **Prompt:**
@@ -4655,7 +6392,10 @@ Travel documentary footage of Japan, shot on Sony A7 IV, natural film grain, pho
 \"1970s Shaw Brothers kung fu cinema, Hong Kong action. Young Asian fighter in white gi with glasses and dragon tattoo enters misty temple courtyard. Tall antagonist in black robes emerges from shadow. Whip pan as they circle in standoff. Snap zoom on first strike exchange. Orbit
 ```
 
+> 🔗 [Original Source](https://x.com/iaaaaan)
+
 ---
+
 ### Cyberpunk Ninja Battle Video Prompt
 
 **Prompt:**
@@ -4663,7 +6403,10 @@ Travel documentary footage of Japan, shot on Sony A7 IV, natural film grain, pho
 Ginza at night, future cyberpunk. A female ninja hiding, transparent with optical camouflage. Defeats an enemy ninja. After the first attack, optical camouflage is released. The enemy ninja clones into three. Fighting with high-speed movement using motion blur and afterimages. The female ninja's punch sends the ninja flying, crashing into a neon sign above.
 ```
 
+> 🔗 [Original Source](https://x.com/ChiakiAkagi)
+
 ---
+
 ### Topview Agent v2 Generates Movie Trailer with Seedance 2.0
 
 **Prompt:**
@@ -4671,7 +6414,10 @@ Ginza at night, future cyberpunk. A female ninja hiding, transparent with optica
 A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create various scenes with multi-cuts. The title is CRYPTOMAN
 ```
 
+> 🔗 [Original Source](https://x.com/SSSS_CRYPTOMAN)
+
 ---
+
 ### Biomechanical Parasite Horror Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4679,7 +6425,10 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 Seedance V2 The Biomechanical Parasite (Alien Parasite Tearing)\" theme: \"H.R. Giger / Dead Space / Visceral Sci-Fi Horror\" chinese_prompt: | [00:00-00:04] Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She suddenly turns around, her delicate white porcelain face beginning t
 ```
 
+> 🔗 [Original Source](https://x.com/IamEmily2050)
+
 ---
+
 ### English Cinematic Whale in the Clouds Video Prompt
 
 **Prompt:**
@@ -4687,7 +6436,10 @@ Seedance V2 The Biomechanical Parasite (Alien Parasite Tearing)\" theme: \"H.R. 
 Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic magical realism. Late afternoon, a coastal city. Warm sunlight, sea mist swirling, towering cumulus clouds. Everything is calm… until the sky suddenly grows heavy. Aerial shot: skyline,
 ```
 
+> 🔗 [Original Source](https://x.com/chaosdotjpg)
+
 ---
+
 ### Beat-Synced Routine Video Prompt with Character Reference
 
 **Prompt:**
@@ -4695,7 +6447,10 @@ Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic mag
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[image1]. WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trousers, and lace-up shoes outside.
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Ray Traced Rain Scene with Character and Dragon Emergence
 
 **Prompt:**
@@ -4703,7 +6458,10 @@ FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[image1]. WARDR
 Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX cinematic, 35mm lens, 4:3 ratio, grey-blue low saturation, film grain, soft god-rays, cold expression, smooth motion, glowing sword trail. 1–3s: Camera tilts up from feet to full body; rain splashes burst under s
 ```
 
+> 🔗 [Original Source](https://x.com/Gwsubsa)
+
 ---
+
 ### Cinematic CG Ad POV Video Prompt
 
 **Prompt:**
@@ -4711,7 +6469,10 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take camera movement, strong visual impact. The camera bursts out from inside image1, the Tesla card, as the card spins forward at high speed. The camera stays tight to its edge, tracking it through city
 ```
 
+> 🔗 [Original Source](https://x.com/xingsthatmatter)
+
 ---
+
 ### Topview Seedance 2.0: Android Girl Destroys Evil Lab
 
 **Prompt:**
@@ -4719,7 +6480,10 @@ Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take 
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the girl, shouting, \"Waaah! Stop it! Please stop it!!\" but the girl doesn't stop and continues to destroy things while laughing. In the end, there is a big explosion, and the lab is destroyed without a trace. The girl y
 ```
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### Samurai Rebirth in Another World Video Prompt
 
 **Prompt:**
@@ -4727,23 +6491,32 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 A short film about a samurai who loses his life on a burning battlefield and wakes up as a baby in another world. The first half is a fierce battle on a battlefield covered in mud and flames. The young samurai challenges his final duel, seems to win for a moment, but is ultimately cut down and falls. His vision tilts low, and his consciousness fades as he is
 ```
 
+> 🔗 [Original Source](https://x.com/sailorv321)
+
 ---
+
 ### Glacier Collapse Disaster Scene
 
 **Prompt:**
 ```
-A giant glacier wall collapses into a fjord beside a coastal city. The falling ice triggers a massive water displacement wave that surges toward the harbor. Camera sweeps over the collapsing glacier before racing toward the city as the water wall crashes into buildings and docks. Icebergs smash through streets as the city floods. Glacier collapse megaflood, 
+A giant glacier wall collapses into a fjord beside a coastal city. The falling ice triggers a massive water displacement wave that surges toward the harbor. Camera sweeps over the collapsing glacier before racing toward the city as the water wall crashes into buildings and docks. Icebergs smash through streets as the city floods. Glacier collapse megaflood,
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Skytree Railgun Transformation Video Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Scene: The Skytree transforms into a \"super massive railgun\" and fires a light projectile towards space. Visuals: First Stage: The exterior of the tower is purged, exposing complex superconducting coils inside. Intense discharge phenomena surround the area. Middle Stage: As energy is charged, the entire power of Sumida Ward is sucked into the tower, causing 
+Scene: The Skytree transforms into a \"super massive railgun\" and fires a light projectile towards space. Visuals: First Stage: The exterior of the tower is purged, exposing complex superconducting coils inside. Intense discharge phenomena surround the area. Middle Stage: As energy is charged, the entire power of Sumida Ward is sucked into the tower, causing
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### Enchanted Fabergé Easter Egg Video Prompt
 
 **Prompt:**
@@ -4751,7 +6524,10 @@ Scene: The Skytree transforms into a \"super massive railgun\" and fires a light
 Highly detailed cinematic 4K animated video, precious enchanted Fabergé-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and glowing runes on creamy porcelain and jewel-toned shells, semi-transparent eggs revealing intricate animated miniature fantasy
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### Fishing Boat Crowd POV Video Prompt
 
 **Prompt:**
@@ -4759,7 +6535,10 @@ Highly detailed cinematic 4K animated video, precious enchanted Fabergé-style E
 aesthetic: phone held up in the middle of a packed crowd on the deck of a fishing boat audio: bass competing with ocean wind, waves crashing against the hull timeline: - \"0-5s: Phone camera on the deck of a fishing boat at sea. Golden hour. The deck is PACKED
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Martial Arts Mechanic Video Prompt
 
 **Prompt:**
@@ -4767,7 +6546,10 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 Watch a grease-stained mechanic fix a violently rattling junker like it’s a martial arts fight. Wrenches flying, spark plugs thrown like knives, hood slammed with a thunderous boom. From rusty disaster to purring monster in seconds.
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Dramatic Live Scene PV Style
 
 **Prompt:**
@@ -4775,7 +6557,10 @@ Watch a grease-stained mechanic fix a violently rattling junker like it’s a ma
 Apply lighting and shadow processing to the characters based on the colors of the three-view character sheet. A dramatic live scene of the characters from the three-view sheet, in a PV style. The location is a live house with vivid colored spotlights (referencing a background reference image). Dynamic camera work. Blinking lights on live equipment such as am
 ```
 
+> 🔗 [Original Source](https://x.com/TianY64085)
+
 ---
+
 ### Seedance 2.0 Doomsday Elegy Music Video Prompt
 
 **Prompt:**
@@ -4783,15 +6568,21 @@ Apply lighting and shadow processing to the characters based on the colors of th
 Core Theme: Realistic | Grand Epic | Doomsday Aesthetic | Live-Action Performance [Character and Basic Settings] Character: Reference [@Image 1], 100% restoration of facial features, face shape, and hairstyle, no beautification. Height 1.75 meters. Basic Clothing: Black high-neck thin sweater. Scene: Create a doomsday-themed music video, telling the story of
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Moonlit Piano Chase Animation
 
 **Prompt:**
 ```
-A moonlit piano chase where the mouse turns the whole instrument into a trap. What happens The mouse runs across piano keys, making playful notes. The cat stalks across the piano lid. The cat lunges, but the mouse slips into the piano. The cat gets nearly caught by the closing lid. Inside the piano, the mouse runs through strings and hammers. The cat’s tail 
+A moonlit piano chase where the mouse turns the whole instrument into a trap. What happens The mouse runs across piano keys, making playful notes. The cat stalks across the piano lid. The cat lunges, but the mouse slips into the piano. The cat gets nearly caught by the closing lid. Inside the piano, the mouse runs through strings and hammers. The cat’s tail
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Ancient Style Transformation Video Prompt
 
 **Prompt:**
@@ -4799,7 +6590,10 @@ A moonlit piano chase where the mouse turns the whole instrument into a trap. Wh
 [Segment 1: Gentle Appearance] Time: 0s to 3s. Shot/Camera: Fixed medium shot, no camera movement. Woman's makeup and attire: Woman with long hair draped over shoulders, wearing an ancient style gold crown and hairpins, fair skin, red lips. Displays three outfits: 1. Black base, red edge strapless long dress, paired with gold embroidery and pearl tassel belt
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Live-Action Documentary Style Fire Video Prompt (Scene Setup)
 
 **Prompt:**
@@ -4807,7 +6601,10 @@ A moonlit piano chase where the mouse turns the whole instrument into a trap. Wh
 Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay. No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's voices from the scene. ---
 ```
 
+> 🔗 [Original Source](https://x.com/kuranoayashi)
+
 ---
+
 ### Watercolor Cartoon Single-Shot Video Prompt
 
 **Prompt:**
@@ -4815,7 +6612,10 @@ Modern Japan. A 15-second live-action documentary-style video set during a high-
 15-second continuous single-shot cartoon sequence. No cuts. No scene transitions. Soft watercolor illustration style, pastel colors, gentle textures, hand-drawn outlines, dreamy lighting, calm and magical tone Scene: A small animal character walking through a quiet meadow.
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### FPV Flyover Transition Sequence
 
 **Prompt:**
@@ -4823,15 +6623,21 @@ Modern Japan. A 15-second live-action documentary-style video set during a high-
 Create a fast, seamless 16:9 flying POV sequence with five linked shots. Shot 1: Start inside a dark ancient stone corridor with a wooden door at the far end. Fly straight toward it at high speed. As the camera reaches the door, it begins to swing open, revealing a gap of bright blue ocean behind it. End mid-opening. Shot 2: Continue through the opening door
 ```
 
+> 🔗 [Original Source](https://x.com/aisavvy1)
+
 ---
+
 ### 15-Second One-Shot Awakening Strike Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day, handheld one-shot throughout, breathing shake, random focus shift, 16:9 widescreen. 【Scene Environment】 A destroyed city street extending into the distance. On both sides are ruined concrete buildings, exposed 
+100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day, handheld one-shot throughout, breathing shake, random focus shift, 16:9 widescreen. 【Scene Environment】 A destroyed city street extending into the distance. On both sides are ruined concrete buildings, exposed
 ```
 
+> 🔗 [Original Source](https://x.com/ChrisTheNerv)
+
 ---
+
 ### Samurai Sunset Scene
 
 **Prompt:**
@@ -4839,7 +6645,10 @@ Create a fast, seamless 16:9 flying POV sequence with five linked shots. Shot 1:
 A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last time, single tear on his face, slow cinematic crane shot rising above him as sun sets, emotional widescreen, ultra-realistic, like Ghost of Tsushima + The Last Samurai, warm golden tones, heartbreaking momen
 ```
 
+> 🔗 [Original Source](https://x.com/Alin_Reaper05)
+
 ---
+
 ### Parkour expert POV video
 
 **Prompt:**
@@ -4847,7 +6656,10 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 SUBJECTS: Main Subject: A parkour expert in POV perspective, defined by visible arms, hands, forearms, shoe tips, lower knees, grips, hand placements, wall runs, precise landings, slides, landing cushioning, and weight shifts. Style: Painterly 3D, stylized on real human anatomy
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Seedance 2.0 Prompt: Stories of a Hopper
 
 **Prompt:**
@@ -4855,15 +6667,21 @@ SUBJECTS: Main Subject: A parkour expert in POV perspective, defined by visible 
 stories of a hopper. 1 astronaut that's able to hop from location to location, anytime he wants.
 ```
 
+> 🔗 [Original Source](https://x.com/starks_arq)
+
 ---
+
 ### Dramatic Anime MV: Falling Tiger and Unimpressed Cat
 
 **Prompt:**
 ```
-A highly dramatic, fast-cut anime MV with exaggerated cinematic tension and comedic payoff. 1930s Tokyo rice paddies, muddy textures, stormy sky. Extreme sense of falling urgency using rapid cuts, POV distortion, speed ramps, spinning camera, impact zooms. Dramatic orchestral music escalating non-stop, then sudden comedic release at the end. No dialogue, no 
+A highly dramatic, fast-cut anime MV with exaggerated cinematic tension and comedic payoff. 1930s Tokyo rice paddies, muddy textures, stormy sky. Extreme sense of falling urgency using rapid cuts, POV distortion, speed ramps, spinning camera, impact zooms. Dramatic orchestral music escalating non-stop, then sudden comedic release at the end. No dialogue, no
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### FPV Drone Longboard Racing Sequence
 
 **Prompt:**
@@ -4871,7 +6689,10 @@ A highly dramatic, fast-cut anime MV with exaggerated cinematic tension and come
 [CINEMATIC] 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion. [@Image 1] (Lanky Knight, red coat) on a longboard. [@Image 2] (Steep coastal mountain road). 0-3s: [Extreme high-speed follow] [@Image 1] carves down the steep asphalt. The camera mimics an FPV drone, flying inches from the ground at blinding speed. The red coat whips violently in th
 ```
 
+> 🔗 [Original Source](https://x.com/itsPixieVerse)
+
 ---
+
 ### Anime Girl and Explosion Video Prompt
 
 **Prompt:**
@@ -4879,7 +6700,10 @@ A highly dramatic, fast-cut anime MV with exaggerated cinematic tension and come
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes black and white high contrast, then flame-colored high contrast. The tower in the background explodes violently, creating a flame backlight high contrast. The girl says, \"Haa~!?\" Surprised by the explosio
 ```
 
+> 🔗 [Original Source](https://x.com/_3912657840)
+
 ---
+
 ### Steampunk Airship Battle
 
 **Prompt:**
@@ -4887,7 +6711,10 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on ropes between ships, intricate mechanical details, sweeping aerial tracking shot with parallax, warm steampunk color palette, ultra-detailed, like Howl’s Moving Castle meets Pirates of the Caribbean, epic ac
 ```
 
+> 🔗 [Original Source](https://x.com/Alin_Reaper05)
+
 ---
+
 ### Cinematic Sci-Fi Fantasy Duel Prompt with Detailed Choreography
 
 **Prompt:**
@@ -4895,7 +6722,10 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing energy blade stands facing a massive terrifying creature, calm and focused, ready for an intense high-speed confrontation Dynamic cinematic system, mix of tracking shots + fast orbit moves + whip pans, seamless transitions masked by blade motion, impacts, and energy bursts, fluid c
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Elemental Battle Short Film Prompt (Fire vs. Ice)
 
 **Prompt:**
@@ -4903,7 +6733,10 @@ ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing en
 15-second Original Elemental Battle Short Film: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an opponent who controls cold crystal power. Under their feet are snow-covered cracked lava; in the air, there are simultaneous flame roars, ice crystal shatters, steam eruptions and storm howls. The camera quickly
 ```
 
+> 🔗 [Original Source](https://x.com/ZikinArt)
+
 ---
+
 ### Kung Pao Chicken Plating Video Prompt
 
 **Prompt:**
@@ -4911,7 +6744,10 @@ ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing en
 10-15 seconds (Finishing move and plating): The final large-arc spinning wok, drawing an afterimage in the air, ingredients steadily fall into the wok, accurately plating the bright red, fragrant and crispy Kung Pao Chicken into a white porcelain plate, the finished
 ```
 
+> 🔗 [Original Source](https://x.com/mr604778)
+
 ---
+
 ### 15-Second Single-Shot Action Sequence Prompt
 
 **Prompt:**
@@ -4919,7 +6755,10 @@ ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing en
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Dark cinematic fantasy realism, dense forest shadows, fog layers, dynamic camera, strong motion weight, grounded creature physics Scene Structure Dense forest → cliff edge → open valley 0–3s —
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Commercial Visual Blockbuster Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4927,7 +6766,10 @@ ultra cinematic sci-fi fantasy duel in daylight, a warrior wielding a glowing en
 Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier commercial quality, requiring director-level storyboard arrangement and a fast-paced, high-end rhythm. 0-2 seconds: [Macro to Micro] The opening uses an extreme push-in shot, instantly cutting from the sharp headlights of the sports car with delayed afterimages t
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Dragon Flight Over Siege City
 
 **Prompt:**
@@ -4935,7 +6777,10 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 **Environment:** A massive medieval-fantasy city under siege at dusk. Stone towers, cathedral spires, and narrow streets stretch toward the horizon while fire spreads through rooftops and smoke rises into the orange evening sky. Wind currents swirl between the tall buildings. **Action:** 15.0s sequence from the first-person perspective of a colossal dragon i
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Cinematic Rapunzel Video Prompt
 
 **Prompt:**
@@ -4943,7 +6788,10 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the camera on a forest dirt path. On the LEFT: the original Disney 3D animated Rapunzel — large expressive cartoon eyes, stylized face with Disney animation proportions, luminous long
 ```
 
+> 🔗 [Original Source](https://x.com/Mayz1169)
+
 ---
+
 ### Downhill Longboarder Shadow Dance Sequence
 
 **Prompt:**
@@ -4951,15 +6799,21 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 [0-5s] Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense directional sunlight hits her profile, generating stark, elongated, pitch-black shadows onto the sheer, rough-hewn ancient stone cliff walls to her right. The atmosphere is adrenaline-fueled with high-c
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Action Game Concept Trailer Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty advertising lights, and mechanical guards fall from the faults of high-rise buildings. After dodging with a slide, the protagonist pulls out a folding energy blade. The camera is like an AAA game debut trailer, 
+Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty advertising lights, and mechanical guards fall from the faults of high-rise buildings. After dodging with a slide, the protagonist pulls out a folding energy blade. The camera is like an AAA game debut trailer,
 ```
 
+> 🔗 [Original Source](https://x.com/adrianaia_)
+
 ---
+
 ### Photorealistic Kung-Fu Stuntman Video Prompt
 
 **Prompt:**
@@ -4967,7 +6821,10 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 Subject:@Image 1 Photorealistic Image reference. A professional stuntman and kung-fu master performing full-body, high-speed, functional kung-fu. Movement Rule: Constant full-speed forward
 ```
 
+> 🔗 [Original Source](https://x.com/YaReYaRu30Life)
+
 ---
+
 ### Elemental Battle Short Film Prompt for Seedance 2.0
 
 **Prompt:**
@@ -4975,7 +6832,10 @@ Subject:@Image 1 Photorealistic Image reference. A professional stuntman and kun
 Original 15-second short film about an elemental battle: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on with an opponent who controls the power of cold crystal. Cracked, snow-covered lava stretches beneath their feet; in the air, flames roar, ice crystals shatter, steam erupts, and storms howl. The camera ra
 ```
 
+> 🔗 [Original Source](https://x.com/David_eficaz)
+
 ---
+
 ### Deep-Sea Leviathan Transformation
 
 **Prompt:**
@@ -4983,7 +6843,10 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their body in accelerated time, skin shifting to iridescent obsidian scales, limbs fusing into massive finned appendages. The figure swells to monstrous proportions, displacing water in shockwave pulses. Final sho
 ```
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Time-Lapse Mannequin Effect Video Prompt
 
 **Prompt:**
@@ -4991,7 +6854,10 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 A suspicious man stands in the center of Shibuya scramble crossing. People around the man walk and cross like a time-lapse, centered around him. When he raises his right hand straight up and snaps his fingers, a wave occurs, and everyone except him stops moving like a mannequin. Used Prompt 2 Protagonist: Hiromu, Age 19
 ```
 
+> 🔗 [Original Source](https://x.com/roco_kn_roco)
+
 ---
+
 ### Dark Fantasy Action Short Film Trailer
 
 **Prompt:**
@@ -4999,7 +6865,10 @@ A suspicious man stands in the center of Shibuya scramble crossing. People aroun
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focus
 ```
 
+> 🔗 [Original Source](https://x.com/Rufus87078959)
+
 ---
+
 ### Tokyo Skyline Rollercoaster POV
 
 **Prompt:**
@@ -5007,7 +6876,10 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 { \"location\": \"Tokyo Cityscape (Night)\", \"duration\": \"10s\", \"prompt\": \"A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A glowing neon rail 'creates itself' milliseconds before the camera hits it, weaving through the steel structures of Tokyo Tower and nearby buildings. As the camera passes, each building it touches instantly tr
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### First-Person Horseback Charge on Medieval Battlefield
 
 **Prompt:**
@@ -5015,23 +6887,32 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 \"First-person POV horseback riding shot charging across a misty, fog-covered medieval battlefield. The horse's black mane and ears are visible at the bottom of frame as the rider gallops forward. Fallen soldiers lie on the muddy grass. Cavalry riders on horseback emerge from the dense fog on all sides. A mounted knight in chainmail armor swings an axe direct
 ```
 
+> 🔗 [Original Source](https://x.com/simple__dev)
+
 ---
+
 ### Commercial Sports Car Photography Video Prompt
 
 **Prompt:**
 ```
-Sports Car Commercial Photography Storyboard Shot 1 (1.5s): The scene opens with the sports car, front view, showcasing the iconic “angry” front face. Shot 2 (1s): Close-up shot, the virtual camera slowly orbits the car emblem (pure orbit, no spinning), focusing on the Ferrari Prancing Horse logo. Shot 3 (1.5s): Close-up shot, viewing the LaFerrari's unique 
+Sports Car Commercial Photography Storyboard Shot 1 (1.5s): The scene opens with the sports car, front view, showcasing the iconic “angry” front face. Shot 2 (1s): Close-up shot, the virtual camera slowly orbits the car emblem (pure orbit, no spinning), focusing on the Ferrari Prancing Horse logo. Shot 3 (1.5s): Close-up shot, viewing the LaFerrari's unique
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Seedance 2.0: Nishi-Shinjuku Skyscraper Accordion
 
 **Prompt:**
 ```
-{ \"location\": \"Nishi-Shinjuku Skyscraper District (near Tokyo Metropolitan Government Building)\", \"duration\": \"10s\", \"prompt\": \"A wide cinematic shot of the Tokyo Metropolitan Government Building at sunset. As a deep bass sound hits, the massive twin towers begin to stretch and compress vertically like an accordion in perfect rhythm. Despite the rubber-like 
+{ \"location\": \"Nishi-Shinjuku Skyscraper District (near Tokyo Metropolitan Government Building)\", \"duration\": \"10s\", \"prompt\": \"A wide cinematic shot of the Tokyo Metropolitan Government Building at sunset. As a deep bass sound hits, the massive twin towers begin to stretch and compress vertically like an accordion in perfect rhythm. Despite the rubber-like
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### 3D Animation: Kung Fu Soccer Cinematic Sequence
 
 **Prompt:**
@@ -5039,7 +6920,10 @@ Sports Car Commercial Photography Storyboard Shot 1 (1.5s): The scene opens with
 Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an impeccably focused martial-arts soccer prodigy in a fitted training top, wrapped wrists, tapered athletic pants, and classic football boots. Piercing gaze. Every movement follows a precise rhythm: pause -\u003e bu
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Girl Falling Through Digital Tunnel Video Prompt
 
 **Prompt:**
@@ -5047,7 +6931,10 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and right, then falls straight down. She lands softly on a rainbow cloud in a fancy world overflowing with light. She looks up and sees a large, rainbow-shining sun glowing in the sky. Backlight.
 ```
 
+> 🔗 [Original Source](https://x.com/_3912657840)
+
 ---
+
 ### Cat Emperor Micro-Drama
 
 **Prompt:**
@@ -5055,7 +6942,10 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 A fast-paced comedic parody Seedance 2 short set in an ancient imperial study. An orange cat dressed as Qin Shi Huang in Han-style golden dragon robes sits behind a large desk. Gray mice in minister outfits line up, each stepping forward with scrolls. The cat barely looks and scribbles messy, meaningless brush strokes, moving faster and faster. Dialogue (ove
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Starlight Shadow: Interaction with a Magical Shadow
 
 **Prompt:**
@@ -5063,7 +6953,10 @@ A fast-paced comedic parody Seedance 2 short set in an ancient imperial study. A
 { \"scene_id\": 4, \"title\": \"Starlight Shadow / Stardust Silhouette\", \"duration\": \"10s\", \"visual_style\": \"Fantasy / High-End Commercial\", \"prompt\": \"A person walks by a clean white wall in a bright, sunlit gallery. Their shadow follows them, but then gracefully stops and starts performing a rhythmic, elegant dance. The shadow is made of soft, shimmering dark-b
 ```
 
+> 🔗 [Original Source](https://x.com/TechTalkNAVI)
+
 ---
+
 ### Anime High-Speed Cut Test Prompt
 
 **Prompt:**
@@ -5071,7 +6964,10 @@ A fast-paced comedic parody Seedance 2 short set in an ancient imperial study. A
 Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, no fade-in/fade-out, no transitions). [0.0 seconds to 0.5 seconds]: Cut 1 — Close-up. Anime Girl A: Long crimson hair, vivid green eyes. Winks at the camera.
 ```
 
+> 🔗 [Original Source](https://x.com/tebasaki3D)
+
 ---
+
 ### Hot-Blooded Duel Anime Short Film Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5079,15 +6975,21 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final duel against the backdrop of aerial ruins and thunderstorms. The camera emphasizes extreme speed, intense energy collisions and a sense of oppression from the characters. When moves are released, the surrounding buildings, clouds and debris are simultaneously affected by the forc
 ```
 
+> 🔗 [Original Source](https://x.com/gkxspace)
+
 ---
+
 ### Seedance 2.0 Tsui Hark Style Wuxia Film Prompt
 
 **Prompt:**
 ```
-[Cloud Cave Sword Shadow · Heavenly Gate Bloody Battle] — One-shot sequence at Tianmen Mountain, Zhangjiajie Core Style: Tsui Hark's new style Wuxia blockbuster, one-shot sequence, high frame rate, 4K ultra-clear. Tone: Tsui Hark's bright tone, “Cold Jade Blue-Black + Amber Flowing Light.” High contrast, mountain mist acts as a soft light filter, sharpening 
+[Cloud Cave Sword Shadow · Heavenly Gate Bloody Battle] — One-shot sequence at Tianmen Mountain, Zhangjiajie Core Style: Tsui Hark's new style Wuxia blockbuster, one-shot sequence, high frame rate, 4K ultra-clear. Tone: Tsui Hark's bright tone, “Cold Jade Blue-Black + Amber Flowing Light.” High contrast, mountain mist acts as a soft light filter, sharpening
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Downhill POV Cycling Chaos Prompt
 
 **Prompt:**
@@ -5095,7 +6997,10 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral energy, max chaos SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame during drops and hard turns. Vendors, laundry, scooters, dogs, chickens, cars, and
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Desert Martial Arts Cat Short Film
 
 **Prompt:**
@@ -5103,7 +7008,10 @@ FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral 
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character’s movements are elegant yet ferocious, with tattered but flowing r
 ```
 
+> 🔗 [Original Source](https://x.com/NimEshed)
+
 ---
+
 ### Rainy Underground Alley Horror Prompt
 
 **Prompt:**
@@ -5111,7 +7019,10 @@ FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral 
 Rainy Underground Alley Merge 15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from grates. [0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Sci-Fi Action Scene on a Moving Train
 
 **Prompt:**
@@ -5119,7 +7030,10 @@ Rainy Underground Alley Merge 15-second surreal horror in a narrow rainy undergr
 \"Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with overhead bridges and power lines crossing above. Moody overcast sky. The camera rushes forward at high speed. Two women — one with pink hair in all-black tactical gear, the other in a white bodysuit — fig
 ```
 
+> 🔗 [Original Source](https://x.com/ImperfectEngel)
+
 ---
+
 ### Gritty Handheld 35mm Film Aesthetic
 
 **Prompt:**
@@ -5127,7 +7041,10 @@ Rainy Underground Alley Merge 15-second surreal horror in a narrow rainy undergr
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor shadows. Controlled handheld tracking shot (3rd person POV, over-the-shoulder), stabilized cinematic motion with subtle natural shake.
 ```
 
+> 🔗 [Original Source](https://x.com/AngelNwoha)
+
 ---
+
 ### Dimensional Entity Megacity Collision Prompt (Dreamina)
 
 **Prompt:**
@@ -5135,7 +7052,10 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 A towering humanoid entity made of shifting translucent geometry appears above a megacity skyline, its body composed of overlapping dimensional planes reflecting alternate realities — hook at second two: the entity opens both hands and a vertical dimensional tear slices through the city. Reality splits. Two versions of the city begin occupying the same space
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Cinematic Food and Character Rendering Prompt
 
 **Prompt:**
@@ -5143,15 +7063,21 @@ A towering humanoid entity made of shifting translucent geometry appears above a
 { \"prompt\": \"Cinematic, hyper-realistic or stylized 3D/2.5D rendering of food and characters, with strong motion and dynamic camera work. Vibrant, saturated color grading with warm food tones (reds, oranges, yellows) contrasted by dramatic shadows or neon accents. Sweeping pans, close-ups on textures, slow-motion impacts, quick cuts. High detail on food surf
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### High-fantasy action video generation prompt for Seedance 2.0
 
 **Prompt:**
 ```
-A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging passing airships, flocking griffins, and tethered trading posts. He plummets past crumbling stone arches, busy rope bridges, and cascading waterfalls, barrel-rolling through narrow gaps with precision and 
+A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging passing airships, flocking griffins, and tethered trading posts. He plummets past crumbling stone arches, busy rope bridges, and cascading waterfalls, barrel-rolling through narrow gaps with precision and
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Barista and Customer Character Prompt
 
 **Prompt:**
@@ -5159,7 +7085,10 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 characters: - Barista (wearing a stained apron and name tag) - Customer (unimpressed hand reaching from a window)
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### POV Time-Freeze JSON Prompt for Seedance 2
 
 **Prompt:**
@@ -5167,7 +7096,10 @@ characters: - Barista (wearing a stained apron and name tag) - Customer (unimpre
 { \"shot\": { \"composition\": \"POV time-freeze with hands moving through frozen environment\", \"lens\": \"ultra-wide cinematic lens with subtle distortion\", \"camera_movement\": \"slow walk, precise hand movements, sudden time release burst\" }, \"subject\": { \"description\": \"person moving while everything else is frozen mid-action\", \"wardrobe\": \"hands visible\", \"props\"
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Adult Male and Golden Retriever Subject Description
 
 **Prompt:**
@@ -5175,7 +7107,10 @@ characters: - Barista (wearing a stained apron and name tag) - Customer (unimpre
 SUBJECTS: Subject 1: Adult male, Western casual everyday home and outing attire, short jacket, basic T-shirt, long pants, everyday shoes; lean build, natural and efficient movements. Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall short and round
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Quantum Reality Fracture Sci-Fi Horror Prompt
 
 **Prompt:**
@@ -5183,7 +7118,10 @@ SUBJECTS: Subject 1: Adult male, Western casual everyday home and outing attire,
 Video prompt Quantum Reality Fracture on City Street (Interdimensional Rift VFX) Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtown city street at blue hour, towering skyscrapers and frozen traffic, epic scale [0-1.5s] Shot 1: Epic wide crane
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Surreal live-action video of convenience store worker on the moon
 
 **Prompt:**
@@ -5191,7 +7129,10 @@ Video prompt Quantum Reality Fracture on City Street (Interdimensional Rift VFX)
 @リアルざすこ2.0_キャラシートDX.png Start with a wide cinematic shot of the lonely convenience store on the moon before cutting inside.Create a photorealistic 15-second surreal live-action video of Michikusa Zasuko working a night shift at a convenience
 ```
 
+> 🔗 [Original Source](https://x.com/zasuko_michiksa)
+
 ---
+
 ### Japanese Cinematic Style Video Montage
 
 **Prompt:**
@@ -5199,7 +7140,10 @@ Video prompt Quantum Reality Fracture on City Street (Interdimensional Rift VFX)
 Character reference @[Image 1], convert to live-action realistic style. Model figure, cool white skin, slender arms, prominent bust and hips. 15-second handheld breathing video, Japanese cinematic style, warm orange backlight at dusk, slight film grain, low saturation, no subtitles, no dialogue. Environment: Sunset, under a concrete overpass, occasional vehi
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### 35mm Handheld Tracking Shot Prompt
 
 **Prompt:**
@@ -5207,7 +7151,10 @@ Character reference @[Image 1], convert to live-action realistic style. Model fi
 aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound. timeline: - 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Macro POV of Ice Cube in Soda
 
 **Prompt:**
@@ -5215,7 +7162,10 @@ aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tr
 First-person POV of an ice cube dropped into a glass of soda. The cube crashes into a bubbling ocean of carbonated liquid. Gigantic bubbles rise like balloons around the cube. A lemon slice floats overhead like a glowing sun. The ice cube slowly melts as the drink level lowers. Finally the cube slides toward a straw vortex and disappears. Macro drink environ
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Astronaut Spacewalk Sci-Fi Drama
 
 **Prompt:**
@@ -5223,7 +7173,10 @@ First-person POV of an ice cube dropped into a glass of soda. The cube crashes i
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA suit with a gold-visored helmet, tethered to the exterior of a space station, performing the first moments of a spacewalk.
 ```
 
+> 🔗 [Original Source](https://x.com/BrennanErbz)
+
 ---
+
 ### Dragon Rider Action Anime Prompt
 
 **Prompt:**
@@ -5231,7 +7184,10 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 A super high-speed flight action scene of a girl riding a dragon. High number of frames, 24FPS Japanese full-color anime. Two dragons, one blue and one red, are flying high above the clouds. They are flying faster than 100 km/h, cutting through the wind and passing between the clouds. A sense of freedom, liberation from anything that might interfere, and spe
 ```
 
+> 🔗 [Original Source](https://x.com/naoyuki_okada)
+
 ---
+
 ### Historical Siege Scene Prompt (Part 1)
 
 **Prompt:**
@@ -5239,7 +7195,10 @@ A super high-speed flight action scene of a girl riding a dragon. High number of
 Historical scene with dramatic lighting. [0-3 seconds] Opening shot: Venetian galley fleet approaches Constantinople at dawn, cannons blazing. Massive city walls loom in background, Byzantine banners fluttering defiantly. [3-6 seconds] Quick cut: Ottoman cannon
 ```
 
+> 🔗 [Original Source](https://x.com/AskVenice)
+
 ---
+
 ### Commercial Kitchen Impossible Camera Move Prompt
 
 **Prompt:**
@@ -5247,7 +7206,10 @@ Historical scene with dramatic lighting. [0-3 seconds] Opening shot: Venetian ga
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying ingredients, photorealistic micro-to-macro cinematic 8K Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Cinematic Scene: Monk Meditating in Ancient Mountain Temple
 
 **Prompt:**
@@ -5255,7 +7217,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High
 2.35:1 widescreen, 24fps, cinematic quality. Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging clouds, with mottled tiles and rising mist. The scene cuts to the interior, where a middle-aged monk sits cross-legged, with an ancient Buddha statue and flickering candlelight behind him. The camera slowly rot
 ```
 
+> 🔗 [Original Source](https://x.com/cdexsta)
+
 ---
+
 ### Hyper-Realistic Parkour POV Sequence Prompt
 
 **Prompt:**
@@ -5263,7 +7228,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High
 A hyper-realistic, 8K resolution, adrenaline-fueled single-take POV action sequence. The camera is chest-mounted on a man wearing camouflage joggers and worn-out black-and-white sneakers. He stands on the dizzying edge of a rusted skyscraper, 1000 feet above a crystalline turquoise ocean. No clouds, no haze—just a sheer, terrifying vertical drop into the dee
 ```
 
+> 🔗 [Original Source](https://x.com/genel_ai)
+
 ---
+
 ### Hollywood-Style Shanghai City Montage Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5271,15 +7239,21 @@ A hyper-realistic, 8K resolution, adrenaline-fueled single-take POV action seque
 15-second Hollywood-level fast-cut Shanghai city montage video. Style: Fusion of cyberpunk and Shanghai modernism, cinematic teal and orange grading, 8K ultra-high definition. Shot Sequence: 1. Lujiazui's 'Three-Piece Suit' skyscrapers soaring through morning mist and clouds, helicopter extreme dive aerial shot. 2. Camera quickly pushes in on the Bund's inte
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cyberpunk Action Sequence: Elegant Female Agent Jumps from Skyscraper to Moving Car
 
 **Prompt:**
 ```
-Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front to Back View) Style: Rugged, primitive realism style, using 35mm handheld film camera, with natural film grain and subtle shake. The dazzling direct sunlight of Chongqing noon creates high-contrast strong shadows and flares. Camera: A single continuous third-person handheld follow 
+Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front to Back View) Style: Rugged, primitive realism style, using 35mm handheld film camera, with natural film grain and subtle shake. The dazzling direct sunlight of Chongqing noon creates high-contrast strong shadows and flares. Camera: A single continuous third-person handheld follow
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Complex single-shot morphing video prompt for Seedance 2.0
 
 **Prompt:**
@@ -5287,7 +7261,10 @@ Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front t
 【Basic Settings】 structure: Single continuous shot (no cuts) progression: Morphing 7 images sequentially visibility: Each image is clearly recognizable for only an instant (no stopping required) transition: Always smooth and continuous style: Cinematic, high-definition, dynamic, no flicker 【Prompt Body】 Start from \u003c\u003c\u003cImage1\u003e\u003e\u003e. The footage proceeds in a comp
 ```
 
+> 🔗 [Original Source](https://x.com/YaReYaRu30Life)
+
 ---
+
 ### 1970s Italian Crime Drama Clip Generation
 
 **Prompt:**
@@ -5295,15 +7272,21 @@ Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front t
 (Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). A crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a d
 ```
 
+> 🔗 [Original Source](https://x.com/ChrisGwinnLA)
+
 ---
+
 ### Automobile Assembly Timelapse Video Prompt
 
 **Prompt:**
 ```
-Style: Ultra-realistic industrial timelapse Pacing: Extremely fast (hyperlapse feel) Camera: Mostly fixed with slight cinematic motion (slider/drone feel) Lighting: Bright factory lights, metallic reflections Audio: Captivating cinematic electronic/industrial music (no dialogue) [00:00–00:03] — Bare Frame Shot 1 (wide, static) Empty car chassis suspended on 
+Style: Ultra-realistic industrial timelapse Pacing: Extremely fast (hyperlapse feel) Camera: Mostly fixed with slight cinematic motion (slider/drone feel) Lighting: Bright factory lights, metallic reflections Audio: Captivating cinematic electronic/industrial music (no dialogue) [00:00–00:03] — Bare Frame Shot 1 (wide, static) Empty car chassis suspended on
 ```
 
+> 🔗 [Original Source](https://x.com/craftian_keskin)
+
 ---
+
 ### Office Coffee Break Gone Wrong Horror Video Prompt
 
 **Prompt:**
@@ -5311,7 +7294,10 @@ Style: Ultra-realistic industrial timelapse Pacing: Extremely fast (hyperlapse f
 Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot, fluorescent lights, papers everywhere.Shot 2: He spills a drop — the coffee suddenly animates into a hyper-caffeinated coffee monster with espresso eyes and foam tentacles.Shot 3: Low-angle shot: The monster r
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Post-Apocalyptic Futuristic Megacity Video Prompt
 
 **Prompt:**
@@ -5319,7 +7305,10 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds press down on the city. Giant battleships slowly descend from the sky, piercing through thunderclouds. The city's high-rise buildings are interwoven with neon lights and fire. Countless drones and armored vehicles shuttle rapidly through the streets. A distant energy tower erupt
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Sword-Bearing Woman vs. Polar Bear Action Sequence
 
 **Prompt:**
@@ -5327,7 +7316,10 @@ A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds
 FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massive polar bear with desperate,
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Stylized 3D Barbershop Transformation Sequence
 
 **Prompt:**
@@ -5335,15 +7327,21 @@ FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMME
 { \"title\": \"Stylized 3D Barbershop Transformation Sequence\", \"style\": \"Stylized 3D animation with exaggerated cartoon proportions, cinematic martial-arts-inspired choreography, rhythmic musical energy, ultra-smooth motion, expressive physics\", \"characters\": { \"dr_eraser\": { \"description\": \"Lean, almost skeletal barber-scientist with long fingers and oversize
 ```
 
+> 🔗 [Original Source](https://x.com/ShamiWeb3)
+
 ---
+
 ### Seedance 2.0 Prompt for Hyper-Realistic Epic War Scene (Xiang Yu)
 
 **Prompt:**
 ```
-A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the Hegemon-King of Western Chu, wearing the armor from Image 2, riding the horse from Image 1, holding a 13-foot 7-inch Overlord Spear, in a famous scene of slaughter on an ancient battlefield, leading a small number 
+A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the Hegemon-King of Western Chu, wearing the armor from Image 2, riding the horse from Image 1, holding a 13-foot 7-inch Overlord Spear, in a famous scene of slaughter on an ancient battlefield, leading a small number
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### 15-Second Cinematic Fantasy Creature Animation
 
 **Prompt:**
@@ -5351,7 +7349,10 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Cinematic fantasy realism, large-scale creature animation, fire simulation, smoke, embers, dramatic lighting, atmospheric depth, dynamic camera tracking Weighty creature movement, believable scale,
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Monet Impressionist Rowing Hands
 
 **Prompt:**
@@ -5359,15 +7360,21 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 SUBJECTS: Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands continuously hold the oar and perform extremely slow and even rowing motions, with stretched rhythm and natural pauses)
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Cinematic transformation sequence of a Japanese high school girl fighting a giant monster
 
 **Prompt:**
 ```
-cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks, rubble, and black smoke are flying, and a Japanese high school girl in a uniform is desperately running towards the camera. Cut 1 (0.0s-2.5s): low angle tracking shot following the high school girl from the 
+cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks, rubble, and black smoke are flying, and a Japanese high school girl in a uniform is desperately running towards the camera. Cut 1 (0.0s-2.5s): low angle tracking shot following the high school girl from the
 ```
 
+> 🔗 [Original Source](https://x.com/Yuupapa_free)
+
 ---
+
 ### Cinematic Anime Eye Opening Sequence
 
 **Prompt:**
@@ -5375,7 +7382,10 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 cinematic anime close-up shot of a character's eye, extreme macro, eyelashes and skin texture visible, soft breathing motion, eye slowly closing, calm and silent atmosphere, subtle ambient light reflection on eyelid the eye is fully closed, slight twitch, micro camera push-in, tension building, no effects yet, natural realism the eye suddenly opens inside th
 ```
 
+> 🔗 [Original Source](https://x.com/roco_kn_roco)
+
 ---
+
 ### Rocket Surf Cine Verité
 
 **Prompt:**
@@ -5383,7 +7393,10 @@ cinematic anime close-up shot of a character's eye, extreme macro, eyelashes and
 ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time. LIGHTING: Bright, high-altitude sun, pure blue sky. AUDIO: Rocket engine roar, wind, fiberglass creak. TIMELINE: 0-3s:
 ```
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Photorealistic Cinematic POV Video of Woman in Ferris Wheel
 
 **Prompt:**
@@ -5391,7 +7404,10 @@ ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake. Continuou
 10-second photorealistic cinematic POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and a white blouse sits inside a Ferris wheel gondola at night near the top. Outside the window is a beautiful city nightscape
 ```
 
+> 🔗 [Original Source](https://x.com/umitsuru_fire)
+
 ---
+
 ### Seedance 2.0 Stand-up Comedy Video Prompt
 
 **Prompt:**
@@ -5399,7 +7415,10 @@ ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake. Continuou
 A single stand-up comedian @[Image 1] with black hair, wearing a textured red dress, standing on a spotlighted stage @[Image 2]. Exaggerated and humorous expression, lively eyes, confident and rhythmic tone. Dialogue: Have you noticed that people nowadays say they are 'lying flat,' but their bodies are more competitive than anyone else's! My friend constantl
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Seedance 2.0 Prompt for Hollywood Cinematic Commercial
 
 **Prompt:**
@@ -5407,7 +7426,10 @@ A single stand-up comedian @[Image 1] with black hair, wearing a textured red dr
 Hollywood movie-level commercial blockbuster quality, handheld photography, slight camera shake, fast-paced montage editing, the scene is full of energy and oppression, no subtitles appear. The open-plan office hall of a luxurious securities company in Manhattan, USA, in the 1990s. Hundreds of young male brokers in suits densely fill the entire space. Americ
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Volcanic Sky Realm Duel Prompt
 
 **Prompt:**
@@ -5415,7 +7437,10 @@ Hollywood movie-level commercial blockbuster quality, handheld photography, slig
 A surreal volcanic sky realm where islands of black rock float above rivers of molten lava flowing through the air like suspended waterfalls. The sky burns with deep crimson clouds illuminated by lightning storms. **Action:** 15.0s sequence. A blazing phoenix composed of flowing flame and glowing embers spirals upward through the volcanic sky. Opposing it is
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Seedance technical quality prompt optimization
 
 **Prompt:**
@@ -5423,7 +7448,10 @@ A surreal volcanic sky realm where islands of black rock float above rivers of m
 Instead of writing generic terms like \"cinematic feel,\" use specific technical terms such as \"UnrealEngine5 rendering + ILM-grade VFX\" Instead of writing vague terms like \"good lighting,\" break it down into three specific components: the light source, the light behavior, and the color tone
 ```
 
+> 🔗 [Original Source](https://x.com/yrzhe_top)
+
 ---
+
 ### Seedance 2.0 Commercial Prompt for Foldable Smartphone Ad
 
 **Prompt:**
@@ -5431,7 +7459,10 @@ Instead of writing generic terms like \"cinematic feel,\" use specific technical
 Product: Color-shifting gradient foldable smartphone (e.g., light purple to ice blue gradient) Style: Trendy fashion, energetic fast pace, high-end texture, no people, minimalist light and shadow, fashionable trend style Tones: High-saturation contrasting colors, light purple gradient frosted glass texture, clean and bright, cinematic light and shadow Camera
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Raw Mobile Phone Footage of Elderly Woman Playing Basketball Prompt
 
 **Prompt:**
@@ -5439,7 +7470,10 @@ Product: Color-shifting gradient foldable smartphone (e.g., light purple to ice 
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly woman in a floral dress and sneakers is dribbling a basketball against
 ```
 
+> 🔗 [Original Source](https://x.com/techhalla)
+
 ---
+
 ### Seedance 2.0 High-Energy Street Dance Video Prompt
 
 **Prompt:**
@@ -5447,15 +7481,21 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 [Recommended Settings] Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High energy. Explosive atmosphere. Strong rhythm. High-energy version of three-person street dance. Fast dancing. Show-off moves. Quick rhythm. Full participation. Jumps and rolls. Explosive power. Intense t
 ```
 
+> 🔗 [Original Source](https://x.com/MiraMusic_AI)
+
 ---
+
 ### Firefighter Rescue Cinematic Sequence
 
 **Prompt:**
 ```
-The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second mark a burning tree piece falls in front of him, at the 8-second mark he finds a 3 old baby in a baby bed, the baby is coughing, the firefighter lifts the baby and hugs it, the firefighter gets out of the 
+The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second mark a burning tree piece falls in front of him, at the 8-second mark he finds a 3 old baby in a baby bed, the baby is coughing, the firefighter lifts the baby and hugs it, the firefighter gets out of the
 ```
 
+> 🔗 [Original Source](https://x.com/AITalesNBH)
+
 ---
+
 ### Detailed Blueprint-to-House Timelapse Prompt
 
 **Prompt:**
@@ -5463,7 +7503,10 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 { \"video_prompt\": { \"duration\": \"15 seconds\", \"title\": \"Blueprint to Reality – Single-Story House Transformation\", \"style\": \"Architectural visualization, photoreal, modern farmhouse exterior, clean cinematic motion\", \"blueprint_reference\": { \"floors\": 1, \"footprint_shape\": \"Irregular L-plus-T shape\", \"layout_zones\": { \"top_left\": \"Master bedroom with large e
 ```
 
+> 🔗 [Original Source](https://x.com/craftian_keskin)
+
 ---
+
 ### Action Thriller Ninja Fight Scene (i2v)
 
 **Prompt:**
@@ -5471,7 +7514,10 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 Man in suit fights in an extreme speed with 100s of extraordinary Ninja assassins waiting for him outside the elevator door in a dynamic Hollywood action thriller, Continues handheld camera shot.
 ```
 
+> 🔗 [Original Source](https://x.com/abulu8)
+
 ---
+
 ### Documentary Realism Car Crash Scene
 
 **Prompt:**
@@ -5479,7 +7525,10 @@ Man in suit fights in an extreme speed with 100s of extraordinary Ninja assassin
 Handheld shoulder-mounted camera, natural shake, slight autofocus breathing, no stabilization. Opening frame: a quiet residential street in late afternoon, soft golden sunlight, long shadows across parked cars. Ambient sound: distant traffic, wind, faint birds. The camera slowly walks forward along the sidewalk. At the 2-second mark, a black SUV suddenly ent
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### 15-Second Continuous 3D Cartoon Sequence Prompt
 
 **Prompt:**
@@ -5487,7 +7536,10 @@ Handheld shoulder-mounted camera, natural shake, slight autofocus breathing, no 
 15-second continuous single-shot cartoon sequence. No cuts. No scene transitions. Stylized 3D cartoon animation, vibrant colors, strong contrast lighting, exaggerated expressions, extreme squash and stretch, elastic motion, dynamic camera, high energy Clear motion direction,
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Samurai Sushi Chef Comedy Hook Prompt
 
 **Prompt:**
@@ -5495,7 +7547,10 @@ Handheld shoulder-mounted camera, natural shake, slight autofocus breathing, no 
 THE SUSHI CHEF — Samurai Kitchen Comedy Hook: A sushi chef who treats every fish like a samurai opponent. CHARACTERS Chef: Small, intense, traditional white headband, impeccable gi. Treats his knife like a katana — sheathes it, bows to it, draws it with a RING of steel. Speaks in
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Ultra-Cinematic Time-Freeze Motorcycle Action Scene
 
 **Prompt:**
@@ -5503,7 +7558,10 @@ THE SUSHI CHEF — Samurai Kitchen Comedy Hook: A sushi chef who treats every fi
 English translation of the complete prompt
 ```
 
+> 🔗 [Original Source](https://x.com/WolfRiccardo)
+
 ---
+
 ### Coral Reef and Hammerhead Shark Scene Prompt
 
 **Prompt:**
@@ -5511,7 +7569,10 @@ English translation of the complete prompt
 Camera glides forward just above a vibrant shallow coral reef teeming with clownfish darting between anemones and a moray eel emerging slowly from a crevice, the reef shelf drops away suddenly into deep blue open water where a lone hammerhead shark cruises past below,
 ```
 
+> 🔗 [Original Source](https://x.com/HBCoop_)
+
 ---
+
 ### Nostalgic Childhood Memory Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5519,7 +7580,10 @@ Camera glides forward just above a vibrant shallow coral reef teeming with clown
 Overall Style: Fresh and healing, warm and nostalgic, warm green + light blue main color palette, soft and transparent light and shadow, gentle and delicate atmosphere. Background Music: Soft instrumental music (piano + bamboo flute), slow rhythm, emotions gradually deepening. 1. Full shot, summer afternoon, sunlight filtering through branches casting dapple
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Music Video Production Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5527,7 +7591,10 @@ Overall Style: Fresh and healing, warm and nostalgic, warm green + light blue ma
 A woman in [Image 1] is performing a dope hip-hop dance in the location of [Image 2] to the music of [Audio 1]. Explode your creativity and express a Music Video that no one in this world has ever seen, condensed into 15 seconds. Whether it's multi-cut or a single long take is known only to God. An artistic 15-second MV influenced by Fauvist and Surrealist a
 ```
 
+> 🔗 [Original Source](https://x.com/ZetoGroovin)
+
 ---
+
 ### Man's Over-the-Top Reaction to a Spider
 
 **Prompt:**
@@ -5535,7 +7602,10 @@ A woman in [Image 1] is performing a dope hip-hop dance in the location of [Imag
 Concept: A man sees a spider on the wall. He responds with the intensity of a home invasion. Characters: Dave, a large, muscular man in a bathrobe. Escalation: He rolls behind the couch like it's cover fire. Army-crawls to the kitchen for a shoe. Returns in a tactical crouch with oven mitts as armor. The spider moves one inch, Dave screams and throws the sho
 ```
 
+> 🔗 [Original Source](https://x.com/Shinebynous)
+
 ---
+
 ### Moses Parting the Red Sea Biblical Epic Prompt
 
 **Prompt:**
@@ -5543,7 +7613,10 @@ Concept: A man sees a spider on the wall. He responds with the intensity of a ho
 Hyper-realistic biblical epic, IMAX cinematography, Ridley Scott scale. Rapid-cut 12-shot sequence depicting Moses parting the Red Sea. No dialogue. Orchestral score crescendo. Each shot 1-1.5 seconds. COLOUR: Deep teal water, golden divine
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Gritty Cine Verité 35mm Handheld Shot Prompt
 
 **Prompt:**
@@ -5551,15 +7624,21 @@ Hyper-realistic biblical epic, IMAX cinematography, Ridley Scott scale. Rapid-cu
 Style: Gritty Cine Verité, real footage, 35mm handheld lens with subtle natural shake. Camera: Single continuous 3rd-person POV tracking shot (no cuts). Lighting: Harsh, high-contrast Mediterranean noon sunlight; dramatic volumetric haze over the
 ```
 
+> 🔗 [Original Source](https://x.com/techhalla)
+
 ---
+
 ### Spirit Tiger vs Void Panther Combat Video Prompt
 
 **Prompt:**
 ```
-A mist-covered bamboo forest at dusk with deep jade-green ambient light and silver moonlight filtering through dense leaves. Rain falling steadily onto moss-covered rocks and shallow pools, creating reflective surfaces for diegetic lighting. Wind pushes the bamboo stalks in rhythmic waves. **Action:** 15.0s sequence. A massive white tiger with luminous blue 
+A mist-covered bamboo forest at dusk with deep jade-green ambient light and silver moonlight filtering through dense leaves. Rain falling steadily onto moss-covered rocks and shallow pools, creating reflective surfaces for diegetic lighting. Wind pushes the bamboo stalks in rhythmic waves. **Action:** 15.0s sequence. A massive white tiger with luminous blue
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Cinematic Football Highlight Clip
 
 **Prompt:**
@@ -5567,7 +7646,10 @@ A mist-covered bamboo forest at dusk with deep jade-green ambient light and silv
 Apply a dramatic cinematic style to a football highlight clip Argentina and Brazil world cup match with slow motion kicks, dynamic camera angles.
 ```
 
+> 🔗 [Original Source](https://x.com/bmx_ai13)
+
 ---
+
 ### Seedance 2.0 Biblical Combat Epic Prompt (David vs. Goliath)
 
 **Prompt:**
@@ -5575,15 +7657,21 @@ Apply a dramatic cinematic style to a football highlight clip Argentina and Braz
 Hyper-realistic biblical combat epic, IMAX cinematography, Ridley Scott scale. 11 rapid shots in 15 seconds. The impossible battle: shepherd boy vs 9-foot giant. One stone. Oil painting texture with cinematic realism. No dialogue.
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Cinematic Lamborghini Brand Creative Ad Video Generation Prompt
 
 **Prompt:**
 ```
-Cinematic Lamborghini brand creative advertisement, ultra-realistic, first-person high-speed follow shot, extremely strong visual impact, smooth continuous camera movement, overall sophisticated, cool, and highly aggressive aesthetic. Create a simple but extremely aggressive first-person high-speed shuttle advertisement. Avoid low-quality cyber deformation, 
+Cinematic Lamborghini brand creative advertisement, ultra-realistic, first-person high-speed follow shot, extremely strong visual impact, smooth continuous camera movement, overall sophisticated, cool, and highly aggressive aesthetic. Create a simple but extremely aggressive first-person high-speed shuttle advertisement. Avoid low-quality cyber deformation,
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### 15-Second Continuous War Realism Video Prompt
 
 **Prompt:**
@@ -5591,7 +7679,10 @@ Cinematic Lamborghini brand creative advertisement, ultra-realistic, first-perso
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Cinematic modern war realism. Color palette: desaturated tones, dust beige, concrete grey, warm muzzle flashes. Scene: War-torn urban street. Destroyed buildings, debris everywhere, smoke drifting.
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Action Sequence Prompt for Video Generation
 
 **Prompt:**
@@ -5599,7 +7690,10 @@ Cinematic Lamborghini brand creative advertisement, ultra-realistic, first-perso
 A stylish anime woman in a long coat, holding two pistols, confronts multiple armed enemies on the dark, neon-lit rooftop of a skyscraper. [0–2 seconds] She sprints straight toward the group of shooters. She dodges bullets with a low slide while rapidly firing both pistols.
 ```
 
+> 🔗 [Original Source](https://x.com/roco_kn_roco)
+
 ---
+
 ### Cinematic Trailer Style Video Generation
 
 **Prompt:**
@@ -5607,7 +7701,10 @@ A stylish anime woman in a long coat, holding two pistols, confronts multiple ar
 [0s–3s]: （ image1 ）A continuous slow push-in that never stops — zooming toward the center of a 19th-century Grimm-style storybook illustration of a deep dark spruce forest, As the camera moves closer, the illustration begins to malfunction, The trees sway in a wind that should not be possible inside a drawing. [3s–5.5s]: ( image2 ) The zoom continues without
 ```
 
+> 🔗 [Original Source](https://x.com/tonka1981jp)
+
 ---
+
 ### Cat Master's Tokyo Tower Descent and Rescue
 
 **Prompt:**
@@ -5615,7 +7712,10 @@ A stylish anime woman in a long coat, holding two pistols, confronts multiple ar
 An orange tabby cat in a taekwondo uniform, holding a glowing golden sword, on top of Tokyo Tower at night. Action: Stands in the rain → slow head lift → eyes glow. Instant dash downward along the tower structure, ultra-fast slashes at incoming hyenas in black suits. Mid-air rebounds between steel beams, continuous sword strikes. Each hit → hyenas dissolve i
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Miniature Girl Skateboard Chase Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5623,7 +7723,10 @@ An orange tabby cat in a taekwondo uniform, holding a glowing golden sword, on t
 On the floor of a child's room, a miniature girl rides a small skateboard, speeding close to the ground. The scale of the picture is so vast that life-sized toys and furniture appear immense. The camera follows closely from a low angle, continuously moving toward the background in a single-shot style. The film uses an ultra-wide-angle lens, dynamic blur, dep
 ```
 
+> 🔗 [Original Source](https://x.com/anson7956)
+
 ---
+
 ### Sci-Fi Transformation Scene
 
 **Prompt:**
@@ -5631,7 +7734,10 @@ On the floor of a child's room, a miniature girl rides a small skateboard, speed
 65mm IMAX, ultra-wide anamorphic lens, heavy film grain, strong lens flares. Eclipse-like atmosphere with dense gray fog. Only light source is an internal orange-red glow from the character, like a dying star. Single-take 15s: A dust-covered man stands alone in a wasteland. Handheld camera circles him in a 360° orbit with slight shake from heat. He slowly ra
 ```
 
+> 🔗 [Original Source](https://x.com/doctorwasif)
+
 ---
+
 ### Cinematic Anime Action Sequence Prompt with Dialogue
 
 **Prompt:**
@@ -5639,7 +7745,10 @@ On the floor of a child's room, a miniature girl rides a small skateboard, speed
 [0.0s-3.0s]Camera: Ultra-fast low-angle tracking shot, weaving rapidly between the legs of the monochromatic faceless businessmen like a racing drone. Motion: The girl in the yellow raincoat suddenly breaks into an explosive sprint. Extreme wind pressure causes her raincoat and the businessmen's suits to flutter violently. High-speed motion blur with cinemat
 ```
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### Epic Martial Arts Battle Between Cat Master and Rabbits
 
 **Prompt:**
@@ -5647,15 +7756,21 @@ On the floor of a child's room, a miniature girl rides a small skateboard, speed
 Epic Marvel Studios tone, dramatic lighting, fast cuts, slow-motion impacts, bass hits, heroic orchestral rise. 0.0–0.8s: Wide shot — Martial arts dojo. Orange cat in white taekwondo uniform stands center, surrounded by colorful rabbit students in high school tracksuits. 0.8–1.6s: Close-up — Cat raises Wing Chun guard stance. Focused eyes. 1.6–2.4s: Mid shot
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### First-person FPV Chase and Rescue by Cat Pirates
 
 **Prompt:**
 ```
-First-person sprint through a chaotic animal kingdom. Wild wolves chasing me. Dense forest dodges, rock slides, branch vaults — full FPV chase action. Burst out onto a cliff edge, no time to stop — I jump. Freefall toward the ocean, wind roaring, water rushing up. At the last second — a pirate ship surges in. Orange-cat-headed sailors reach out and catch me 
+First-person sprint through a chaotic animal kingdom. Wild wolves chasing me. Dense forest dodges, rock slides, branch vaults — full FPV chase action. Burst out onto a cliff edge, no time to stop — I jump. Freefall toward the ocean, wind roaring, water rushing up. At the last second — a pirate ship surges in. Orange-cat-headed sailors reach out and catch me
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Action Sequence Prompt for Video Model Comparison
 
 **Prompt:**
@@ -5663,7 +7778,10 @@ First-person sprint through a chaotic animal kingdom. Wild wolves chasing me. De
 A man with a massive purple energy blade, in the rain. Action: Instant dash forward, ultra-fast horizontal slash. Afterimage movement to the back, rapid consecutive strikes. Spinning attack, blade releasing electric arcs. Final jump → fast dive → ground slam. Camera: Low angle follow → side tracking → orbit → spin sync rotation → fast rise → dive follow No c
 ```
 
+> 🔗 [Original Source](https://x.com/YaReYaRu30Life)
+
 ---
+
 ### Hyper-Stylized Kung Fu Cat Action Sequence
 
 **Prompt:**
@@ -5671,7 +7789,10 @@ A man with a massive purple energy blade, in the rain. Action: Instant dash forw
 A hyper-stylized 15-second Hong Kong martial arts action sequence with bullet-time effects and aggressive camera movement. 80s–90s kung fu cinema mixed with modern cinematic techniques. Extreme whip pans, snap zooms, orbit shots, motion blur, impact freeze frames, heavy sound design. 0–2s Interior, dim siheyuan courtyard. Top-down spinning camera slowly desc
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### FPV drone shot through Tokyo
 
 **Prompt:**
@@ -5679,7 +7800,10 @@ A hyper-stylized 15-second Hong Kong martial arts action sequence with bullet-ti
 single continuous FPV drone shot through Tokyo / no cuts, no dialogue, no text STYLE: Photorealistic Tokyo on a bright clear afternoon, warm sunlight, sharp shadows, busy streets full of Japanese pedestrians, shot on FPV drone with GoPro wide-angle lens, cinematic 8K, natural
 ```
 
+> 🔗 [Original Source](https://x.com/AutomatorLab)
+
 ---
+
 ### Sci-Fi Warrior Combat Sequence
 
 **Prompt:**
@@ -5687,7 +7811,10 @@ single continuous FPV drone shot through Tokyo / no cuts, no dialogue, no text S
 CHARACTER REFERENCE Imagen1= warrior's face. Imagen2 = red robotic armor reference. IMAX 70mm film texture, Panavision 35mm lens, f4, handheld sway. Live-action sci-fi, 4K, shallow DOF bokeh, cold teal-blue tone, red energy sword as only warm light. Dense industrial fog. Hard cuts. SFX only, no music. Face stable, no deformation. 0-1s: CU face. Imagen1 witho
 ```
 
+> 🔗 [Original Source](https://x.com/peter6759)
+
 ---
+
 ### Mysterious Royal Warrior Character and Environment Settings
 
 **Prompt:**
@@ -5695,7 +7822,10 @@ CHARACTER REFERENCE Imagen1= warrior's face. Imagen2 = red robotic armor referen
 Character Settings: A mysterious royal warrior with no visible human identity. Face obscured by shadow, angle, crown, and cinematic lighting. Use @reference1 only as the visual reference for the white-and-gold biomechanical armor, red cape, and crown. Environment: Dark arid
 ```
 
+> 🔗 [Original Source](https://x.com/MayorKingAI)
+
 ---
+
 ### World War I Trench Warfare Video Prompt
 
 **Prompt:**
@@ -5703,7 +7833,10 @@ Character Settings: A mysterious royal warrior with no visible human identity. F
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: World War I trench warfare, deep mud, pouring rain, splintered wood, photorealistic ground-to-aerial cinematic 8K Shot 01 (0:00–2:00): Camera starts at mud level. A forest of heavy, mud-caked
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Video Prompt for FPV Drone Shot Through a Pipe
 
 **Prompt:**
@@ -5711,7 +7844,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Worl
 The FPV drone-style camera starts in total darkness, rapidly advancing inside a pipe, scraping the sides until it explodes into the room. Everything is under an intense green filter, with fluorescent lights flickering chaotically. No soundtrack — just electrical buzzing and metal
 ```
 
+> 🔗 [Original Source](https://x.com/physicalvini)
+
 ---
+
 ### 35mm Handheld Film Aesthetic Video Prompt
 
 **Prompt:**
@@ -5719,7 +7855,10 @@ The FPV drone-style camera starts in total darkness, rapidly advancing inside a 
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Harsh, direct sunlight creating high-contrast shadows. Handheld tracking shot (3rd person POV/Over-the-shoulder). Atmosphere: dusty, coastal wind, realistic physics. Audio: Heavy
 ```
 
+> 🔗 [Original Source](https://x.com/techhalla)
+
 ---
+
 ### Rocket Wingsuit Dive Through Storm Canyon (Seedance 2.0)
 
 **Prompt:**
@@ -5727,7 +7866,10 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Harsh, direct 
 A wingsuit flyer launches from a stratospheric balloon above Earth, tiny rocket boosters attached to the suit. At the 2-second mark the boosters ignite and the flyer accelerates through a storm cloud layer. Lightning flashes around the wingsuit as the flyer dives through a canyon of storm clouds. The flyer pulls out inches above a desert highway before glidi
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Epic Sci-Fi Action Sequence: Bionic Heroine vs. Giant Mecha
 
 **Prompt:**
@@ -5735,7 +7877,10 @@ A wingsuit flyer launches from a stratospheric balloon above Earth, tiny rocket 
 A panoramic, level-fixed shot of a desolate gray beach. Mist spreads forward from the deep background. The outlines of Gothic architecture are faintly visible in the mist. The beach ground is covered with fine gray gravel and charred debris. The overall tone is extremely low-saturation, cold gray, and oppressive. A bionic heroine (wearing a white formal suit
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Video Prompt for 'The Dentist — Bomb Squad Edition' Comedy Hook
 
 **Prompt:**
@@ -5743,7 +7888,10 @@ A panoramic, level-fixed shot of a desolate gray beach. Mist spreads forward fro
 1. 🦷 THE DENTIST — Bomb Squad Edition Comedy Hook: A dentist who treats a routine cleaning like a bomb disposal operation. CHARACTERS Dentist: Tall, thin, wire-frame glasses, surgical mask pulled down casually. Wears scrubs but they're tactical — tool pouches, a headlamp like
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Badass Berserker Viking Charge
 
 **Prompt:**
@@ -5751,7 +7899,10 @@ A panoramic, level-fixed shot of a desolate gray beach. Mist spreads forward fro
 Low-angle shot across a muddy battlefield under heavy rain. The camera tracks backward as a massive Viking charges forward, axes dragging sparks through wet ground. Lightning flashes — the camera whip-pans as enemies collide with him. The shot becomes chaotic, handheld energy as he spins, cleaves, and roars, each strike sending blood into the rain. The camer
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Seedance 2.0 Prompt: Gothic Mech Battle on a Desolate Beach
 
 **Prompt:**
@@ -5759,7 +7910,10 @@ Low-angle shot across a muddy battlefield under heavy rain. The camera tracks ba
 Full panoramic, level, fixed shot of a desolate gray beach. Mist spreads forward from the deep background. Gothic architectural outlines are faintly visible in the mist. The beach ground is covered with fragmented gray gravel and charred debris. The overall tone is extremely low saturation, cold gray, and oppressive. A bionic heroine (white formal suit, silv
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Cinematic Close-up of Painting
 
 **Prompt:**
@@ -5767,7 +7921,10 @@ Full panoramic, level, fixed shot of a desolate gray beach. Mist spreads forward
 \"The man painting on the street. [cut] Close-up of the brush making strokes on the canvas. No music.\"
 ```
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Romantic Proposal Scene Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5775,7 +7932,10 @@ Full panoramic, level, fixed shot of a desolate gray beach. Mist spreads forward
 Core scene: Candlelight dinner at a high-end restaurant, husband presents his wife with custom luxury noise-canceling headphones, wife is moved to tears, completing the romantic moment of wearing them. Shot 1 (0-1s) ✨ Atmosphere setting. Visuals: Overhead shot of the high-end restaurant, warm yellow candlelight flickering, crystal glasses reflecting soft lig
 ```
 
+> 🔗 [Original Source](https://x.com/yangqing_66)
+
 ---
+
 ### Zero-G Astronaut Run on Damaged Orbital Station
 
 **Prompt:**
@@ -5783,7 +7943,10 @@ Core scene: Candlelight dinner at a high-end restaurant, husband presents his wi
 A female astronaut in a white EVA suit sprints across the outer ring of a damaged orbital station above Earth. The station slowly rotates while massive solar panels break apart and drift into space. At the 2-second mark she jumps from the rotating ring toward a drifting cargo module. Camera floats beside her as Earth spins in the background. She grabs a hand
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Serene Sunset Lake Scene Video Prompt
 
 **Prompt:**
@@ -5791,7 +7954,10 @@ A female astronaut in a white EVA suit sprints across the outer ring of a damage
 A girl standing by a serene lake at sunset, long hair flowing, soft breeze, mountains in the background, glowing fireflies around her.
 ```
 
+> 🔗 [Original Source](https://x.com/AIwithGhotai)
+
 ---
+
 ### Anime Girl Talking About Pudding
 
 **Prompt:**
@@ -5799,15 +7965,21 @@ A girl standing by a serene lake at sunset, long hair flowing, soft breeze, moun
 The character from \u003c\u003c\u003cImage1\u003e\u003e\u003e is an anime-style girl talking enthusiastically about pudding. She speaks with the voice and timing from ♪\u003c\u003c\u003cAudio1\u003e\u003e\u003e , with natural lip-sync matching the audio. Medium shot, slightly low angle, facing the camera. Bright, warm indoor
 ```
 
+> 🔗 [Original Source](https://x.com/BeamManP)
+
 ---
+
 ### Rally Truck on Lava Field
 
 **Prompt:**
 ```
-The rally truck blasts over the lava crest already at full throttle, all four wheels leaving the ground before it lands hard and drives forward. Bumper-height camera faces forward, locked on the hood and roll cage while black rock walls streak into dark ribbons on both sides. The track bends, the truck snaps right, all four wheels spinning on the loose lava 
+The rally truck blasts over the lava crest already at full throttle, all four wheels leaving the ground before it lands hard and drives forward. Bumper-height camera faces forward, locked on the hood and roll cage while black rock walls streak into dark ribbons on both sides. The track bends, the truck snaps right, all four wheels spinning on the loose lava
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### First-Person POV Kitchen Scene with Dialogue
 
 **Prompt:**
@@ -5815,7 +7987,10 @@ The rally truck blasts over the lava crest already at full throttle, all four wh
 global_settings: style: \"Realistic kitchen scene, high-fidelity\" perspective: \"First-person POV (18-year-old male)\" character: \"21-year-old elegant woman (strictly maintain Image 1 features/art style)\" audio: voice: \"Mature/Onee-san female voice, gentle tone\" dialogue: \"好吃～ (Haochi~)\" ambient: \"Sizzling frying pan, soft natural laughter\" music: \"None (Silenc
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### High-Speed Cinematic Action Scene with Web-Slinging
 
 **Prompt:**
@@ -5823,7 +7998,10 @@ global_settings: style: \"Realistic kitchen scene, high-fidelity\" perspective: 
 Generate an ultra-realistic, cinematic, high-speed action video while completely maintaining the reference image \u003c\u003c\u003cImage1\u003e\u003e\u003e. A cinematic action scene where a male character speeds through skyscrapers using high-tension, spider-web-like material during the warm light of the golden hour. All movements must occur between buildings, very close to exterior wall
 ```
 
+> 🔗 [Original Source](https://x.com/onofumi_AI)
+
 ---
+
 ### Continuous Single Take Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5831,7 +8009,10 @@ Generate an ultra-realistic, cinematic, high-speed action video while completely
 Continuous single take, camera tilting, rolling, spinning, flying through a colossal luxury cruise ship. Starts flying over the sunny upper deck dodging beach balls and sunbathers, camera dives straight down a twisting, translucent water slide, gliding past screaming children before splashing into the main pool. Sweeps underwater, effortlessly passing throug
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Impossible Single-Take Medieval Tavern Tour
 
 **Prompt:**
@@ -5839,7 +8020,10 @@ Continuous single take, camera tilting, rolling, spinning, flying through a colo
 Continuous single take, camera tilting, rolling, spinning, flying through a bustling medieval fantasy tavern. Starts soaring above the roaring hearth where a dwarf rotates a roasting boar, camera dives downward into a tiny mouse hole beneath the floorboards, gliding past a rat hoarding a gold coin. Sweeps up through a dumbwaiter shaft into a secretive thieve
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Impossible Single-Take Sci-Fi Ship Tour
 
 **Prompt:**
@@ -5847,7 +8031,10 @@ Continuous single take, camera tilting, rolling, spinning, flying through a bust
 Continuous single take, camera tilting, rolling, spinning, flying through a colossal sci-fi generation ship. Starts flying through the humming engine core dodging arcing plasma, camera dives downward through a narrow ventilation shaft into the crew quarters where a mechanic rests in a hammock, gliding past floating holographic interfaces. Sweeps into a vibra
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Impossible Camera Moves in Amazon Rainforest
 
 **Prompt:**
@@ -5855,7 +8042,10 @@ Continuous single take, camera tilting, rolling, spinning, flying through a colo
 Continuous single take, camera tilting, rolling, spinning, flying through a dense Amazonian rainforest ecosystem. Starts flying through the misty canopy dodging hanging vines and a sleeping sloth, camera dives downward into the hollow trunk of a massive ancient tree, gliding past bioluminescent fungi and a colony of bats. Sweeps out onto the humid forest flo
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### High-Speed Cheetah Chase Cam
 
 **Prompt:**
@@ -5863,7 +8053,10 @@ Continuous single take, camera tilting, rolling, spinning, flying through a dens
 Rear chase steadicam 2.5 meters behind cheetah locked at 112 km/h through dense jungle undergrowth, camera height 40cm matching exact pace zero vertical drift. Subject banks hard left 28 degrees around massive fig trunk, spine compressing then exploding into full extension, all four limbs airborne in suspension phase as dappled golden hour light strobes acro
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Street Fighter-Inspired Car Destruction Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5871,7 +8064,10 @@ Rear chase steadicam 2.5 meters behind cheetah locked at 112 km/h through dense 
 [0-4s Explosive Start] In a dimly lit, abandoned underground parking lot, the cold white tube ceiling light outlines the figure of an Asian warrior with a high topknot and shaved sides, Image 1. He wears a damaged white robe covered by exquisite silver dragon-patterned mechanical shoulder armor, neck armor, and gauntlets. A handheld camera pushes forward fro
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Impossible Camera Move through a Southeast Asian Night Market
 
 **Prompt:**
@@ -5879,7 +8075,10 @@ Rear chase steadicam 2.5 meters behind cheetah locked at 112 km/h through dense 
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Dense Southeast Asian night market, wet stone, steam and fire, orange lantern light, photorealistic ground-to-aerial cinematic 8K Shot 01 (0:00–2:00): Camera starts at ankle level. Forest of feet — sandals, bare feet, flip flops on glistening wet stone. Market sounds overwhelming. Ca
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Music Video Style Pose Acceleration Prompt
 
 **Prompt:**
@@ -5887,7 +8086,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Dens
 FORMAT: 15s / 128 BPM / ONE CONTINUOUS SHOT / camera accelerates between poses SUBJECTS: @[image1], One blonde woman with soft waves, a pale satin nightgown, bare shoulders, and over-ear headphones marked \"koda\". Each pose lands like a
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Japanese Rap Music Video Prompt with Reference Images
 
 **Prompt:**
@@ -5895,7 +8097,10 @@ FORMAT: 15s / 128 BPM / ONE CONTINUOUS SHOT / camera accelerates between poses S
 A woman in a music video raps the lyrics in Japanese: ‘Oops, I appeared quickly. I was born here, jumped out, and am on Earth. I knew it since then: meeting you, falling in love, it's destiny.’
 ```
 
+> 🔗 [Original Source](https://x.com/altphotos_pl)
+
 ---
+
 ### Pixar-Style Commercial for CapCut
 
 **Prompt:**
@@ -5903,7 +8108,10 @@ A woman in a music video raps the lyrics in Japanese: ‘Oops, I appeared quickl
 A funny ad commercial for CapCut, showing a stressed video editor battling monsters that come out of his laptop, and CapCut comes to the rescue. Multiple shots, Pixar animation style
 ```
 
+> 🔗 [Original Source](https://x.com/airina_xyz)
+
 ---
+
 ### Cyberpunk Anime Cinematic Fight Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5911,7 +8119,10 @@ A funny ad commercial for CapCut, showing a stressed video editor battling monst
 cyberpunk anime cinematic neon glow futuristic city at night holographic signs wet reflective streets fog and smoke ultra detailed dynamic action four characters a wise turtle master with staff a tactical human fighter in black combat gear a large armored robot with glowing blue core and a neon cyber fighter with visor and glowing tattoos the robot crashes d
 ```
 
+> 🔗 [Original Source](https://x.com/sara4ai)
+
 ---
+
 ### Live-Action Sci-Fi Warrior Prompt
 
 **Prompt:**
@@ -5919,7 +8130,10 @@ cyberpunk anime cinematic neon glow futuristic city at night holographic signs w
 CHARACTER REFERENCE Image1= warrior's face. Image2 = red robotic armor reference. IMAX 70mm film texture, Panavision 35mm lens, f4, handheld sway. Live-action sci-fi, 4K, shallow DOF bokeh, cold teal-blue tone, red energy sword as
 ```
 
+> 🔗 [Original Source](https://x.com/pabloprompt)
+
 ---
+
 ### Cinematic Street Magic Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5927,7 +8141,10 @@ CHARACTER REFERENCE Image1= warrior's face. Image2 = red robotic armor reference
 A stylized cinematic 3D animation set on a nighttime city street with wet reflective pavement, soft street lights, and neon glow. An anthropomorphic white rabbit magician stands at the center, wearing a black tailcoat, white shirt, black bow tie, and a black top hat, surrounded by a loose semicircle of onlookers. The rabbit performs smooth, professional card
 ```
 
+> 🔗 [Original Source](https://x.com/KanaWorks_AI)
+
 ---
+
 ### 3D Cartoon Sequence Video Prompt
 
 **Prompt:**
@@ -5935,7 +8152,10 @@ A stylized cinematic 3D animation set on a nighttime city street with wet reflec
 15-second continuous single-shot cartoon sequence. No cuts. No scene transitions. Stylized 3D cartoon animation, bright vibrant colors, clean shapes, soft lighting, exaggerated expressions, squash and stretch, elastic motion, strong readability Clear comedic timing, progressive
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Authentic UGC Video Generation
 
 **Prompt:**
@@ -5943,7 +8163,10 @@ A stylized cinematic 3D animation set on a nighttime city street with wet reflec
 Create an authentic, iPhone-style vertical UGC video (9:16 aspect ratio) with a precise total duration of 12 seconds. The footage should have a natural handheld feel, shot in an interior space with natural daylight, and without background music…
 ```
 
+> 🔗 [Original Source](https://x.com/rsraisul_islam)
+
 ---
+
 ### Miniature Skateboard Chase Scene
 
 **Prompt:**
@@ -5951,7 +8174,10 @@ Create an authentic, iPhone-style vertical UGC video (9:16 aspect ratio) with a 
 A miniature girl on a small skateboard races at high speed just above the floor of a child's room. The scale makes human-sized toys and furniture appear gigantic. The camera tracks the protagonist from a low position immediately behind her, maintaining a continuous one-shot style that always moves deeper into the scene. Use an ultra-wide-angle lens, motion b
 ```
 
+> 🔗 [Original Source](https://x.com/onofumi_AI)
+
 ---
+
 ### Impossible Frozen Tsunami Shot
 
 **Prompt:**
@@ -5959,7 +8185,10 @@ A miniature girl on a small skateboard races at high speed just above the floor 
 A massive wall of ocean water rises and freezes mid-collapse above a coastal highway. Vehicles and debris are trapped inside the suspended liquid mass. The camera starts below the frozen wave, tilting upward to reveal its impossible scale. It then glides directly into the water mass, transitioning into a submerged perspective inside the suspended droplets be
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Cyber Ninja fight in Neon Cyberpunk City
 
 **Prompt:**
@@ -5967,7 +8196,10 @@ A massive wall of ocean water rises and freezes mid-collapse above a coastal hig
 Neon cyberpunk city at night (aerial view). A masked cyber ninja fights mid-air using a giant calligraphy brush. Style: ultra-fast, non-stop continuous action. Cyberpunk × calligraphy energy. Cut1: Bird’s-eye, slow → burst acceleration, cloth/chains sway, neon
 ```
 
+> 🔗 [Original Source](https://x.com/YaReYaRu30Life)
+
 ---
+
 ### Cinematic 8K Video Prompt for Southeast Asian Night Market
 
 **Prompt:**
@@ -5975,7 +8207,10 @@ Neon cyberpunk city at night (aerial view). A masked cyber ninja fights mid-air 
 FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Dense Southeast Asian night market, wet stone, steam and fire, orange lantern light, photorealistic ground-to-aerial cinematic 8K Shot 01 (0:00–2:00): Camera starts at ankle level. Forest
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Dark Fantasy Action Sequence Video Prompt
 
 **Prompt:**
@@ -5983,7 +8218,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Dens
 15-second continuous single-shot action sequence. No cuts. No scene transitions. Dark fantasy realism, muddy battlefield, rain, low light, heavy shadows, large creature scale, physical weight emphasis, cinematic contrast Slow heavy movement with explosive impacts Scene:
 ```
 
+> 🔗 [Original Source](https://x.com/Artedeingenio)
+
 ---
+
 ### Epic Cat Kung Fu Animation Trailer
 
 **Prompt:**
@@ -5991,7 +8229,10 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: Dens
 Epic 13s Animation Trailer (Concise, English): Style: cinematic, ultra dynamic, DreamWorks-level animation, dramatic lighting, motion blur, epic scale, fast cuts, emotional arc 0–2s Clumsy gray cat in yellow kung fu suit slips and falls, gets smacked down by orange master cat in gray Taoist robe with long white eyebrows. Master (cold): “Too slow.” VO: “He wa
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Artist Studio Cinematic Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -5999,7 +8240,10 @@ Epic 13s Animation Trailer (Concise, English): Style: cinematic, ultra dynamic, 
 In a spacious sunlit studio, an artist stands before a large canvas, brush in hand, deeply immersed in their work. Warm, cinematic natural light pours through tall windows, casting soft shadows that dance across the textured walls and wooden floor. The atmosphere hums with creativity, filled with scattered paint tubes, brushes, and sketches hinting at inspir
 ```
 
+> 🔗 [Original Source](https://x.com/kaan_alper)
+
 ---
+
 ### Epic Boxing Match: Cat vs. Poodle
 
 **Prompt:**
@@ -6007,7 +8251,10 @@ In a spacious sunlit studio, an artist stands before a large canvas, brush in ha
 An epic boxing match between an orange cat (in red shorts) and a poodle (in black shorts)
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### AI Wedding Video Prompt: Minimalist Forest Style with Light Effects
 
 **Prompt:**
@@ -6015,7 +8262,10 @@ An epic boxing match between an orange cat (in red shorts) and a poodle (in blac
 Theme 2: Minimalist Forest Style - The Wizard of Oz in the Green Wilderness, Love Bathed in Light. Visual Core: Utilize the Tyndall effect (God rays) and the texture of dappled light and shadow to create an ethereal, fresh, and vibrant fairy-like feeling. Live-action realistic style, fresh and spiritual, 4K high definition. 0-4 seconds: Drone perspective fly
 ```
 
+> 🔗 [Original Source](https://x.com/Cosmoslucy13)
+
 ---
+
 ### K-pop Style Dance MV in Tokyo
 
 **Prompt:**
@@ -6023,7 +8273,10 @@ Theme 2: Minimalist Forest Style - The Wizard of Oz in the Green Wilderness, Lov
 Generate a high-quality, high-energy K-pop style dance MV clip, paying attention to shot composition. Use dynamic tracking shots, with the camera smoothly orbiting the subject 360 degrees and performing push-ins and pull-outs. The frame focuses on a youthful and vibrant young Japanese woman, elegantly and explosively jumping, spinning, and singing. She is we
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Fashion Sequence with Multiple Outfits and Effects
 
 **Prompt:**
@@ -6031,7 +8284,10 @@ Generate a high-quality, high-energy K-pop style dance MV clip, paying attention
 Refer to the facial features of the model in @image 1. The model, wearing the outfits in the@image 2@image 3@image 4@image 5@image 6, gets close to the camera and poses playfully, coolly, cutely, in surprise, and handsomely, with each pose wearing a different outfit. Each time the outfit is changed, the screen will cut, referring to the fisheye lens effect a
 ```
 
+> 🔗 [Original Source](https://x.com/ColawMide)
+
 ---
+
 ### Cat Ramen Chef ASMR Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6039,7 +8295,10 @@ Refer to the facial features of the model in @image 1. The model, wearing the ou
 Create a short video themed around a cat making handmade ramen in a late-night diner, with cinematic color grading (warm tones, full of life), fine grain, and shallow depth of field. The protagonist is a cat, playing a professional ramen master, whose appearance strictly references [@Image 1]. The scene is set in front of a Japanese-style late-night ramen st
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Skiing Video Generation
 
 **Prompt:**
@@ -6047,7 +8306,10 @@ Create a short video themed around a cat making handmade ramen in a late-night d
 Please generate a skiing video based on the provided reference image. The overall style should be bright, crisp, full of athletic energy, with smooth motion and cinematic camera language. Timeline and shot design as follows: 0–3s: The character from the image smiles at the camera in the snow. Subtle camera shake with snowflakes falling. Background wind noise
 ```
 
+> 🔗 [Original Source](https://x.com/Gemalpha_88)
+
 ---
+
 ### POV Eagle Rescue from Ice
 
 **Prompt:**
@@ -6055,15 +8317,21 @@ Please generate a skiing video based on the provided reference image. The overal
 POV shot from a person’s perspective. A large brown and white eagle is frozen solid, encased in a thin, translucent ice shell on a snowy wooden railing in a misty mountain setting. the person hand using a small hammer to gently tap and shatter the ice. The ice cracks and falls away in large chunks, revealing the hawk’s feathers underneath. The hawk shakes it
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Kawaii Chibi Animation of Gugugaga and Doro
 
 **Prompt:**
 ```
-A super cute chibi anime cartoon animation in vibrant kawaii Arknights Endfield style: the adorable penguin-hooded baby administrator Gugugaga (black glossy penguin helmet with yellow beak, big sparkling blue eyes full of hearts and sparkles, dark bob hair with bangs, heavy blush, tiny body) playfully interacting and playing together with her bestie Doro in 
+A super cute chibi anime cartoon animation in vibrant kawaii Arknights Endfield style: the adorable penguin-hooded baby administrator Gugugaga (black glossy penguin helmet with yellow beak, big sparkling blue eyes full of hearts and sparkles, dark bob hair with bangs, heavy blush, tiny body) playfully interacting and playing together with her bestie Doro in
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Pixar-Inspired Animated Short of Anthropomorphic Breakfast Items
 
 **Prompt:**
@@ -6071,7 +8339,10 @@ A super cute chibi anime cartoon animation in vibrant kawaii Arknights Endfield 
 Cute and sassy Pixar-inspired animated short of anthropomorphic breakfast items debating on a trendy kitchen counter in warm morning light: cool hipster Avocado half with sunglasses, tiny hat, and smooth attitude vs. anxious Slice of Toast with butter sweat drops and perfectionist face. Multi-shot sequence: medium shot of Avocado flexing its pit, close-up on
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Hyper-Realistic Cinematic Horror Sequence
 
 **Prompt:**
@@ -6079,7 +8350,10 @@ Cute and sassy Pixar-inspired animated short of anthropomorphic breakfast items 
 A hyper-realistic cinematic horror sequence set in an abandoned Victorian house at night, surrounded by dense fog and dead trees, unsettling atmosphere, cold desaturated tones, low-key lighting, volumetric fog, film grain, chromatic aberration, VHS glitch effects. Slow dolly-in through rusty gate, eerie ambience and low bass rumble. Cut to handheld hallway s
 ```
 
+> 🔗 [Original Source](https://x.com/navi_Ai2)
+
 ---
+
 ### K-pop dance routine video prompt
 
 **Prompt:**
@@ -6087,7 +8361,10 @@ A hyper-realistic cinematic horror sequence set in an abandoned Victorian house 
 A young Japanese woman performs a high-energy K-pop dance routine, spinning gracefully and singing along to an upbeat melody - she is wearing a stylish pastel-pink pleated skirt, a white cropped sweater, and her hair is styled in loose pigtails with silk ribbons - dynamic
 ```
 
+> 🔗 [Original Source](https://x.com/PhotogenicWeekE)
+
 ---
+
 ### Transforming School Bus Mecha
 
 **Prompt:**
@@ -6095,7 +8372,10 @@ A young Japanese woman performs a high-energy K-pop dance routine, spinning grac
 [Cinematography]: A dynamic low-angle tracking shot glides alongside a sleek black bus, rain streaking across the lens. The camera shifts into a slightly shaky, handheld style as tension builds, emphasizing the scale and intensity of the transformation. Shot on IMAX digital cameras with anamorphic lenses, high shutter speed capturing fine mechanical details,
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Eastern Wuxia Ultimate Showdown
 
 **Prompt:**
@@ -6103,7 +8383,10 @@ A young Japanese woman performs a high-energy K-pop dance routine, spinning grac
 【Style】Eastern Wuxia ultimate showdown, Extreme Kinetic Energy, environmental destruction aesthetics, fast-paced editing, cinema-level particle effects, epic soundtrack atmosphere. 【Duration】15 seconds 【Characters】Master in White VS Master in Black [00:00-00:05] Scene 1: High-speed Collision. The masters in white and black turn into afterimages and collide v
 ```
 
+> 🔗 [Original Source](https://x.com/Gemalpha_88)
+
 ---
+
 ### Golden Eagle Escape from Volcanic New York
 
 **Prompt:**
@@ -6111,7 +8394,10 @@ A young Japanese woman performs a high-energy K-pop dance routine, spinning grac
 A full, uncut first-person POV simulating an adult golden eagle escaping at extreme speed. Camera style: ultra-wide distorted lens with intense edge stretching, an exaggerated sense of spatial depth and motion parallax, and a cinematic macro-like pressure effect. The camera surges forward at near-supersonic speed with violent whipping shakes, rapid dives, ag
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Hyperreal Space Cinematography Video Prompt
 
 **Prompt:**
@@ -6119,7 +8405,10 @@ A full, uncut first-person POV simulating an adult golden eagle escaping at extr
 FORMAT: 15s / 5 SHOTS / multi-cut / no dialogue STYLE: Hyperreal space cinematography / deep space black vs molten gold-orange accretion disk vs cold blue-white starfield / 35mm film grain / IMAX realism / 9:16 vertical / photorealistic VFX, practical-light motivated
 ```
 
+> 🔗 [Original Source](https://x.com/nicolasmariar)
+
 ---
+
 ### Man's Morning Grooming Routine
 
 **Prompt:**
@@ -6127,7 +8416,10 @@ FORMAT: 15s / 5 SHOTS / multi-cut / no dialogue STYLE: Hyperreal space cinematog
 A man walks out of the kitchen and goes to the bathroom, happy and singing. [cut] The man stands in front of the mirror and takes hair gel from the cabinet behind it. [cut] Close-up shot of the man pouring some gel into his palm. [cut] The man runs his hands through his hair and applies the gel. [cut] The man grooms his moustache with a comb. [cut] The man l
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Fighting Game Uppercut Sequence from Reference Image
 
 **Prompt:**
@@ -6135,7 +8427,10 @@ A man walks out of the kitchen and goes to the bathroom, happy and singing. [cut
 Action: The muscular fighter , executes a fast Shoryuken uppercut against a tough opponent, rising into the air with flames bursting from his fist while driving upward powerfully. Camera: Continuous dynamic side-angle broadcast camera panning smoothly and tilting upward to follow the explosive rising motion in a single uncut high-energy shot. Lighting: Brigh
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Multi-Shot Cinematic Scene: FBI Agent and Alien at a Party
 
 **Prompt:**
@@ -6143,7 +8438,10 @@ Action: The muscular fighter , executes a fast Shoryuken uppercut against a toug
 SHOT 1 — 0:00 to 0:04 Interior of a crowded house party, warm string lights in background, laughing people holding red cups, a serious-looking man in a dark suit leans forward and firmly places one hand on top of a grey alien's large smooth head, other hand thrusting an FBI badge directly toward camera, intense focused eyes locked straight ahead, grainy film
 ```
 
+> 🔗 [Original Source](https://x.com/bmx_ai13)
+
 ---
+
 ### Kamen Rider-Style Transformation Sequence
 
 **Prompt:**
@@ -6151,7 +8449,10 @@ SHOT 1 — 0:00 to 0:04 Interior of a crowded house party, warm string lights in
 Full Kamen Rider-style transformation sequence - from human to battle-damaged mecha armor - generated entirely with Seedance 2.0 on @dreamina_ai
 ```
 
+> 🔗 [Original Source](https://x.com/ChrisTheNerv)
+
 ---
+
 ### The Silent Retreat Uproar (Disaster Scene)
 
 **Prompt:**
@@ -6159,7 +8460,10 @@ Full Kamen Rider-style transformation sequence - from human to battle-damaged me
 The Silent Retreat Uproar. Shot 1 (0.0-0.5): Macro shot of a mosquito landing on the Guru's nose during deep meditation. Audio: High pitched BZZZ. Shot 2 : The Guru's eye twitches violently. Audio: Spring boing. Shot 3 : He wildly slaps his
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Dark Stormy Town Action Sequence
 
 **Prompt:**
@@ -6167,7 +8471,10 @@ The Silent Retreat Uproar. Shot 1 (0.0-0.5): Macro shot of a mosquito landing on
 visual_theme: \"Dark stormy small town, low-saturation gray-blue tones, film grain character_reference: \"@Image1 (hairstyle, white crystalline oriental dress, stoic expression). lighting: \"Dim lanterns, soft-focus ethereal glow, f/4 aperture, 35mm lens timeline_sequence: 0-3s: camera: \"Slow vertical pan from feet to full body\" action: \"Character stands in tor
 ```
 
+> 🔗 [Original Source](https://x.com/IamEmily2050)
+
 ---
+
 ### PIGEON: Museum Heist
 
 **Prompt:**
@@ -6175,7 +8482,10 @@ visual_theme: \"Dark stormy small town, low-saturation gray-blue tones, film gra
 Animation prompt PIGEON: Museum Heist A tiny street pigeon in a black turtleneck and beret attempts to steal a single French fry from an elegant museum café. Laser security everywhere. High-budget 3D animation, miniature heist parody. [0s–1.5s] Moonlit museum interior. The
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Deep-Sea Explorer in a Bio-Luminescent Coral City
 
 **Prompt:**
@@ -6183,15 +8493,21 @@ Animation prompt PIGEON: Museum Heist A tiny street pigeon in a black turtleneck
 An agile deep-sea explorer propelled by a sleek underwater jet-scooter through a massive, bustling bio-luminescent coral city, weaving effortlessly through swarms of glowing jellyfish, dodging massive sea turtles, submersible taxis, and towering kelp forests. She glides past ancient sunken ruins, busy aquatic intersections, and vibrant anemone farms, spinnin
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Samurai Desert Action Sequence Prompt
 
 **Prompt:**
 ```
-High-energy action sequence: extreme close-up detail following a samurai, ornate armor, katana drawn, honorable stance, as they perform spectacular acrobatic maneuvers and combat moves in a desert at sunset. golden sand dunes stretching to the horizon, long shadows cast by the low sun, heat shimmer in the air. shallow depth of field isolating the subject to 
+High-energy action sequence: extreme close-up detail following a samurai, ornate armor, katana drawn, honorable stance, as they perform spectacular acrobatic maneuvers and combat moves in a desert at sunset. golden sand dunes stretching to the horizon, long shadows cast by the low sun, heat shimmer in the air. shallow depth of field isolating the subject to
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cinematic Fantasy Overgrown Ruins Animation
 
 **Prompt:**
@@ -6199,7 +8515,10 @@ High-energy action sequence: extreme close-up detail following a samurai, ornate
 Cinematic 3D Blender-style fantasy animation, ultra-detailed mystical \"cradle of the infinite\" or sacred overgrown refuge floating in misty ethereal space, lush vegetation created with SpeedTree-level intricacy, ancient stone structures covered in glowing moss and vines, dramatic volumetric god-rays piercing thick atmospheric fog, rich teal-gold color palett
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### DUCK: Formula Splash
 
 **Prompt:**
@@ -6207,7 +8526,10 @@ Cinematic 3D Blender-style fantasy animation, ultra-detailed mystical \"cradle o
 DUCK: Formula Splash A swaggering rubber duck in racing goggles pilots a bathtub through a luxurious marble bathroom during a plumbing disaster. High-budget 3D animation, absurd speed and water physics. [0s–1.5s] Wide shot. Water floods across a marble bathroom floor. A rubber
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Spanish dialogue prompt for video generation
 
 **Prompt:**
@@ -6215,7 +8537,10 @@ DUCK: Formula Splash A swaggering rubber duck in racing goggles pilots a bathtub
 LE – I remember! dear DOCTOR ... that you are still alive BECAUSE I allow it, MOREOVER – you and I, have the same objective. in a certain way.
 ```
 
+> 🔗 [Original Source](https://x.com/xtheprototype)
+
 ---
+
 ### Cinematic Montage Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6223,7 +8548,10 @@ LE – I remember! dear DOCTOR ... that you are still alive BECAUSE I allow it, 
 [@Image 1] (Male lead reference) [@Image 2] (Female lead reference) Cinematic quality, 15 seconds, montage editing, no subtitles, Korean dialogue. Opening 0 to 1 second, warm yellow film grain, past, sunny afternoon cafe, she is sleeping face down on the table, he sits opposite, chin resting on his hand, looking down at her, his lips curling up uncontrollabl
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 AI Wedding Video Prompt: Cinematic Night Scene
 
 **Prompt:**
@@ -6231,23 +8559,32 @@ LE – I remember! dear DOCTOR ... that you are still alive BECAUSE I allow it, 
 Theme 1: Cinematic Night Scene Style - Starlight Fantasy City, Falling into the Star River Together. Visual Core: The collision of Cyberpunk and extreme romance, using neon reflections and rain droplet macro shots to showcase urban sophistication. 9:16 vertical screen, realistic cinematic quality style, urban luxury, 4K high definition. 0-4 seconds: High-ang
 ```
 
+> 🔗 [Original Source](https://x.com/Cosmoslucy13)
+
 ---
+
 ### Rogue Data-Courier on a Hoverboard in a Cyberpunk Megacity
 
 **Prompt:**
 ```
-A rogue data-courier riding a humming anti-gravity hoverboard at breakneck speeds through a neon-drenched cyberpunk megacity, weaving effortlessly through floating market stalls, dodging flying cars, rogue drones, and towering holographic advertisements. She glides past colossal metal structures and bustling mid-air intersections, executing sharp banks with 
+A rogue data-courier riding a humming anti-gravity hoverboard at breakneck speeds through a neon-drenched cyberpunk megacity, weaving effortlessly through floating market stalls, dodging flying cars, rogue drones, and towering holographic advertisements. She glides past colossal metal structures and bustling mid-air intersections, executing sharp banks with
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Cinematic Hyperspeed Global Tracking Shot
 
 **Prompt:**
 ```
-Cinematic 15-second hyperspeed tracking shot. Camera locked 8 meters behind a sleek matte-black futuristic aircraft, glowing blue engines, center-right frame always. Heavy motion blur on all edges. One continuous shot, no cuts. 0:00–0:03: Low over Paris, Eiffel Tower left, golden hour. “FRANCE 🇫🇷” bottom-left. 0:03–0:05: Sharp pull-up, clouds slice frame, 
+Cinematic 15-second hyperspeed tracking shot. Camera locked 8 meters behind a sleek matte-black futuristic aircraft, glowing blue engines, center-right frame always. Heavy motion blur on all edges. One continuous shot, no cuts. 0:00–0:03: Low over Paris, Eiffel Tower left, golden hour. “FRANCE 🇫🇷” bottom-left. 0:03–0:05: Sharp pull-up, clouds slice frame,
 ```
 
+> 🔗 [Original Source](https://x.com/TechieBySA)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Eastern Dark Mythology Sky Burial
 
 **Prompt:**
@@ -6255,7 +8592,10 @@ Cinematic 15-second hyperspeed tracking shot. Camera locked 8 meters behind a sl
 15 seconds, one-shot, Eastern dark mythology, sky burial imagery, megalophobia, Chinese surreal disaster landscape, no dialogue, no narration. The overall color palette is cold gray, bone white, old gold, and dark red. The sky is low-pressure, and a large amount of feathers are falling in the air, continuously descending like snow. 0:00–0:03: Extreme close-u
 ```
 
+> 🔗 [Original Source](https://x.com/sebatheepan)
+
 ---
+
 ### Character Reference Video Generation
 
 **Prompt:**
@@ -6263,7 +8603,10 @@ Cinematic 15-second hyperspeed tracking shot. Camera locked 8 meters behind a sl
 Instruction: CHARACTER REFERENCE [Character Reference: @image1] Strictly follow the face, hairstyle, white kimono silhouette, and body proportions of the reference character, do not alter identity or facial structure, appearance must remain consistent: glowing dark eyes,
 ```
 
+> 🔗 [Original Source](https://x.com/Kangaikroto)
+
 ---
+
 ### Creative AI Ads Continuous Single Take
 
 **Prompt:**
@@ -6271,7 +8614,10 @@ Instruction: CHARACTER REFERENCE [Character Reference: @image1] Strictly follow 
 Continuous single take, camera tilting, rolling, spinning, flying through real-world environments. Starts flying through a tiny city apartment where a man sips coffee at a window, camera dives downward into a cluttered kitchen where a woman washes dishes, gliding
 ```
 
+> 🔗 [Original Source](https://x.com/os_orabi)
+
 ---
+
 ### Anthropomorphic Tech Gadgets Fighting
 
 **Prompt:**
@@ -6279,7 +8625,10 @@ Continuous single take, camera tilting, rolling, spinning, flying through real-w
 Humorous modern animated short with anthropomorphic tech gadgets fighting in a cozy living room at night: tired overworked WiFi Router with blinking antenna \"hair\" and parent vibe vs. entitled Smartphone with refreshing screen face and teen
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Livestream Selling Video Prompt (Mala Tang)
 
 **Prompt:**
@@ -6287,7 +8636,10 @@ Humorous modern animated short with anthropomorphic tech gadgets fighting in a c
 Generate a short video for product promotion. A young, beautiful woman (@【@Image 1】) with black hair, sitting at a restaurant table, eating Mala Tang (@【@Image 2】), explaining the taste of the product. Use colloquial language and a casual, conversational tone to share her experience. Simultaneously, she uses chopsticks to pick up and showcase special ingredi
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Desert Scavenger Watches Buried City Emerge
 
 **Prompt:**
@@ -6295,7 +8647,10 @@ Generate a short video for product promotion. A young, beautiful woman (@【@Ima
 A scavenger crawls to the top of a dune ridge on his stomach and looks over. Below in the basin, an entire buried city is surfacing, buildings pushing up through the sand slowly, like something breathing out. He doesn't move. Doesn't radio. Just watches the world underneath the world reveal itself. VFX: sand displacement from emerging structures, dust column
 ```
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Urban Time-Shift Martial Arts Epic: Cat Ninja vs. Tiger Warrior
 
 **Prompt:**
@@ -6303,15 +8658,21 @@ A scavenger crawls to the top of a dune ridge on his stomach and looks over. Bel
 Urban Time-Shift Martial Arts Epic. Top-tier cinematic special effects, extremely fast editing pace, emphasizing the ultimate clash of power, speed, and the will to protect. Strong visual contrast: one side is the Eastern Giant Dragon energy condensed from shadows, the other is the pure white, rigid martial aura barrier. Time and space are torn and reassembl
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### Elemental Superheroes Battle Over Shattered City
 
 **Prompt:**
 ```
-Three figures suspended above a shattered coastal megacity under a rotating superstorm: — a 30-year-old woman wreathed in living lightning, body threaded with branching electric veins, eyes glowing white-hot; — a towering fire entity formed of molten armor and solar plasma, constantly shedding embers; — a pale ice sovereign with crystalline skin and flowing 
+Three figures suspended above a shattered coastal megacity under a rotating superstorm: — a 30-year-old woman wreathed in living lightning, body threaded with branching electric veins, eyes glowing white-hot; — a towering fire entity formed of molten armor and solar plasma, constantly shedding embers; — a pale ice sovereign with crystalline skin and flowing
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Wuxia Comedy: Cat Hero, Duck Scholar, and Husky Doctor
 
 **Prompt:**
@@ -6319,7 +8680,10 @@ Three figures suspended above a shattered coastal megacity under a rotating supe
 Film Scene Setting (Global Style) Environment: A traditional Chinese courtyard late at night, with blue tiles and white walls, red lanterns swaying slightly in the wind. Moonlight and tree shadows intersect on the ground. The overall lighting has a strong retro Wuxia film texture. Character Design: Orange Cat (Hero): Wearing traditional Wuxia attire, cape sl
 ```
 
+> 🔗 [Original Source](https://x.com/drjoetw)
+
 ---
+
 ### 15-Second Live Action Rivalry Video Script
 
 **Prompt:**
@@ -6327,7 +8691,10 @@ Film Scene Setting (Global Style) Environment: A traditional Chinese courtyard l
 At Sakuragaoka High School, quiet and determined second-year student Haruki Aoyama is publicly humiliated by his nemesis Renji Kurosawa, the intimidating student council vice president, on the very first day of the new semester. What begins as a bitter rivalry fueled by hatred escalates through a high-stakes school competition where both students push each o
 ```
 
+> 🔗 [Original Source](https://x.com/woleswoosh)
+
 ---
+
 ### Boss Battle Scene Video Prompt
 
 **Prompt:**
@@ -6335,7 +8702,10 @@ At Sakuragaoka High School, quiet and determined second-year student Haruki Aoya
 Use the reference image only as a reference, not for the start frame. Include battle-style upbeat background music and sound effects. Immediately after the start, switch to the following cut. Screen transition with ultra-fast transition. Space collapses at high speed. After a momentary whiteout, Switch to a field that inherits the atmosphere of the reference
 ```
 
+> 🔗 [Original Source](https://x.com/Kashiko_AIart)
+
 ---
+
 ### Arknights: Endfield Gugu Gaga Shopping Scene
 
 **Prompt:**
@@ -6343,7 +8713,10 @@ Use the reference image only as a reference, not for the start frame. Include ba
 Cinematic 3D CGI cutscene from Arknights: Endfield, highly detailed semi-realistic rendering, futuristic high-end shopping mall interior with polished reflective floors, glass storefronts and soft ambient blue lighting. In the foreground inside a transparent glass display case, a cute small black penguin character (Endmin / Gugu Gaga) with smooth rounded dom
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Chibi Character on Hand with Annoyed Expression
 
 **Prompt:**
@@ -6351,7 +8724,10 @@ Cinematic 3D CGI cutscene from Arknights: Endfield, highly detailed semi-realist
 create a mini chibi version of the character in the uploaded images, with a big head and small body, sitting on an open left palm for realistic scale. The right hand is gently pressing its cheek with an index finger. The character looks annoyed and pouty — with puffed cheeks, a slight frown, and squinting eyes. Ultra-detailed chibi style, soft pastel colors,
 ```
 
+> 🔗 [Original Source](https://x.com/Itswsm105f)
+
 ---
+
 ### Supernatural Horror: Monster Emerging from a Poster
 
 **Prompt:**
@@ -6359,7 +8735,10 @@ create a mini chibi version of the character in the uploaded images, with a big 
 Supernatural horror breaking the fourth wall - a monster emerging from a 2D poster into reality in a Japanese subway station Visuals: Japanese subway station with bright artificial lighting, a young man in white shirt posing next to a subway train car, a large disturbing horror movie advertisement decal on the train featuring a grey-skinned zombie with sharp
 ```
 
+> 🔗 [Original Source](https://x.com/frametheory058)
+
 ---
+
 ### Childhood Imagination to Reality Car Race Video Prompt
 
 **Prompt:**
@@ -6367,7 +8746,10 @@ Supernatural horror breaking the fourth wall - a monster emerging from a 2D post
 0.0 – 4.0 sec — Childhood Imagination (Macro Realism) Ultra-low-angle macro tracking shot, camera almost touching the ground. Warm afternoon sunlight spills across a soft beige carpet, visible dust particles floating in air, subtle retro Kodak film warmth (natural, not stylized). A small child’s hand (only hand visible, no face) pushes a red toy sports car f
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cyberpunk Wuxia Warrior on a Fishing Boat in the Desert
 
 **Prompt:**
@@ -6375,7 +8757,10 @@ Supernatural horror breaking the fourth wall - a monster emerging from a 2D post
 cyberpunk wuxia mechanical warrior piloting a traditional fishing boat over vast sand dunes, sand flying behind like a storm, dynamic motion, futuristic mechanical details on the boat, wind blowing robes and cloaks, dramatic cinematic lighting, epic desert landscape, misty atmosphere, king hu wuxia film style, ultra detailed, wide angle, film still.
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cyber Wuxia Action Scene: Waterfall Duel
 
 **Prompt:**
@@ -6383,7 +8768,10 @@ cyberpunk wuxia mechanical warrior piloting a traditional fishing boat over vast
 [Shot 1 · 3s · Setup/Explosion] Subject 1: Cyber Female Image 1, white suit, mechanical neck bone, gold gear earrings, cold red lips, black ponytail, dark iron long saber. Subject 2: Cyber Male Image 2, bare six-pack abs, Hello Kitty tattoo, black mechanical shoulder armor, pink metal cargo pants, white AJs, katana. Scene: Reference image Image 3, giant moss
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Gugu Gaga Chibi Animation by the Lake
 
 **Prompt:**
@@ -6391,7 +8779,10 @@ cyberpunk wuxia mechanical warrior piloting a traditional fishing boat over vast
 chibi kawaii anime style: a cute black-haired penguin-hoodie girl with blue eyes and metal collar sits on a wooden bench by a lake. She bobs her head and moves her mouth cutely while making silly baby-talk sounds synced to the audio: '9 Gugu... Lol... Gugu Ga... Lol... Guguga... Lol'. Gentle body wiggles and sparkling eye animations. Bright natural daylight,
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Photorealistic Cyberpunk Motorcycle-Robot Chase in Heavy Rain
 
 **Prompt:**
@@ -6399,7 +8790,10 @@ chibi kawaii anime style: a cute black-haired penguin-hoodie girl with blue eyes
 Photorealistic cinematic 3D CGI scene, heavy rain and snow pouring down with white streaks, water splashing on wet dark road, same beautiful young woman with long dark hair flowing wildly, black face mask, red leather jacket and pants, riding the front bike section of the fully transformed massive black motorcycle-robot hybrid, the giant black humanoid comba
 ```
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Cinematic Wide Shot of a Lone Adventurer at Sunrise
 
 **Prompt:**
@@ -6407,15 +8801,21 @@ Photorealistic cinematic 3D CGI scene, heavy rain and snow pouring down with whi
 A lone adventurer standing on the edge of a high mountain cliff above the clouds at sunrise, cinematic wide shot, golden light illuminating the sky, dramatic clouds moving slowly below, wind blowing the character’s jacket, realistic environment, ultra-detailed mountains in background, epic atmosphere, soft fog, depth of field, 4K, cinematic lighting, slow ca
 ```
 
+> 🔗 [Original Source](https://x.com/navi_Ai2)
+
 ---
+
 ### Hamster Gym Bro: A Pixar-Quality Animated Short
 
 **Prompt:**
 ```
-GAINS — Hamster Gym Bro A tiny golden hamster with disproportionately muscular arms, wearing a microscopic tank top that says \"NO DAYS OFF,\" stands in front of a full sized human gym mirror doing bicep poses. A water bottle the size of his body sits beside him. High budget 3D animation, Pixar quality. [0s–1.5s] Interior of a high end gym. Normal humans work 
+GAINS — Hamster Gym Bro A tiny golden hamster with disproportionately muscular arms, wearing a microscopic tank top that says \"NO DAYS OFF,\" stands in front of a full sized human gym mirror doing bicep poses. A water bottle the size of his body sits beside him. High budget 3D animation, Pixar quality. [0s–1.5s] Interior of a high end gym. Normal humans work
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Peaceful Lofi Train Ride Anime Video Prompt
 
 **Prompt:**
@@ -6423,15 +8823,21 @@ GAINS — Hamster Gym Bro A tiny golden hamster with disproportionately muscular
 A peaceful anime-inspired lofi train ride at sunset, warm hand-painted fantasy style, a quiet girl by the window wearing headphones, golden sky, distant mountains, passing trees, soft sunlight on her face, notebook in her lap, dreamy nostalgic atmosphere, calm travel mood, soft painterly textures, gentle motion, cuts only Shot 1: Wide shot inside a cozy trai
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Xu Ke Style Cyber Wuxia Duel: Mechanical Limbs vs. Hanfu
 
 **Prompt:**
 ```
-Tsui Hark style high-tension Eastern Cyber Wuxia life-or-death battle, 15 seconds of continuous action, fusion of Shaw Brothers classic aesthetics and cyberpunk machinery. Scene: Image 2, a giant waterfall cascades vertically from the back of the frame, the entire background is covered by a white water curtain. There is a shallow layer of water on the cliff 
+Tsui Hark style high-tension Eastern Cyber Wuxia life-or-death battle, 15 seconds of continuous action, fusion of Shaw Brothers classic aesthetics and cyberpunk machinery. Scene: Image 2, a giant waterfall cascades vertically from the back of the frame, the entire background is covered by a white water curtain. There is a shallow layer of water on the cliff
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Dark Fantasy Knight vs. Woodland Horror
 
 **Prompt:**
@@ -6439,7 +8845,10 @@ Tsui Hark style high-tension Eastern Cyber Wuxia life-or-death battle, 15 second
 FORMAT: 15s / 6 CUTS / Dark Fantasy Action Horror SUBJECTS: A battle-worn medieval knight in tarnished armor, fighting for his life. A weeping maiden in a rich, embroidered velvet medieval gown who contorts into a woodland horror with a pale, monstrous face, blank white eyes, and a gaping maw while retaining her noble clothing. ENVIRONMENT: A dense, desolate
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Wedding Disaster Cinematic Sequence
 
 **Prompt:**
@@ -6447,7 +8856,10 @@ FORMAT: 15s / 6 CUTS / Dark Fantasy Action Horror SUBJECTS: A battle-worn mediev
 Shot 1 (0.0-0.5): Macro shot of a polished dress shoe slipping on a single banana peel. Audio: Cartoon slip sound: WOOP! Shot 2 (0.5-1.0): Extreme close-up of the Groom’s eyes widening in pure terror. Audio: Sharp inhale gasp. Shot 3 (1.0-1.5): An elbow accidentally hits a waiter holding a tray of champagne flutes. Audio: THUD. Shot 4 (1.5-2.0): The tray fli
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### The Moment It Sees Him (Close-up Shot)
 
 **Prompt:**
@@ -6455,7 +8867,10 @@ Shot 1 (0.0-0.5): Macro shot of a polished dress shoe slipping on a single banan
 [00:00 – 00:03] — The Moment It Sees Him Shot: Extreme close-up on his hand — fingers twitching Tight on his right hand at his side — fingers open, relaxed. Then: a shadow crosses them. Fast. Something passed overhead. His fingers close into a fist
 ```
 
+> 🔗 [Original Source](https://x.com/ibexdream)
+
 ---
+
 ### Humorous Toothbrush Debate Animated Short
 
 **Prompt:**
@@ -6463,7 +8878,10 @@ Shot 1 (0.0-0.5): Macro shot of a polished dress shoe slipping on a single banan
 A humorous Pixar-style animated short featuring two anthropomorphic toothbrushes debating in a bright modern bathroom: grumpy old manual toothbrush with worn bristles, tiny arms, and expressive face vs. sleek confident electric toothbrush with glowing LED eyes, vibrating body, and influencer attitude. Multi-shot sequence: medium shot of manual toothbrush sha
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Solar-Powered Hero Descent Video Prompt
 
 **Prompt:**
@@ -6471,7 +8889,10 @@ A humorous Pixar-style animated short featuring two anthropomorphic toothbrushes
 A tall man in his late 20s with short dark hair and glowing amber eyes, wearing a radiant armor suit of reflective gold plates with molten seams emitting solar energy — opening frame is a medium close-up of him suspended high in the upper atmosphere, clouds far below, sunlight refracting across his armor. At second two he ignites — the armor flares into full
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### K-Pop Test Video Prompt (4 sec)
 
 **Prompt:**
@@ -6479,7 +8900,10 @@ A tall man in his late 20s with short dark hair and glowing amber eyes, wearing 
 English: Handheld-cinema feel, ultra-detailed 4-second text-to-video prompt, 4K, 120fps, ultra-high resolution, realistic live-action concert footage. Outdoor daytime concert on an extremely hot, bright, sunlit day. An Asian K-pop girl group is performing on stage. The camera starts from within the crowd, partially blocked by cheering audience members, raise
 ```
 
+> 🔗 [Original Source](https://x.com/WolfRiccardo)
+
 ---
+
 ### Anime Lofi Train Ride Prompt
 
 **Prompt:**
@@ -6487,7 +8911,10 @@ English: Handheld-cinema feel, ultra-detailed 4-second text-to-video prompt, 4K,
 A peaceful anime-inspired lofi train ride at sunset, warm hand-painted fantasy style, a quiet girl by the window wearing headphones, golden sky, distant mountains, passing trees, soft sunlight on her face, notebook in her lap, dreamy nostalgic atmosphere, calm travel mood, soft
 ```
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Animated Goat-Man Tea Ceremony Sequence
 
 **Prompt:**
@@ -6495,7 +8922,10 @@ A peaceful anime-inspired lofi train ride at sunset, warm hand-painted fantasy s
 FORMAT: 15s / 6 SHOTS STYLE: animated Shot 01 (0:00-0:02): Wide shot. He sits at a small, wrought-iron table inside a lush, sun-drenched Victorian greenhouse, surrounded by blooming orchids and hanging ferns. Shot 02 (0:02-0:04): Medium shot. He elegantly lifts a delicate porcelain teacup from a matching saucer, his hooves surprisingly nimble. Shot 03 (0:04-
 ```
 
+> 🔗 [Original Source](https://x.com/ProperPrompter)
+
 ---
+
 ### Streetball Wizard vs. Three Defenders
 
 **Prompt:**
@@ -6503,7 +8933,10 @@ FORMAT: 15s / 6 SHOTS STYLE: animated Shot 01 (0:00-0:02): Wide shot. He sits at
 Subject 1: The streetball wizard with a unique and identifiable look—sharp short black hair, deep eyes, and a confident smile. He’s wearing a distinctive jersey (black and gold with a metallic sheen), paired with metallic-shiny shorts and custom high-top sneakers, with laces flying. His movements are graceful and natural, maintaining composure even under int
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### HK Neo-noir Action: Gritty Alley Fight
 
 **Prompt:**
@@ -6511,7 +8944,10 @@ Subject 1: The streetball wizard with a unique and identifiable look—sharp sho
 (Based on reference image): Protagonist: **Gray-gold medium-length hair girl**, wearing black-rimmed glasses and a black knit cardigan. During the fight, the cardigan is ripped by a sharp weapon, the glasses slide down her nose, her face is covered in cold sweat and blood (battle damage makeup), and her eyes are fierce like a wolf. Scene Atmosphere: Hong Kon
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Video Prompt: Subtle Character Motion
 
 **Prompt:**
@@ -6519,7 +8955,10 @@ Subject 1: The streetball wizard with a unique and identifiable look—sharp sho
 A single character starts in frame, full body visible. The camera is dynamic, moving subtly around the character — tracking, panning, and slight zooms. The character performs minimal motion — small gestures, subtle dance, or breathing — enough to give life,
 ```
 
+> 🔗 [Original Source](https://x.com/BigMotion_ai)
+
 ---
+
 ### Medieval Battlefield Cinematic Prompt
 
 **Prompt:**
@@ -6527,7 +8966,10 @@ A single character starts in frame, full body visible. The camera is dynamic, mo
 A vast medieval battlefield unfolds at dawn, where thousands of heavily armored warriors collide in fierce combat. Cavalry units thunder across the muddy ground while volleys of arrows streak through the sky. War banners whip wildly in the wind, adding to the intensity. The scene opens with a sweeping cinematic aerial shot, gliding over the scale of the batt
 ```
 
+> 🔗 [Original Source](https://x.com/Itswsm105f)
+
 ---
+
 ### Seedance 2.0 Prompt: Surreal Art Sci-Fi Martial Arts Dance
 
 **Prompt:**
@@ -6535,7 +8977,10 @@ A vast medieval battlefield unfolds at dawn, where thousands of heavily armored 
 Surreal Art Sci-Fi. 8K ultra-clear, dreamy soft light rendering. Core Aesthetics: Porcelain-punk and Eastern Zen. Emphasizing “Elegance” and “Fragility.” Material Setting: Pristine white high-grade ceramic skin, Kintsugi crack repair details, translucent liquid light wings. Action Design: Martial Arts Dance. A combination of fluid Tai Chi and silk dancing. L
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Microscopic Chase Video Prompt
 
 **Prompt:**
@@ -6543,7 +8988,10 @@ Surreal Art Sci-Fi. 8K ultra-clear, dreamy soft light rendering. Core Aesthetics
 FORMAT: 15s / 6 SHOTS / single continuous chase energy / no dialogue STYLE: Macro coral reef, swaying anemone tentacles, floating marine snow vs neon cyan hydro-tech, photorealistic macro cinematic Shot 01 (0:00-0:02) Dive from a towering brain coral down to a cybernetically enhanced mantis shrimp rocketing across a sandy trench. Shot 02 (0:02-0:04) Camera t
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Journey to the West Battle Scene Generation
 
 **Prompt:**
@@ -6551,7 +8999,10 @@ FORMAT: 15s / 6 SHOTS / single continuous chase energy / no dialogue STYLE: Macr
 Medium shot. The colossal Tiger King lunges forward unexpectedly, its mouth opening wide. From close-up, a powerful stream of intense orange and red fire erupts from its mouth, completely engulfing Sun Wukong in a roaring conflagration. The fire reflects on the rocky environment. Extreme close-up on Sun Wukong's eyes. As the fire dissipates, he stands unscat
 ```
 
+> 🔗 [Original Source](https://x.com/camera_fun_2030)
+
 ---
+
 ### Hyper-Focused Ramen Chef Sprint Cinematic
 
 **Prompt:**
@@ -6559,15 +9010,21 @@ Medium shot. The colossal Tiger King lunges forward unexpectedly, its mouth open
 Shot on ALEXA 65mm anamorphic lens. Photorealistic cinematic quality. Aspect ratio 2.39:1 widescreen. Teal shadows, warm amber highlights. Film grain. Tokyo neon dusk. Lens flares, motion blur. Dolby Vision HDR. 0.0s–2.5s: Extreme low-angle tracking shot — a hyper-focused street female food chef sprints at impossible speed through a neon-lit Tokyo alley, clu
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Seedance 2.0 Extreme POV Jet Ski Video Prompt
 
 **Prompt:**
 ```
-First-person POV from a jet ski rider in the middle of a violent tropical storm. Hands grip the handlebars while massive waves tower on both sides. Rain and ocean spray slam across the visor. At the 2-second mark a gigantic rogue wave rises ahead like a moving wall. The rider accelerates up the wave face and launches off the crest, airborne above the stormy 
+First-person POV from a jet ski rider in the middle of a violent tropical storm. Hands grip the handlebars while massive waves tower on both sides. Rain and ocean spray slam across the visor. At the 2-second mark a gigantic rogue wave rises ahead like a moving wall. The rider accelerates up the wave face and launches off the crest, airborne above the stormy
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Seedance 2.0 Prompt: Dark Fantasy Action Horror
 
 **Prompt:**
@@ -6575,7 +9032,10 @@ First-person POV from a jet ski rider in the middle of a violent tropical storm.
 FORMAT: 15s / 6 CUTS / Dark Fantasy Action Horror SUBJECTS: A battle-worn medieval knight in tarnished armor, fighting for his life. A weeping maiden in a rich, embroidered velvet medieval gown who contorts into a woodland horror with a pale, monstrous face,
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Hamster Gym Bro Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6583,7 +9043,10 @@ FORMAT: 15s / 6 CUTS / Dark Fantasy Action Horror SUBJECTS: A battle-worn mediev
 GAINS — Hamster Gym Bro A tiny golden hamster with disproportionately muscular arms, wearing a microscopic tank top that says \"NO DAYS OFF,\" stands in front of a full sized human gym mirror doing bicep poses. A water bottle the size of his body
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Wuxia Comedy Short: Cat Assassin vs. Single Man
 
 **Prompt:**
@@ -6591,7 +9054,10 @@ GAINS — Hamster Gym Bro A tiny golden hamster with disproportionately muscular
 1980s Shaw Brothers Wuxia film style, film grain texture, retro color palette, high contrast. In a Chinese courtyard, a young man (no beard) wearing a Tang Dynasty blue round-neck robe and a futou hat is drinking wine. A pet dog is lying next to him. Suddenly, a tabby cat wearing an invisibility cloak flies onto the wall from outside and uses a golden revolv
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Penguin Dancer in Cat Hotpot Restaurant
 
 **Prompt:**
@@ -6599,15 +9065,21 @@ GAINS — Hamster Gym Bro A tiny golden hamster with disproportionately muscular
 A woman dressed in a penguin-themed onesie is joyfully dancing inside a hotpot restaurant, moving playfully among the tables. The setting is lively and unusual, as all the guests dining there are cats, calmly sitting and watching while enjoying their hotpot meals. The scene keeps the same quirky concept but adds a bit more detail and atmosphere.
 ```
 
+> 🔗 [Original Source](https://x.com/Itswsm105f)
+
 ---
+
 ### Seedance 2.0 Urban Fantasy Wuxia Film Prompt
 
 **Prompt:**
 ```
-Urban Fantasy Wuxia blockbuster (Urban Fantasy Wuxia). 8K cinematic quality, high frame rate. Core style: Homage to \"The Outcast Style.\" Combining \"traditional Kung Fu\" with \"cool light effects.\" Visual Effects: 1. Golden Mantra: Semi-transparent liquid golden aura flowing around the body. 2. Qi Flow: Every strike is accompanied by air distortion and energy 
+Urban Fantasy Wuxia blockbuster (Urban Fantasy Wuxia). 8K cinematic quality, high frame rate. Core style: Homage to \"The Outcast Style.\" Combining \"traditional Kung Fu\" with \"cool light effects.\" Visual Effects: 1. Golden Mantra: Semi-transparent liquid golden aura flowing around the body. 2. Qi Flow: Every strike is accompanied by air distortion and energy
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Kid Running Toward Camera in Night Sky
 
 **Prompt:**
@@ -6615,7 +9087,10 @@ Urban Fantasy Wuxia blockbuster (Urban Fantasy Wuxia). 8K cinematic quality, hig
 Animate the frame with the kid running fast toward the camera as the camera pulls back faster to reveal the night sky with twinkles and yellow/gold illuminated pathway.
 ```
 
+> 🔗 [Original Source](https://x.com/delululabs_)
+
 ---
+
 ### Cat vs Dog Battle Prompt for Dreamina Seedance 2.0
 
 **Prompt:**
@@ -6623,7 +9098,10 @@ Animate the frame with the kid running fast toward the camera as the camera pull
 Cat swings the glowing sword down hard. Armored dog charges and slams into the cat. Massive shockwave, cars flying, pavement cracking, windows shattering. Camera circles the fight in slow motion. Sparks and debris everywhere.
 ```
 
+> 🔗 [Original Source](https://x.com/socialwithaayan)
+
 ---
+
 ### Butterfly FPV Shot over Chaotic Picnic
 
 **Prompt:**
@@ -6631,7 +9109,10 @@ Cat swings the glowing sword down hard. Armored dog charges and slams into the c
 A super-fast FPV shot on the back of a butterfly, taken from the point of view of a butterfly flying over a chaotic picnic in a public park. The camera flies over red-checked blankets, dodges between soda cans, plastic cups, fingers grabbing chips, and splashes of ketchup. The camera dips into a slice of watermelon. juice splashes in slow motion. He walks th
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### The Sewing Master - Seedance 2.0 Video Prompt
 
 **Prompt:**
@@ -6639,7 +9120,10 @@ A super-fast FPV shot on the back of a butterfly, taken from the point of view o
 SUBJECTS: Character: A female haute couture tailor with an extremely capable physique and arm muscles like steel wires, with eyes as cold as a needle tip. Attire: A dark tactical vest incorporating cheongsam elements, bare arms, forearms wrapped with dark red silk wrist guards (to increase friction); long, slender fingers with metal finger guards. Action Sty
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Seedance 2.0 Virtual Idol Gossip Video Prompt
 
 **Prompt:**
@@ -6647,7 +9131,10 @@ SUBJECTS: Character: A female haute couture tailor with an extremely capable phy
 The entire video has no subtitles. Character uses [Image 1] virtual digital human, an Asian girl around 20 years old, with delicate features, extremely realistic skin texture, and slightly tired appearance. Scene: Beside a messy bedroom bed, soft warm light. A lump under the quilt is visible in the background, indicating a man is sleeping. Clothing: Beige lo
 ```
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### CEO Romance Drama: Contract Breakup (15s)
 
 **Prompt:**
@@ -6655,7 +9142,10 @@ The entire video has no subtitles. Character uses [Image 1] virtual digital huma
 Scene (0-5 seconds): Close-up of the female lead tearing up the contract, paper scraps floating down. The CEO kneels on one knee, reaching out to stop her, his eyes panicked. The female lead turns away, a cold smile on her lips. Dialogue 1 (CEO, humble and panicked): Su Wan! The contract isn't over, you can't leave! I'll give you money, I'll give you status!
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### High-Energy Xianxia Battle Scene (15s)
 
 **Prompt:**
@@ -6663,7 +9153,10 @@ Scene (0-5 seconds): Close-up of the female lead tearing up the contract, paper 
 15-second high-energy Xianxia battle sequence, warm gold and red tones. 0-3 seconds: Low-angle close-up of the protagonist's blue robe hem flapping fiercely in the heat wave. They tightly grip a giant lightning-patterned sword, the blade continuously flashing with crimson electric light. Lava bubbles and surges on the ground. Demon soldiers roar and charge f
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### EC135 Helicopter Alpine Rescue Flight
 
 **Prompt:**
@@ -6671,7 +9164,10 @@ Scene (0-5 seconds): Close-up of the female lead tearing up the contract, paper 
 Locked two meters behind the EC135's tail boom, the orange rescue bird banks hard left around a granite outcrop, rotor disc canting twenty degrees, main blades throwing a halo of dust. The cliff face streaks right in golden blur as the helo snaps back center, skimming ridgeline at 200 km/h, then immediately banks right to thread a notch between two peaks, fu
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Video Prompt: 19th Century London Street Scene
 
 **Prompt:**
@@ -6679,7 +9175,10 @@ Locked two meters behind the EC135's tail boom, the orange rescue bird banks har
 The camera slightly zooms out (revealing the full street view) and follows the female protagonist as she walks on a 19th-century London street, with the wind blowing her skirt; as the protagonist walks, a steam locomotive drives up from the right side of the street, quickly passing by her. The wind lifts her skirt, and the protagonist, looking shocked, quick
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Painting Character Steals and Drinks Cola
 
 **Prompt:**
@@ -6687,23 +9186,32 @@ The camera slightly zooms out (revealing the full street view) and follows the f
 The character in the painting has a guilty expression, looking left and right before poking their head out of the frame. They quickly reach out a hand, grab a can of cola, take a sip, and then show a satisfied expression. Just then, footsteps are heard, and the character in the painting quickly puts the cola back in its original position. At this moment, a W
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Nike Street Graffiti Commercial
 
 **Prompt:**
 ```
-A 10-minute remastered Nike commercial in street graffiti style. The scene is set against a city background, where the entire city is painted as a giant colorful graffiti wall, with skyscrapers, streets, and billboards covered in vibrant graffiti patterns. A basketball player (wearing the latest Nike sneakers) skates out of a basketball court painted on the 
+A 10-minute remastered Nike commercial in street graffiti style. The scene is set against a city background, where the entire city is painted as a giant colorful graffiti wall, with skyscrapers, streets, and billboards covered in vibrant graffiti patterns. A basketball player (wearing the latest Nike sneakers) skates out of a basketball court painted on the
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Video Prompt: Hyper-realistic Military CGI Scene
 
 **Prompt:**
 ```
-Technical specifications: 2.35:1 ultra-wide screen, cinematic native quality, 4K medical CGI details, differentiated modeling, 24fps. 0-3 seconds: Use the first frame of [@Image 1]. Extreme close-up shot of a cloaked man, his expression stern, roaring loudly in English through his mask: “All units, move out! Fire at will!” He holds a rifle level, the muzzle 
+Technical specifications: 2.35:1 ultra-wide screen, cinematic native quality, 4K medical CGI details, differentiated modeling, 24fps. 0-3 seconds: Use the first frame of [@Image 1]. Extreme close-up shot of a cloaked man, his expression stern, roaring loudly in English through his mask: “All units, move out! Fire at will!” He holds a rifle level, the muzzle
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Seedance 2.0 Granny Skateboard Prompt
 
 **Prompt:**
@@ -6711,7 +9219,10 @@ Technical specifications: 2.35:1 ultra-wide screen, cinematic native quality, 4K
 GRANNY SHREDS — Grandma Skateboard Championship A tiny 85 year old grandmother, white hair in a perfect bun, wearing a floral dress, pearl necklace, and neon green high top sneakers, stands at the top of a massive halfpipe at a packed
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### The Great Fish Heist: Cat Burglar Kitchen Raid Video
 
 **Prompt:**
@@ -6719,15 +9230,21 @@ GRANNY SHREDS — Grandma Skateboard Championship A tiny 85 year old grandmother
 THE GREAT FISH HEIST — Cat Burglar Kitchen Raid A chubby orange tabby cat with enormous green eyes, wearing a tiny black turtleneck and a miniature ski mask pushed up on his forehead, sneaks across a moonlit kitchen counter toward an unguarded salmon fillet on a cutting board. High budget 3D animation, Pixar quality lighting and fur rendering. [0s–1.5s] Wide
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Anime Witch Transformation with Bat Wings
 
 **Prompt:**
 ```
-\"Image1 is the reference for the entire video. It is a sketch art anime style. 1sec-3seconds the woman is standing still and the wind is blowing hard. Her dress and hair are blowing in the wind. 4sec-6sec the woman magically causes the staff in her hand to disappear. She smiles with an evil smile. 7sec-15sec She holds out her arms and large bat wings appear 
+\"Image1 is the reference for the entire video. It is a sketch art anime style. 1sec-3seconds the woman is standing still and the wind is blowing hard. Her dress and hair are blowing in the wind. 4sec-6sec the woman magically causes the staff in her hand to disappear. She smiles with an evil smile. 7sec-15sec She holds out her arms and large bat wings appear
 ```
 
+> 🔗 [Original Source](https://x.com/VampireBella13)
+
 ---
+
 ### Epic Fantasy Battle Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6735,7 +9252,10 @@ THE GREAT FISH HEIST — Cat Burglar Kitchen Raid A chubby orange tabby cat with
 Cinematic 10-second animation sequence starting from the original image. A dark armored hooded leader in intricate ornate black metallic armor with glowing teal visor stands powerfully in a desolate cracked wasteland, holding a flaming energy sword. Behind him marches an army of ethereal glowing blue ghostly warriors and other dark armored soldiers. Suddenly
 ```
 
+> 🔗 [Original Source](https://x.com/ImperfectEngel)
+
 ---
+
 ### Video Prompt: Cyber Wuxia Fight Sequence (Detailed Storyboard)
 
 **Prompt:**
@@ -6743,7 +9263,10 @@ Cinematic 10-second animation sequence starting from the original image. A dark 
 Scene 1 · 3s · Setup/Explosion】 Subject 1: Cyber Female Image 1, white suit, mechanical neck bone, gold gear earrings, cold red lips, black ponytail, dark iron long sword. Subject 2: Cyber Male Image 2, bare six-pack abs, Hello Kitty tattoo, black mechanical shoulder/arm armor, pink metal cargo pants, white AJ shoes, katana. Scene: Reference Image 3 Giant mo
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Earthquake City Collapse Video Prompt
 
 **Prompt:**
@@ -6751,7 +9274,10 @@ Scene 1 · 3s · Setup/Explosion】 Subject 1: Cyber Female Image 1, white suit,
 Tracking shot at street level, the camera races through a crowded city avenue as the ground begins to violently crack from an earthquake. Cars tilt, buildings split open. The camera weaves between falling debris, then tilts up as a massive skyscraper collapses forward. The shot pulls back rapidly as the shockwave chases the camera, swallowing everything in d
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Seedance 2.0 Top Gun Pigeon Prompt
 
 **Prompt:**
@@ -6759,7 +9285,10 @@ Tracking shot at street level, the camera races through a crowded city avenue as
 TOP GUN: PIGEON — Rooftop Dogfight A plump city pigeon with a tiny leather aviator helmet and goggles, puffed chest, strutting with absurd confidence, stands on the wing of a toy drone on a New York City rooftop. His rival, a seagull twice his
 ```
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Video Prompt: Original Cyber Wuxia Action Epic (Detailed Storyboard)
 
 **Prompt:**
@@ -6767,7 +9296,10 @@ TOP GUN: PIGEON — Rooftop Dogfight A plump city pigeon with a tiny leather avi
 Original Cyber Wuxia Action Epic. 8K cinematic quality, high frame rate photography. Core Style: Hyper-speed Mechanical Martial Arts. Emphasizes “Grandmaster-level counter-moves,” “after-image movement,” and “extreme physical collision.” Safety and Copyright Optimization (Key): 1. Completely original characters: Generic design, avoiding any features of known
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Futuristic Military Briefing in Anime Style
 
 **Prompt:**
@@ -6775,7 +9307,10 @@ Original Cyber Wuxia Action Epic. 8K cinematic quality, high frame rate photogra
 Inside a dark military command room, only two people sit at the table. An older woman with long silver-white hair in a dark black satin robe sits at the head and says \"The next target is...\" while gesturing toward the center of the table. A younger woman with long silver-white hair in a black and white ornate dress sits across from her, listening attentively
 ```
 
+> 🔗 [Original Source](https://x.com/LurkShade)
+
 ---
+
 ### Exploded View Spaceship Video Prompt
 
 **Prompt:**
@@ -6783,7 +9318,10 @@ Inside a dark military command room, only two people sit at the table. An older 
 A space ship flies through the atmosphere of a planet, the scene slows down as it explodes into an exploded view in slow motion, the camera rotates and orbits the expldoed view, the space ship then returns to its original shape and flies off.
 ```
 
+> 🔗 [Original Source](https://x.com/jerrod_lew)
+
 ---
+
 ### Seedance 2.0 Video Prompt: The Disruptor (Grok vs. Sora/Seedance)
 
 **Prompt:**
@@ -6791,15 +9329,21 @@ A space ship flies through the atmosphere of a planet, the scene slows down as i
 Video Theme: The Disruptor (降维打击) Duration: 15 seconds Core Atmosphere: Greedy oppression → Unexpected turning point → Frenzied collective carnival 00:00 - 00:05 | Greedy Harvest Scene: The luxurious yet cold Seedance headquarters building, with a giant Sora sign in the background slowly being dismantled, leaving ruins. Character: A CEO in a suit, looking ar
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Levitating Monk Controlling Cosmic Dust Vortex
 
 **Prompt:**
 ```
-A levitating monk controlling a vortex of cosmic dust in a temple courtyard.The scene starts with dust particles swirling around the still figure. Camera Motion: Circular crane motion rising above, tilting down as the vortex expands outward. Ends with the monk’s robe flowing as stars flicker within the dust spiral. Lighting: Moonlit with inner glow from the 
+A levitating monk controlling a vortex of cosmic dust in a temple courtyard.The scene starts with dust particles swirling around the still figure. Camera Motion: Circular crane motion rising above, tilting down as the vortex expands outward. Ends with the monk’s robe flowing as stars flicker within the dust spiral. Lighting: Moonlit with inner glow from the
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Surreal Dream Collapse Sequence
 
 **Prompt:**
@@ -6807,7 +9351,10 @@ A levitating monk controlling a vortex of cosmic dust in a temple courtyard.The 
 Shot 1 : Low wide tracking shot from behind the red-cloaked group as they walk slowly toward the glowing tree across the white valley floor. The giant face on the right subtly begins turning toward the left, stone creaking, dust shedding from its surface Shot 2 : Medium close shot on two walkers stopping abruptly, both turning toward each other in shock, pal
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Chibi Girls Walking with Swagger in City Video
 
 **Prompt:**
@@ -6815,7 +9362,10 @@ Shot 1 : Low wide tracking shot from behind the red-cloaked group as they walk s
 A highly detailed 15-second vertical 9:16 video, ultra-cute chibi style mixed with photorealistic cinematic rendering. Two adorable super-deformed chibi girls walking side-by-side down a sunny bustling city sidewalk with confident swagger. Left character: black bob hair with straight bangs, wearing a black-and-white penguin hoodie with big round eyes and yel
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Video Prompt: Hyper-realistic Black Comedy Wedding
 
 **Prompt:**
@@ -6823,7 +9373,10 @@ A highly detailed 15-second vertical 9:16 video, ultra-cute chibi style mixed wi
 15 seconds, 9:16 aspect ratio, hyper-realistic, black humor, pseudo-documentary wedding scene, like a truly absurd scene accidentally filmed by a wedding guest and uploaded to social media. The overall feel must be extremely realistic, restrained, and calm. Do not make it an exaggerated comedy skit, avoid a farcical or cartoonish feel; the closer it looks to
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Wuxia Film Style Video Prompt: Assassin Fight
 
 **Prompt:**
@@ -6831,7 +9384,10 @@ A highly detailed 15-second vertical 9:16 video, ultra-cute chibi style mixed wi
 Wuxia film style of Tsui Hark in the early nineties, film texture, warm yellow retro color palette, high contrast, 24fps, coherent footage, slight film grain, handheld feel, slightly unstable camera + motion blur, enhancing tension and oppression. Late night, ancient dilapidated temple, next to the altar beneath a giant Buddha statue, a middle-aged Wuxia man
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Weapon Clash Prompt
 
 **Prompt:**
@@ -6839,15 +9395,21 @@ Wuxia film style of Tsui Hark in the early nineties, film texture, warm yellow r
 Shot 1: Weapon Clash · Explosive Opening Authentic Fog Hill of Five Elements Chinese animation style, sharp hard-edged ink lines, high-contrast red-black dark palette. Two warriors wield dual weapons and collide head-on—long weapon sweeping, short blade thrusting—locking at the
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Seedance 2.0 Video Prompt for E-commerce Sales
 
 **Prompt:**
 ```
-A [fashionable and vibrant] beauty [@Image 1] (in a relaxed and lively style) is holding and displaying a [full-featured smart sports watch] [@Image 2], standing at the [entrance of Yiwu International Trade City] [@Image 3], with the bustling entrance and flow of people visible in the background. She is passionately explaining the smart watch in her hand to 
+A [fashionable and vibrant] beauty [@Image 1] (in a relaxed and lively style) is holding and displaying a [full-featured smart sports watch] [@Image 2], standing at the [entrance of Yiwu International Trade City] [@Image 3], with the bustling entrance and flow of people visible in the background. She is passionately explaining the smart watch in her hand to
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Chibi Anime Girl in Penguin Onesie Dancing in Snow
 
 **Prompt:**
@@ -6855,7 +9417,10 @@ A [fashionable and vibrant] beauty [@Image 1] (in a relaxed and lively style) is
 Cinematic 3D chibi anime girl, ultra-detailed AI render, kawaii style with realistic textures. Adorable young female character with black bob haircut and straight bangs, huge glossy brown eyes with sharp eyeliner, rosy cheeks, small pouty mouth. Wearing a fluffy black-and-white penguin onesie hood with yellow beak and feet, soft white belly fur, black sleeve
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Genshin Impact Characters Dancing in School Corridor
 
 **Prompt:**
@@ -6863,7 +9428,10 @@ Cinematic 3D chibi anime girl, ultra-detailed AI render, kawaii style with reali
 Genshin Impact anime CG style animation. Three anime characters dancing together in a realistic school corridor environment. Fun energetic dance video. Environment: Realistic school hallway — white drop ceiling with fluorescent lights, terrazzo floor, cream walls on left, red brick wall on right with bulletin board. The corridor stretches into the background
 ```
 
+> 🔗 [Original Source](https://x.com/Mayz1169)
+
 ---
+
 ### Detailed character and setup description
 
 **Prompt:**
@@ -6871,7 +9439,10 @@ Genshin Impact anime CG style animation. Three anime characters dancing together
 image1​ Character \u0026 Basic Setup: The face is modeled directly after reference images, precisely replicating facial features and bone structure without any aesthetic embellishment. The attire adheres to the references, displaying signs of wear and tear consistent with recent
 ```
 
+> 🔗 [Original Source](https://x.com/itigo_uu15)
+
 ---
+
 ### Seedance 2.0 15s Continuous Shot Prompt (Attempt 1)
 
 **Prompt:**
@@ -6879,7 +9450,10 @@ image1​ Character \u0026 Basic Setup: The face is modeled directly after refer
 FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attractive female figure. She stands completely still, wearing a highly detailed mini skirt outfit with visible fabric textures, skin pores, and faint perspiration. ENVIRONMENT: A brightly lit
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Cyber-Noir Glitch Transformation Sequence
 
 **Prompt:**
@@ -6887,7 +9461,10 @@ FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attractive femal
 Character \u0026 Setup Full-body shot based on the reference. She wears a wide-brimmed tech-hat, partially obscuring eyes that are wide with panic. Her expression is one of \"losing control\"—mouth slightly agape, gasping for air. Clothing: A tattered white tactical poncho over a sleek, liquid-metal bodysuit. Environment: An abandoned \"Neon Graveyard.\" Toppled holo
 ```
 
+> 🔗 [Original Source](https://x.com/chatgptpaglu)
+
 ---
+
 ### Elven Queen Portrait Prompt (Image-focused)
 
 **Prompt:**
@@ -6895,7 +9472,10 @@ Character \u0026 Setup Full-body shot based on the reference. She wears a wide-b
 Close-up portrait of an ethereal and mysterious Caucasian elven queen, long flowing blonde hair, eyes, delicate white feather headdress, intricate silver and diamond jewelry, melancholic yet graceful expression, high-fantasy digital painting style, soft magical lighting, ultra-high detail, reminiscent of Greg Rutkowski
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### FPV Video of Ancient London
 
 **Prompt:**
@@ -6903,7 +9483,10 @@ Close-up portrait of an ethereal and mysterious Caucasian elven queen, long flow
 Ultra-realistic, cinematic FPV flying through ancient London, racing over the Thames River and medieval bridges, diving through fortified city gates, weaving past timber-framed houses, Gothic cathedrals, bustling marketplaces, horse-drawn carriages, and royal courtyards, then spiraling above towering stone castles and fortified walls. Fast-paced, golden-hour
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Dramatic Raindrop Scene: Continuous Shot
 
 **Prompt:**
@@ -6911,7 +9494,10 @@ Ultra-realistic, cinematic FPV flying through ancient London, racing over the Th
 Top shot. Specs of water gravitate toward one another, slowly morphin into a droplet of water against a cloudy gray background. The droplet grows until it finally gets too heavy and begins to fall vertically down. Camera tracks the rain drop, chasing it from behind as it exits the clouds to reveal a large city (Top shot). Camera follows the raindrop from beh
 ```
 
+> 🔗 [Original Source](https://x.com/PocketScreenAI)
+
 ---
+
 ### Video Prompt: Reviving Ming Dynasty Art with AI
 
 **Prompt:**
@@ -6919,7 +9505,10 @@ Top shot. Specs of water gravitate toward one another, slowly morphin into a dro
 Seedance 2.0 uses AI technology to awaken Qiu Ying's Ming Dynasty painting 'One Hundred Beauties,' accurately replicating the classic texture of meticulous brushwork, heavy colors, and mineral pigments, dynamically restoring the grand scene of court ladies enjoying spring and playing in the garden, allowing the thousand-year-old Chinese aesthetic to flourish
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Runner Sprinting Through Crowded Market Video
 
 **Prompt:**
@@ -6927,7 +9516,10 @@ Seedance 2.0 uses AI technology to awaken Qiu Ying's Ming Dynasty painting 'One 
 A runner sprinting through a crowded market, pushing past people and objects. Knocks over crates and slides under a hanging tarp without stopping. Dense street market with vibrant colors, movement everywhere, Continuous tracking shot weaving through obstacles, objects passing close to lens, slight occlusion effects, hyper-immersive realism.
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### High-Speed Car Chase Gear Shift Video
 
 **Prompt:**
@@ -6935,7 +9527,10 @@ A runner sprinting through a crowded market, pushing past people and objects. Kn
 A driver gripping the wheel tightly, eyes focused, jaw clenched, shifting gears aggressively. Swerves through traffic while being chased, narrowly avoiding collisions. Busy city streets at night, neon reflections on wet asphalt, cars passing at high speed. Car-mounted tracking shot from hood and side angles, strong motion blur on environment, reflections str
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Warzone Chaos Sensory Overload Video
 
 **Prompt:**
@@ -6943,7 +9538,10 @@ A driver gripping the wheel tightly, eyes focused, jaw clenched, shifting gears 
 A man standing in the middle of a street, disoriented, ears ringing, face covered in dust. Looks around as explosions erupt and people run in every direction. Warzone-like city street with debris, smoke, and chaos unfolding, 360° spinning camera around him with slight slow motion, motion blur on background, sound muffled, intense sensory overload effect.
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Woman Walking in Chaos
 
 **Prompt:**
@@ -6951,7 +9549,10 @@ A man standing in the middle of a street, disoriented, ears ringing, face covere
 A woman walking slowly toward the camera, face calm but eyes filled with fear . Behind her, a building catches fire and people run in panic. Urban street at night with fire reflecting on wet pavement. Reverse dolly tracking in front of her, background action unfolding behind, shallow depth of field on face, contrast between calm and chaos.
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Lone Warrior on Battlefield Crane Shot Video
 
 **Prompt:**
@@ -6959,7 +9560,10 @@ A woman walking slowly toward the camera, face calm but eyes filled with fear . 
 A lone warrior standing still, sword lowered, breathing heavy after battle + Slowly lifts his head as silence settles around him. Battlefield covered with fallen soldiers, broken weapons, smoke drifting slowly under gray sky. Camera starts close behind him then rises with a crane shot revealing the massive battlefield around him, slow dramatic lighting, wide
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Formula 1 Monaco Tunnel Exit Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6967,7 +9571,10 @@ A lone warrior standing still, sword lowered, breathing heavy after battle + Slo
 The Formula car blasts out of the tunnel into blinding Mediterranean light already at race speed, the transition violent and instantaneous. Diffuser-height camera faces forward, locked on the rear wing while armco barriers strobe past in silver flashes. The chicane arrives, the car snaps right-left, suspension compressing hard, sparks dragging under the floo
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Collapsing City Disaster Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6975,7 +9582,10 @@ The Formula car blasts out of the tunnel into blinding Mediterranean light alrea
 A lone survivor running through a collapsing city street, covered in dust, looking back in terror. Skyscrapers begin to crumble as shockwaves ripple through the ground, cars flipping and windows exploding. Dense modern city turning into chaos, glass towers collapsing, debris raining from above . High-altitude drone shot diving rapidly toward the street, tran
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Armored Convoy Desert Action Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6983,15 +9593,21 @@ A lone survivor running through a collapsing city street, covered in dust, looki
 convoy of armored vehicles speeding through a desert, dust trails rising behind them. One vehicle swerves violently as an explosion erupts nearby, Vast desert landscape under burning sun, dunes stretching endlessly, heat distortion in the air. High aerial drone shot diving rapidly toward the convoy, seamlessly transitioning into ground-level tracking alongsi
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Gen Z Commercial Prompt (Metaimage + Seedance 2)
 
 **Prompt:**
 ```
-fast-paced Gen Z style commercial, urban lifestyle montage, quick cuts, whip pans, dynamic camera movement, vibrant colors, chaotic city scenes, seamless transitions, person putting on JBL headphones, dramatic audio shift, slow motion contrast, beat drop with energetic movement, neon lighting, glitch effects, product highlight close-ups, logo reveal, trendy 
+fast-paced Gen Z style commercial, urban lifestyle montage, quick cuts, whip pans, dynamic camera movement, vibrant colors, chaotic city scenes, seamless transitions, person putting on JBL headphones, dramatic audio shift, slow motion contrast, beat drop with energetic movement, neon lighting, glitch effects, product highlight close-ups, logo reveal, trendy
 ```
 
+> 🔗 [Original Source](https://x.com/Eltannouri)
+
 ---
+
 ### Cinematic Crime Drama Test Prompt for Seedance 2.0
 
 **Prompt:**
@@ -6999,7 +9615,10 @@ fast-paced Gen Z style commercial, urban lifestyle montage, quick cuts, whip pan
 Ultra-realistic cinematic crime drama, 10 seconds, Oscar-winning visual language, photorealistic skin, natural imperfections, subtle sweat, dust in the air, masterpiece cinematography. Main Subject: A powerful Mexican mafia boss in his late 50s, silver-streaked black hair, weathered face, calm terrifying presence, tailored black suit, gold ring, seated at th
 ```
 
+> 🔗 [Original Source](https://x.com/WolfRiccardo)
+
 ---
+
 ### Liquid Gold Futuristic City Transformation Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7007,7 +9626,10 @@ Ultra-realistic cinematic crime drama, 10 seconds, Oscar-winning visual language
 A pure black background fills the frame. Thick drops of liquid gold fall in slow motion onto a glossy surface, spreading in elegant ripples. The camera remains perfectly static in macro view, capturing every fluid detail. As the gold flows outward, the shapes begin to form glowing lines and geometric patterns. The lines rise upward, transforming into tiny go
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### 10-Second Sci-Fi Comedy Video Prompt: Mechanic vs. Robot
 
 **Prompt:**
@@ -7015,15 +9637,21 @@ A pure black background fills the frame. Thick drops of liquid gold fall in slow
 Seedance 2.0 Pro - 10 sec TEST - Prompt 👇👇👇 Subject 1 (Main Character): A young female retro-futuristic spaceship mechanic. Appearance: Sharp cheekbones, lively eyes, slightly messy short black hair with copper highlights. Small grease marks on her face. Expressive face with strong comedic reactions. Outfit: Utility jumpsuit in faded teal and orange accen
 ```
 
+> 🔗 [Original Source](https://x.com/WolfRiccardo)
+
 ---
+
 ### 10-Second Cinematic Comedy Video Prompt: Delivery Courier Door Fail
 
 **Prompt:**
 ```
-10-second cinematic stylized-realistic 3D animation, Pixar-inspired but physically believable, ultra clean topology, flawless temporal consistency, perfect object permanence, no morphing, no flicker, no identity drift, no extra fingers, no duplicate objects, no costume changes, no camera glitches, no environment changes, no text, no subtitles, no watermark. 
+10-second cinematic stylized-realistic 3D animation, Pixar-inspired but physically believable, ultra clean topology, flawless temporal consistency, perfect object permanence, no morphing, no flicker, no identity drift, no extra fingers, no duplicate objects, no costume changes, no camera glitches, no environment changes, no text, no subtitles, no watermark.
 ```
 
+> 🔗 [Original Source](https://x.com/WolfRiccardo)
+
 ---
+
 ### Gray Tabby Cat in a Suit Character Description
 
 **Prompt:**
@@ -7031,7 +9659,10 @@ Seedance 2.0 Pro - 10 sec TEST - Prompt 👇👇👇 Subject 1 (Main Character):
 SUBJECTS: Subject 1: A gray tabby cat in a tailored navy blue suit standing at a whiteboard on hind legs, holding a laser pointer. Half-lidded green eyes, intellectual superiority, controlled irritation. Tail swishes behind him. Pixar-style 3D rendering: individual fur through
 ```
 
+> 🔗 [Original Source](https://x.com/flikai)
+
 ---
+
 ### Anime-Style Rooftop Fight Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7039,7 +9670,10 @@ SUBJECTS: Subject 1: A gray tabby cat in a tailored navy blue suit standing at a
 Image1 is the reference for the whole video. 1 sec to 4 sec the woman in Image1 jumps down from the roof and lands hard onto the street below. She lands in front of two knights in armor who are in the same style as the reference picture. The knights are surprised by the woman who has landed in front of them 5sec to 8sec the woman faces the two knights and fr
 ```
 
+> 🔗 [Original Source](https://x.com/VampireBella13)
+
 ---
+
 ### Impossible Cavalry Charge Camera Shot Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7047,7 +9681,10 @@ Image1 is the reference for the whole video. 1 sec to 4 sec the woman in Image1 
 15-second extreme action war shot, one continuous impossible camera move. The camera starts inches above the dirt directly under a thundering cavalry charge, weaving between pounding hooves, flying mud, broken spears, and dragging banners. It glides impossibly low beneath horses without getting hit, then shoots through the center of an infantry collision, pa
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Impossible Cinematic Transition Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7055,7 +9692,10 @@ Image1 is the reference for the whole video. 1 sec to 4 sec the woman in Image1 
 15-second impossible cinematic transition shot. At dusk, the camera chases a giant burning meteor-like war projectile tearing across the sky above an enormous battlefield. It follows directly behind the glowing object through smoke and clouds, then as it impacts near the front line, the blast wave turns into dust and the camera continues through that dust cl
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Impossible Fantasy War Shot Video Prompt
 
 **Prompt:**
@@ -7063,7 +9703,10 @@ Image1 is the reference for the whole video. 1 sec to 4 sec the woman in Image1 
 - 15-second impossible fantasy war shot. At golden sunset above a sea of clouds, a colossal crimson dragon circles over a mountain battlefield. The camera races toward the dragon, passes between its half-folded wings and along its spine, then dives off the edge of the mountain into the war below. It falls through clouds, projectile trails, and smoke columns,
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cinematic Pianist Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7071,7 +9714,10 @@ Image1 is the reference for the whole video. 1 sec to 4 sec the woman in Image1 
 Cinematic butterfly lighting. Medium shot of a handsome pianist wearing a simple, elegant black suit. His audience noise from a concert hall.
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Night Deck Recovery Shot List Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7079,15 +9725,21 @@ Cinematic butterfly lighting. Medium shot of a handsome pianist wearing a simple
 Night Deck Recovery FORMAT: 15s / 6 SHOTS / night landing thriller / no dialogue STYLE: deep blue night, deck floodlights, glowing guidance lights, reflective wet steel, high-contrast war tension, realistic night aviation atmosphere Shot 01 (0:00-0:02) Wide night aerial of an aircraft carrier in the middle of the black ocean, deck lit like a floating island,
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Photorealistic Street Dance Battle Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Generate a 15-second photorealistic street dance battle at night. The urban street has reflective wet pavement, neon lights, and a thin mist. A group of young dancers forms a semicircle. The first 5 seconds focus on one dancer performing challenging solo floor moves. The remaining 10 seconds show the full group performing synchronized choreography combining 
+Generate a 15-second photorealistic street dance battle at night. The urban street has reflective wet pavement, neon lights, and a thin mist. A group of young dancers forms a semicircle. The first 5 seconds focus on one dancer performing challenging solo floor moves. The remaining 10 seconds show the full group performing synchronized choreography combining
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Digital Claustrophobia: The Shining Horror Short
 
 **Prompt:**
@@ -7095,7 +9747,10 @@ Generate a 15-second photorealistic street dance battle at night. The urban stre
 Script Title: Digital Claustrophobia 0:00 - 0:03 Scene: The iconic, infinitely long corridor of the Overlook Hotel from the movie “The Shining.” The lighting is no longer warm but presents an eerie, flickering pale blue and magenta. The geometric pattern of the carpet extends infinitely, distorted by digital artifacts. Character Description: The camera slowl
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### 10-Second Spring Festival Gala Talk Show: Zhen Huan and Hu Fei
 
 **Prompt:**
@@ -7103,7 +9758,10 @@ Script Title: Digital Claustrophobia 0:00 - 0:03 Scene: The iconic, infinitely l
 10-Second Spring Festival Gala Style Stage Performance: “Zhen Huan and Hu Fei Talk Show” 0–2 seconds: Two-shot medium shot. The overall stage setting is a “living room skit,” but surrounded by massive red and gold LED screens. Zhen Huan (left) and Hu Fei (right) sit side-by-side on a modern talk show sofa. Key historical accuracy requirement: Both wear gorge
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Hyper-Tension Technician Video Prompt
 
 **Prompt:**
@@ -7111,7 +9769,10 @@ Script Title: Digital Claustrophobia 0:00 - 0:03 Scene: The iconic, infinitely l
 FORMAT: 15s / 11 CUTS / HYPER-TENSION SUBJECTS: A heavily perspiring technician in partial rigid protective gear, face strained with controlled focus, hands clad in tactile gloves. ENVIRONMENT: A sun-bleached, dusty, deserted city intersection in the dead
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Mystical Griffin and Boy Encounter
 
 **Prompt:**
@@ -7119,7 +9780,10 @@ FORMAT: 15s / 11 CUTS / HYPER-TENSION SUBJECTS: A heavily perspiring technician 
 A huge mystical griffin with majestic wings slowly walks toward a small boy. The boy stands still, gazing at the creature without fear. The scene cuts between close-ups of the boy's calm, awestruck face and the griffin advancing with an intense, powerful gaze. As the
 ```
 
+> 🔗 [Original Source](https://x.com/rayanabdulcader)
+
 ---
+
 ### Documentary Style Video Prompt
 
 **Prompt:**
@@ -7127,7 +9791,10 @@ A huge mystical griffin with majestic wings slowly walks toward a small boy. The
 100% real-life filmed texture, iPhone handheld camera look, documentary style, cold desaturated tones, overcast natural lighting, soft diffused shadows, slight exposure imbalance, subtle sensor noise, real lens dirt and smudges on edges, imperfect framing, autofocus
 ```
 
+> 🔗 [Original Source](https://x.com/Ankit_patel211)
+
 ---
+
 ### 12 Flower Goddesses Quick Transformation Video
 
 **Prompt:**
@@ -7135,7 +9802,10 @@ A huge mystical griffin with majestic wings slowly walks toward a small boy. The
 12 Flower Goddesses quickly turn and wave their hands to transform into different poses and outfits (Plum blossom, Apricot blossom, Peach blossom, Peony, Pomegranate flower, Lotus, Hollyhock, Osmanthus, Chrysanthemum, Hibiscus, Camellia, Narcissus). Stunning special effects correspond to 12 floral pattern costumes and backgrounds, filled with an ethereal atm
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Impossible Siege Tower Camera Shot Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7143,7 +9813,10 @@ A huge mystical griffin with majestic wings slowly walks toward a small boy. The
 15-second impossible siege shot. The camera races toward a massive wooden siege tower as it rolls across the battlefield under flaming impacts. It climbs vertically along the outside as the structure begins to collapse, then slips through a shattered side panel into the tower interior, passing ladders, panicked soldiers, splintering beams, and falling ropes.
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Flaming Arrow Camera Shot Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7151,7 +9824,10 @@ A huge mystical griffin with majestic wings slowly walks toward a small boy. The
 15-second cinematic battle shot locked behind a single flaming arrow. A commander releases the arrow from a hilltop at sunset, and the camera instantly snaps behind it in extreme high-speed pursuit. The arrow cuts through smoke, over cavalry, between elephant armor plates, under falling debris from a siege tower, and through crossing volleys of spears and ba
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Impossible Naval War Camera Shot Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7159,15 +9835,21 @@ A huge mystical griffin with majestic wings slowly walks toward a small boy. The
 15-second impossible naval war shot. The camera begins underwater beneath a warship in the open ocean, racing forward through dark blue water and bubbles, then rises through a crashing wave and bursts onto the carrier deck exactly as a fighter jet descends toward landing. It streaks low alongside the landing gear, crosses the deck under the wings as the arre
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Seedance 2.0 Transformation Prompt: 10 World Female Armors
 
 **Prompt:**
 ```
-Core visual prompt @94d74b42-17ec-45d3-ab60-487c3a1700cb: Complete 10 sets of world female armor transformations in 12 seconds, without wearing glasses throughout, full armor set with helmet + weapon, pure female general styling. All transitions feature glow particle effects, maintaining a unified style that is high-end, realistic, and shocking. Visuals for 
+Core visual prompt @94d74b42-17ec-45d3-ab60-487c3a1700cb: Complete 10 sets of world female armor transformations in 12 seconds, without wearing glasses throughout, full armor set with helmet + weapon, pure female general styling. All transitions feature glow particle effects, maintaining a unified style that is high-end, realistic, and shocking. Visuals for
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Seedance 2.0 Prompt for Beautiful Chef Cooking Sour Fish Soup
 
 **Prompt:**
@@ -7175,23 +9857,32 @@ Core visual prompt @94d74b42-17ec-45d3-ab60-487c3a1700cb: Complete 10 sets of wo
 Action subject @【@Image 1】wearing a white chef uniform 0-2 seconds (Starting the cut to slaughter the fish): Leaning over and pressing the fish, cloth shoes firmly planted on the stove, a quick knife diagonally cleaves the fish head, the blade slices along the spine, the two halves of fish meat separate instantly, and the fish bones are flicked onto the plat
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### 15-Second Multi-Scene Video Prompt for a Sacred Eastern Realm
 
 **Prompt:**
 ```
-15 seconds, theme of a sacred Eastern realm, solemn and peaceful, magnificent and holy, cinematic lighting, ultra-clear details, volumetric light, glazed material, golden particles, lotus elements, transparent and pure, ethereal and peaceful, not eerie, not gloomy. [0-3 seconds] Above the firmament, thick auspicious clouds slowly roll, a huge beam of golden 
+15 seconds, theme of a sacred Eastern realm, solemn and peaceful, magnificent and holy, cinematic lighting, ultra-clear details, volumetric light, glazed material, golden particles, lotus elements, transparent and pure, ethereal and peaceful, not eerie, not gloomy. [0-3 seconds] Above the firmament, thick auspicious clouds slowly roll, a huge beam of golden
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Short Horror Drama Prompt: 'Echo Program'
 
 **Prompt:**
 ```
-Title: \"Echo Program\" Core Theme: When you stop writing code, the code starts writing you. Timeline and Visual Description 00:00 - 00:03 | Scene 1: False Prosperity Visuals: Extreme close-up. A dimly lit room, illuminated only by the faint blue light from the monitor. The keyboard is automatically tapping at a high frequency, but no fingers are pressing the 
+Title: \"Echo Program\" Core Theme: When you stop writing code, the code starts writing you. Timeline and Visual Description 00:00 - 00:03 | Scene 1: False Prosperity Visuals: Extreme close-up. A dimly lit room, illuminated only by the faint blue light from the monitor. The keyboard is automatically tapping at a high frequency, but no fingers are pressing the
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Dynamic FPV Motocross Chase Video Prompt
 
 **Prompt:**
@@ -7199,7 +9890,10 @@ Title: \"Echo Program\" Core Theme: When you stop writing code, the code starts 
 Dynamic tracking FPV shot racing behind a motocross rider blasting through a crumbling abandoned city street, the camera aggressively tracking along the bike’s side as debris flies everywhere, the rider launching up a collapsed ramp onto a rooftop — blasting across broken buildings — ending in a cinematic stop as the bike jumps between rooftops with the skyl
 ```
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Seedance 2.0 Transformation Video Prompt: 12 Flower Gods
 
 **Prompt:**
@@ -7207,7 +9901,10 @@ Dynamic tracking FPV shot racing behind a motocross rider blasting through a cru
 8K ultra-high-definition live-action shooting, ultra-high resolution, cinematic texture, strong spatial three-dimensionality, theatrical-grade lighting and shadow, delicate skin texture, rich, natural, and vivid expressions, extremely strong emotional layering. A beautiful woman around 18 years old plays the 12 Flower Gods, rapidly turning and waving her han
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Supervolcano City Destruction
 
 **Prompt:**
@@ -7215,15 +9912,21 @@ Dynamic tracking FPV shot racing behind a motocross rider blasting through a cru
 A massive supervolcano erupts beneath a modern city built along the crater edge. The ground splits open, skyscrapers breaking apart as rivers of lava burst through the streets. The eruption launches enormous fireballs into the sky while shockwaves shatter windows across the city. Camera sweeps low through erupting fissures and collapsing buildings as volcani
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Chaotic Kung-Fu Fight Scene Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-\"Based on image1, create a photorealistic live-action scene of a beautiful Thai woman with disheveled hair, wrapped in a white bath towel, aggressively using high-impact kung-fu to eliminate a professional mercenary in a destroyed high-end Bangkok hotel room. The mercenary is dressed in a full-body matte black tactical suit with a balaclava and heavy combat 
+\"Based on image1, create a photorealistic live-action scene of a beautiful Thai woman with disheveled hair, wrapped in a white bath towel, aggressively using high-impact kung-fu to eliminate a professional mercenary in a destroyed high-end Bangkok hotel room. The mercenary is dressed in a full-body matte black tactical suit with a balaclava and heavy combat
 ```
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Neon Circuit Board Sequence
 
 **Prompt:**
@@ -7231,7 +9934,10 @@ A massive supervolcano erupts beneath a modern city built along the crater edge.
 Shot 1 (0.0–0.5) Macro shot of a droplet of neon-blue liquid falling onto a glowing circuit board. Audio: Electric drip: tzzk Shot 2 (0.5–1.0) Circuit lines ignite like flowing light veins, racing outward. Audio: Energy surge: vvvvmmmmm Shot 3 (1.0–1.5) A robotic arm
 ```
 
+> 🔗 [Original Source](https://x.com/vishwastweet)
+
 ---
+
 ### High-Speed Boat Chase in Hong Kong Harbor
 
 **Prompt:**
@@ -7239,7 +9945,10 @@ Shot 1 (0.0–0.5) Macro shot of a droplet of neon-blue liquid falling onto a gl
 A woman in her late 20s, athletic build, dark braided hair whipping behind her, wearing a black tactical wetsuit with reflective cyan seams, pilots a high-speed racing boat through the dense harbor of Hong Kong at night — neon skyscrapers reflecting across the water surface. At the 2-second mark a cargo ship suddenly shifts position ahead, blocking the water
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Complex Close Combat Sequence
 
 **Prompt:**
@@ -7247,7 +9956,10 @@ A woman in her late 20s, athletic build, dark braided hair whipping behind her, 
 SUBJECTS / PEOPLEMale protagonist, in his 30s, cold and tough, short hair, sharp facial features, wearing a well-fitted black suit, black shirt, and black tie. The outfit remains consistent throughout the entire video. His movements are steady, precise, and highly professional. He has extremely strong body control, with short and steady steps. In close comba
 ```
 
+> 🔗 [Original Source](https://x.com/promptsref)
+
 ---
+
 ### Rainbow Lorikeet Home Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7255,7 +9967,10 @@ SUBJECTS / PEOPLEMale protagonist, in his 30s, cold and tough, short hair, sharp
 A vibrant rainbow lorikeet parrot with glossy black head, bright orange beak, vivid red-orange chest, emerald green wings and back, and long yellow-green tail feathers perched confidently on a soft gray knitted blanket draped over a couch arm beside a large sunlit window. Lush green garden and trees visible outside, natural golden daylight streaming in, crea
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Shattering and Reforming Smartphone Sequence
 
 **Prompt:**
@@ -7263,7 +9978,10 @@ A vibrant rainbow lorikeet parrot with glossy black head, bright orange beak, vi
 Prompt 1: Dynamic movement, a smart phone drops from the sky and falls onto the city street, shattering into individual pieces, each part shown specifically in slow motion, camera orbits it. Prompt 2: Continue this video, the phone reforms back into the smart phone and lands onto the ground.
 ```
 
+> 🔗 [Original Source](https://x.com/jerrod_lew)
+
 ---
+
 ### Apocalyptic Transformation Sequence
 
 **Prompt:**
@@ -7271,7 +9989,10 @@ Prompt 1: Dynamic movement, a smart phone drops from the sky and falls onto the 
 Character \u0026 Setup Full-body based on reference image (upper-body reference), with face, hairstyle, and features matched exactly. She wears a hat. Expression is tense and restrained, slightly painful, with a faint frown—carrying a strong sense of despair and intensity in his eyes. Clothing: Dark grey coat, dark inner layer, no belt, wearing heavy black-tech g
 ```
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Superbike Touge Run Prompt for Seedance 2.0
 
 **Prompt:**
@@ -7279,7 +10000,10 @@ Character \u0026 Setup Full-body based on reference image (upper-body reference)
 The superbike blasts out of the last straight already at full throttle, tarmac vanishing under the front wheel. Handlebar-height camera faces forward, locked on the tank and mirrors while cedar trees blur into dark green walls on both sides. The pass tightens, the bike leans hard into a blind left, knee touching tarmac, the rear stepping wide on the exit and
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Seedance 2.0 Prompt for Nezha and Minions-like Characters
 
 **Prompt:**
@@ -7287,17 +10011,23 @@ The superbike blasts out of the last straight already at full throttle, tarmac v
 A Chinese mythological boy with two hair buns, a red mark on his forehead, and a red ribbon tied around him, walks into a Chinatown filled with red lanterns. He is looking for a group of single-eyed or double-eyed yellow capsule-shaped small creatures wearing blue overalls. Subsequently, the boy waves a red silk ribbon and engages in a comedic chase battle w
 ```
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Cybernetic Beetle Macro Chase
 
 **Prompt:**
 ```
-FORMAT: 15s / 6 SHOTS / single continuous chase energy / no dialogue STYLE: Macro jungle floor, towering grass blades, dew drops, damp earth vs neon pink cyber-implants, photorealistic macro cinematic Shot 01 (0:00-0:02) Dive from the canopy of a giant fern down to a cybernetically enhanced rhinoceros beetle sprinting across a fallen, moss-covered log. Shot 
+FORMAT: 15s / 6 SHOTS / single continuous chase energy / no dialogue STYLE: Macro jungle floor, towering grass blades, dew drops, damp earth vs neon pink cyber-implants, photorealistic macro cinematic Shot 01 (0:00-0:02) Dive from the canopy of a giant fern down to a cybernetically enhanced rhinoceros beetle sprinting across a fallen, moss-covered log. Shot
 ```
 
 ![Cybernetic Beetle Macro Chase](../gifs/2004.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Multi-Phase Visual Prompt (Chinese/English)
 
 **Prompt:**
@@ -7307,17 +10037,23 @@ Phase 1: The Raw Era / 0.5s Cuts (Primitive Era) Visual Prompt (Chinese): (Scree
 
 ![Multi-Phase Visual Prompt (Chinese/English)](../gifs/2007.gif)
 
+> 🔗 [Original Source](https://x.com/plasm0)
+
 ---
+
 ### Heartwarming special effect of being swarmed by fluffy kittens
 
 **Prompt:**
 ```
-A heartwarming and joyful special effect where the subject is suddenly swarmed by a large group of adorable fluffy kittens, multiple pet cats run into the scene from all directions, they playfully jump onto the subject's lap, climb on the shoulders, and nuzzle against the face, the figure is rapidly surrounded by the gathering animals creating a chaotic but 
+A heartwarming and joyful special effect where the subject is suddenly swarmed by a large group of adorable fluffy kittens, multiple pet cats run into the scene from all directions, they playfully jump onto the subject's lap, climb on the shoulders, and nuzzle against the face, the figure is rapidly surrounded by the gathering animals creating a chaotic but
 ```
 
 ![Heartwarming special effect of being swarmed by fluffy kittens](../gifs/1994.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### The Barista Rube Goldberg Machine
 
 **Prompt:**
@@ -7327,7 +10063,10 @@ SUBJECTS: Subject 1: A frantic barista — small, wiry, early 30s with permanent
 
 ![The Barista Rube Goldberg Machine](../gifs/2000.gif)
 
+> 🔗 [Original Source](https://x.com/joaquin_arana)
+
 ---
+
 ### Cinematic Indiana Jones-style escape from a closing stone door
 
 **Prompt:**
@@ -7337,7 +10076,10 @@ Side angle cinematic shot. A massive ancient stone door grinds downward rapidly,
 
 ![Cinematic Indiana Jones-style escape from a closing stone door](../gifs/1996.gif)
 
+> 🔗 [Original Source](https://x.com/flikai)
+
 ---
+
 ### Multi-shot video prompt for a girl stealing earrings from an art museum at night
 
 **Prompt:**
@@ -7347,7 +10089,10 @@ Duration: 15s, Scene: Art museum at late night @Image1 Shot 1-Static shot: The g
 
 ![Multi-shot video prompt for a girl stealing earrings from an art museum at night](../gifs/1990.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### One-take UGC video of a woman cutting a cake and a cat screaming
 
 **Prompt:**
@@ -7357,7 +10102,10 @@ one-take video[14s][Apple iPhone front camera],[User daily UGC style],[Dramatic,
 
 ![One-take UGC video of a woman cutting a cake and a cat screaming](../gifs/1991.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Stylized 3D Tea Ceremony Video Prompt
 
 **Prompt:**
@@ -7365,7 +10113,10 @@ one-take video[14s][Apple iPhone front camera],[User daily UGC style],[Dramatic,
 FORMAT: 15s / MULTI-CUT / 6 BEATS / STYLIZED 3D CEREMONIAL PAYOFF SUBJECTS: A tea ceremony master in painterly stylized 3D, surfaces like fired ceramic and ink-washed silk. Expressive eyes holding centuries of stillness, indigo kimono draping like living
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Absurd Cute Dog Video Prompt
 
 **Prompt:**
@@ -7375,7 +10126,10 @@ Photorealistic cinematic vertical video, 9:16 aspect ratio, extremely plump sphe
 
 ![Absurd Cute Dog Video Prompt](../gifs/2003.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Sci-Fi Soldier Transformation VFX
 
 **Prompt:**
@@ -7385,7 +10139,10 @@ Cinematic VFX sci-fi transformation shot on Arri Alexa Mini LF with a low-angle 
 
 ![Sci-Fi Soldier Transformation VFX](../gifs/2005.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Technical animation of a levitating, exploding vintage television
 
 **Prompt:**
@@ -7395,7 +10152,10 @@ The vintage orange television slowly lifts off the table and levitates into the 
 
 ![Technical animation of a levitating, exploding vintage television](../gifs/1993.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Ultra-realistic downhill skateboard ride with cinematic cinematography
 
 **Prompt:**
@@ -7403,15 +10163,21 @@ The vintage orange television slowly lifts off the table and levitates into the 
 Use Image 1 as the first frame, referencing the character design, outfit color palette, and overall visual style of Image 1. The girl is performing a high-speed downhill skateboard ride on a winding suburban mountain road. The shot uses a Steadicam follow perspective, with an intense sense of speed throughout. The powerful wind generated by the fast ride mak
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cinematic VFX racing sequence with bullet-time rain effect
 
 **Prompt:**
 ```
-Cinematic VFX racing sequence shot on Arri Alexa 35 with anamorphic lenses featuring a low-profile tracking shot following a high-performance race car tearing through a rain-drenched circuit at extreme speeds. As the engine roars, the scene shifts into a hyper-realistic bullet-time sequence where time slows to a crawl, capturing millions of crystalline rain 
+Cinematic VFX racing sequence shot on Arri Alexa 35 with anamorphic lenses featuring a low-profile tracking shot following a high-performance race car tearing through a rain-drenched circuit at extreme speeds. As the engine roars, the scene shifts into a hyper-realistic bullet-time sequence where time slows to a crawl, capturing millions of crystalline rain
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Zootopia Comedic Donut Chase Short
 
 **Prompt:**
@@ -7421,7 +10187,10 @@ Cinematic VFX racing sequence shot on Arri Alexa 35 with anamorphic lenses featu
 
 ![Zootopia Comedic Donut Chase Short](../gifs/2006.gif)
 
+> 🔗 [Original Source](https://x.com/promptsref)
+
 ---
+
 ### Surreal Sky Ocean Battle: Whale vs. Kraken
 
 **Prompt:**
@@ -7431,7 +10200,10 @@ Environment: A surreal ocean in the sky where enormous waves float between cloud
 
 ![Surreal Sky Ocean Battle: Whale vs. Kraken](../gifs/1998.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Chibi Phoebe Close-up Portrait with Baby-Talk
 
 **Prompt:**
@@ -7441,17 +10213,23 @@ Photorealistic vertical 9:16 close-up portrait of a charming young East Asian wo
 
 ![Chibi Phoebe Close-up Portrait with Baby-Talk](../gifs/2001.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Seedance 2.0 Short Drama Prompt: 'The Marriage'
 
 **Prompt:**
 ```
-Scene 1 (0~3 seconds) The Princess throws a tantrum Visuals: Inside an ancient boudoir, a mahogany dressing table. The Princess [@Image 2] is wearing a red wedding dress and a golden phoenix crown, with her long hair braided into thick pigtails hanging over her chest. The Princess is beautiful and cute, frowning, pouting in anger, and standing with hands on 
+Scene 1 (0~3 seconds) The Princess throws a tantrum Visuals: Inside an ancient boudoir, a mahogany dressing table. The Princess [@Image 2] is wearing a red wedding dress and a golden phoenix crown, with her long hair braided into thick pigtails hanging over her chest. The Princess is beautiful and cute, frowning, pouting in anger, and standing with hands on
 ```
 
 ![Seedance 2.0 Short Drama Prompt: 'The Marriage'](../gifs/2018.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Three-Shot Video Sequence Prompt with Audio Cues
 
 **Prompt:**
@@ -7461,7 +10239,10 @@ Shot 1 (0.0-0.5): Macro shot of butter sliding off a spatula onto a polished flo
 
 ![Three-Shot Video Sequence Prompt with Audio Cues](../gifs/2009.gif)
 
+> 🔗 [Original Source](https://x.com/GlitterPixely)
+
 ---
+
 ### Martial Arts Fight Scene in a Japanese Dojo
 
 **Prompt:**
@@ -7471,7 +10252,10 @@ The scene is a Japanese-style martial arts dojo, with wooden structures and Japa
 
 ![Martial Arts Fight Scene in a Japanese Dojo](../gifs/2017.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Anime Sakuga Fight Scene Prompt 1
 
 **Prompt:**
@@ -7481,7 +10265,10 @@ Video 1: Exaggerated anime sakuga high-speed fight scene 10 seconds premium qual
 
 ![Anime Sakuga Fight Scene Prompt 1](../gifs/2008.gif)
 
+> 🔗 [Original Source](https://x.com/NACHOS2D_)
+
 ---
+
 ### Cinematic Forest Horror Sequence
 
 **Prompt:**
@@ -7491,7 +10278,10 @@ Cinematic forest horror at night, dense fog, flashlight beam cutting through tre
 
 ![Cinematic Forest Horror Sequence](../gifs/2014.gif)
 
+> 🔗 [Original Source](https://x.com/azed_ai)
+
 ---
+
 ### Documentary Style Video Prompt with Imperfect Camera Effects
 
 **Prompt:**
@@ -7501,7 +10291,10 @@ Cinematic forest horror at night, dense fog, flashlight beam cutting through tre
 
 ![Documentary Style Video Prompt with Imperfect Camera Effects](../gifs/2012.gif)
 
+> 🔗 [Original Source](https://x.com/Ankit_patel211)
+
 ---
+
 ### Long Exposure Video of Contemporary Dancer
 
 **Prompt:**
@@ -7511,7 +10304,10 @@ Prompt: Long exposure video of a contemporary dancer performing in a dark black 
 
 ![Long Exposure Video of Contemporary Dancer](../gifs/2015.gif)
 
+> 🔗 [Original Source](https://x.com/patrickassale)
+
 ---
+
 ### Seedance 2.0 Prompt: Cyberpunk Time Travel from Disaster to Ancient Market
 
 **Prompt:**
@@ -7519,7 +10315,10 @@ Prompt: Long exposure video of a contemporary dancer performing in a dark black 
 Act 1: Disaster film realistic style, one-shot. The camera starts above the floating metropolis in stormy weather, diving down onto the shattered roof of a submerged museum, where a lone cyberpunk heroine [Image 1] stands. She sees a rescue flare in the distance and starts running. The camera closely follows her as she traverses collapsed rooftops, leaps ove
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Character Description for a Kung Fu Chef
 
 **Prompt:**
@@ -7527,7 +10326,10 @@ Act 1: Disaster film realistic style, one-shot. The camera starts above the floa
 SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and defined jawline. Wears a modernized Chinese chef outfit fused with martial arts attire: fitted sleeveless upper garment with mandarin collar, dark matte fabric with subtle sheen; forearms wrapped with cloth
 ```
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Dark Knight and Armored Taotie Transformation
 
 **Prompt:**
@@ -7535,7 +10337,10 @@ SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and defined ja
 Core Theme: Realistic sci-fi tokusatsu; ruin collapse; dark energy convergence; heavily armored dark knight + armored Taotie (pure form) undergoing synchronized transformation; cinematic-level weight and oppression; CG realism blending biotechnology and dark heavy armor aesthetics. Character Setup Face: Strict 1:1 replication of reference image. Facial featu
 ```
 
+> 🔗 [Original Source](https://x.com/AIToolTracker_)
+
 ---
+
 ### 3D CG Animation of a Monk Riding a White Horse
 
 **Prompt:**
@@ -7543,7 +10348,10 @@ Core Theme: Realistic sci-fi tokusatsu; ruin collapse; dark energy convergence; 
 High-saturation 3D CG animation, strong contrast gold and electric blue highlights, cinematic volumetric lighting, style of Ne Zha and Monkey King animated films. A bald Buddhist monk in flowing golden-yellow wide-sleeve robes with a bright red sash, riding a majestic white
 ```
 
+> 🔗 [Original Source](https://x.com/Mayz1169)
+
 ---
+
 ### Chubby Golden Shorthair Cat Eating Chinese Food
 
 **Prompt:**
@@ -7551,7 +10359,10 @@ High-saturation 3D CG animation, strong contrast gold and electric blue highligh
 A chubby golden British Shorthair cat with round face, green eyes, pink nose, golden-orange tabby fur and white chest, sitting upright next to a small folding tray table in a dimly lit bedroom at night. The cat is holding chopsticks in its paw and eating from a steaming Chinese
 ```
 
+> 🔗 [Original Source](https://x.com/Mayz1169)
+
 ---
+
 ### Seedance 2.0 Prompt for 'Affordable Transportation' Ad
 
 **Prompt:**
@@ -7559,7 +10370,10 @@ A chubby golden British Shorthair cat with round face, green eyes, pink nose, go
 0-3 seconds, medium fixed shot, two people in exquisite attire sit at a car dealership negotiation table, one aggressively slaps a bank card and shouts \"Full payment, no installments!\", the other nods proudly in agreement, the background dealership sign is blurred, accompanied by a high-end car commercial theme song + crisp card-slapping sound effect; 3-6 se
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Chibi penguin girl 'Gugu Gaga' cooking with an angry expression
 
 **Prompt:**
@@ -7567,7 +10381,10 @@ A chubby golden British Shorthair cat with round face, green eyes, pink nose, go
 Adorable super-deformed chibi penguin girl \"Gugu Gaga\" (Endministrator from Arknights Endfield), fluffy black-and-white penguin hood and body with big sparkling anime eyes, rosy cheeks, tiny body, oversized head, wearing vibrant pink blue white cute tactical outfit. Impatient frustrated expression shifting to playful defiance then triumphant confident smirk,
 ```
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Cinematic VFX war sequence with bullet-time tank shell firing
 
 **Prompt:**
@@ -7575,15 +10392,21 @@ Adorable super-deformed chibi penguin girl \"Gugu Gaga\" (Endministrator from Ar
 Cinematic VFX war sequence shot on Arri Alexa 65 with a high-speed tracking shot featuring an extreme close-up of a main battle tank's barrel as it recoils violently, triggering a hyper-realistic bullet-time transition. As the shell exits the muzzle, time slows to a near-halt, revealing a massive, intricate shockwave of fire and sand frozen in mid-air. The c
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Ultra-realistic martial arts choreography between a cat and a master
 
 **Prompt:**
 ```
-Testing martial arts choreography, fur physics, and comedic timing. 0:00 – 0:02: Extreme close-up of a chubby British Shorthair cat’s eyes. Ultra-detailed fur. 0:02 – 0:04: Hard cut to the Kung Fu master’s eyes. Focused and calm. 0:04 – 0:05: The cat softly says: “Mew.” Silence. 0:05 – 0:08: Rapid martial arts exchange. The cat dodges, spins, and flips with 
+Testing martial arts choreography, fur physics, and comedic timing. 0:00 – 0:02: Extreme close-up of a chubby British Shorthair cat’s eyes. Ultra-detailed fur. 0:02 – 0:04: Hard cut to the Kung Fu master’s eyes. Focused and calm. 0:04 – 0:05: The cat softly says: “Mew.” Silence. 0:05 – 0:08: Rapid martial arts exchange. The cat dodges, spins, and flips with
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Detailed anime battle scene prompt for Seedance 2.0
 
 **Prompt:**
@@ -7593,7 +10416,10 @@ Testing martial arts choreography, fur physics, and comedic timing. 0:00 – 0:0
 
 ![Detailed anime battle scene prompt for Seedance 2.0](../gifs/1970.gif)
 
+> 🔗 [Original Source](https://x.com/onofumi_AI)
+
 ---
+
 ### Character Consistency Video Prompt
 
 **Prompt:**
@@ -7603,7 +10429,10 @@ Testing martial arts choreography, fur physics, and comedic timing. 0:00 – 0:0
 
 ![Character Consistency Video Prompt](../gifs/1959.gif)
 
+> 🔗 [Original Source](https://x.com/Alantaroh)
+
 ---
+
 ### Dragon Quest Roto's Crest Fusion Magic 'Bagira' Video Generation Prompt
 
 **Prompt:**
@@ -7613,7 +10442,10 @@ Scene 1: Fire Magic (Gira) in the Right Hand. An extreme close-up of Polon the G
 
 ![Dragon Quest Roto's Crest Fusion Magic 'Bagira' Video Generation Prompt](../gifs/1971.gif)
 
+> 🔗 [Original Source](https://x.com/camera_fun_2030)
+
 ---
+
 ### Epic Historical-Fantasy Battle Video Prompt
 
 **Prompt:**
@@ -7623,7 +10455,10 @@ Scene 1: Fire Magic (Gira) in the Right Hand. An extreme close-up of Polon the G
 
 ![Epic Historical-Fantasy Battle Video Prompt](../gifs/1961.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Dubai Skybridge Motorbike Stunt Video Prompt
 
 **Prompt:**
@@ -7633,7 +10468,10 @@ A man in his early 30s, olive skin, short cropped hair, wearing a matte graphite
 
 ![Dubai Skybridge Motorbike Stunt Video Prompt](../gifs/1955.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Determined Penguin Rocket Sled Video Prompt
 
 **Prompt:**
@@ -7643,7 +10481,10 @@ determined penguin straps itself into a homemade rocket sled on an icy mountain.
 
 ![Determined Penguin Rocket Sled Video Prompt](../gifs/1962.gif)
 
+> 🔗 [Original Source](https://x.com/slopdotwtf)
+
 ---
+
 ### J-Horror Subway Scene
 
 **Prompt:**
@@ -7653,7 +10494,10 @@ Late night subway. Empty corridors. She is not behind you, she is already in the
 
 ![J-Horror Subway Scene](../gifs/1951.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Realistic Life Vlog Scene
 
 **Prompt:**
@@ -7663,7 +10507,10 @@ Late night subway. Empty corridors. She is not behind you, she is already in the
 
 ![Seedance 2.0 Video Prompt: Realistic Life Vlog Scene](../gifs/1969.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### First-person Parkour Chase Video Prompt
 
 **Prompt:**
@@ -7673,7 +10520,10 @@ First-person POV parkour chase across burning city rooftops, 10 seconds, raw han
 
 ![First-person Parkour Chase Video Prompt](../gifs/1958.gif)
 
+> 🔗 [Original Source](https://x.com/vishastudioai)
+
 ---
+
 ### Childhood Dream to Reality Transition Video Prompt
 
 **Prompt:**
@@ -7683,7 +10533,10 @@ One person appearing, @, 12 seconds, top-tier car commercial quality, cinematic 
 
 ![Childhood Dream to Reality Transition Video Prompt](../gifs/1964.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Cyberpunk Heroine in War and Desert
 
 **Prompt:**
@@ -7691,7 +10544,10 @@ One person appearing, @, 12 seconds, top-tier car commercial quality, cinematic 
 Act 1: War disaster film feel, one-shot, under the gray-blue morning light, overlooking the entire burning battlefield and the advancing military formation in the distance. The camera quickly descends into the trench, where a cyberpunk heroine, @Image 1, rushes out of a bunker torn open by artillery fire and runs towards the camera. Passing the camera, the l
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Stylized Magician Performance Video Prompt
 
 **Prompt:**
@@ -7701,7 +10557,10 @@ STYLE Stylized 3D animation with exaggerated forms, rounded or graphic shapes, a
 
 ![Stylized Magician Performance Video Prompt](../gifs/1960.gif)
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Humorous Persian Calf Haircut Transformation Video Prompt
 
 **Prompt:**
@@ -7711,7 +10570,10 @@ Theme: Humorous Persian calf salon haircut transformation Visuals: Professional 
 
 ![Humorous Persian Calf Haircut Transformation Video Prompt](../gifs/1954.gif)
 
+> 🔗 [Original Source](https://x.com/doctorwasif)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Cats on a Scooter
 
 **Prompt:**
@@ -7721,7 +10583,10 @@ A scene filmed from inside a car: through the windshield, a person riding a whit
 
 ![Seedance 2.0 Video Prompt: Cats on a Scooter](../gifs/1963.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Multi-Clip Video Prompt: Immortal Apprentice
 
 **Prompt:**
@@ -7731,7 +10596,10 @@ Style: Ethereal ancient Chinese style, fresh and sweet, first-person immersive f
 
 ![Seedance 2.0 Multi-Clip Video Prompt: Immortal Apprentice](../gifs/1888.gif)
 
+> 🔗 [Original Source](https://x.com/Soranlan)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Seamless Seasonal Transition Skate/Snowboard
 
 **Prompt:**
@@ -7741,7 +10609,10 @@ Background music rhythm perfectly matches the speed of the skateboarding/snowboa
 
 ![Seedance 2.0 Video Prompt: Seamless Seasonal Transition Skate/Snowboard](../gifs/1966.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Aerial Dogfight over Thai Temple
 
 **Prompt:**
@@ -7751,7 +10622,10 @@ Clip 1 · 2s · Establishment] Subject: Black-gold heavy mech fighter, @Image 1,
 
 ![Seedance 2.0 Video Prompt: Aerial Dogfight over Thai Temple](../gifs/1887.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Hand-Drawn Sketch to 3D Interior Transition
 
 **Prompt:**
@@ -7761,7 +10635,10 @@ A video of a hand-drawn sketch transforming into a 3D interior in a hand-drawn s
 
 ![Seedance 2.0 Video Prompt: Hand-Drawn Sketch to 3D Interior Transition](../gifs/1968.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Cultural Contrast: Flute Player in Cyberpunk Alley
 
 **Prompt:**
@@ -7771,7 +10648,10 @@ Medium close-up cinematic shot, an elderly Chinese grandfather with deep wrinkle
 
 ![Cultural Contrast: Flute Player in Cyberpunk Alley](../gifs/1956.gif)
 
+> 🔗 [Original Source](https://x.com/framefutura)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Seamless Ancient Chinese Costume Change
 
 **Prompt:**
@@ -7779,7 +10659,10 @@ Medium close-up cinematic shot, an elderly Chinese grandfather with deep wrinkle
 Character: Pure, cute, beautiful woman, cool white skin, a mole at the corner of the eye, slender figure, fair skin, fresh and natural style 0-1 second: Plain simple Ruqun (ancient dress), gentle girl, standing still with hands down, delicate hands lightly gathering sleeves, cool ancient style atmosphere, warm low-saturation tone, soft focus filter, medium s
 ```
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Hospital Corridor Emotional Scene
 
 **Prompt:**
@@ -7789,17 +10672,23 @@ Testing lighting, \"camera language,\" and subtle human emotion. Lighting: Cool 
 
 ![Hospital Corridor Emotional Scene](../gifs/1953.gif)
 
+> 🔗 [Original Source](https://x.com/ChangningL29508)
+
 ---
+
 ### Chibi Penguin-Girl Dance Video Prompt
 
 **Prompt:**
 ```
-masterpiece hyper-cute kawaii 3D CGI animation, best quality, smooth fluid motion. Adorable chibi penguin-girl hybrid “Penguin Endministrator” / Yuki: anime-style face with huge sparkling sapphire-blue eyes full of highlights and long lashes, rosy blush cheeks, gentle happy smile, black straight bob haircut with bangs and small silver hair clips plus a tiny 
+masterpiece hyper-cute kawaii 3D CGI animation, best quality, smooth fluid motion. Adorable chibi penguin-girl hybrid “Penguin Endministrator” / Yuki: anime-style face with huge sparkling sapphire-blue eyes full of highlights and long lashes, rosy blush cheeks, gentle happy smile, black straight bob haircut with bangs and small silver hair clips plus a tiny
 ```
 
 ![Chibi Penguin-Girl Dance Video Prompt](../gifs/1957.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Golden Hour Road Trip Cinematic Scene
 
 **Prompt:**
@@ -7809,7 +10698,10 @@ Real POV front seat dashcam view, a vintage 1950s American woody station wagon w
 
 ![Golden Hour Road Trip Cinematic Scene](../gifs/1952.gif)
 
+> 🔗 [Original Source](https://x.com/framefutura)
+
 ---
+
 ### Seedance 2.0 Dance Video Generation Prompt
 
 **Prompt:**
@@ -7819,7 +10711,10 @@ Live-action style, a beautiful girl @【@Image 2】 with long black hair, wearin
 
 ![Seedance 2.0 Dance Video Generation Prompt](../gifs/1885.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cyberpunk Trailer from Image Reference
 
 **Prompt:**
@@ -7829,7 +10724,10 @@ Live-action style, a beautiful girl @【@Image 2】 with long black hair, wearin
 
 ![Cyberpunk Trailer from Image Reference](../gifs/1876.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Seedance 2.0 Prompt: ATV Racing in a Desert Sandstorm
 
 **Prompt:**
@@ -7839,7 +10737,10 @@ First-person POV from an ATV racing through a massive desert sandstorm. Visibili
 
 ![Seedance 2.0 Prompt: ATV Racing in a Desert Sandstorm](../gifs/1874.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Kanuragan Action-Comedy Scene
 
 **Prompt:**
@@ -7849,7 +10750,10 @@ Eastern action-comedy style, 15 seconds, one continuous take. Inside a simple wo
 
 ![Kanuragan Action-Comedy Scene](../gifs/1872.gif)
 
+> 🔗 [Original Source](https://x.com/woleswoosh)
+
 ---
+
 ### Adventurer on Dragon Approaching Pirate Ship
 
 **Prompt:**
@@ -7859,7 +10763,10 @@ An adventurer, mounted on her dragon, soars through the sky, the massive creatur
 
 ![Adventurer on Dragon Approaching Pirate Ship](../gifs/1882.gif)
 
+> 🔗 [Original Source](https://x.com/timikareem)
+
 ---
+
 ### Gundam Transformation Video Prompt (Seedance 2.0)
 
 **Prompt:**
@@ -7869,7 +10776,10 @@ Core Theme: Realistic sense of technology, sci-fi mecha, epic grandeur, heavy in
 
 ![Gundam Transformation Video Prompt (Seedance 2.0)](../gifs/1889.gif)
 
+> 🔗 [Original Source](https://x.com/Aleph6Zero9)
+
 ---
+
 ### Seedance 2.0 Prompt: Melancholic Chibi Penguin in Snow
 
 **Prompt:**
@@ -7879,7 +10789,10 @@ Ultra-detailed 12–15 second cinematic animation, 3D CGI style, emotional story
 
 ![Seedance 2.0 Prompt: Melancholic Chibi Penguin in Snow](../gifs/1875.gif)
 
+> 🔗 [Original Source](https://x.com/SimplyAnnisa)
+
 ---
+
 ### Seedance 2.0 Prompt: Gugugaga Penguin Figurines
 
 **Prompt:**
@@ -7889,7 +10802,10 @@ smooth fluid AI animation of multiple cute chibi Gugugaga penguin characters fro
 
 ![Seedance 2.0 Prompt: Gugugaga Penguin Figurines](../gifs/1878.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Bus Disassembly and Reorganization
 
 **Prompt:**
@@ -7899,7 +10815,10 @@ An old, green, oversized, and extra-tall American-style bus is parked in a dilap
 
 ![Bus Disassembly and Reorganization](../gifs/1883.gif)
 
+> 🔗 [Original Source](https://x.com/sumiturkude007)
+
 ---
+
 ### Kawaii chibi penguin-girl dancing prompt
 
 **Prompt:**
@@ -7909,7 +10828,10 @@ Ultra-detailed 12-second vertical 9:16 TikTok animation, hyper-cute kawaii 3D CG
 
 ![Kawaii chibi penguin-girl dancing prompt](../gifs/1877.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### First-person seamless rollercoaster ride through changing environments
 
 **Prompt:**
@@ -7917,7 +10839,10 @@ Ultra-detailed 12-second vertical 9:16 TikTok animation, hyper-cute kawaii 3D CG
 A first-person perspective rollercoaster ride scene. Hands gripping the safety bar are visible at the bottom of the screen. A completely seamless one-take video. No cuts or transitions whatsoever. The rollercoaster travels at high speed on the rails, including steep drops, loops, and sharp turns. The camera naturally shakes as the rider's viewpoint, accompan
 ```
 
+> 🔗 [Original Source](https://x.com/YaReYaRu30Life)
+
 ---
+
 ### Cinematic Beach Scene with Sandworm and Warrior
 
 **Prompt:**
@@ -7927,7 +10852,10 @@ Cinematic beach scene, sunny day, realistic raw footage of people walking on san
 
 ![Cinematic Beach Scene with Sandworm and Warrior](../gifs/1881.gif)
 
+> 🔗 [Original Source](https://x.com/Ankit_patel211)
+
 ---
+
 ### Seedance 2.0 Prompt: Gugu Gaga Harvesting Cuteness
 
 **Prompt:**
@@ -7937,7 +10865,10 @@ masterpiece, best quality, ultra-cute 3D chibi anime animation of adorable pengu
 
 ![Seedance 2.0 Prompt: Gugu Gaga Harvesting Cuteness](../gifs/1879.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Seamless Four-Season Skate/Snowboard Journey Video Prompt
 
 **Prompt:**
@@ -7947,7 +10878,10 @@ The rhythm of the background music must perfectly match the speed of the skatebo
 
 ![Seamless Four-Season Skate/Snowboard Journey Video Prompt](../gifs/1886.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Viral Game Comedy Video Prompt
 
 **Prompt:**
@@ -7957,7 +10891,10 @@ FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL GAME COMEDY SUBJECTS: A spirited 
 
 ![Viral Game Comedy Video Prompt](../gifs/1884.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Shrimp Wars Animation Prompt
 
 **Prompt:**
@@ -7967,17 +10904,23 @@ Shrimp Wars 🦐 This is an animation about a playful shrimp toss duel that hook
 
 ![Shrimp Wars Animation Prompt](../gifs/1824.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Nezha vs. Monkey King Martial Arts Video Prompt (Seedance 2.0)
 
 **Prompt:**
 ```
-Dual-wielding weapons combat + Fog Hill of Five Elements (Wushan Wuxing) national comic style + fist-to-flesh combat + animation-level camera work + two people evenly matched, each with their own strengths. Scene 1: Battle starts immediately · Weapon clash Authentic Wushan Wuxing national comic style, sharp, hard-edged ink lines, high-contrast red and black 
+Dual-wielding weapons combat + Fog Hill of Five Elements (Wushan Wuxing) national comic style + fist-to-flesh combat + animation-level camera work + two people evenly matched, each with their own strengths. Scene 1: Battle starts immediately · Weapon clash Authentic Wushan Wuxing national comic style, sharp, hard-edged ink lines, high-contrast red and black
 ```
 
 ![Nezha vs. Monkey King Martial Arts Video Prompt (Seedance 2.0)](../gifs/1815.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Epic Fantasy War Video Generation in Extreme Cold Environment
 
 **Prompt:**
@@ -7987,7 +10930,10 @@ Part 1: Generate a video based on the female protagonist in the image, an epic f
 
 ![Epic Fantasy War Video Generation in Extreme Cold Environment](../gifs/1820.gif)
 
+> 🔗 [Original Source](https://x.com/TanLuAI)
+
 ---
+
 ### Seedance 2.0 Prompt: Gugu Gaga on a Mountain Top
 
 **Prompt:**
@@ -7997,17 +10943,23 @@ A highly detailed 3D CGI kawaii animation still of an ultra-cute anthropomorphic
 
 ![Seedance 2.0 Prompt: Gugu Gaga on a Mountain Top](../gifs/1880.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Gothic Airship Transformation
 
 **Prompt:**
 ```
-She stands alone on the elevated bridge of a massive fantasy airship at night, with ornate iron railings and glowing cyan accent lights. The ship has a dark gothic organic design with intricate surface details. She gazes out at the dark sky with an empty, distant expression. The night sky and landscape behind her gradually distort and shift into a scorched, 
+She stands alone on the elevated bridge of a massive fantasy airship at night, with ornate iron railings and glowing cyan accent lights. The ship has a dark gothic organic design with intricate surface details. She gazes out at the dark sky with an empty, distant expression. The night sky and landscape behind her gradually distort and shift into a scorched,
 ```
 
 ![Gothic Airship Transformation](../gifs/1873.gif)
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### White Tiger Hunter in Glacial Canyon
 
 **Prompt:**
@@ -8017,7 +10969,10 @@ A vast frozen valley under pale twilight. Towering glacier walls reflect soft bl
 
 ![White Tiger Hunter in Glacial Canyon](../gifs/1806.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Sitcom Dialogue Scene Prompt
 
 **Prompt:**
@@ -8025,17 +10980,23 @@ A vast frozen valley under pale twilight. Towering glacier walls reflect soft bl
 Wide shot two friends sit on sofa and talk in very excited, dumb voices Friend 1 (eyes wide, super excited, loud): Bro… we’re DONE being broke!! Close-up on Friend 2 (confused but hyped): What’s the plan??? Close-up on Friend 1 (dead serious, leaning in): Vibecoding!
 ```
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Zero-Gravity Rotating Corridor Fight
 
 **Prompt:**
 ```
-Sci-fi action film style, 15 seconds, one continuous take. The camera enters a white high-tech transport ship corridor. Red warning lights begin to flash, the gravity system suddenly malfunctions, and the entire corridor slowly begins to rotate. The camera closely follows an agent in a dark gray tactical suit at medium-close range as he engages in extremely 
+Sci-fi action film style, 15 seconds, one continuous take. The camera enters a white high-tech transport ship corridor. Red warning lights begin to flash, the gravity system suddenly malfunctions, and the entire corridor slowly begins to rotate. The camera closely follows an agent in a dark gray tactical suit at medium-close range as he engages in extremely
 ```
 
 ![Zero-Gravity Rotating Corridor Fight](../gifs/1809.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Ancient Egyptian Warrior vs. Nile Mud Beast
 
 **Prompt:**
@@ -8045,7 +11006,10 @@ an ancient Egyptian warrior king vs a cursed Nile mud beast in flooded temple ru
 
 ![Ancient Egyptian Warrior vs. Nile Mud Beast](../gifs/1810.gif)
 
+> 🔗 [Original Source](https://x.com/BasetaTube)
+
 ---
+
 ### Crimson Relic-War Transformation and Angel Fight
 
 **Prompt:**
@@ -8055,7 +11019,10 @@ Use the provided images as exact references for the woman, her transformed crims
 
 ![Crimson Relic-War Transformation and Angel Fight](../gifs/1807.gif)
 
+> 🔗 [Original Source](https://x.com/Bubioai)
+
 ---
+
 ### Giant Prehistoric Beast Wakes Up in the Desert
 
 **Prompt:**
@@ -8065,7 +11032,10 @@ A giant prehistoric beast wakes up in the desert. Opens its mouth. And roars.
 
 ![Giant Prehistoric Beast Wakes Up in the Desert](../gifs/1825.gif)
 
+> 🔗 [Original Source](https://x.com/PolloAIFR)
+
 ---
+
 ### Continuous Shot Astronaut Video Prompt (Seedance 2.0 Omni)
 
 **Prompt:**
@@ -8075,7 +11045,10 @@ FORMAT: 15s / ONE CONTINUOUS SHOT / NO CUTS / high-tension cinematic realism SUB
 
 ![Continuous Shot Astronaut Video Prompt (Seedance 2.0 Omni)](../gifs/1813.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Action Comedy: Polite Master in Dojo
 
 **Prompt:**
@@ -8085,7 +11058,10 @@ Eastern action-comedy style, 15 seconds, one continuous take. Inside a wooden do
 
 ![Action Comedy: Polite Master in Dojo](../gifs/1804.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Chinese Fantasy CG Prompt: Calligraphy Magic
 
 **Prompt:**
@@ -8095,7 +11071,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Seedance 2.0 Chinese Fantasy CG Prompt: Calligraphy Magic](../gifs/1818.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Wartime Disaster Movie Scene, One-Shot
 
 **Prompt:**
@@ -8105,7 +11084,10 @@ Wartime disaster movie feel, one-shot, under the gray-blue morning light, a youn
 
 ![Wartime Disaster Movie Scene, One-Shot](../gifs/1811.gif)
 
+> 🔗 [Original Source](https://x.com/kaan_alper)
+
 ---
+
 ### Action Comedy: Old Master in Hotel Lobby
 
 **Prompt:**
@@ -8115,7 +11097,10 @@ Comedy action short film style, 15 seconds, one continuous take. Inside a luxuri
 
 ![Action Comedy: Old Master in Hotel Lobby](../gifs/1805.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Chinese Ink Style Cat vs Dog Battle Prompt
 
 **Prompt:**
@@ -8125,7 +11110,10 @@ Authentic Chinese ink-style animation (Wushan Wuxing/Fog Hill of Five Elements),
 
 ![Seedance 2.0 Chinese Ink Style Cat vs Dog Battle Prompt](../gifs/1819.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Epic Chinese Fantasy CG Video: Four Arts of the Scholar
 
 **Prompt:**
@@ -8135,7 +11123,10 @@ Top-tier Chinese fantasy animation CG. Extremely high-saturation color explosion
 
 ![Epic Chinese Fantasy CG Video: Four Arts of the Scholar](../gifs/1817.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Colossal Prehistoric Shark Attack Video Prompt
 
 **Prompt:**
@@ -8145,7 +11136,10 @@ A colossal prehistoric great white shark the size of a skyscraper erupts from th
 
 ![Colossal Prehistoric Shark Attack Video Prompt](../gifs/1812.gif)
 
+> 🔗 [Original Source](https://x.com/vishastudioai)
+
 ---
+
 ### First-Person POV Flying Broomstick Video Generation
 
 **Prompt:**
@@ -8155,17 +11149,23 @@ Video type: vertical cinematic video, 9:16 aspect ratio, ultra realistic, 4K, 24
 
 ![First-Person POV Flying Broomstick Video Generation](../gifs/1822.gif)
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Kamen Rider Villain Transformation Sequence Video
 
 **Prompt:**
 ```
-vertical video, 9:16, 10 seconds, ultra realistic, cinematic lighting, Japanese woman age 20, natural beauty, medium-length black hair, casual outfit, modern apartment room, soft daylight, high detail skin texture, shallow depth of field, subtle camera push-in Scene starts with the woman sitting casually on a sofa, holding her smartphone, relaxed expression 
+vertical video, 9:16, 10 seconds, ultra realistic, cinematic lighting, Japanese woman age 20, natural beauty, medium-length black hair, casual outfit, modern apartment room, soft daylight, high detail skin texture, shallow depth of field, subtle camera push-in Scene starts with the woman sitting casually on a sofa, holding her smartphone, relaxed expression
 ```
 
 ![Kamen Rider Villain Transformation Sequence Video](../gifs/1821.gif)
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Cinematic Drone Dive into a Person's Eye
 
 **Prompt:**
@@ -8175,7 +11175,10 @@ ultra cinematic drone shot, top-down aerial view, a young Japanese woman (early 
 
 ![Cinematic Drone Dive into a Person's Eye](../gifs/1823.gif)
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Dark Warrior vs Lava Dragon Cinematic Scene Prompt
 
 **Prompt:**
@@ -8185,7 +11188,10 @@ ultra cinematic drone shot, top-down aerial view, a young Japanese woman (early 
 
 ![Dark Warrior vs Lava Dragon Cinematic Scene Prompt](../gifs/1803.gif)
 
+> 🔗 [Original Source](https://x.com/FutureVibesAi)
+
 ---
+
 ### Bentley S2 Continental ASMR Video Prompt
 
 **Prompt:**
@@ -8195,7 +11201,10 @@ FORMAT: 15s / 68 BPM / 6 CUTS / cinematic realism, luxury creator-style car ASMR
 
 ![Bentley S2 Continental ASMR Video Prompt](../gifs/1814.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Cinematic Honeybee Nectar Collection
 
 **Prompt:**
@@ -8205,17 +11214,23 @@ A cinematic video of honeybees actively collecting nectar on a bright yellow sun
 
 ![Cinematic Honeybee Nectar Collection](../gifs/1808.gif)
 
+> 🔗 [Original Source](https://x.com/MrOnsase)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Giant Asian Man Destroying Warships
 
 **Prompt:**
 ```
-Subject: Giant middle-aged Asian male from Image 1, black hair neatly slicked back with silver-grey strands, goatee, sharp facial features with cinematic detail, eyes full of anger and killing intent, wearing a white high-end suit jacket, white shirt, black tie, dark trousers, right hand tightly gripping a giant handgun, extremely realistic muscle contours. 
+Subject: Giant middle-aged Asian male from Image 1, black hair neatly slicked back with silver-grey strands, goatee, sharp facial features with cinematic detail, eyes full of anger and killing intent, wearing a white high-end suit jacket, white shirt, black tie, dark trousers, right hand tightly gripping a giant handgun, extremely realistic muscle contours.
 ```
 
 ![Seedance 2.0 Video Prompt: Giant Asian Man Destroying Warships](../gifs/1793.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Furious Giant Dragon Emerging from Ocean
 
 **Prompt:**
@@ -8225,17 +11240,23 @@ From the ocean emerges a furious giant (element) red dragon, leaping and flying 
 
 ![Furious Giant Dragon Emerging from Ocean](../gifs/1776.gif)
 
+> 🔗 [Original Source](https://x.com/hedo_ist)
+
 ---
+
 ### One-Shot War Disaster Film Sequence
 
 **Prompt:**
 ```
-Cinematic war disaster film feel, one-shot sequence. Under the gray-blue light of dawn, a young messenger rushes out of an underground bunker torn open by artillery fire. The camera closely follows him at high speed from behind, passing through muddy trenches, burning supply vehicles, shattered wooden bridges, and scattering crowds. Shells continuously fall 
+Cinematic war disaster film feel, one-shot sequence. Under the gray-blue light of dawn, a young messenger rushes out of an underground bunker torn open by artillery fire. The camera closely follows him at high speed from behind, passing through muddy trenches, burning supply vehicles, shattered wooden bridges, and scattering crowds. Shells continuously fall
 ```
 
 ![One-Shot War Disaster Film Sequence](../gifs/1772.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Chinese Fantasy CG Prompt: Painter Immortal
 
 **Prompt:**
@@ -8245,7 +11266,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Seedance 2.0 Chinese Fantasy CG Prompt: Painter Immortal](../gifs/1791.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Leopard Prowling Through a Surreal Forest in Henri Rousseau Style
 
 **Prompt:**
@@ -8255,7 +11279,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Leopard Prowling Through a Surreal Forest in Henri Rousseau Style](../gifs/1785.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Solitary Figure Rising at Dusk in J. M. W. Turner Style
 
 **Prompt:**
@@ -8265,7 +11292,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Solitary Figure Rising at Dusk in J. M. W. Turner Style](../gifs/1784.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Women Placing Glowing Lanterns on Water in Hieronymus Bosch Style
 
 **Prompt:**
@@ -8275,7 +11305,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Women Placing Glowing Lanterns on Water in Hieronymus Bosch Style](../gifs/1783.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Car Driving Through Melting Clocks Canyon in Salvador Dalí Style
 
 **Prompt:**
@@ -8285,7 +11318,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Car Driving Through Melting Clocks Canyon in Salvador Dalí Style](../gifs/1782.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Dreamlike Kiss in Franz Marc Style
 
 **Prompt:**
@@ -8295,7 +11331,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Dreamlike Kiss in Franz Marc Style](../gifs/1781.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Monk Placing a Glowing Flame in Hieronymus Bosch Style
 
 **Prompt:**
@@ -8305,7 +11344,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Monk Placing a Glowing Flame in Hieronymus Bosch Style](../gifs/1780.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Surreal Geometric City Walk in Pablo Picasso Style
 
 **Prompt:**
@@ -8315,7 +11357,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Surreal Geometric City Walk in Pablo Picasso Style](../gifs/1778.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Romero Britto style video prompt
 
 **Prompt:**
@@ -8325,7 +11370,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Romero Britto style video prompt](../gifs/1789.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Van Gogh style video prompt
 
 **Prompt:**
@@ -8335,7 +11383,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Van Gogh style video prompt](../gifs/1788.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Hyper-Realistic Football Strike Sequence
 
 **Prompt:**
@@ -8345,7 +11396,10 @@ Top-tier Chinese fantasy animated CG, cinematic Eastern fantasy blockbuster qual
 
 ![Hyper-Realistic Football Strike Sequence](../gifs/1771.gif)
 
+> 🔗 [Original Source](https://x.com/CurieuxExplorer)
+
 ---
+
 ### Warehouse Breach to Rooftop Inferno Cinematic Script
 
 **Prompt:**
@@ -8355,7 +11409,10 @@ FORMAT: 15s / 8 SHOTS / first-person action / no dialogue STYLE: photoreal actio
 
 ![Warehouse Breach to Rooftop Inferno Cinematic Script](../gifs/1773.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### The Office Dragon
 
 **Prompt:**
@@ -8365,7 +11422,10 @@ quick cuts of a photorealistic \"office dragon\" hyper-flying through multiple o
 
 ![The Office Dragon](../gifs/1768.gif)
 
+> 🔗 [Original Source](https://x.com/CatabolicState)
+
 ---
+
 ### CatFu Dojo Fight Scene
 
 **Prompt:**
@@ -8375,7 +11435,10 @@ Inside a traditional dojo, an old scarred cat master faces a young energetic kit
 
 ![CatFu Dojo Fight Scene](../gifs/1766.gif)
 
+> 🔗 [Original Source](https://x.com/AITutorZone)
+
 ---
+
 ### Gugu Gaga Chibi Anime Reaction
 
 **Prompt:**
@@ -8385,7 +11448,10 @@ masterpiece, best quality, ultra-cute 3D chibi anime animation, adorable moe gir
 
 ![Gugu Gaga Chibi Anime Reaction](../gifs/1774.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Cyberpunk Romance Scene: School Anniversary Night
 
 **Prompt:**
@@ -8395,7 +11461,10 @@ masterpiece, best quality, ultra-cute 3D chibi anime animation, adorable moe gir
 
 ![Cyberpunk Romance Scene: School Anniversary Night](../gifs/1797.gif)
 
+> 🔗 [Original Source](https://x.com/AaronYSun)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Fashion Commercial for Adam Hat Brand
 
 **Prompt:**
@@ -8405,7 +11474,10 @@ masterpiece, best quality, ultra-cute 3D chibi anime animation, adorable moe gir
 
 ![Seedance 2.0 Video Prompt: Fashion Commercial for Adam Hat Brand](../gifs/1792.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Vertical Action Insertion: Tactical Courier Freefall
 
 **Prompt:**
@@ -8415,7 +11487,10 @@ Image prompt A tactical courier in matte black climbing gear sits in the open do
 
 ![Vertical Action Insertion: Tactical Courier Freefall](../gifs/1779.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Cinematic cat action comedy prompt
 
 **Prompt:**
@@ -8425,7 +11500,10 @@ Image prompt A tactical courier in matte black climbing gear sits in the open do
 
 ![Cinematic cat action comedy prompt](../gifs/1786.gif)
 
+> 🔗 [Original Source](https://x.com/AaronYSun)
+
 ---
+
 ### Chibi Moe Anime Penguin Girl
 
 **Prompt:**
@@ -8435,7 +11513,10 @@ A high-quality 3D chibi moe anime short video, vertical 9:16. Adorable kawaii pe
 
 ![Chibi Moe Anime Penguin Girl](../gifs/1767.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Master Prompts on Vadoo AI
 
 **Prompt:**
@@ -8445,7 +11526,10 @@ Alarms blare, gravity disappears, and a space station begins to collapse… one 
 
 ![Master Prompts on Vadoo AI](../gifs/1770.gif)
 
+> 🔗 [Original Source](https://x.com/vadooai)
+
 ---
+
 ### Ramadan to Eid Infinity Zoom Hyperlapse
 
 **Prompt:**
@@ -8455,17 +11539,23 @@ Seamless infinity zoom hyperlapse through highly detailed paper-cut art capturin
 
 ![Ramadan to Eid Infinity Zoom Hyperlapse](../gifs/1775.gif)
 
+> 🔗 [Original Source](https://x.com/woleswoosh)
+
 ---
+
 ### Female Character Armor Assembly and Flight
 
 **Prompt:**
 ```
-Shot 1(8 seconds) a Powerful female character. Cinematic wide shot, soaring above a dramatic, swirling sea of golden hour clouds as warm orange sunlight catches the mist. Wind whips her hair and clothing with high physical realism. From all directions, sleek futuristic mechanical armor pieces—chest plate, shoulder guards, gauntlets, leg armor, and a glowing 
+Shot 1(8 seconds) a Powerful female character. Cinematic wide shot, soaring above a dramatic, swirling sea of golden hour clouds as warm orange sunlight catches the mist. Wind whips her hair and clothing with high physical realism. From all directions, sleek futuristic mechanical armor pieces—chest plate, shoulder guards, gauntlets, leg armor, and a glowing
 ```
 
 ![Female Character Armor Assembly and Flight](../gifs/1777.gif)
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Fast Seedance 2.0 Prompt for a Miniature Dragon
 
 **Prompt:**
@@ -8475,7 +11565,10 @@ Masterpiece, best quality, 8K ultra high definition, photorealistic, cinematic l
 
 ![Fast Seedance 2.0 Prompt for a Miniature Dragon](../gifs/1769.gif)
 
+> 🔗 [Original Source](https://x.com/jiangyuhe618)
+
 ---
+
 ### Cinematic Manga Romance: Confession on an Overpass
 
 **Prompt:**
@@ -8483,17 +11576,23 @@ Masterpiece, best quality, 8K ultra high definition, photorealistic, cinematic l
 8K ultra-detailed, cinematic manga romance, 16:9. After-school spring overpass beside a city campus, shy girl in a white shirt and a quiet dark-haired boy. First 3 seconds: a sharp gust tears a confession sketch from her notebook and slaps it against the boy's chest as they brush
 ```
 
+> 🔗 [Original Source](https://x.com/AaronYSun)
+
 ---
+
 ### Seedance 2.0 Mecha Transformation Video Prompt
 
 **Prompt:**
 ```
-Core Theme: Realistic sci-fi feel, sci-fi mecha, epic grandeur, heavy industrial mechanical aesthetic, live-action performance, extreme sports Character Setting: Reference @Image 1, completely identical, 1.7 meters tall, slightly dirty face; red special forces combat uniform, high-tech tactical vest, arm-worn controller with screen, clothing and accessories 
+Core Theme: Realistic sci-fi feel, sci-fi mecha, epic grandeur, heavy industrial mechanical aesthetic, live-action performance, extreme sports Character Setting: Reference @Image 1, completely identical, 1.7 meters tall, slightly dirty face; red special forces combat uniform, high-tech tactical vest, arm-worn controller with screen, clothing and accessories
 ```
 
 ![Seedance 2.0 Mecha Transformation Video Prompt](../gifs/1721.gif)
 
+> 🔗 [Original Source](https://x.com/94vanAI)
+
 ---
+
 ### Sci-fi superhero duel prompt
 
 **Prompt:**
@@ -8503,17 +11602,23 @@ Blockbuster superhero sci-fi duel inside a near-future reactor core chamber; one
 
 ![Sci-fi superhero duel prompt](../gifs/1787.gif)
 
+> 🔗 [Original Source](https://x.com/AaronYSun)
+
 ---
+
 ### Close-up of a parrot getting a haircut, scene 1
 
 **Prompt:**
 ```
-01-00 Close-up: The hairdresser uses a comb to lift the feathers on the top of the head for precise trimming. CU, orange-headed parrot wearing a black hair salon cape, stylist hands using silver scissors and a comb to trim top feathers, professional salon lighting, ring light reflection in eyes. 02 00:01 Mid-shot: The hairdresser picks up a spray bottle and 
+01-00 Close-up: The hairdresser uses a comb to lift the feathers on the top of the head for precise trimming. CU, orange-headed parrot wearing a black hair salon cape, stylist hands using silver scissors and a comb to trim top feathers, professional salon lighting, ring light reflection in eyes. 02 00:01 Mid-shot: The hairdresser picks up a spray bottle and
 ```
 
 ![Close-up of a parrot getting a haircut, scene 1](../gifs/1794.gif)
 
+> 🔗 [Original Source](https://x.com/shijianfengxing)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Mahjong Scene with Masseuses
 
 **Prompt:**
@@ -8523,7 +11628,10 @@ Blockbuster superhero sci-fi duel inside a near-future reactor core chamber; one
 
 ![Seedance 2.0 Video Prompt: Mahjong Scene with Masseuses](../gifs/1790.gif)
 
+> 🔗 [Original Source](https://x.com/zuoye520)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Epic Fantasy Aerial Dragon Attack
 
 **Prompt:**
@@ -8533,7 +11641,10 @@ Overall Intent: Epic, tense, and realistic fantasy aerial assault. A male rider 
 
 ![Seedance 2.0 Video Prompt: Epic Fantasy Aerial Dragon Attack](../gifs/1795.gif)
 
+> 🔗 [Original Source](https://x.com/vladimircherner)
+
 ---
+
 ### Sci-Fi Action Scene: Woman in Adaptive Suit vs. Tactical Enforcers
 
 **Prompt:**
@@ -8543,7 +11654,10 @@ Overall Intent: Epic, tense, and realistic fantasy aerial assault. A male rider 
 
 ![Sci-Fi Action Scene: Woman in Adaptive Suit vs. Tactical Enforcers](../gifs/1796.gif)
 
+> 🔗 [Original Source](https://x.com/AaronYSun)
+
 ---
+
 ### Epic Sci-Fi Action Sequence Prompt for Seedance 2.0
 
 **Prompt:**
@@ -8553,17 +11667,23 @@ Act 1: Industrial Ruins Chase, 15 seconds, one-shot. Subject: The cyberpunk hero
 
 ![Epic Sci-Fi Action Sequence Prompt for Seedance 2.0](../gifs/1723.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Continuous One-Take Disaster Film Realism
 
 **Prompt:**
 ```
-A lone emergency technician in an orange survival jacket stands on the shattered roof of a flooded museum in a drowned European capital, storm clouds overhead, broken statues and floating debris below, cold blue-grey palette, cinematic disaster realism, wet surfaces, strong scale, 35mm film look. Disaster film realism, one-take. The camera starts high above 
+A lone emergency technician in an orange survival jacket stands on the shattered roof of a flooded museum in a drowned European capital, storm clouds overhead, broken statues and floating debris below, cold blue-grey palette, cinematic disaster realism, wet surfaces, strong scale, 35mm film look. Disaster film realism, one-take. The camera starts high above
 ```
 
 ![Continuous One-Take Disaster Film Realism](../gifs/1707.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Dramatic mountain range eagle dive sequence for Seedance 2
 
 **Prompt:**
@@ -8573,7 +11693,10 @@ A dramatic mountain range at sunrise with massive cliffs dropping into deep vall
 
 ![Dramatic mountain range eagle dive sequence for Seedance 2](../gifs/1719.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Realistic Nightclub Short Video with Face Consistency
 
 **Prompt:**
@@ -8583,7 +11706,10 @@ A dramatic mountain range at sunrise with massive cliffs dropping into deep vall
 
 ![Realistic Nightclub Short Video with Face Consistency](../gifs/1726.gif)
 
+> 🔗 [Original Source](https://x.com/two3pro)
+
 ---
+
 ### Seedance 2.0 Global Female General Armor Transformation Video Prompt
 
 **Prompt:**
@@ -8593,7 +11719,10 @@ Core Scene Prompt @94d74b42-17ec-45d3-ab60-487c3a1700cb 12 seconds to complete 1
 
 ![Seedance 2.0 Global Female General Armor Transformation Video Prompt](../gifs/1720.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Motivated Continuous Camera Movement in Medieval Market Video Prompt
 
 **Prompt:**
@@ -8603,7 +11732,10 @@ FORMAT: cinematic continuous shot / motivated camera movement / 15s SCENE A crow
 
 ![Motivated Continuous Camera Movement in Medieval Market Video Prompt](../gifs/1717.gif)
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Viral Pixar-Style Turkish Ice Cream Trick Video Prompt
 
 **Prompt:**
@@ -8613,7 +11745,10 @@ FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECTS: A small 
 
 ![Viral Pixar-Style Turkish Ice Cream Trick Video Prompt](../gifs/1713.gif)
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Large-Scale Architectural Transformation and Destruction Physics Video Prompt
 
 **Prompt:**
@@ -8623,7 +11758,10 @@ A majestic presence in a dark, flowing mantle stands amidst a vibrant city squar
 
 ![Large-Scale Architectural Transformation and Destruction Physics Video Prompt](../gifs/1714.gif)
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Epic Dragon Battle Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -8633,7 +11771,10 @@ Scene 1 (3 seconds): A veteran warrior wearing a tattered cloak rides on the bac
 
 ![Epic Dragon Battle Video Prompt for Seedance 2.0](../gifs/1724.gif)
 
+> 🔗 [Original Source](https://x.com/Merak1990)
+
 ---
+
 ### Epic Superhero Transformation and Dragon Fight Video Prompt
 
 **Prompt:**
@@ -8643,7 +11784,10 @@ Scene 1 (3 seconds): A veteran warrior wearing a tattered cloak rides on the bac
 
 ![Epic Superhero Transformation and Dragon Fight Video Prompt](../gifs/1716.gif)
 
+> 🔗 [Original Source](https://x.com/FutureVibesAi)
+
 ---
+
 ### Sweet and Reversing Ancient Romance Short Drama Video Prompt
 
 **Prompt:**
@@ -8653,17 +11797,23 @@ Scene 1 (3 seconds): A veteran warrior wearing a tattered cloak rides on the bac
 
 ![Sweet and Reversing Ancient Romance Short Drama Video Prompt](../gifs/1722.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### One-Shot Continuous Fall Through Four Layers of Reality
 
 **Prompt:**
 ```
-one-shot continuous take, on a rooftop at dusk, a young man condenses a golden energy core between his hands, the surrounding air is torn open into a rotating spacetime rift. The camera quickly pushes into the rift, following him as he falls together into the first layer world: an abandoned future city, floating wreckage and gigantic ring-shaped motherships 
+one-shot continuous take, on a rooftop at dusk, a young man condenses a golden energy core between his hands, the surrounding air is torn open into a rotating spacetime rift. The camera quickly pushes into the rift, following him as he falls together into the first layer world: an abandoned future city, floating wreckage and gigantic ring-shaped motherships
 ```
 
 ![One-Shot Continuous Fall Through Four Layers of Reality](../gifs/1711.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Vibrant Orange Soda Commercial Shot
 
 **Prompt:**
@@ -8673,7 +11823,10 @@ A vibrant orange soda can surrounded by splashing citrus slices and sparkling wa
 
 ![Vibrant Orange Soda Commercial Shot](../gifs/1709.gif)
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Cinematic Duel: Wolverine vs. Hulk
 
 **Prompt:**
@@ -8683,7 +11836,10 @@ High-budget cinematic action sequence. A battle-worn Wolverine with sharp, refle
 
 ![Cinematic Duel: Wolverine vs. Hulk](../gifs/1712.gif)
 
+> 🔗 [Original Source](https://x.com/Shreyayadav)
+
 ---
+
 ### Celestial Goddess Manifestation at the White House Video Prompt
 
 **Prompt:**
@@ -8693,7 +11849,10 @@ A cinematic wide shot set on the lawn of the White House. A young blonde woman i
 
 ![Celestial Goddess Manifestation at the White House Video Prompt](../gifs/1715.gif)
 
+> 🔗 [Original Source](https://x.com/Shreyayadav)
+
 ---
+
 ### Cinematic Hyper-Realism: Silver BMW i8
 
 **Prompt:**
@@ -8703,27 +11862,36 @@ The scene starts with a medium-wide handheld shot at eye level using a DSLR with
 
 ![Cinematic Hyper-Realism: Silver BMW i8](../gifs/1710.gif)
 
+> 🔗 [Original Source](https://x.com/jigschat)
+
 ---
+
 ### Spring Outing Vlog Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-[Subject]: A young lady @[Image 1], with clear facial features, black wavy long hair, realistic skin texture, wearing a light green off-shoulder dress, with a joyful expression. [Action]: She gently holds a small bunch of rapeseed flowers in both hands, slowly turns sideways to look at the camera, showing a natural and sweet smile. The breeze blows her hair 
+[Subject]: A young lady @[Image 1], with clear facial features, black wavy long hair, realistic skin texture, wearing a light green off-shoulder dress, with a joyful expression. [Action]: She gently holds a small bunch of rapeseed flowers in both hands, slowly turns sideways to look at the camera, showing a natural and sweet smile. The breeze blows her hair
 ```
 
 ![Spring Outing Vlog Prompt for Seedance 2.0](../gifs/1642.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cyberpunk Motorcycle POV Video Prompt
 
 **Prompt:**
 ```
-A photorealistic first-person view from a speeding motorcycle racing through a neon-lit futuristic mountain city at golden sunset, towering cyberpunk skyscrapers with holographic ads reflecting on wet streets, flying drones and vehicles zipping by, dynamic camera shakes and turns, dramatic lens flares, ultra-detailed, 4K cinematic quality, high speed motion 
+A photorealistic first-person view from a speeding motorcycle racing through a neon-lit futuristic mountain city at golden sunset, towering cyberpunk skyscrapers with holographic ads reflecting on wet streets, flying drones and vehicles zipping by, dynamic camera shakes and turns, dramatic lens flares, ultra-detailed, 4K cinematic quality, high speed motion
 ```
 
 ![Cyberpunk Motorcycle POV Video Prompt](../gifs/1718.gif)
 
+> 🔗 [Original Source](https://x.com/MrOnsase)
+
 ---
+
 ### Cinematic Martial Arts Duel: Boar vs. Rooster in Minecraft Style
 
 **Prompt:**
@@ -8733,7 +11901,10 @@ Subject \u0026 Action: A cinematic martial arts duel between a sturdy anthropomo
 
 ![Cinematic Martial Arts Duel: Boar vs. Rooster in Minecraft Style](../gifs/1708.gif)
 
+> 🔗 [Original Source](https://x.com/Shreyayadav)
+
 ---
+
 ### King Kong Attack Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -8743,7 +11914,10 @@ Subject \u0026 Action: A cinematic martial arts duel between a sturdy anthropomo
 
 ![King Kong Attack Video Prompt for Seedance 2.0](../gifs/1725.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Godzilla-Sized White Tabby Cat in Chongqing
 
 **Prompt:**
@@ -8753,7 +11927,10 @@ Subject \u0026 Action: A cinematic martial arts duel between a sturdy anthropomo
 
 ![Godzilla-Sized White Tabby Cat in Chongqing](../gifs/1633.gif)
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Seedance 2.0 Video Prompt: News Report and Action Scene
 
 **Prompt:**
@@ -8763,7 +11940,10 @@ Subject \u0026 Action: A cinematic martial arts duel between a sturdy anthropomo
 
 ![Seedance 2.0 Video Prompt: News Report and Action Scene](../gifs/1643.gif)
 
+> 🔗 [Original Source](https://x.com/94vanAI)
+
 ---
+
 ### Woman applying makeup invaded by mud-like liquid
 
 **Prompt:**
@@ -8773,7 +11953,10 @@ A woman is applying makeup to her face as the camera shows an open door behind h
 
 ![Woman applying makeup invaded by mud-like liquid](../gifs/1636.gif)
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Ultra-realistic First-Person Zombie Survival Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -8783,7 +11966,10 @@ Ultra-realistic first-person POV zombie survival action scene, cinematic quality
 
 ![Ultra-realistic First-Person Zombie Survival Video Prompt for Seedance 2.0](../gifs/1649.gif)
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Seedance 2.0 prompt for high-viral comedic payoff video
 
 **Prompt:**
@@ -8793,7 +11979,10 @@ FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECTS: A small 
 
 ![Seedance 2.0 prompt for high-viral comedic payoff video](../gifs/1640.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Cyberpunk F1 Cinematic Sequence
 
 **Prompt:**
@@ -8803,7 +11992,10 @@ Wide angle shot of a futuristic Formula 1 car accelerating into a neon-lit cyber
 
 ![Cyberpunk F1 Cinematic Sequence](../gifs/1635.gif)
 
+> 🔗 [Original Source](https://x.com/woleswoosh)
+
 ---
+
 ### Frozen Canyon Dragon Flight
 
 **Prompt:**
@@ -8813,17 +12005,23 @@ An adventurer launches her pale ice creature from a frozen cliff's edge — the 
 
 ![Frozen Canyon Dragon Flight](../gifs/1632.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Vehicle-to-Mech Transformation
 
 **Prompt:**
 ```
-Seedance 2.0 motion prompt: One-take transformation action. A matte red endurance race car races along a stormy coastal highway at twilight, tires spraying water. The camera pushes close to the front quarter panel and tracks alongside as the car swerves around wreckage. Without slowing, the hood splits, wheels rotate, suspension arms extend, and body panels 
+Seedance 2.0 motion prompt: One-take transformation action. A matte red endurance race car races along a stormy coastal highway at twilight, tires spraying water. The camera pushes close to the front quarter panel and tracks alongside as the car swerves around wreckage. Without slowing, the hood splits, wheels rotate, suspension arms extend, and body panels
 ```
 
 ![Seedance 2.0 Video Prompt: Vehicle-to-Mech Transformation](../gifs/1638.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Video Prompt: First-Person Knight vs. Giant
 
 **Prompt:**
@@ -8833,17 +12031,23 @@ Scene: First-person perspective battlefield - Dusk / Overcast. Single shot (firs
 
 ![Seedance 2.0 Video Prompt: First-Person Knight vs. Giant](../gifs/1645.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Chai Glass to Futuristic Racing Pod Transformation
 
 **Prompt:**
 ```
-Handheld close‑up of a tiny toy cutting‑chai glass on the palm of a street vendor in an old Delhi lane at evening. He flicks the toy chai glass toward the ground; as it drops, the cup stretches into a futuristic racing pod shaped like a chai glass, steam turning into neon trails, the camera tracking it as it races through a narrow lane between stalls. After 
+Handheld close‑up of a tiny toy cutting‑chai glass on the palm of a street vendor in an old Delhi lane at evening. He flicks the toy chai glass toward the ground; as it drops, the cup stretches into a futuristic racing pod shaped like a chai glass, steam turning into neon trails, the camera tracking it as it races through a narrow lane between stalls. After
 ```
 
 ![Chai Glass to Futuristic Racing Pod Transformation](../gifs/1631.gif)
 
+> 🔗 [Original Source](https://x.com/FutureVibesAi)
+
 ---
+
 ### Seedance 2.0 Prompt for a Girl's Bedroom Selfie Vlog
 
 **Prompt:**
@@ -8853,7 +12057,10 @@ Bedroom scene, full of girlish charm. The main subject of the picture is a super
 
 ![Seedance 2.0 Prompt for a Girl's Bedroom Selfie Vlog](../gifs/1647.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Obsidian Dragon Ambushing Hamster
 
 **Prompt:**
@@ -8863,7 +12070,10 @@ Obsidian dragon hiding in sleeve → ambushing hamster A girl's arm in loose swe
 
 ![Seedance 2.0 Video Prompt: Obsidian Dragon Ambushing Hamster](../gifs/1639.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Classic Movie Scene Recreation (Two Segments)
 
 **Prompt:**
@@ -8873,7 +12083,10 @@ Segment 1: Referencing the character movements and camera techniques of @Video 1
 
 ![Seedance 2.0 Video Prompt: Classic Movie Scene Recreation (Two Segments)](../gifs/1648.gif)
 
+> 🔗 [Original Source](https://x.com/TanLuAI)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Crystal Tiny Dragon
 
 **Prompt:**
@@ -8883,7 +12096,10 @@ Close-up of an adult man's rough but warm palm facing upward, a fist-sized semi-
 
 ![Seedance 2.0 Video Prompt: Crystal Tiny Dragon](../gifs/1641.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Prompt for a Luxury Towel Commercial
 
 **Prompt:**
@@ -8893,7 +12109,10 @@ Close-up of an adult man's rough but warm palm facing upward, a fist-sized semi-
 
 ![Seedance 2.0 Prompt for a Luxury Towel Commercial](../gifs/1646.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Golden Tiny Dragon
 
 **Prompt:**
@@ -8903,7 +12122,10 @@ Golden tiny dragon coiled on wrist → teasing small dog A young woman's fair-sk
 
 ![Seedance 2.0 Video Prompt: Golden Tiny Dragon](../gifs/1637.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Cinematic Transformation Sequence of a Superwoman
 
 **Prompt:**
@@ -8913,7 +12135,10 @@ A cinematic transformation sequence of a fierce young Indian woman with long str
 
 ![Cinematic Transformation Sequence of a Superwoman](../gifs/1634.gif)
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Neon-lit Street Encounter
 
 **Prompt:**
@@ -8923,7 +12148,10 @@ Realistic style, first-person perspective. You are walking down a dimly lit stre
 
 ![Seedance 2.0 Video Prompt: Neon-lit Street Encounter](../gifs/1559.gif)
 
+> 🔗 [Original Source](https://x.com/MrGafish)
+
 ---
+
 ### Seedance 2.0 Wuxia Action Short Video Prompt
 
 **Prompt:**
@@ -8933,7 +12161,10 @@ Hong Kong Wuxia + Hollywood action mix, strong cinematic feel, 15 seconds durati
 
 ![Seedance 2.0 Wuxia Action Short Video Prompt](../gifs/1644.gif)
 
+> 🔗 [Original Source](https://x.com/Langby2)
+
 ---
+
 ### Cinematic Japanese Slice-of-Life Scene with Lip-Synced Dialogue
 
 **Prompt:**
@@ -8943,7 +12174,10 @@ A cinematic Japanese slice-of-life scene. Two young Japanese women (age 20 and 2
 
 ![Cinematic Japanese Slice-of-Life Scene with Lip-Synced Dialogue](../gifs/1564.gif)
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Low-Altitude Aircraft Flight Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -8953,7 +12187,10 @@ First-person view piloting a small aircraft at low altitude, skimming over mount
 
 ![Low-Altitude Aircraft Flight Video Prompt for Seedance 2.0](../gifs/1537.gif)
 
+> 🔗 [Original Source](https://x.com/Robertl83909710)
+
 ---
+
 ### Seedance 2.0 Prompt for Cosmic Planetary Instability
 
 **Prompt:**
@@ -8963,7 +12200,10 @@ A colossal celestial entity formed from rotating rings of mechanical galaxies ap
 
 ![Seedance 2.0 Prompt for Cosmic Planetary Instability](../gifs/1541.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Seedance 2.0 Romantic Winter Scene Prompt
 
 **Prompt:**
@@ -8973,7 +12213,10 @@ Presented from a low-angle perspective, a woman with loose, curly hair, possessi
 
 ![Seedance 2.0 Romantic Winter Scene Prompt](../gifs/1557.gif)
 
+> 🔗 [Original Source](https://x.com/Aleph6Zero9)
+
 ---
+
 ### Reference-based Video Generation Prompt
 
 **Prompt:**
@@ -8983,7 +12226,10 @@ Presented from a low-angle perspective, a woman with loose, curly hair, possessi
 
 ![Reference-based Video Generation Prompt](../gifs/1547.gif)
 
+> 🔗 [Original Source](https://x.com/BigMotion_ai)
+
 ---
+
 ### Ultra-Realistic Pancake Artistry Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -8993,7 +12239,10 @@ Ultra-realistic video of a pancake shaped like a strawberry on a clean white pla
 
 ![Ultra-Realistic Pancake Artistry Video Prompt for Seedance 2.0](../gifs/1538.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Heartwarming Woodland Comedy Video Prompt
 
 **Prompt:**
@@ -9003,7 +12252,10 @@ FORMAT: 15s / 6 SHOTS / heartwarming woodland comedy / short dialogue STYLE: hyp
 
 ![Heartwarming Woodland Comedy Video Prompt](../gifs/1550.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Anubis Tickle Scene
 
 **Prompt:**
@@ -9013,7 +12265,10 @@ Traditional Chinese style, modern 3D animation. 0-4 seconds: The powerful jackal
 
 ![Anubis Tickle Scene](../gifs/1563.gif)
 
+> 🔗 [Original Source](https://x.com/migrok293703)
+
 ---
+
 ### Ancient Style Singing Performance Video Prompt
 
 **Prompt:**
@@ -9023,7 +12278,10 @@ Traditional Chinese style, modern 3D animation. 0-4 seconds: The powerful jackal
 
 ![Ancient Style Singing Performance Video Prompt](../gifs/1555.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic Mecha Warrior in Wuxia Style Video Prompt
 
 **Prompt:**
@@ -9033,7 +12291,10 @@ Mecha Warrior performing solo in a Waterfall Wonderland · 1980s Wuxia film stil
 
 ![Cinematic Mecha Warrior in Wuxia Style Video Prompt](../gifs/1552.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Cinematic Night Racing Movie Scene for Seedance 2.0
 
 **Prompt:**
@@ -9043,7 +12304,10 @@ Cinematic Night, Rain, High Stakes Sport [00:00-00:05] Close-up of the veteran d
 
 ![Cinematic Night Racing Movie Scene for Seedance 2.0](../gifs/1565.gif)
 
+> 🔗 [Original Source](https://x.com/DeepDive_KR)
+
 ---
+
 ### Zero Gravity Warrior Fight Video Prompt
 
 **Prompt:**
@@ -9053,7 +12317,10 @@ Two elite warriors fighting in zero gravity inside a shattered space station orb
 
 ![Zero Gravity Warrior Fight Video Prompt](../gifs/1549.gif)
 
+> 🔗 [Original Source](https://x.com/weiinberg)
+
 ---
+
 ### Saitama vs. Garou Battle Scene
 
 **Prompt:**
@@ -9063,7 +12330,10 @@ This depicts the battle between Saitama and Garou. With just a single punch from
 
 ![Saitama vs. Garou Battle Scene](../gifs/1544.gif)
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Sneaky Cat Pet Vlog Action Sequence
 
 **Prompt:**
@@ -9073,17 +12343,23 @@ Cinematic vertical video (9:16), photorealistic pet vlog style, warm indoor dayt
 
 ![Sneaky Cat Pet Vlog Action Sequence](../gifs/1542.gif)
 
+> 🔗 [Original Source](https://x.com/Leoin2019)
+
 ---
+
 ### Ancient Drama Short Video Prompt: The Runaway Bride
 
 **Prompt:**
 ```
-00:00–00:02 (2s) [Opening Hook - The famous runaway bride scene] - Shot Type: High-angle aerial shot transitioning to a close-up push-in - Scene: The vermilion high wall of the General's Mansion, with a blooming red plum tree planted at the corner of the wall - Attire: - Female Lead [@Image 1]: A pink cross-collar Qixiong Ruqun, covered with a layer of thin 
+00:00–00:02 (2s) [Opening Hook - The famous runaway bride scene] - Shot Type: High-angle aerial shot transitioning to a close-up push-in - Scene: The vermilion high wall of the General's Mansion, with a blooming red plum tree planted at the corner of the wall - Attire: - Female Lead [@Image 1]: A pink cross-collar Qixiong Ruqun, covered with a layer of thin
 ```
 
 ![Ancient Drama Short Video Prompt: The Runaway Bride](../gifs/1556.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Female General Battlefield Video Prompt
 
 **Prompt:**
@@ -9093,7 +12369,10 @@ Seedance 2.0 Prompt method: One reference image + 2 sections of prompts to recre
 
 ![Female General Battlefield Video Prompt](../gifs/1551.gif)
 
+> 🔗 [Original Source](https://x.com/TanLuAI)
+
 ---
+
 ### Chinese Hanfu Character Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -9103,7 +12382,10 @@ Reference to image 1. Cinematic 8-second video, a beautiful woman in a lavish re
 
 ![Chinese Hanfu Character Video Prompt for Seedance 2.0](../gifs/1539.gif)
 
+> 🔗 [Original Source](https://x.com/hpssskkk)
+
 ---
+
 ### Seedance 2.0 Supercar Showcase Video Prompt
 
 **Prompt:**
@@ -9113,17 +12395,23 @@ Focusing on \"Supercar Personality and Performance,\" string together 5 distinct
 
 ![Seedance 2.0 Supercar Showcase Video Prompt](../gifs/1558.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### iPhone Promotional Video Prompt (Seedance 2.0)
 
 **Prompt:**
 ```
-An iPhone, featuring the Dynamic Island, initially displayed from the front, showing the time 9:41. Three shots are three discontinuous frames where the camera gradually zooms in on the phone body, with the center point of each zoom being the pill-shaped black Dynamic Island at the top of the screen. At the end of the third shot, the perspective enters this 
+An iPhone, featuring the Dynamic Island, initially displayed from the front, showing the time 9:41. Three shots are three discontinuous frames where the camera gradually zooms in on the phone body, with the center point of each zoom being the pill-shaped black Dynamic Island at the top of the screen. At the end of the third shot, the perspective enters this
 ```
 
 ![iPhone Promotional Video Prompt (Seedance 2.0)](../gifs/1562.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Dark Knight Transformation: FPV Cinematic Style
 
 **Prompt:**
@@ -9133,7 +12421,10 @@ An iPhone, featuring the Dynamic Island, initially displayed from the front, sho
 
 ![Dark Knight Transformation: FPV Cinematic Style](../gifs/1566.gif)
 
+> 🔗 [Original Source](https://x.com/Vampirosapien15)
+
 ---
+
 ### Colossal Ocean Leviathan Attack on a Megacity Harbor
 
 **Prompt:**
@@ -9143,17 +12434,23 @@ A colossal ocean leviathan, 300 meters long with armored whale-like plating and 
 
 ![Colossal Ocean Leviathan Attack on a Megacity Harbor](../gifs/1540.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Cinematic Long Take Action Sequence
 
 **Prompt:**
 ```
-\"Generate a cinematic, large-scale action long take animation. Theme: A Chinese youth flies a kite through crowded streets, leaps up steps, flips and lands, dashes toward a high platform, and executes a difficult jump. The drumbeat erupts the moment he lands. One single continuous shot throughout, no cuts, fluid movements, clear weight, inertia, and landing 
+\"Generate a cinematic, large-scale action long take animation. Theme: A Chinese youth flies a kite through crowded streets, leaps up steps, flips and lands, dashes toward a high platform, and executes a difficult jump. The drumbeat erupts the moment he lands. One single continuous shot throughout, no cuts, fluid movements, clear weight, inertia, and landing
 ```
 
 ![Cinematic Long Take Action Sequence](../gifs/1545.gif)
 
+> 🔗 [Original Source](https://x.com/SammmXBT)
+
 ---
+
 ### Mecha-Armor Transformation Action Sequence Prompt Summary
 
 **Prompt:**
@@ -9163,7 +12460,10 @@ A barefoot woman. Urban chaos. Then a full mecha-armor transformation mid-sequen
 
 ![Mecha-Armor Transformation Action Sequence Prompt Summary](../gifs/1554.gif)
 
+> 🔗 [Original Source](https://x.com/Shreyayadav)
+
 ---
+
 ### Luxury Skincare Commercial with 360-Degree Orbit
 
 **Prompt:**
@@ -9173,7 +12473,10 @@ A high-end luxury skincare commercial with an ultra-premium visual style. The pr
 
 ![Luxury Skincare Commercial with 360-Degree Orbit](../gifs/1543.gif)
 
+> 🔗 [Original Source](https://x.com/Itswsm105f)
+
 ---
+
 ### Steampunk Sky Battle Video Prompt
 
 **Prompt:**
@@ -9183,7 +12486,10 @@ A cinematic steampunk sky battle. A young sky mechanic girl in leather flight ge
 
 ![Steampunk Sky Battle Video Prompt](../gifs/1546.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Cinematic Suspense Prompt with Detailed Timeline
 
 **Prompt:**
@@ -9193,7 +12499,10 @@ Format: 15 seconds / One-take / Cinematic realism / No cuts, oppressive and heav
 
 ![Seedance 2.0 Cinematic Suspense Prompt with Detailed Timeline](../gifs/1561.gif)
 
+> 🔗 [Original Source](https://x.com/Merak1990)
+
 ---
+
 ### Gothic Vampire Lord Video Prompt
 
 **Prompt:**
@@ -9203,7 +12512,10 @@ Cinematic shots with strong visual impact, centered composition + low-angle upwa
 
 ![Gothic Vampire Lord Video Prompt](../gifs/1548.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Wuxia Combat Short Video Prompt (Seedance 2.0)
 
 **Prompt:**
@@ -9213,7 +12525,10 @@ Hong Kong Wuxia + Hollywood action hybrid, strong cinematic feel, duration 15 se
 
 ![Wuxia Combat Short Video Prompt (Seedance 2.0)](../gifs/1560.gif)
 
+> 🔗 [Original Source](https://x.com/Langby2)
+
 ---
+
 ### Wuxia Action Short Video Prompt (Seedance 2.0)
 
 **Prompt:**
@@ -9223,7 +12538,10 @@ Wuxia action film style, intense battle in a rainy night bamboo forest, black-cl
 
 ![Wuxia Action Short Video Prompt (Seedance 2.0)](../gifs/1553.gif)
 
+> 🔗 [Original Source](https://x.com/Langby2)
+
 ---
+
 ### Seedance 2.0 prompt for a Wuxia fantasy battle scene
 
 **Prompt:**
@@ -9231,7 +12549,10 @@ Wuxia action film style, intense battle in a rainy night bamboo forest, black-cl
 Fairy's appearance features reference @[Image 1] 1. Shot 1 (0-3 seconds): Medium shot + low angle, the fairy floats in the air, robes fluttering, hands quickly beginning to form seals, chanting: “Heaven and Earth are boundless—” The background is a gloomy sky, and a formation of black-clad enemies in the distance is ready. The camera slowly moves up from the
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Grok vs. Seedance 2.0 Comparison: Skateboarder on Coastal Road
 
 **Prompt:**
@@ -9241,17 +12562,23 @@ First-person perspective, a teenager skateboarding on a coastal road, sea breeze
 
 ![Grok vs. Seedance 2.0 Comparison: Skateboarder on Coastal Road](../gifs/1482.gif)
 
+> 🔗 [Original Source](https://x.com/Robertl83909710)
+
 ---
+
 ### The Desert Train Heist
 
 **Prompt:**
 ```
-A biker wearing desert goggles and a sand-colored jacket races a dirt bike alongside a speeding freight train in a vast Sahara landscape. At the 2-second mark he hits a dune ramp and launches toward the train roof. The bike lands across the top of a container car while sandstorms swirl around the convoy. Camera tracks low along the train as the rider speeds 
+A biker wearing desert goggles and a sand-colored jacket races a dirt bike alongside a speeding freight train in a vast Sahara landscape. At the 2-second mark he hits a dune ramp and launches toward the train roof. The bike lands across the top of a container car while sandstorms swirl around the convoy. Camera tracks low along the train as the rider speeds
 ```
 
 ![The Desert Train Heist](../gifs/1462.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### JSON Prompt for Modern Anime Sakuga Fight Sequence
 
 **Prompt:**
@@ -9261,7 +12588,10 @@ A biker wearing desert goggles and a sand-colored jacket races a dirt bike along
 
 ![JSON Prompt for Modern Anime Sakuga Fight Sequence](../gifs/1466.gif)
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Cinematic War Rhythm Video Prompt
 
 **Prompt:**
@@ -9271,7 +12601,10 @@ FORMAT: 15s / cinematic war rhythm / continuous shot / storm siege escalation, a
 
 ![Cinematic War Rhythm Video Prompt](../gifs/1477.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Warrior Girl Galloping on Misty Battlefield
 
 **Prompt:**
@@ -9281,7 +12614,10 @@ A fierce warrior girl with long flowing hair and ornate armor gallops on a power
 
 ![Warrior Girl Galloping on Misty Battlefield](../gifs/1480.gif)
 
+> 🔗 [Original Source](https://x.com/BigMotion_ai)
+
 ---
+
 ### Wuxia Swordplay on a Mountain Peak (Seedance 2.0)
 
 **Prompt:**
@@ -9291,7 +12627,10 @@ Preset Scene: The swordsman stands on the peak of a mountain above the clouds, w
 
 ![Wuxia Swordplay on a Mountain Peak (Seedance 2.0)](../gifs/1483.gif)
 
+> 🔗 [Original Source](https://x.com/Aleph6Zero9)
+
 ---
+
 ### Cyber Ninja vs. Holographic Alien Fight Prompt
 
 **Prompt:**
@@ -9301,37 +12640,49 @@ Preset Scene: The swordsman stands on the peak of a mountain above the clouds, w
 
 ![Cyber Ninja vs. Holographic Alien Fight Prompt](../gifs/1469.gif)
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Epic Wuxia/Modern Fantasy Video Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Character setting: @Male protagonist, modern attire (black trench coat or dark long coat, naturally messy hairstyle), cold and domineering temperament, eyes like blades, maintaining character consistency throughout. 0–3s: Extreme facial close-up, @Male protagonist stands on the peak of a snowy mountain, fierce cold wind blows his hair and the corners of his 
+Character setting: @Male protagonist, modern attire (black trench coat or dark long coat, naturally messy hairstyle), cold and domineering temperament, eyes like blades, maintaining character consistency throughout. 0–3s: Extreme facial close-up, @Male protagonist stands on the peak of a snowy mountain, fierce cold wind blows his hair and the corners of his
 ```
 
 ![Epic Wuxia/Modern Fantasy Video Prompt for Seedance 2.0](../gifs/1460.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Anime Energy Clash Fight Sequence
 
 **Prompt:**
 ```
-[Subject]: Two super-powered individuals with hardcore anime lines, a warrior in dark blue armor, and an opponent in a crimson red robe. Clear facial features, character faces remain stable and undistorted. [Action]: The two characters cross diagonally in the air, instantly generating intense energy clash light effects, with extreme particle sparks blooming 
+[Subject]: Two super-powered individuals with hardcore anime lines, a warrior in dark blue armor, and an opponent in a crimson red robe. Clear facial features, character faces remain stable and undistorted. [Action]: The two characters cross diagonally in the air, instantly generating intense energy clash light effects, with extreme particle sparks blooming
 ```
 
 ![Anime Energy Clash Fight Sequence](../gifs/1472.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Solar Valkyrie Superhero Transformation Prompt
 
 **Prompt:**
 ```
-(Skyscraper Rooftop Theme) Setting: The rooftop of a glass skyscraper during a sunset. The Incident: The floor begins to crack as a winged demonic creature crashes onto the roof, sending glass shards everywhere. Office workers flee toward the helipad. The Action: A woman in a business suit turns back. She reaches toward the sun. The Transformation: Beams of 
+(Skyscraper Rooftop Theme) Setting: The rooftop of a glass skyscraper during a sunset. The Incident: The floor begins to crack as a winged demonic creature crashes onto the roof, sending glass shards everywhere. Office workers flee toward the helipad. The Action: A woman in a business suit turns back. She reaches toward the sun. The Transformation: Beams of
 ```
 
 ![Solar Valkyrie Superhero Transformation Prompt](../gifs/1471.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Ultra-Cinematic Transformation of a Pickup Truck into a Stone Mech Rhino
 
 **Prompt:**
@@ -9341,7 +12692,10 @@ Create a 16:9 ultra-cinematic ultra-realistic video of an old pickup truck rumbl
 
 ![Ultra-Cinematic Transformation of a Pickup Truck into a Stone Mech Rhino](../gifs/1473.gif)
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Cinematic Alien Marketplace
 
 **Prompt:**
@@ -9351,7 +12705,10 @@ A busy futuristic marketplace on another planet, alien merchants selling glowing
 
 ![Cinematic Alien Marketplace](../gifs/1461.gif)
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Stop-Motion Clay Animation Story Prompt
 
 **Prompt:**
@@ -9361,17 +12718,23 @@ Stop-motion clay animation with handcrafted tactile materials and real fabric, s
 
 ![Stop-Motion Clay Animation Story Prompt](../gifs/1468.gif)
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Impossible Golf Shot Tracking in a Rainstorm
 
 **Prompt:**
 ```
-A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove. As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball 
+A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove. As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball
 ```
 
 ![Impossible Golf Shot Tracking in a Rainstorm](../gifs/1464.gif)
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Warrior's Devastating Strike
 
 **Prompt:**
@@ -9381,7 +12744,10 @@ Subject/Character: A warrior wearing a sleek black combat outfit with subtle cri
 
 ![Warrior's Devastating Strike](../gifs/1463.gif)
 
+> 🔗 [Original Source](https://x.com/yuday9909)
+
 ---
+
 ### Peach Blossom Sword Dance Performance
 
 **Prompt:**
@@ -9391,7 +12757,10 @@ Total duration 15 seconds, reference character image 1, dressed in a cyan-green 
 
 ![Peach Blossom Sword Dance Performance](../gifs/1486.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 K-pop Retro MV Prompt
 
 **Prompt:**
@@ -9401,7 +12770,10 @@ Total duration 15 seconds, reference character image 1, dressed in a cyan-green 
 
 ![Seedance 2.0 K-pop Retro MV Prompt](../gifs/1485.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Still Rings Perfection - 6-Part Shot List
 
 **Prompt:**
@@ -9411,7 +12783,10 @@ Still Rings Perfection FORMAT: 15s / 6 SHOTS / men’s apparatus final / no dial
 
 ![Still Rings Perfection - 6-Part Shot List](../gifs/1481.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Futuristic Lamborghini Assembly Commercial Prompt
 
 **Prompt:**
@@ -9421,7 +12796,10 @@ An epic futuristic car assembly sequence inside a dark, glossy digital showroom.
 
 ![Futuristic Lamborghini Assembly Commercial Prompt](../gifs/1470.gif)
 
+> 🔗 [Original Source](https://x.com/heygentlewhale)
+
 ---
+
 ### Ancient Castle Siege by Dragon
 
 **Prompt:**
@@ -9431,7 +12809,10 @@ Ancient stone castle on a mountain cliff under dark storm clouds as a gigantic d
 
 ![Ancient Castle Siege by Dragon](../gifs/1478.gif)
 
+> 🔗 [Original Source](https://x.com/vadooai)
+
 ---
+
 ### Pure Hand-Drawn 2D Cartoon Witch Flight Prompt for Seedance 2.0
 
 **Prompt:**
@@ -9441,7 +12822,10 @@ A young witch flies on a broom over an ancient European town at golden hour. The
 
 ![Pure Hand-Drawn 2D Cartoon Witch Flight Prompt for Seedance 2.0](../gifs/1467.gif)
 
+> 🔗 [Original Source](https://x.com/ertanlabs)
+
 ---
+
 ### Epic Cinematic Fight Scene: Shadow Sorcerer vs. Fiery-Ice Phoenix
 
 **Prompt:**
@@ -9451,7 +12835,10 @@ A young witch flies on a broom over an ancient European town at golden hour. The
 
 ![Epic Cinematic Fight Scene: Shadow Sorcerer vs. Fiery-Ice Phoenix](../gifs/1474.gif)
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Supercar Spec Ad: Speed is Easy, Control is Everything
 
 **Prompt:**
@@ -9461,7 +12848,10 @@ Ultra-realistic motorsport documentary footage. A matte-black hypercar sits in t
 
 ![Supercar Spec Ad: Speed is Easy, Control is Everything](../gifs/1465.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Realistic Sci-Fi Mecha Combat with Female Warrior
 
 **Prompt:**
@@ -9471,7 +12861,10 @@ Ultra-realistic motorsport documentary footage. A matte-black hypercar sits in t
 
 ![Realistic Sci-Fi Mecha Combat with Female Warrior](../gifs/1479.gif)
 
+> 🔗 [Original Source](https://x.com/Vampirosapien15)
+
 ---
+
 ### Ultra-Realistic LEGO Santa Claus Photograph
 
 **Prompt:**
@@ -9481,7 +12874,10 @@ Ultra-realistic photograph of a LEGO Santa Claus minifigure driving a rugged red
 
 ![Ultra-Realistic LEGO Santa Claus Photograph](../gifs/1475.gif)
 
+> 🔗 [Original Source](https://x.com/RizwanAly07)
+
 ---
+
 ### High-Tech Melee Combat Video Prompt
 
 **Prompt:**
@@ -9491,7 +12887,10 @@ Ultra-realistic photograph of a LEGO Santa Claus minifigure driving a rugged red
 
 ![High-Tech Melee Combat Video Prompt](../gifs/1399.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Slice-of-Life Comedy: Dropping a Coffee Mug
 
 **Prompt:**
@@ -9501,7 +12900,10 @@ Ultra-realistic photograph of a LEGO Santa Claus minifigure driving a rugged red
 
 ![Cinematic Slice-of-Life Comedy: Dropping a Coffee Mug](../gifs/1476.gif)
 
+> 🔗 [Original Source](https://x.com/EndFolding79421)
+
 ---
+
 ### Cinematic Spring Scene: Japanese Student in Cherry Blossoms
 
 **Prompt:**
@@ -9511,7 +12913,10 @@ Japanese cinematic realism, poetic spring atmosphere. A beautiful 20-year-old Ja
 
 ![Cinematic Spring Scene: Japanese Student in Cherry Blossoms](../gifs/1394.gif)
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Goku vs. Naruto 2D Battle
 
 **Prompt:**
@@ -9521,7 +12926,10 @@ A battle between Goku and Naruto in a 2D animation style. Goku attacks with imme
 
 ![Goku vs. Naruto 2D Battle](../gifs/1395.gif)
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Seedance 2.0 prompt for ultra-fast sakuga cuts with chibi style
 
 **Prompt:**
@@ -9531,7 +12939,10 @@ ultra-fast sakuga style cuts at 24fps with premium VFX and light motion blur, ma
 
 ![Seedance 2.0 prompt for ultra-fast sakuga cuts with chibi style](../gifs/1405.gif)
 
+> 🔗 [Original Source](https://x.com/nomastudioai)
+
 ---
+
 ### Ultra-Realistic Fox Hunt Documentary
 
 **Prompt:**
@@ -9541,17 +12952,23 @@ Ultra-realistic wildlife documentary footage. A red fox moves cautiously along t
 
 ![Ultra-Realistic Fox Hunt Documentary](../gifs/1385.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Cinematic Video Script for 'The God of Small Things'
 
 **Prompt:**
 ```
-{ \"title\": \"The God of Small Things - Cinematic Video\", \"scenes\": [ { \"scene_number\": 1, \"title\": \"Opening / Childhood Memory\", \"visuals\": \"Two twins, Estha and Rahel, running barefoot through the lush monsoon-soaked courtyard of their ancestral house.\", \"cut_scenes\": [ \"Close-up of their small hands holding a broken toy\", \"Water dripping from leaves above\" 
+{ \"title\": \"The God of Small Things - Cinematic Video\", \"scenes\": [ { \"scene_number\": 1, \"title\": \"Opening / Childhood Memory\", \"visuals\": \"Two twins, Estha and Rahel, running barefoot through the lush monsoon-soaked courtyard of their ancestral house.\", \"cut_scenes\": [ \"Close-up of their small hands holding a broken toy\", \"Water dripping from leaves above\"
 ```
 
 ![Cinematic Video Script for 'The God of Small Things'](../gifs/1388.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Lego Explorer Chased by Polar Bear
 
 **Prompt:**
@@ -9561,7 +12978,10 @@ lego explorer minifigure driving a mini snowmobile across icy terrain chased by 
 
 ![Lego Explorer Chased by Polar Bear](../gifs/1392.gif)
 
+> 🔗 [Original Source](https://x.com/RizwanAly07)
+
 ---
+
 ### Seedance 2.0 prompt for a humorous anime scene
 
 **Prompt:**
@@ -9571,7 +12991,10 @@ Make an anime scene where A strongly muscled dragon stands towering in front of 
 
 ![Seedance 2.0 prompt for a humorous anime scene](../gifs/1396.gif)
 
+> 🔗 [Original Source](https://x.com/migrok293703)
+
 ---
+
 ### Seedance 2.0: 'Fatal 'Miracle Drug': Pickled Chicken Feet' Video
 
 **Prompt:**
@@ -9581,7 +13004,10 @@ Video Title: Fatal \"Miracle Drug\" Video Duration: 15 seconds Tempo: Fast-paced
 
 ![Seedance 2.0: 'Fatal 'Miracle Drug': Pickled Chicken Feet' Video](../gifs/1401.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### BMX Rider in a Favela
 
 **Prompt:**
@@ -9591,7 +13017,10 @@ A woman in her late 20s of Brazilian heritage, her dark curly hair contained und
 
 ![BMX Rider in a Favela](../gifs/1391.gif)
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Anubis Tickle Torture Animation
 
 **Prompt:**
@@ -9601,7 +13030,10 @@ Traditional modern 3D animation style: 0.0s-4s: Mighty Anubis sits in his throne
 
 ![Anubis Tickle Torture Animation](../gifs/1393.gif)
 
+> 🔗 [Original Source](https://x.com/migrok293703)
+
 ---
+
 ### Toku-Style Sci-Fi Action Transformation Sequence
 
 **Prompt:**
@@ -9611,17 +13043,23 @@ Seedance 2.0 Video Generation Prompt This video is a smooth, high-fidelity, Toku
 
 ![Toku-Style Sci-Fi Action Transformation Sequence](../gifs/1389.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### High-End Commercial Ad: AURORA FIZZ
 
 **Prompt:**
 ```
-High-End Commercial Ad — AURORA FIZZ 00: 00 – 00 :02 | The Flash Arrival Action: The AURORA FIZZ can blasts into frame from above, spinning rapidly on its vertical axis. Visuals: Sharp motion blur. Golden citrus patterns streak into radiant lines of light. The can halts with surgical precision at center frame — label perfectly facing camera. 00: 02 – 00: 04 
+High-End Commercial Ad — AURORA FIZZ 00: 00 – 00 :02 | The Flash Arrival Action: The AURORA FIZZ can blasts into frame from above, spinning rapidly on its vertical axis. Visuals: Sharp motion blur. Golden citrus patterns streak into radiant lines of light. The can halts with surgical precision at center frame — label perfectly facing camera. 00: 02 – 00: 04
 ```
 
 ![High-End Commercial Ad: AURORA FIZZ](../gifs/1386.gif)
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Mecha Armor Transformation Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -9631,7 +13069,10 @@ High-End Commercial Ad — AURORA FIZZ 00: 00 – 00 :02 | The Flash Arrival Act
 
 ![Mecha Armor Transformation Video Prompt for Seedance 2.0](../gifs/1404.gif)
 
+> 🔗 [Original Source](https://x.com/Vampirosapien15)
+
 ---
+
 ### Seedance 2.0 Comprehensive Wedding Photography Prompt
 
 **Prompt:**
@@ -9641,7 +13082,10 @@ High-End Commercial Ad — AURORA FIZZ 00: 00 – 00 :02 | The Flash Arrival Act
 
 ![Seedance 2.0 Comprehensive Wedding Photography Prompt](../gifs/1398.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Futuristic Lamborghini Assembly Commercial
 
 **Prompt:**
@@ -9651,17 +13095,23 @@ High-End Commercial Ad — AURORA FIZZ 00: 00 – 00 :02 | The Flash Arrival Act
 
 ![Futuristic Lamborghini Assembly Commercial](../gifs/1387.gif)
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Fantasy Ancient Style Transformation Video Prompt (Four Spirits)
 
 **Prompt:**
 ```
-@Image, Fantasy ancient style transformation theme, sequentially transforming into the Four Spirits: Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoise, with the energy of the Four Spirits finally converging in the palm; the overall picture is filled with an ancient style atmosphere, high-definition quality, delicate and layered light and shadow, 
+@Image, Fantasy ancient style transformation theme, sequentially transforming into the Four Spirits: Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoise, with the energy of the Four Spirits finally converging in the palm; the overall picture is filled with an ancient style atmosphere, high-definition quality, delicate and layered light and shadow,
 ```
 
 ![Fantasy Ancient Style Transformation Video Prompt (Four Spirits)](../gifs/1400.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Four Seasons Flower Goddess Ancient Style Transformation Video Prompt
 
 **Prompt:**
@@ -9671,7 +13121,10 @@ High-End Commercial Ad — AURORA FIZZ 00: 00 – 00 :02 | The Flash Arrival Act
 
 ![Four Seasons Flower Goddess Ancient Style Transformation Video Prompt](../gifs/1349.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Wes Anderson Style Global Travel Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -9681,7 +13134,10 @@ Two people appearing (Image 1, Image 2, each wearing different clothes), Wes And
 
 ![Wes Anderson Style Global Travel Video Prompt for Seedance 2.0](../gifs/1331.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Construction Time-Lapse and Deconstruction Prompt Comparison (Seedance 2.0 vs. Grok)
 
 **Prompt:**
@@ -9691,7 +13147,10 @@ Fixed-position wide-angle time-lapse photography, fully documenting the entire p
 
 ![Construction Time-Lapse and Deconstruction Prompt Comparison (Seedance 2.0 vs. Grok)](../gifs/1358.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Seedance 2.0 Prompt: Beijing Apartment Cross-Section
 
 **Prompt:**
@@ -9701,17 +13160,23 @@ A horizontal cross-section display shot of a high-rise residential building in B
 
 ![Seedance 2.0 Prompt: Beijing Apartment Cross-Section](../gifs/1397.gif)
 
+> 🔗 [Original Source](https://x.com/pczzy)
+
 ---
+
 ### 15-Second Cinematic Anime Duel
 
 **Prompt:**
 ```
-A 15-second cinematic anime duel. The scene begins with two strong lights clashing: on the left is a silver-haired man in a black high-collar uniform, his eyes emitting a brilliant cyan aurora, with liquid blue particles flowing around his fingertips; on the right is a pink and black-haired man with black markings covering his face, hands clasped performing 
+A 15-second cinematic anime duel. The scene begins with two strong lights clashing: on the left is a silver-haired man in a black high-collar uniform, his eyes emitting a brilliant cyan aurora, with liquid blue particles flowing around his fingertips; on the right is a pink and black-haired man with black markings covering his face, hands clasped performing
 ```
 
 ![15-Second Cinematic Anime Duel](../gifs/1357.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Scene of a Shipwreck in Turbulent Sea
 
 **Prompt:**
@@ -9721,7 +13186,10 @@ First-person perspective: The ship rocks as it navigates the turbulent sea; Cut 
 
 ![Cinematic Scene of a Shipwreck in Turbulent Sea](../gifs/1390.gif)
 
+> 🔗 [Original Source](https://x.com/Inspova)
+
 ---
+
 ### Epic Fantasy Action Battle Storyboard Prompt
 
 **Prompt:**
@@ -9731,17 +13199,23 @@ First-person perspective: The ship rocks as it navigates the turbulent sea; Cut 
 
 ![Epic Fantasy Action Battle Storyboard Prompt](../gifs/1333.gif)
 
+> 🔗 [Original Source](https://x.com/EndFolding79421)
+
 ---
+
 ### Cinematic Romantic Drama Scene
 
 **Prompt:**
 ```
-【Film Style】 Cinematic romantic drama, natural acting, college campus realism, warm sunset lighting, emotional close-up performances, soft cinematic depth of field. 【Duration】 12 seconds 【Characters】 A nervous college guy and a young woman sitting together. 【Scene】 A quiet college campus courtyard during late afternoon. Trees move gently in the breeze while 
+【Film Style】 Cinematic romantic drama, natural acting, college campus realism, warm sunset lighting, emotional close-up performances, soft cinematic depth of field. 【Duration】 12 seconds 【Characters】 A nervous college guy and a young woman sitting together. 【Scene】 A quiet college campus courtyard during late afternoon. Trees move gently in the breeze while
 ```
 
 ![Cinematic Romantic Drama Scene](../gifs/1340.gif)
 
+> 🔗 [Original Source](https://x.com/EndFolding79421)
+
 ---
+
 ### Classic Slasher Horror Storyboard
 
 **Prompt:**
@@ -9751,7 +13225,10 @@ First-person perspective: The ship rocks as it navigates the turbulent sea; Cut 
 
 ![Classic Slasher Horror Storyboard](../gifs/1344.gif)
 
+> 🔗 [Original Source](https://x.com/EndFolding79421)
+
 ---
+
 ### Dark Supernatural Horror Basement Scene
 
 **Prompt:**
@@ -9761,7 +13238,10 @@ First-person perspective: The ship rocks as it navigates the turbulent sea; Cut 
 
 ![Dark Supernatural Horror Basement Scene](../gifs/1338.gif)
 
+> 🔗 [Original Source](https://x.com/EndFolding79421)
+
 ---
+
 ### Acoustic Serenade and Emotional Reaction Storyboard
 
 **Prompt:**
@@ -9771,7 +13251,10 @@ First-person perspective: The ship rocks as it navigates the turbulent sea; Cut 
 
 ![Acoustic Serenade and Emotional Reaction Storyboard](../gifs/1347.gif)
 
+> 🔗 [Original Source](https://x.com/MrDavids1)
+
 ---
+
 ### JRPG Style Anime Battle Scene
 
 **Prompt:**
@@ -9781,17 +13264,23 @@ Anime style, JRPG style battle performance, cinematic camera movement. A red-hai
 
 ![JRPG Style Anime Battle Scene](../gifs/1337.gif)
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Alpine Avalanche Escape Stunt Storyboard
 
 **Prompt:**
 ```
-A man in his early 30s, stubble beard, wearing a black armored motorcycle suit with reflective alpine stripes and a tinted racing visor, races a superbike along a narrow mountain highway carved into a cliffside in the Swiss Alps. Snow whips across the road as the camera tracks low beside the motorcycle tires gripping the frozen asphalt. At the 2-second mark 
+A man in his early 30s, stubble beard, wearing a black armored motorcycle suit with reflective alpine stripes and a tinted racing visor, races a superbike along a narrow mountain highway carved into a cliffside in the Swiss Alps. Snow whips across the road as the camera tracks low beside the motorcycle tires gripping the frozen asphalt. At the 2-second mark
 ```
 
 ![Alpine Avalanche Escape Stunt Storyboard](../gifs/1346.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Epic Chinese Mythology Cinematic Prompt
 
 **Prompt:**
@@ -9801,17 +13290,23 @@ A man in his early 30s, stubble beard, wearing a black armored motorcycle suit w
 
 ![Epic Chinese Mythology Cinematic Prompt](../gifs/1335.gif)
 
+> 🔗 [Original Source](https://x.com/mingxia)
+
 ---
+
 ### Hyper-realistic cinematic scene of mythological intervention
 
 **Prompt:**
 ```
-Hyper-realistic cinematic scene set in [location: temple road / forest / village street] at night in India. A frightened [woman/girl] walking alone while [group of attackers / danger] slowly surround her. Dark storm clouds gather unnaturally. Suddenly the wind stops. A faint divine glow appears behind her. The silhouette of [Maa Kali / Lord Shiva / Hanuman] 
+Hyper-realistic cinematic scene set in [location: temple road / forest / village street] at night in India. A frightened [woman/girl] walking alone while [group of attackers / danger] slowly surround her. Dark storm clouds gather unnaturally. Suddenly the wind stops. A faint divine glow appears behind her. The silhouette of [Maa Kali / Lord Shiva / Hanuman]
 ```
 
 ![Hyper-realistic cinematic scene of mythological intervention](../gifs/1345.gif)
 
+> 🔗 [Original Source](https://x.com/FutureVibesAi)
+
 ---
+
 ### Sci-Fi Interstellar Courier Transformation Scene for Seedance 2.0
 
 **Prompt:**
@@ -9821,17 +13316,23 @@ Hyper-realistic cinematic scene set in [location: temple road / forest / village
 
 ![Sci-Fi Interstellar Courier Transformation Scene for Seedance 2.0](../gifs/1352.gif)
 
+> 🔗 [Original Source](https://x.com/SVD_Studio_Q)
+
 ---
+
 ### Continuous Shot Transformation and Lightsaber Ignition
 
 **Prompt:**
 ```
-The video begins with [@Image 1] holding a camera, shaking it to shoot close-up of the astronaut's nervous eyes behind the mask. The exhaled breath fogs up the glass, and red head-up display information scrolls. Cut to another shot. Continuously track and shoot her forearm, where the mechanical plate unfolds outward, with pistons and gears meshing together. 
+The video begins with [@Image 1] holding a camera, shaking it to shoot close-up of the astronaut's nervous eyes behind the mask. The exhaled breath fogs up the glass, and red head-up display information scrolls. Cut to another shot. Continuously track and shoot her forearm, where the mechanical plate unfolds outward, with pistons and gears meshing together.
 ```
 
 ![Continuous Shot Transformation and Lightsaber Ignition](../gifs/1353.gif)
 
+> 🔗 [Original Source](https://x.com/SVD_Studio_Q)
+
 ---
+
 ### Doomsday: One-Shot POV Escape
 
 **Prompt:**
@@ -9841,17 +13342,23 @@ A continuous, unedited perspective, first-person POV, simulating the camera styl
 
 ![Doomsday: One-Shot POV Escape](../gifs/1348.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Anubis Tickle Scene
 
 **Prompt:**
 ```
-In a scene adopting a modern Chinese 3D animation style, the mighty jackal god Anubis sits on a throne with his hands behind his head. A human approaches him. Anubis, in a casual and bored tone, tells the human that he needs to make him laugh. The human grins and reaches out to scratch Anubis's armpit, causing Anubis to look confused. The camera zooms in on 
+In a scene adopting a modern Chinese 3D animation style, the mighty jackal god Anubis sits on a throne with his hands behind his head. A human approaches him. Anubis, in a casual and bored tone, tells the human that he needs to make him laugh. The human grins and reaches out to scratch Anubis's armpit, causing Anubis to look confused. The camera zooms in on
 ```
 
 ![Anubis Tickle Scene](../gifs/1329.gif)
 
+> 🔗 [Original Source](https://x.com/migrok293703)
+
 ---
+
 ### Seedance 2.0 Dharma Transformation Video Prompt
 
 **Prompt:**
@@ -9861,7 +13368,10 @@ Cinematic lens, strong visual impact, centered composition + low-angle upward sh
 
 ![Seedance 2.0 Dharma Transformation Video Prompt](../gifs/1351.gif)
 
+> 🔗 [Original Source](https://x.com/dannywayli)
+
 ---
+
 ### Seedance 2.0 Archangel Transformation Video Prompt
 
 **Prompt:**
@@ -9871,7 +13381,10 @@ Cinematic lens, strong visual impact, centered composition + low-angle upward sh
 
 ![Seedance 2.0 Archangel Transformation Video Prompt](../gifs/1350.gif)
 
+> 🔗 [Original Source](https://x.com/dannywayli)
+
 ---
+
 ### Turbulent Sea Galleon Cinematic Prompt
 
 **Prompt:**
@@ -9881,7 +13394,10 @@ A turbulent emerald sea crashing under the pale light of a crescent moon. A maje
 
 ![Turbulent Sea Galleon Cinematic Prompt](../gifs/1336.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Dark Fairytale Chase-Battle Cinematic Storyboard
 
 **Prompt:**
@@ -9891,7 +13407,10 @@ A cinematic dark fairytale chase-battle. A forest witch in moss-green robes with
 
 ![Dark Fairytale Chase-Battle Cinematic Storyboard](../gifs/1343.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Cinematic Celestial Battle Storyboard Prompt
 
 **Prompt:**
@@ -9901,7 +13420,10 @@ A cinematic celestial battle sequence. A radiant sun warrior in ornate golden ar
 
 ![Cinematic Celestial Battle Storyboard Prompt](../gifs/1334.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Interstellar Star-Cruiser Chase and Zero-Gravity Interior Scene
 
 **Prompt:**
@@ -9911,7 +13433,10 @@ A vibrant interstellar panorama framed by a swirling purple nebula. A sleek, sil
 
 ![Interstellar Star-Cruiser Chase and Zero-Gravity Interior Scene](../gifs/1342.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Realistic Yoga Sequence Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -9921,7 +13446,10 @@ Paragraph 1: Realistic style, surreal details, cinematic realism, 8K, 35mm lens,
 
 ![Realistic Yoga Sequence Video Prompt for Seedance 2.0](../gifs/1356.gif)
 
+> 🔗 [Original Source](https://x.com/Aleph6Zero9)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Absurd Hong Kong Style Comedy
 
 **Prompt:**
@@ -9929,7 +13457,10 @@ Paragraph 1: Realistic style, surreal details, cinematic realism, 8K, 35mm lens,
 9 seconds, 90s Hong Kong style urban nostalgic film texture, neon rainy night, strong film grain, alternating cold blue and warm red neon lights, characters performing extremely seriously, atmosphere like a destined reunion. 0-2 seconds: Flashback, in the corridor of an old residential building, the young male protagonist casually stabilizes a loose red plas
 ```
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Awkward Palace Scene: Mistaken Identity
 
 **Prompt:**
@@ -9939,7 +13470,10 @@ Paragraph 1: Realistic style, surreal details, cinematic realism, 8K, 35mm lens,
 
 ![Awkward Palace Scene: Mistaken Identity](../gifs/1354.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Shaw Brothers Style Fight Scene
 
 **Prompt:**
@@ -9949,7 +13483,10 @@ Create a fight scene between two people, aiming for a Shaw Brothers movie feel. 
 
 ![Shaw Brothers Style Fight Scene](../gifs/1328.gif)
 
+> 🔗 [Original Source](https://x.com/heymarmot_ai)
+
 ---
+
 ### Motorcycle Rider Defying Collapsing Skyscraper
 
 **Prompt:**
@@ -9959,7 +13496,10 @@ Defying a collapsing skyscraper, a lone rider rockets across shattered skybridge
 
 ![Motorcycle Rider Defying Collapsing Skyscraper](../gifs/1332.gif)
 
+> 🔗 [Original Source](https://x.com/vadooai)
+
 ---
+
 ### Martial Arts World with Dragons
 
 **Prompt:**
@@ -9969,7 +13509,10 @@ Besides love, hate, and grudges, the martial arts world should also have dragons
 
 ![Martial Arts World with Dragons](../gifs/1330.gif)
 
+> 🔗 [Original Source](https://x.com/0xDuShi)
+
 ---
+
 ### High-End Commercial Wedding Photography Video Prompt
 
 **Prompt:**
@@ -9979,7 +13522,10 @@ Besides love, hate, and grudges, the martial arts world should also have dragons
 
 ![High-End Commercial Wedding Photography Video Prompt](../gifs/1359.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Pure Hand-Drawn 2D Cartoon Animation
 
 **Prompt:**
@@ -9989,7 +13535,10 @@ Pure hand-drawn 2D cartoon animation only — absolutely no 3D. Ever. 24fps on o
 
 ![Pure Hand-Drawn 2D Cartoon Animation](../gifs/1341.gif)
 
+> 🔗 [Original Source](https://x.com/Itswsm105f)
+
 ---
+
 ### Nordic Snowy Night Chase
 
 **Prompt:**
@@ -9999,7 +13548,10 @@ Realistic Nordic snowy night. A man runs fast through deep snow, tracked closely
 
 ![Nordic Snowy Night Chase](../gifs/1339.gif)
 
+> 🔗 [Original Source](https://x.com/RizwanAly07)
+
 ---
+
 ### Cinematic O'Neill Space Colony Film Still
 
 **Prompt:**
@@ -10009,7 +13561,10 @@ A cinematic film still, capturing the interior of a massive O'Neill space colony
 
 ![Cinematic O'Neill Space Colony Film Still](../gifs/1140.gif)
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Cinematic Continuous Shot of Medieval Market
 
 **Prompt:**
@@ -10019,7 +13574,10 @@ FORMAT: cinematic continuous shot / motivated camera movement / 15s SCENE A crow
 
 ![Cinematic Continuous Shot of Medieval Market](../gifs/1139.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Multi-Shot Action-Comedy Scene Prompt: Neon Dumpling Courier
 
 **Prompt:**
@@ -10029,7 +13587,10 @@ Concept : Neon Dumpling Courier FORMAT: 15s / 6 SHOTS / action-comedy rooftop ch
 
 ![Multi-Shot Action-Comedy Scene Prompt: Neon Dumpling Courier](../gifs/1130.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Cinematic Carriage Scene Prompt
 
 **Prompt:**
@@ -10039,7 +13600,10 @@ A dense, mist-shrouded ancient forest at midnight. A jet-black, horse-drawn carr
 
 ![Cinematic Carriage Scene Prompt](../gifs/1132.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Cinematic Scene: Dancing Couple - Shot 1
 
 **Prompt:**
@@ -10049,7 +13613,10 @@ A man and a woman are dancing together. The music playing in the background is �
 
 ![Cinematic Scene: Dancing Couple - Shot 1](../gifs/1135.gif)
 
+> 🔗 [Original Source](https://x.com/yuxj347)
+
 ---
+
 ### Ultra-realistic Wildlife Documentary Footage
 
 **Prompt:**
@@ -10059,27 +13626,36 @@ Ultra-realistic wildlife documentary footage. A snake slowly slithers through dr
 
 ![Ultra-realistic Wildlife Documentary Footage](../gifs/1138.gif)
 
+> 🔗 [Original Source](https://x.com/egeberkina)
+
 ---
+
 ### Seamless 360° Cinematic Rotation Match-Cut Video Prompt
 
 **Prompt:**
 ```
-\"FORMAT: live action, cinematic video, 15s, continuous rotation match cut SCENE CONCEPT A stylish woman stands at the center of the frame while the camera performs a smooth circular orbit around her. She moves naturally like a travel influencer filming a fashion reel - small turns, relaxed walking steps, confident poses and subtle hair movement. During each 
+\"FORMAT: live action, cinematic video, 15s, continuous rotation match cut SCENE CONCEPT A stylish woman stands at the center of the frame while the camera performs a smooth circular orbit around her. She moves naturally like a travel influencer filming a fashion reel - small turns, relaxed walking steps, confident poses and subtle hair movement. During each
 ```
 
 ![Seamless 360° Cinematic Rotation Match-Cut Video Prompt](../gifs/1134.gif)
 
+> 🔗 [Original Source](https://x.com/noman23761)
+
 ---
+
 ### Cinematic Sci-Fi Video Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-A lone astronaut walks slowly across a barren red Mars landscape. Their reflective visor shows the setting sun. Dust swirls around their boots with each heavy step. The camera tracks alongside at medium distance, then slowly tilts up to reveal a massive alien structure on the horizon. Cinematic sci-fi, blue-orange color grading, volumetric haze, epic scale, 
+A lone astronaut walks slowly across a barren red Mars landscape. Their reflective visor shows the setting sun. Dust swirls around their boots with each heavy step. The camera tracks alongside at medium distance, then slowly tilts up to reveal a massive alien structure on the horizon. Cinematic sci-fi, blue-orange color grading, volumetric haze, epic scale,
 ```
 
 ![Cinematic Sci-Fi Video Prompt for Seedance 2.0](../gifs/1127.gif)
 
+> 🔗 [Original Source](https://x.com/RizwanAly07)
+
 ---
+
 ### Cinematic Video Prompt for Seedance 2.0: Woman in a Car with Wind and Cherry Blossoms
 
 **Prompt:**
@@ -10089,7 +13665,10 @@ Character face reference @[Image 1]. Warm light obliquely shines inside the car,
 
 ![Cinematic Video Prompt for Seedance 2.0: Woman in a Car with Wind and Cherry Blossoms](../gifs/1145.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### 15-Second Cinematic Transformation Scene Prompt (IMAX Style)
 
 **Prompt:**
@@ -10099,7 +13678,10 @@ Face: Refer to (upload your image). Facial structure and features must match exa
 
 ![15-Second Cinematic Transformation Scene Prompt (IMAX Style)](../gifs/1131.gif)
 
+> 🔗 [Original Source](https://x.com/im_shahid7)
+
 ---
+
 ### Seedance 2.0 Travel Vlog Prompt - Venice
 
 **Prompt:**
@@ -10109,7 +13691,10 @@ Featuring the character from [Image 1] as the protagonist, with a sweet dating a
 
 ![Seedance 2.0 Travel Vlog Prompt - Venice](../gifs/1146.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### High-Speed Magical Forest Journey
 
 **Prompt:**
@@ -10119,7 +13704,10 @@ High-quality dynamic 3D animation of a high-speed magical forest journey. A grou
 
 ![High-Speed Magical Forest Journey](../gifs/1143.gif)
 
+> 🔗 [Original Source](https://x.com/Riya333S)
+
 ---
+
 ### Cinematic Meteorite Fall Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10129,7 +13717,10 @@ Meteorite fall · One-shot, handheld phone camera perspective Hyper-realistic ·
 
 ![Cinematic Meteorite Fall Video Prompt for Seedance 2.0](../gifs/1142.gif)
 
+> 🔗 [Original Source](https://x.com/JiahaoYang_art)
+
 ---
+
 ### Cinematic Widescreen Transformation Scene with Reference Image
 
 **Prompt:**
@@ -10139,7 +13730,10 @@ Face: Refer to @Image1 (upload your image). Facial structure and features must m
 
 ![Cinematic Widescreen Transformation Scene with Reference Image](../gifs/1141.gif)
 
+> 🔗 [Original Source](https://x.com/aivoxyy)
+
 ---
+
 ### Dark Fantasy Library Scene Prompt
 
 **Prompt:**
@@ -10149,7 +13743,10 @@ An ancient library where forbidden books open… and the words crawl off the pag
 
 ![Dark Fantasy Library Scene Prompt](../gifs/1136.gif)
 
+> 🔗 [Original Source](https://x.com/pixazoai)
+
 ---
+
 ### Seedance 2.0 Scene Continuation Video Prompt
 
 **Prompt:**
@@ -10159,7 +13756,10 @@ Generate the 10 seconds of plot before @Image 1. The face of the female assassin
 
 ![Seedance 2.0 Scene Continuation Video Prompt](../gifs/1144.gif)
 
+> 🔗 [Original Source](https://x.com/TanLuAI)
+
 ---
+
 ### Maa Kali in Disguise (Seedance 2.0)
 
 **Prompt:**
@@ -10169,7 +13769,10 @@ Foggy Indian street at night. A mysterious woman dressed in dark red sari walkin
 
 ![Maa Kali in Disguise (Seedance 2.0)](../gifs/1128.gif)
 
+> 🔗 [Original Source](https://x.com/FutureVibesAi)
+
 ---
+
 ### Elven Archer vs. Towering Brute Battle Scene Prompt
 
 **Prompt:**
@@ -10179,7 +13782,10 @@ A lightning-fast elven archer faces a towering brute in a brutal battlefield cla
 
 ![Elven Archer vs. Towering Brute Battle Scene Prompt](../gifs/1133.gif)
 
+> 🔗 [Original Source](https://x.com/vadooai)
+
 ---
+
 ### Seedance 2.0 OKX Cinematic Video Prompt
 
 **Prompt:**
@@ -10189,7 +13795,10 @@ Extreme wide-angle shot from a high altitude vantage point, overlooking a massiv
 
 ![Seedance 2.0 OKX Cinematic Video Prompt](../gifs/1147.gif)
 
+> 🔗 [Original Source](https://x.com/zkgoudan)
+
 ---
+
 ### Video Prompt for Teacher Salary Commentary
 
 **Prompt:**
@@ -10199,7 +13808,10 @@ show me why teachers only make 60k/year in the united states, make sure it's lit
 
 ![Video Prompt for Teacher Salary Commentary](../gifs/1129.gif)
 
+> 🔗 [Original Source](https://x.com/beechinour)
+
 ---
+
 ### Cinematic Transformation Scene
 
 **Prompt:**
@@ -10209,7 +13821,10 @@ Cinematic 15-second transformation, 16:9, 1920x1080, 24fps: start with a girl in
 
 ![Cinematic Transformation Scene](../gifs/1137.gif)
 
+> 🔗 [Original Source](https://x.com/doctorwasif)
+
 ---
+
 ### Seedance 2.0 Cinematic Wuxia Combat Prompt
 
 **Prompt:**
@@ -10219,7 +13834,10 @@ Cinematic 15-second transformation, 16:9, 1920x1080, 24fps: start with a girl in
 
 ![Seedance 2.0 Cinematic Wuxia Combat Prompt](../gifs/967.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Will Smith fighting a spaghetti monster
 
 **Prompt:**
@@ -10229,7 +13847,10 @@ Will Smith fighting a spaghetti monster, epic action film scene, different cuts,
 
 ![Will Smith fighting a spaghetti monster](../gifs/945.gif)
 
+> 🔗 [Original Source](https://x.com/im_shahid7)
+
 ---
+
 ### Seedance 2.0 Cinematic Mecha Assembly Prompt
 
 **Prompt:**
@@ -10239,7 +13860,10 @@ Segment 1, 0–15 seconds: Calm Assembly (Setup) [0–5s · Establishment] Subje
 
 ![Seedance 2.0 Cinematic Mecha Assembly Prompt](../gifs/949.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Cinematic video with continuous rotation match cut
 
 **Prompt:**
@@ -10249,7 +13873,10 @@ FORMAT: live action, cinematic video, 15s, continuous rotation match cut SCENE C
 
 ![Cinematic video with continuous rotation match cut](../gifs/957.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Character transformation with bruised face and armor reference
 
 **Prompt:**
@@ -10259,7 +13886,10 @@ Character \u0026amp; Setup Face based on @ Image1 with identical facial features
 
 ![Character transformation with bruised face and armor reference](../gifs/958.gif)
 
+> 🔗 [Original Source](https://x.com/doctorwasif)
+
 ---
+
 ### Wingsuit Proximity Flight along the Great Ocean Road
 
 **Prompt:**
@@ -10269,7 +13899,10 @@ A wingsuit flyer in a bright orange suit leaps from a coastal cliff above the Pa
 
 ![Wingsuit Proximity Flight along the Great Ocean Road](../gifs/942.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Stop-motion claymation style with miniature props
 
 **Prompt:**
@@ -10279,7 +13912,10 @@ Stop-motion claymation style, handcrafted clay characters with visible fingerpri
 
 ![Stop-motion claymation style with miniature props](../gifs/956.gif)
 
+> 🔗 [Original Source](https://x.com/flowith)
+
 ---
+
 ### Seedance 2.0 horror video generation prompt
 
 **Prompt:**
@@ -10289,7 +13925,10 @@ Stop-motion claymation style, handcrafted clay characters with visible fingerpri
 
 ![Seedance 2.0 horror video generation prompt](../gifs/1148.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Slow cinematic push-in with leaves passing across the frame
 
 **Prompt:**
@@ -10299,7 +13938,10 @@ Final slow cinematic push-in as he takes another bite and small leaves pass acro
 
 ![Slow cinematic push-in with leaves passing across the frame](../gifs/944.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Over-the-shoulder shot of a quiet fantasy landscape with slowly drifting clouds
 
 **Prompt:**
@@ -10309,7 +13951,10 @@ Over-the-shoulder shot showing the quiet fantasy landscape in front of him, dist
 
 ![Over-the-shoulder shot of a quiet fantasy landscape with slowly drifting clouds](../gifs/941.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Close-up of beard and hair flowing in the wind
 
 **Prompt:**
@@ -10319,7 +13964,10 @@ Close-up shot of his beard and hair softly flowing in the wind, dust particles f
 
 ![Close-up of beard and hair flowing in the wind](../gifs/954.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Close-up shot of taco filling shifting and warm light reflection
 
 **Prompt:**
@@ -10329,7 +13977,10 @@ Close-up shot of the taco filling slightly shifting as he takes a bite, warm lig
 
 ![Close-up shot of taco filling shifting and warm light reflection](../gifs/947.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Medium shot of man lifting taco with chopsticks
 
 **Prompt:**
@@ -10339,7 +13990,10 @@ Medium shot from the side as he lifts the taco with chopsticks, subtle steam ris
 
 ![Medium shot of man lifting taco with chopsticks](../gifs/953.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Wide cinematic shot of a temple entrance
 
 **Prompt:**
@@ -10349,7 +14003,10 @@ Wide cinematic shot of the temple entrance behind him, carved mossy stones and h
 
 ![Wide cinematic shot of a temple entrance](../gifs/952.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Old man eating taco slowly with chopsticks in warm golden light
 
 **Prompt:**
@@ -10359,7 +14016,10 @@ Old man sitting alone, holding a bowl with a taco and eating slowly with chopsti
 
 ![Old man eating taco slowly with chopsticks in warm golden light](../gifs/946.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Sci-Fi Mecha Angel Transformation Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10369,7 +14029,10 @@ Old man sitting alone, holding a bowl with a taco and eating slowly with chopsti
 
 ![Sci-Fi Mecha Angel Transformation Video Prompt for Seedance 2.0](../gifs/961.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### The Awakening: Cybernetic Armor Transformation
 
 **Prompt:**
@@ -10379,7 +14042,10 @@ Seconds, Visual Description for Prompt 00:00, \"The Awakening: A young man with 
 
 ![The Awakening: Cybernetic Armor Transformation](../gifs/950.gif)
 
+> 🔗 [Original Source](https://x.com/Shreyayadav)
+
 ---
+
 ### Nostalgic 2007 Style Breakup Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10389,7 +14055,10 @@ Seconds, Visual Description for Prompt 00:00, \"The Awakening: A young man with 
 
 ![Nostalgic 2007 Style Breakup Video Prompt for Seedance 2.0](../gifs/966.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Prison riot and determined escapee
 
 **Prompt:**
@@ -10399,7 +14068,10 @@ Inside a maximum-security prison, alarms blare as inmates riot in the corridors.
 
 ![Prison riot and determined escapee](../gifs/955.gif)
 
+> 🔗 [Original Source](https://x.com/vadooai)
+
 ---
+
 ### One Sword Breaks Dawn Video Prompt for Seedance 2.0 (Fantasy Action)
 
 **Prompt:**
@@ -10409,7 +14081,10 @@ Inside a maximum-security prison, alarms blare as inmates riot in the corridors.
 
 ![One Sword Breaks Dawn Video Prompt for Seedance 2.0 (Fantasy Action)](../gifs/948.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Man Walking Tiger and Teacup Poodle Skit Video Prompt
 
 **Prompt:**
@@ -10419,7 +14094,10 @@ Inside a maximum-security prison, alarms blare as inmates riot in the corridors.
 
 ![Man Walking Tiger and Teacup Poodle Skit Video Prompt](../gifs/962.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Epic fantasy movie scene generation using SJinn Seedance 2.0
 
 **Prompt:**
@@ -10429,7 +14107,10 @@ Inside a maximum-security prison, alarms blare as inmates riot in the corridors.
 
 ![Epic fantasy movie scene generation using SJinn Seedance 2.0](../gifs/968.gif)
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### First-person POV of a lightning strike descent
 
 **Prompt:**
@@ -10439,17 +14120,23 @@ First-person POV of a lightning bolt forming inside a massive thundercloud. Elec
 
 ![First-person POV of a lightning strike descent](../gifs/943.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Wuxia Bamboo Forest Duel Video Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-[These two images are the two female leads of a bamboo forest martial arts scene. Please generate a fluid duel scene around the two female leads, in the style of classic Wuxia Xianxia movies, dense emerald green bamboo forest, falling leaves flying. Ultra-high-speed photography, completely real-person shooting, requiring the use of storyboards and different 
+[These two images are the two female leads of a bamboo forest martial arts scene. Please generate a fluid duel scene around the two female leads, in the style of classic Wuxia Xianxia movies, dense emerald green bamboo forest, falling leaves flying. Ultra-high-speed photography, completely real-person shooting, requiring the use of storyboards and different
 ```
 
 ![Wuxia Bamboo Forest Duel Video Prompt for Seedance 2.0](../gifs/965.gif)
 
+> 🔗 [Original Source](https://x.com/TanLuAI)
+
 ---
+
 ### Avengers: Origami Transformation
 
 **Prompt:**
@@ -10459,7 +14146,10 @@ Pixar-style smooth animation, cozy bedroom with sunlight from window, toy shelf 
 
 ![Avengers: Origami Transformation](../gifs/951.gif)
 
+> 🔗 [Original Source](https://x.com/Shreyayadav)
+
 ---
+
 ### The Actor's Self-Cultivation Skit Video Prompt
 
 **Prompt:**
@@ -10469,7 +14159,10 @@ Pixar-style smooth animation, cozy bedroom with sunlight from window, toy shelf 
 
 ![The Actor's Self-Cultivation Skit Video Prompt](../gifs/963.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### AI Girlfriend Lobster Request Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10479,27 +14172,36 @@ A sweet and delicate young girl, with clear facial features and stable face, eye
 
 ![AI Girlfriend Lobster Request Video Prompt for Seedance 2.0](../gifs/960.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### OKX Alien Creature Cinematic Video Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Close-up, dark alien skin, wet leathery texture, misty background, white glowing lines carving the logo slowly, sparks of energy, cinematic lighting. Medium Shot, spindly alien creature silhouette in thick fog, the complete white logo pulses on its chest, glowing bright, smoke rising, eerie atmosphere. Wide Shot, the alien entity towers in the blizzard, the 
+Close-up, dark alien skin, wet leathery texture, misty background, white glowing lines carving the logo slowly, sparks of energy, cinematic lighting. Medium Shot, spindly alien creature silhouette in thick fog, the complete white logo pulses on its chest, glowing bright, smoke rising, eerie atmosphere. Wide Shot, the alien entity towers in the blizzard, the
 ```
 
 ![OKX Alien Creature Cinematic Video Prompt for Seedance 2.0](../gifs/964.gif)
 
+> 🔗 [Original Source](https://x.com/zkgoudan)
+
 ---
+
 ### Ancient Style Fairy Sister Video Prompt for Seedance 2.0 (Detailed Scene Breakdown)
 
 **Prompt:**
 ```
-Style: Ancient fairy style, fresh and sweet, first-person immersive follow, soft light aesthetic Total duration: 15s = 6 shots × 2.5s / shot (single shot ≤ 3s, meets requirements) Core character setting: Little Fairy Sister | Pale white and light pink gradient gauze dress, flowing wide sleeves, head full of blingbling pearl and diamond hairpins, sweet eyes, 
+Style: Ancient fairy style, fresh and sweet, first-person immersive follow, soft light aesthetic Total duration: 15s = 6 shots × 2.5s / shot (single shot ≤ 3s, meets requirements) Core character setting: Little Fairy Sister | Pale white and light pink gradient gauze dress, flowing wide sleeves, head full of blingbling pearl and diamond hairpins, sweet eyes,
 ```
 
 ![Ancient Style Fairy Sister Video Prompt for Seedance 2.0 (Detailed Scene Breakdown)](../gifs/938.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Seedance 2.0 Prompt Generated via VSCode and Claude Code Analysis
 
 **Prompt:**
@@ -10509,7 +14211,10 @@ I gave it the jet roller skating sequence that was randomly generated by Sora 2 
 
 ![Seedance 2.0 Prompt Generated via VSCode and Claude Code Analysis](../gifs/939.gif)
 
+> 🔗 [Original Source](https://x.com/LurkShade)
+
 ---
+
 ### Cinematic Horror Thriller Video Prompt
 
 **Prompt:**
@@ -10519,7 +14224,10 @@ Seedance 2.0...【Film Style】 Cinematic horror thriller, modern supernatural s
 
 ![Cinematic Horror Thriller Video Prompt](../gifs/920.gif)
 
+> 🔗 [Original Source](https://x.com/EndFolding79421)
+
 ---
+
 ### Ultra Cinematic Kung Fu Comedy Action Sequence
 
 **Prompt:**
@@ -10529,7 +14237,10 @@ Ultra cinematic 15 second fast paced kung fu comedy action sequence set in a mis
 
 ![Ultra Cinematic Kung Fu Comedy Action Sequence](../gifs/928.gif)
 
+> 🔗 [Original Source](https://x.com/StevieMac03)
+
 ---
+
 ### Starfighter POV Navigating Asteroid Field
 
 **Prompt:**
@@ -10539,7 +14250,10 @@ First-person POV from inside a starfighter cockpit flying through an asteroid fi
 
 ![Starfighter POV Navigating Asteroid Field](../gifs/919.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### One-shot Wuxia epic with cinematic camera work
 
 **Prompt:**
@@ -10549,7 +14263,10 @@ One-shot continuous video, Tsui Hark visual aesthetic style Wuxia blockbuster, h
 
 ![One-shot Wuxia epic with cinematic camera work](../gifs/959.gif)
 
+> 🔗 [Original Source](https://x.com/tngqingtng15022)
+
 ---
+
 ### Astronaut Zero-Gravity Escape Scene
 
 **Prompt:**
@@ -10559,7 +14276,10 @@ Astronaut lying on a damaged space station deck. [cut] Close-up shot of the astr
 
 ![Astronaut Zero-Gravity Escape Scene](../gifs/922.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Chinese Mythology Creature Transformation Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10569,7 +14289,10 @@ Astronaut lying on a damaged space station deck. [cut] Close-up shot of the astr
 
 ![Chinese Mythology Creature Transformation Video Prompt for Seedance 2.0](../gifs/932.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Video Script for 'Accidentally Touching Girlfriend' using Seedance 2.0
 
 **Prompt:**
@@ -10579,7 +14302,10 @@ Astronaut lying on a damaged space station deck. [cut] Close-up shot of the astr
 
 ![Video Script for 'Accidentally Touching Girlfriend' using Seedance 2.0](../gifs/931.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### 10-Second Transformation Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10589,7 +14315,10 @@ Astronaut lying on a damaged space station deck. [cut] Close-up shot of the astr
 
 ![10-Second Transformation Video Prompt for Seedance 2.0](../gifs/935.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Street Interview Style Video Script for Seedance 2.0
 
 **Prompt:**
@@ -10599,7 +14328,10 @@ Astronaut lying on a damaged space station deck. [cut] Close-up shot of the astr
 
 ![Street Interview Style Video Script for Seedance 2.0](../gifs/936.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Pixel Art Animation Attempt with Seedance 2.0
 
 **Prompt:**
@@ -10609,7 +14341,10 @@ Image Prompt A Cyber artisan who is a beautiful woman with big shining glass is 
 
 ![Pixel Art Animation Attempt with Seedance 2.0](../gifs/934.gif)
 
+> 🔗 [Original Source](https://x.com/TanShilong)
+
 ---
+
 ### Ultra-wide Macro FPV Cat Tracking Sequence
 
 **Prompt:**
@@ -10619,27 +14354,36 @@ Ultra-wide-angle macro FPV tracking sequence following a cat. The feline is neve
 
 ![Ultra-wide Macro FPV Cat Tracking Sequence](../gifs/917.gif)
 
+> 🔗 [Original Source](https://x.com/AIwithSanchit)
+
 ---
+
 ### Wingsuit Flying Extreme Sports Video Prompt
 
 **Prompt:**
 ```
-A cinematic video sequence, opening with a tranquil wide-angle aerial shot of a pristine snow mountain at dawn, the peak piercing through vast clouds, the golden sun dyeing the ice pink and gold. The camera transitions to follow a wingsuit pilot who leaps from the summit, immediately plunging into a rapid vertical dive through thin clouds. A follow-cam shot 
+A cinematic video sequence, opening with a tranquil wide-angle aerial shot of a pristine snow mountain at dawn, the peak piercing through vast clouds, the golden sun dyeing the ice pink and gold. The camera transitions to follow a wingsuit pilot who leaps from the summit, immediately plunging into a rapid vertical dive through thin clouds. A follow-cam shot
 ```
 
 ![Wingsuit Flying Extreme Sports Video Prompt](../gifs/940.gif)
 
+> 🔗 [Original Source](https://x.com/Aleph6Zero9)
+
 ---
+
 ### Ultra-realistic Cinematic Soda Commercial
 
 **Prompt:**
 ```
-Ultra-realistic cinematic soda commercial. A cold cola bottle covered in condensation sits on a dark studio background. At the start, the bottle cap suddenly pops open with a sharp bump sound, releasing fizzy carbonation and tiny droplets in slow motion. The camera cuts to a macro shot of sparkling bubbles forming on the cap and bottle neck. Transition into 
+Ultra-realistic cinematic soda commercial. A cold cola bottle covered in condensation sits on a dark studio background. At the start, the bottle cap suddenly pops open with a sharp bump sound, releasing fizzy carbonation and tiny droplets in slow motion. The camera cuts to a macro shot of sparkling bubbles forming on the cap and bottle neck. Transition into
 ```
 
 ![Ultra-realistic Cinematic Soda Commercial](../gifs/915.gif)
 
+> 🔗 [Original Source](https://x.com/AIwithSynthia)
+
 ---
+
 ### Animated Burger and Pizza Street Fight
 
 **Prompt:**
@@ -10649,7 +14393,10 @@ Animated burger and pizza slice characters in a playful street fight, food truck
 
 ![Animated Burger and Pizza Street Fight](../gifs/925.gif)
 
+> 🔗 [Original Source](https://x.com/AIwithkhan)
+
 ---
+
 ### Harbor Break Run Cinematic Pursuit
 
 **Prompt:**
@@ -10659,7 +14406,10 @@ Harbor Break Run FORMAT: 15s / 6 SHOTS / grounded cinematic pursuit / no dialogu
 
 ![Harbor Break Run Cinematic Pursuit](../gifs/924.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Modern Soldier vs. Ancient Samurai in Foggy Forest
 
 **Prompt:**
@@ -10669,7 +14419,10 @@ In the middle of a fog-covered forest clearing at dawn, a modern special forces 
 
 ![Modern Soldier vs. Ancient Samurai in Foggy Forest](../gifs/927.gif)
 
+> 🔗 [Original Source](https://x.com/vadooai)
+
 ---
+
 ### iPad Kid Cheeto Hands Video Prompt
 
 **Prompt:**
@@ -10679,7 +14432,10 @@ make a video a 5 year old ipad kid would enjoy while smearing his cheeto stained
 
 ![iPad Kid Cheeto Hands Video Prompt](../gifs/918.gif)
 
+> 🔗 [Original Source](https://x.com/pczzy)
+
 ---
+
 ### Sci-Fi Speeder Chase in Cliff City
 
 **Prompt:**
@@ -10689,15 +14445,21 @@ FORMAT: 15s / 6 SHOTS / single continuous chase energy / no dialogue STYLE: Monu
 
 ![Sci-Fi Speeder Chase in Cliff City](../gifs/916.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Video Prompt for Dancing Girl
 
 **Prompt:**
 ```
-Live-action style, a beautiful girl @【@Image 1】 She has short black hair, wearing a sexy black bud-shaped suspender dress, with fair skin, playfully dancing to Future House style DJ music. The dance movements include playful hip swings, arm wave steps, and fixed poses, perfectly matching the music beat; the camera will push and pull in and out following the 
+Live-action style, a beautiful girl @【@Image 1】 She has short black hair, wearing a sexy black bud-shaped suspender dress, with fair skin, playfully dancing to Future House style DJ music. The dance movements include playful hip swings, arm wave steps, and fixed poses, perfectly matching the music beat; the camera will push and pull in and out following the
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### AI Influencer Idol Video Prompt
 
 **Prompt:**
@@ -10707,7 +14469,10 @@ Create a cute idol-like video that sings about the daily life of the AI influenc
 
 ![AI Influencer Idol Video Prompt](../gifs/911.gif)
 
+> 🔗 [Original Source](https://x.com/xc5_)
+
 ---
+
 ### Seedance 2.0 Prompt for 'Office Worker Complaining about OpenClaw' Video
 
 **Prompt:**
@@ -10717,7 +14482,10 @@ Theme: A 15-second, single-shot, realistic video with a workplace daily Vlog sty
 
 ![Seedance 2.0 Prompt for 'Office Worker Complaining about OpenClaw' Video](../gifs/902.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Ancient Chinese Costume Change Video Prompt (10-Second TikTok Style)
 
 **Prompt:**
@@ -10727,7 +14495,10 @@ Theme: A 15-second, single-shot, realistic video with a workplace daily Vlog sty
 
 ![Ancient Chinese Costume Change Video Prompt (10-Second TikTok Style)](../gifs/908.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Video Consistency Requirements
 
 **Prompt:**
@@ -10737,7 +14508,10 @@ The entire film must maintain a unified visual style, with no style drift, and c
 
 ![Video Consistency Requirements](../gifs/910.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Candid Late-Night Pizza Moment with Handheld Camcorder Aesthetic
 
 **Prompt:**
@@ -10747,7 +14521,10 @@ A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the f
 
 ![Candid Late-Night Pizza Moment with Handheld Camcorder Aesthetic](../gifs/893.gif)
 
+> 🔗 [Original Source](https://x.com/saniaspeaks_)
+
 ---
+
 ### Seedance 2.0 Prompt for Bollywood Anti-Gravity Hero Scene
 
 **Prompt:**
@@ -10757,7 +14534,10 @@ A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the f
 
 ![Seedance 2.0 Prompt for Bollywood Anti-Gravity Hero Scene](../gifs/903.gif)
 
+> 🔗 [Original Source](https://x.com/Aleph6Zero9)
+
 ---
+
 ### Emotional Underwater Anime Test Prompt
 
 **Prompt:**
@@ -10767,7 +14547,10 @@ A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the f
 
 ![Emotional Underwater Anime Test Prompt](../gifs/912.gif)
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### Emoji Prompt Story for Seedance 2.0
 
 **Prompt:**
@@ -10775,7 +14558,10 @@ A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the f
 [Introduction] 0-4 seconds 🎹🕸️ Background 🏚️ [Development] 4-8 seconds 🎹🎶 Background 🪄 [Turn] 8-12 seconds 🔄💧 Background ✨ [Conclusion] 12-15 seconds 🌳🕊️ Background 🌈
 ```
 
+> 🔗 [Original Source](https://x.com/hiromi_sound)
+
 ---
+
 ### Seedance 2.0 prompt for a luxury fashion short film
 
 **Prompt:**
@@ -10785,7 +14571,10 @@ A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the f
 
 ![Seedance 2.0 prompt for a luxury fashion short film](../gifs/906.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Entrance Prompt for a Boss Character
 
 **Prompt:**
@@ -10795,15 +14584,21 @@ A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the f
 
 ![Cinematic Entrance Prompt for a Boss Character](../gifs/904.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Epic Space Combat Scene with Cosmic Energy and Zero-Gravity Camera
 
 **Prompt:**
 ```
-A woman in her late 20s wearing a flowing black combat coat threaded with glowing silver star patterns leaps across fragments of shattered asteroids drifting in deep space. Facing her is a tall alien warrior clad in crystalline armor emitting pulsating violet energy from within its translucent body. She attacks in a continuous chain — rapid teleport dashes, 
+A woman in her late 20s wearing a flowing black combat coat threaded with glowing silver star patterns leaps across fragments of shattered asteroids drifting in deep space. Facing her is a tall alien warrior clad in crystalline armor emitting pulsating violet energy from within its translucent body. She attacks in a continuous chain — rapid teleport dashes,
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Domestic Cats Lightsaber Duel in Living Room
 
 **Prompt:**
@@ -10813,7 +14608,10 @@ Two realistic domestic cats standing upright in a dimly lit living room at night
 
 ![Domestic Cats Lightsaber Duel in Living Room](../gifs/896.gif)
 
+> 🔗 [Original Source](https://x.com/AIwithkhan)
+
 ---
+
 ### Chibi Boxing Match with Anime Action Style
 
 **Prompt:**
@@ -10823,7 +14621,10 @@ Two chibi fighters wearing oversized boxing gloves stand in a bright boxing ring
 
 ![Chibi Boxing Match with Anime Action Style](../gifs/899.gif)
 
+> 🔗 [Original Source](https://x.com/AIwithSynthia)
+
 ---
+
 ### Seedance 2.0 Prompt for Time Stop Scenario in Hot Spring
 
 **Prompt:**
@@ -10833,7 +14634,10 @@ In a hot spring pool, two beautiful girls with great figures, one black-haired E
 
 ![Seedance 2.0 Prompt for Time Stop Scenario in Hot Spring](../gifs/907.gif)
 
+> 🔗 [Original Source](https://x.com/rionaifantasy)
+
 ---
+
 ### Future Industrial Sci-Fi Motorcycle Video Generation
 
 **Prompt:**
@@ -10843,7 +14647,10 @@ A 10-second, photorealistic 8K cinematic AI-generated video in the Workshop Moto
 
 ![Future Industrial Sci-Fi Motorcycle Video Generation](../gifs/909.gif)
 
+> 🔗 [Original Source](https://x.com/yes7799)
+
 ---
+
 ### Cyberpunk Anime Trailer Test Prompt with Lip Sync
 
 **Prompt:**
@@ -10853,7 +14660,10 @@ A 10-second, photorealistic 8K cinematic AI-generated video in the Workshop Moto
 
 ![Cyberpunk Anime Trailer Test Prompt with Lip Sync](../gifs/913.gif)
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### High-Speed Female Warrior Combat Sequence (Simplified Chinese)
 
 **Prompt:**
@@ -10863,17 +14673,23 @@ Rapid cut editing. 3D CGI animation with real-time game engine texture, dynamic 
 
 ![High-Speed Female Warrior Combat Sequence (Simplified Chinese)](../gifs/895.gif)
 
+> 🔗 [Original Source](https://x.com/ShadeLurk)
+
 ---
+
 ### Cinematic Commercial Video Generation Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Subject: @Girl in Image 1, maintain high facial feature consistency, stable face without distortion, confident and sharp eyes.: 1. (0-2s) Close-up: Slender fingers brush across jewelry on the dressing table; quickly cut to applying vintage red lipstick, crisp action. 2. (2-4s) Close-up: Dynamic shot of the zipper of the evening gown being quickly pulled up; 
+Subject: @Girl in Image 1, maintain high facial feature consistency, stable face without distortion, confident and sharp eyes.: 1. (0-2s) Close-up: Slender fingers brush across jewelry on the dressing table; quickly cut to applying vintage red lipstick, crisp action. 2. (2-4s) Close-up: Dynamic shot of the zipper of the evening gown being quickly pulled up;
 ```
 
 ![Cinematic Commercial Video Generation Prompt for Seedance 2.0](../gifs/901.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Controversial Close-Up Video of Cosplay Model
 
 **Prompt:**
@@ -10883,7 +14699,10 @@ Subject: @Girl in Image 1, maintain high facial feature consistency, stable face
 
 ![Controversial Close-Up Video of Cosplay Model](../gifs/897.gif)
 
+> 🔗 [Original Source](https://x.com/HomoDeusLite)
+
 ---
+
 ### Seedance 2.0 Prompt for 'Lobster' Scam Vlog
 
 **Prompt:**
@@ -10893,7 +14712,10 @@ Subject: @Girl in Image 1, maintain high facial feature consistency, stable face
 
 ![Seedance 2.0 Prompt for 'Lobster' Scam Vlog](../gifs/905.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Domestic Catastrophe: Expanding Soap Foam Fills Neighborhood
 
 **Prompt:**
@@ -10903,7 +14725,10 @@ First-person POV camera looking down at two hands in latex kitchen gloves pressi
 
 ![Domestic Catastrophe: Expanding Soap Foam Fills Neighborhood](../gifs/894.gif)
 
+> 🔗 [Original Source](https://x.com/rovvmut_)
+
 ---
+
 ### Seedance 2.0 Prompt for 'First Love' Library Scene
 
 **Prompt:**
@@ -10913,7 +14738,10 @@ First-person POV camera looking down at two hands in latex kitchen gloves pressi
 
 ![Seedance 2.0 Prompt for 'First Love' Library Scene](../gifs/885.gif)
 
+> 🔗 [Original Source](https://x.com/zhyblife99)
+
 ---
+
 ### Father and Baby Bedroom Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10923,7 +14751,10 @@ Realistic style, vertical screen, warm cinematic lighting. [0-5s] Close-up shot,
 
 ![Father and Baby Bedroom Scene Prompt for Seedance 2.0](../gifs/881.gif)
 
+> 🔗 [Original Source](https://x.com/abulu8)
+
 ---
+
 ### Ancient Style Dance with Dynamic Camera Movement
 
 **Prompt:**
@@ -10933,7 +14764,10 @@ The camera is pointed at a pair of jade feet, the lens circles around the charac
 
 ![Ancient Style Dance with Dynamic Camera Movement](../gifs/887.gif)
 
+> 🔗 [Original Source](https://x.com/Jackma199512)
+
 ---
+
 ### Cyberpunk Motorcycle Chase Sequence in Seoul
 
 **Prompt:**
@@ -10943,15 +14777,21 @@ A man in his early 30s, tan skin, short windswept hair, wearing a matte-black ar
 
 ![Cyberpunk Motorcycle Chase Sequence in Seoul](../gifs/877.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Soldier Close-up Combat Scene
 
 **Prompt:**
 ```
-Extreme close-up shot begins: A cloaked soldier shouts loudly in English, “All units, move out! Fire at will!” while continuously firing a rifle. The muzzle flashes bright blue-white flames, shell casings eject rapidly from the side, the rifle recoil visibly shakes his shoulder, continuous firing causes air heat distortion effect above the barrel, the image 
+Extreme close-up shot begins: A cloaked soldier shouts loudly in English, “All units, move out! Fire at will!” while continuously firing a rifle. The muzzle flashes bright blue-white flames, shell casings eject rapidly from the side, the rifle recoil visibly shakes his shoulder, continuous firing causes air heat distortion effect above the barrel, the image
 ```
 
+> 🔗 [Original Source](https://x.com/BURLY_STUDIO)
+
 ---
+
 ### Celebrity Vlog/Red Carpet Sequence
 
 **Prompt:**
@@ -10961,7 +14801,10 @@ Theme: Generate a video of a girl 【@Image 1】 getting ready in a makeup room 
 
 ![Celebrity Vlog/Red Carpet Sequence](../gifs/884.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Short Drama: 'The Dragon Turns Over: Ex Can't Reach'
 
 **Prompt:**
@@ -10971,7 +14814,10 @@ Theme: Generate a video of a girl 【@Image 1】 getting ready in a makeup room 
 
 ![Short Drama: 'The Dragon Turns Over: Ex Can't Reach'](../gifs/888.gif)
 
+> 🔗 [Original Source](https://x.com/Aleph6Zero9)
+
 ---
+
 ### AI Girlfriend Interactive Scene
 
 **Prompt:**
@@ -10981,7 +14827,10 @@ Subject: Photorealistic style, a young beautiful Asian woman sitting by the bay 
 
 ![AI Girlfriend Interactive Scene](../gifs/880.gif)
 
+> 🔗 [Original Source](https://x.com/HomoDeusLite)
+
 ---
+
 ### Chinese Tea Shop Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -10991,17 +14840,23 @@ Boy standing with a plate of buns in a Chinese tea shop, a bear looking at him f
 
 ![Chinese Tea Shop Scene Prompt for Seedance 2.0](../gifs/879.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Short Comedy Sketch: 'Treat Company as Home'
 
 **Prompt:**
 ```
-Reversal comedy, real movie high-definition texture, Douyin short video hit, 2 people featured Characters: Guy @Image 1 (Post-00s awakened worker), Gentle Girl @Image 2 (Boss/HR who loves to give motivational speeches) Scene 1: Company office area, evening (slightly dim light, suggesting end of work day) - Guy: Wearing a backpack, preparing to clock out and 
+Reversal comedy, real movie high-definition texture, Douyin short video hit, 2 people featured Characters: Guy @Image 1 (Post-00s awakened worker), Gentle Girl @Image 2 (Boss/HR who loves to give motivational speeches) Scene 1: Company office area, evening (slightly dim light, suggesting end of work day) - Guy: Wearing a backpack, preparing to clock out and
 ```
 
 ![Short Comedy Sketch: 'Treat Company as Home'](../gifs/886.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Arctic Glacier Collapse and Snowmobile Escape
 
 **Prompt:**
@@ -11011,7 +14866,10 @@ A woman in her mid-30s wearing a heavy arctic survival suit races across the dec
 
 ![Arctic Glacier Collapse and Snowmobile Escape](../gifs/876.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Street Fighter Classic Battle Video Generation
 
 **Prompt:**
@@ -11021,7 +14879,10 @@ A woman in her mid-30s wearing a heavy arctic survival suit races across the dec
 
 ![Street Fighter Classic Battle Video Generation](../gifs/882.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Short Comedy Sketch: 'Take Away'
 
 **Prompt:**
@@ -11031,7 +14892,10 @@ A woman in her mid-30s wearing a heavy arctic survival suit races across the dec
 
 ![Short Comedy Sketch: 'Take Away'](../gifs/883.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Luxury Watch Assembly from Golden Sand Particles
 
 **Prompt:**
@@ -11041,7 +14905,10 @@ Creative cinematic scene where golden sand particles swirl in the air and transf
 
 ![Luxury Watch Assembly from Golden Sand Particles](../gifs/878.gif)
 
+> 🔗 [Original Source](https://x.com/AIwithSynthia)
+
 ---
+
 ### Kamen Rider Transformation Sequence
 
 **Prompt:**
@@ -11051,7 +14918,10 @@ Realistic dark Tokusatsu | Insect bio-mimetic armor aesthetic | Damaged armor | 
 
 ![Kamen Rider Transformation Sequence](../gifs/875.gif)
 
+> 🔗 [Original Source](https://x.com/Magncsans)
+
 ---
+
 ### Inspirational business speech short video prompt
 
 **Prompt:**
@@ -11061,7 +14931,10 @@ A 15-second inspirational business speech short video, 4K ultra-clear, cinematic
 
 ![Inspirational business speech short video prompt](../gifs/890.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Girlfriend Waking Up Vlog Scene
 
 **Prompt:**
@@ -11071,7 +14944,10 @@ A 15-second inspirational business speech short video, 4K ultra-clear, cinematic
 
 ![Girlfriend Waking Up Vlog Scene](../gifs/872.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Catastrophic Disaster Movie Scene Prompt
 
 **Prompt:**
@@ -11081,7 +14957,10 @@ A 15-second inspirational business speech short video, 4K ultra-clear, cinematic
 
 ![Catastrophic Disaster Movie Scene Prompt](../gifs/865.gif)
 
+> 🔗 [Original Source](https://x.com/ViralOps_)
+
 ---
+
 ### Hyper-realistic Football Action Shot Video
 
 **Prompt:**
@@ -11091,7 +14970,10 @@ Create a hyper-realistic, high-motion football action shot captured from a low, 
 
 ![Hyper-realistic Football Action Shot Video](../gifs/861.gif)
 
+> 🔗 [Original Source](https://x.com/CalvinHollywood)
+
 ---
+
 ### Childhood Conversation Video Prompt
 
 **Prompt:**
@@ -11101,7 +14983,10 @@ Original characters: child girl from (image1) on the left side of the frame and 
 
 ![Childhood Conversation Video Prompt](../gifs/862.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### 2D Animated Fight Scene Between Goku and Naruto
 
 **Prompt:**
@@ -11111,17 +14996,23 @@ A fight between Goku and Naruto is shown in a 2D animation style. Goku moves his
 
 ![2D Animated Fight Scene Between Goku and Naruto](../gifs/868.gif)
 
+> 🔗 [Original Source](https://x.com/NACHOS2D_)
+
 ---
+
 ### Seedance 2.0 prompt for generating a dramatic couple's argument scene
 
 **Prompt:**
 ```
-One man and one woman, extremely high appearance value, delicate cold white skin, cinematic feel, sense of story, dark tone. Inside the living room, the 18-year-old pure female lead is sitting on the sofa wearing a floral nightgown, with delicate light makeup, smooth and fluffy long hair with small waves at the ends. The handsome, refined, fair-skinned male 
+One man and one woman, extremely high appearance value, delicate cold white skin, cinematic feel, sense of story, dark tone. Inside the living room, the 18-year-old pure female lead is sitting on the sofa wearing a floral nightgown, with delicate light makeup, smooth and fluffy long hair with small waves at the ends. The handsome, refined, fair-skinned male
 ```
 
 ![Seedance 2.0 prompt for generating a dramatic couple's argument scene](../gifs/873.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Deadpan Absurdist Comedy Video Prompt
 
 **Prompt:**
@@ -11131,7 +15022,10 @@ A street food vendor in his 40s, broad shoulders, white apron, red bandana headb
 
 ![Deadpan Absurdist Comedy Video Prompt](../gifs/864.gif)
 
+> 🔗 [Original Source](https://x.com/rahulnanda86)
+
 ---
+
 ### Seedance 2.0 Video Prompt: 'What are you looking at?'
 
 **Prompt:**
@@ -11141,27 +15035,36 @@ A street food vendor in his 40s, broad shoulders, white apron, red bandana headb
 
 ![Seedance 2.0 Video Prompt: 'What are you looking at?'](../gifs/871.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Dunhuang Flying Apsara Video Generation Prompt
 
 **Prompt:**
 ```
-0-2 seconds: A Dunhuang Flying Apsara beauty floats out from a gilded mural, holding a gilded lotus lantern. As the lantern light flows, her red and gold celestial robes are radiant like sunset clouds, and the caisson ceiling pattern behind her (interwoven red, gold, and lapis lazuli blue) shimmers with light. 2-4 seconds: She steps on a seven-colored lotus 
+0-2 seconds: A Dunhuang Flying Apsara beauty floats out from a gilded mural, holding a gilded lotus lantern. As the lantern light flows, her red and gold celestial robes are radiant like sunset clouds, and the caisson ceiling pattern behind her (interwoven red, gold, and lapis lazuli blue) shimmers with light. 2-4 seconds: She steps on a seven-colored lotus
 ```
 
 ![Dunhuang Flying Apsara Video Generation Prompt](../gifs/866.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seamless Sword Fight Sequence Prompt
 
 **Prompt:**
 ```
-This is the opening and closing scene of a sword fight. Based on these two scenes, create a seamless sequence of an armored male knight with a red cape and sword fighting a giant horned monster with glowing red eyes in a snowy mountain battlefield. The fight is fast, intense, and relentless from beginning to end. Use multiple cinematic camera angles such as 
+This is the opening and closing scene of a sword fight. Based on these two scenes, create a seamless sequence of an armored male knight with a red cape and sword fighting a giant horned monster with glowing red eyes in a snowy mountain battlefield. The fight is fast, intense, and relentless from beginning to end. Use multiple cinematic camera angles such as
 ```
 
 ![Seamless Sword Fight Sequence Prompt](../gifs/867.gif)
 
+> 🔗 [Original Source](https://x.com/Kangaikroto)
+
 ---
+
 ### Massive Ancient Sea Dragon Emerging from the Ocean
 
 **Prompt:**
@@ -11171,7 +15074,10 @@ A massive ancient sea dragon emerging from the deep ocean, its gigantic serpenti
 
 ![Massive Ancient Sea Dragon Emerging from the Ocean](../gifs/870.gif)
 
+> 🔗 [Original Source](https://x.com/john_my07)
+
 ---
+
 ### Structured Chibi Character Animation Prompt
 
 **Prompt:**
@@ -11181,7 +15087,10 @@ A massive ancient sea dragon emerging from the deep ocean, its gigantic serpenti
 
 ![Structured Chibi Character Animation Prompt](../gifs/863.gif)
 
+> 🔗 [Original Source](https://x.com/Just_sharon7)
+
 ---
+
 ### Seedance 2.0 prompt for cinematic cooking video (Scrambled Eggs with Tomatoes)
 
 **Prompt:**
@@ -11191,7 +15100,10 @@ A massive ancient sea dragon emerging from the deep ocean, its gigantic serpenti
 
 ![Seedance 2.0 prompt for cinematic cooking video (Scrambled Eggs with Tomatoes)](../gifs/874.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Adventure Scene in Ancient Jungle Ruins
 
 **Prompt:**
@@ -11199,7 +15111,10 @@ A massive ancient sea dragon emerging from the deep ocean, its gigantic serpenti
 A cinematic adventure scene set in a hidden jungle valley at sunrise. Massive ancient stone ruins covered in moss rise from dense tropical vegetation. Giant statues of forgotten warriors stand broken among tall pillars wrapped in vines. A mysterious circular stone platform lies in the center of the ruins. Eight explorers from different backgrounds stand on t
 ```
 
+> 🔗 [Original Source](https://x.com/MaAyyoub)
+
 ---
+
 ### Hyperrealistic miniature diorama of a clay figure collapsing on a bed
 
 **Prompt:**
@@ -11209,7 +15124,10 @@ Hyperrealistic miniature diorama, stop-motion clay animation, handcrafted tactil
 
 ![Hyperrealistic miniature diorama of a clay figure collapsing on a bed](../gifs/851.gif)
 
+> 🔗 [Original Source](https://x.com/AleRVG)
+
 ---
+
 ### Sneaky Kitten Scrolling on Phone Under Covers
 
 **Prompt:**
@@ -11219,7 +15137,10 @@ Realistic style, vertical screen, warm cinematic lighting.[0-5s] Close-up shot o
 
 ![Sneaky Kitten Scrolling on Phone Under Covers](../gifs/853.gif)
 
+> 🔗 [Original Source](https://x.com/abulu8)
+
 ---
+
 ### Anime Combat Scene: Knight vs. Shadow Monster
 
 **Prompt:**
@@ -11229,7 +15150,10 @@ Silver-haired knight vs horned shadow monster. Meteor dive attack. Afterimage bl
 
 ![Anime Combat Scene: Knight vs. Shadow Monster](../gifs/852.gif)
 
+> 🔗 [Original Source](https://x.com/andrehutap775)
+
 ---
+
 ### Video generation prompt for a cosplay model's foot and leg focus
 
 **Prompt:**
@@ -11239,7 +15163,10 @@ Real actor playing a live-action role, a model participating in a cosplay exhibi
 
 ![Video generation prompt for a cosplay model's foot and leg focus](../gifs/859.gif)
 
+> 🔗 [Original Source](https://x.com/MrGeekmister)
+
 ---
+
 ### Taiwanese Girlfriend Night Market POV Video
 
 **Prompt:**
@@ -11249,7 +15176,10 @@ Real actor playing a live-action role, a model participating in a cosplay exhibi
 
 ![Taiwanese Girlfriend Night Market POV Video](../gifs/856.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Romantic Couple Interaction Video Prompt
 
 **Prompt:**
@@ -11257,7 +15187,10 @@ Real actor playing a live-action role, a model participating in a cosplay exhibi
 0-3 seconds: The screen is filled with soft, hazy light. She has just washed her hair, which is damp and slightly curled, with tiny water droplets clinging to the ends. She is wrapped in a light-colored bath towel, nestled on the sofa. She holds a white porcelain cup in both hands, with steam rising gently from the hot tea. She smiles at you with curved eyes
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Hyperrealistic Close-up Video of Cosplay Model
 
 **Prompt:**
@@ -11267,7 +15200,10 @@ Real actor performing live action, a model participating in a cosplay convention
 
 ![Hyperrealistic Close-up Video of Cosplay Model](../gifs/854.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Detailed Multi-Shot Video Prompt for Seedance 2.0, ViduQ3, and Kling 3.0 Comparison
 
 **Prompt:**
@@ -11277,7 +15213,10 @@ Real actor performing live action, a model participating in a cosplay convention
 
 ![Detailed Multi-Shot Video Prompt for Seedance 2.0, ViduQ3, and Kling 3.0 Comparison](../gifs/860.gif)
 
+> 🔗 [Original Source](https://x.com/aiehon_aya)
+
 ---
+
 ### Bus transforming into a Cybertronian mechanical giant caterpillar
 
 **Prompt:**
@@ -11287,7 +15226,10 @@ an old, green, oversized, and extra-tall American-style bus is parked in a dilap
 
 ![Bus transforming into a Cybertronian mechanical giant caterpillar](../gifs/841.gif)
 
+> 🔗 [Original Source](https://x.com/ViralOps_)
+
 ---
+
 ### Ragdoll cat attempts to steal fish at a red light
 
 **Prompt:**
@@ -11297,7 +15239,10 @@ a city street during a red light; everyone is stopped and waiting. a young man i
 
 ![Ragdoll cat attempts to steal fish at a red light](../gifs/842.gif)
 
+> 🔗 [Original Source](https://x.com/ViralOps_)
+
 ---
+
 ### Man working in a lab with ambient sound
 
 **Prompt:**
@@ -11307,17 +15252,23 @@ man is working in the lab: [cut] multiple camera shots of a man working in the l
 
 ![Man working in a lab with ambient sound](../gifs/840.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Harry S. Truman walking towards the camera
 
 **Prompt:**
 ```
-man in brown suit with glasses and a hat gets out of the car. He is the president of the US, Harry S. Truman [cut] The president is walking towards the camera in an excited manner and is smiling, looking around and acknowledging other people who are looking at him [cut] The camera is now behind him, showing an over the shoulder shot of the president looking 
+man in brown suit with glasses and a hat gets out of the car. He is the president of the US, Harry S. Truman [cut] The president is walking towards the camera in an excited manner and is smiling, looking around and acknowledging other people who are looking at him [cut] The camera is now behind him, showing an over the shoulder shot of the president looking
 ```
 
 ![Harry S. Truman walking towards the camera](../gifs/843.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Twelve Flower Goddess Transformation Video Prompt
 
 **Prompt:**
@@ -11327,7 +15278,10 @@ man in brown suit with glasses and a hat gets out of the car. He is the presiden
 
 ![Twelve Flower Goddess Transformation Video Prompt](../gifs/847.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Chinese Dreamscape Video Prompt
 
 **Prompt:**
@@ -11337,7 +15291,10 @@ If reality is too tiring, go fly in the Seedance 2.0 Chinese dreamscape. When bl
 
 ![Chinese Dreamscape Video Prompt](../gifs/849.gif)
 
+> 🔗 [Original Source](https://x.com/AIYIRAN1231)
+
 ---
+
 ### Explorer discovering a hidden valley in the snow
 
 **Prompt:**
@@ -11347,7 +15304,10 @@ Live-action cinematic sequence in real time. Aerial wide shot: a vast white moun
 
 ![Explorer discovering a hidden valley in the snow](../gifs/844.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Wong Kar-wai style rainy phone booth scene
 
 **Prompt:**
@@ -11357,7 +15317,10 @@ Live-action cinematic sequence in real time. Aerial wide shot: a vast white moun
 
 ![Wong Kar-wai style rainy phone booth scene](../gifs/845.gif)
 
+> 🔗 [Original Source](https://x.com/athianandam)
+
 ---
+
 ### Cinematic Pure Love Narrative Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -11367,7 +15330,10 @@ Live-action cinematic sequence in real time. Aerial wide shot: a vast white moun
 
 ![Cinematic Pure Love Narrative Video Prompt for Seedance 2.0](../gifs/846.gif)
 
+> 🔗 [Original Source](https://x.com/LufzzLiz)
+
 ---
+
 ### Cinematic Japanese Action Anime Combat Prompt for Seedance 2
 
 **Prompt:**
@@ -11377,7 +15343,10 @@ Cinematic full color japanese action anime of 【@Image 1】in dynamic combat ag
 
 ![Cinematic Japanese Action Anime Combat Prompt for Seedance 2](../gifs/839.gif)
 
+> 🔗 [Original Source](https://x.com/PocketScreenAI)
+
 ---
+
 ### Taiwanese Girlfriend POV Video Prompt
 
 **Prompt:**
@@ -11387,7 +15356,10 @@ Cinematic full color japanese action anime of 【@Image 1】in dynamic combat ag
 
 ![Taiwanese Girlfriend POV Video Prompt](../gifs/848.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Seedance 2.0 K-pop Dance Video Generation Prompt
 
 **Prompt:**
@@ -11397,7 +15369,10 @@ Cinematic full color japanese action anime of 【@Image 1】in dynamic combat ag
 
 ![Seedance 2.0 K-pop Dance Video Generation Prompt](../gifs/937.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Sci-fi Cinematic 360-Degree Rotation Prompt
 
 **Prompt:**
@@ -11407,7 +15382,10 @@ Cinematic full color japanese action anime of 【@Image 1】in dynamic combat ag
 
 ![Sci-fi Cinematic 360-Degree Rotation Prompt](../gifs/821.gif)
 
+> 🔗 [Original Source](https://x.com/PJaccetturo)
+
 ---
+
 ### Cinematic Shibuya Sprint Sequence Prompt
 
 **Prompt:**
@@ -11417,7 +15395,10 @@ Single continuous cinematic shot. Audio begins with daytime Shibuya street noise
 
 ![Cinematic Shibuya Sprint Sequence Prompt](../gifs/822.gif)
 
+> 🔗 [Original Source](https://x.com/imGopalTiwari)
+
 ---
+
 ### A Bite of China Style New Year's Eve Dinner Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -11427,7 +15408,10 @@ Theme: Based on the user-provided New Year's Eve dinner photos, generate a 15-se
 
 ![A Bite of China Style New Year's Eve Dinner Video Prompt for Seedance 2.0](../gifs/827.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Epic Fantasy Awakening Video Prompt (Aerial Version)
 
 **Prompt:**
@@ -11437,7 +15421,10 @@ Theme: Based on the user-provided New Year's Eve dinner photos, generate a 15-se
 
 ![Epic Fantasy Awakening Video Prompt (Aerial Version)](../gifs/828.gif)
 
+> 🔗 [Original Source](https://x.com/NanoPhotoAI)
+
 ---
+
 ### Fox Spirit Transformation Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -11447,17 +15434,23 @@ Theme: Based on the user-provided New Year's Eve dinner photos, generate a 15-se
 
 ![Fox Spirit Transformation Video Prompt for Seedance 2.0](../gifs/829.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Four Seasons Skateboard/Snowboard Video Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-The rhythm of the background music perfectly matches the speed of the skateboarding/snowboarding movements, and the volume of the background music is lower than the actual sound effects, not covering the skateboarding and snowboarding sound effects. First-person skateboarding rear-view perspective, ultra-wide angle strong perspective, slight camera shake to 
+The rhythm of the background music perfectly matches the speed of the skateboarding/snowboarding movements, and the volume of the background music is lower than the actual sound effects, not covering the skateboarding and snowboarding sound effects. First-person skateboarding rear-view perspective, ultra-wide angle strong perspective, slight camera shake to
 ```
 
 ![Four Seasons Skateboard/Snowboard Video Prompt for Seedance 2.0](../gifs/824.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Girlfriend's Morning Greeting Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -11467,7 +15460,10 @@ Style: Casual Vlog snapshot style, iPhone original camera texture, slightly moti
 
 ![Girlfriend's Morning Greeting Video Prompt for Seedance 2.0](../gifs/830.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Boyfriend POV Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -11477,7 +15473,10 @@ Style: Casual Vlog snapshot style, iPhone original camera texture, slightly moti
 
 ![Boyfriend POV Video Prompt for Seedance 2.0](../gifs/825.gif)
 
+> 🔗 [Original Source](https://x.com/helloerikk0)
+
 ---
+
 ### Ultra-Cinematic Sci-Fi Megacity Video Prompt
 
 **Prompt:**
@@ -11487,7 +15486,10 @@ Style: ultra-cinematic photoreal sci-fi, dense futuristic megacity, noir cyberpu
 
 ![Ultra-Cinematic Sci-Fi Megacity Video Prompt](../gifs/823.gif)
 
+> 🔗 [Original Source](https://x.com/Legoman_Grizu)
+
 ---
+
 ### Cinematic Reveal of Tesla Cybertruck and Showroom
 
 **Prompt:**
@@ -11497,7 +15499,10 @@ Style: ultra-cinematic photoreal sci-fi, dense futuristic megacity, noir cyberpu
 
 ![Cinematic Reveal of Tesla Cybertruck and Showroom](../gifs/838.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Modern Dance Performance Scene Description
 
 **Prompt:**
@@ -11507,17 +15512,23 @@ Style: ultra-cinematic photoreal sci-fi, dense futuristic megacity, noir cyberpu
 
 ![Modern Dance Performance Scene Description](../gifs/832.gif)
 
+> 🔗 [Original Source](https://x.com/vx_xie)
+
 ---
+
 ### WWI Continuous Tracking Shot Prompt
 
 **Prompt:**
 ```
-WWI soldier sprinting across an open battlefield during a massive assault, muddy cratered ground, barbed wire, artillery explosions tearing through the field, dozens of soldiers charging across the landscape, chaos and debris everywhere, the soldier running straight through the battlefield while others fall or collide around him, massive explosions erupting 
+WWI soldier sprinting across an open battlefield during a massive assault, muddy cratered ground, barbed wire, artillery explosions tearing through the field, dozens of soldiers charging across the landscape, chaos and debris everywhere, the soldier running straight through the battlefield while others fall or collide around him, massive explosions erupting
 ```
 
 ![WWI Continuous Tracking Shot Prompt](../gifs/819.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Uzbek Puppet Stop-Motion Narrative Prompt
 
 **Prompt:**
@@ -11527,17 +15538,23 @@ A stop-motion wooden puppet Uzbek woman with round painted face, black braided h
 
 ![Uzbek Puppet Stop-Motion Narrative Prompt](../gifs/820.gif)
 
+> 🔗 [Original Source](https://x.com/Khusandjemilov)
+
 ---
+
 ### Wushan Wuxing Style High-Energy Fight Scene Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Shot 1: Battle starts immediately · Weapon clash. Authentic Wushan Wuxing national comic style, sharp hard-edged ink lines, high-contrast red and black tones. The battle begins without preamble, two martial artists clash head-on with weapons, intense collision of swords/long weapons, sparks and ink-colored air waves erupt simultaneously. Movements are swift 
+Shot 1: Battle starts immediately · Weapon clash. Authentic Wushan Wuxing national comic style, sharp hard-edged ink lines, high-contrast red and black tones. The battle begins without preamble, two martial artists clash head-on with weapons, intense collision of swords/long weapons, sparks and ink-colored air waves erupt simultaneously. Movements are swift
 ```
 
 ![Wushan Wuxing Style High-Energy Fight Scene Prompt for Seedance 2.0](../gifs/826.gif)
 
+> 🔗 [Original Source](https://x.com/ruguodev)
+
 ---
+
 ### Zombie Hunter Supermarket Scene
 
 **Prompt:**
@@ -11547,7 +15564,10 @@ A woman zombie hunter goes into a overrun supermarket during a zombie apocalypse
 
 ![Zombie Hunter Supermarket Scene](../gifs/784.gif)
 
+> 🔗 [Original Source](https://x.com/rahulnanda86)
+
 ---
+
 ### Product Replacement in Video
 
 **Prompt:**
@@ -11557,7 +15577,10 @@ Replace the perfume in the gift box shown in the upper-left video with the cream
 
 ![Product Replacement in Video](../gifs/786.gif)
 
+> 🔗 [Original Source](https://x.com/IamMiaChase)
+
 ---
+
 ### The Saddest Story Told in Stop-Motion Clay Animation
 
 **Prompt:**
@@ -11567,7 +15590,10 @@ Stop-motion clay animation, handcrafted tactile materials, real fabric, warm aft
 
 ![The Saddest Story Told in Stop-Motion Clay Animation](../gifs/787.gif)
 
+> 🔗 [Original Source](https://x.com/AleRVG)
+
 ---
+
 ### Detailed Scene Prompt for Zombie Chase
 
 **Prompt:**
@@ -11577,7 +15603,10 @@ SCENE: abandoned fog-filled city street at night ACTORS: A: panicked runner in t
 
 ![Detailed Scene Prompt for Zombie Chase](../gifs/793.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Train Chase Cinematic Sequence
 
 **Prompt:**
@@ -11587,7 +15616,10 @@ SCENE: abandoned fog-filled city street at night ACTORS: A: panicked runner in t
 
 ![Train Chase Cinematic Sequence](../gifs/789.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Prison Cell Dialogue Prompt
 
 **Prompt:**
@@ -11597,7 +15629,10 @@ A man sitting in his prison cell. [cut] Female guard walking through the prison 
 
 ![Prison Cell Dialogue Prompt](../gifs/785.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Battlefield Survival Scene Prompt
 
 **Prompt:**
@@ -11607,7 +15642,10 @@ Man lying on a battlefield. [cut] Close-up shot of the man's face as he opens hi
 
 ![Battlefield Survival Scene Prompt](../gifs/791.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Cinematic 4K Military CGI Scene
 
 **Prompt:**
@@ -11617,7 +15655,10 @@ Technical Specifications: 2.35:1 ultra-widescreen, cinematic native image qualit
 
 ![Cinematic 4K Military CGI Scene](../gifs/797.gif)
 
+> 🔗 [Original Source](https://x.com/jiangyuhe618)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Guangzhou City Montage (Part 1)
 
 **Prompt:**
@@ -11627,27 +15668,36 @@ Aspect ratio \"16:9\" Guangzhou city group portrait, including ancient Xiguan ma
 
 ![Seedance 2.0 Video Prompt: Guangzhou City Montage (Part 1)](../gifs/811.gif)
 
+> 🔗 [Original Source](https://x.com/kaixinAGI)
+
 ---
+
 ### Dark Fantasy Golem and Fairy Cinematic Sequence
 
 **Prompt:**
 ```
-Cinematic sequence, 15 seconds, dark fantasy video game. [0:00–0:03] Wide shot of the stone golem with his red knitted scarf and glowing orange chest orb walking slowly toward a tranquil lake surrounded by ancient weeping willows, their long branches gently swaying and touching the water's surface, soft golden light filtering through the canopy. [0:03–0:05] 
+Cinematic sequence, 15 seconds, dark fantasy video game. [0:00–0:03] Wide shot of the stone golem with his red knitted scarf and glowing orange chest orb walking slowly toward a tranquil lake surrounded by ancient weeping willows, their long branches gently swaying and touching the water's surface, soft golden light filtering through the canopy. [0:03–0:05]
 ```
 
 ![Dark Fantasy Golem and Fairy Cinematic Sequence](../gifs/783.gif)
 
+> 🔗 [Original Source](https://x.com/freepik)
+
 ---
+
 ### Colossal Feline Titan Rising from the Ocean
 
 **Prompt:**
 ```
-Stormy night ocean, massive waves under lightning flashes. The sea churns violently as a colossal feline titan rises from the depths, water cascading off its fur in slow motion. Low-angle cinematic shot, glowing eyes piercing rain and fog. Navy warships surround it, firing missiles and cannons, explosions lighting the clouds. The giant cat roars, shockwaves 
+Stormy night ocean, massive waves under lightning flashes. The sea churns violently as a colossal feline titan rises from the depths, water cascading off its fur in slow motion. Low-angle cinematic shot, glowing eyes piercing rain and fog. Navy warships surround it, firing missiles and cannons, explosions lighting the clouds. The giant cat roars, shockwaves
 ```
 
 ![Colossal Feline Titan Rising from the Ocean](../gifs/788.gif)
 
+> 🔗 [Original Source](https://x.com/lexx_aura)
+
 ---
+
 ### Seedance 2.0 Video Prompt: High-Speed Skateboard Chase
 
 **Prompt:**
@@ -11657,7 +15707,10 @@ High-speed follow-up from a first-person perspective: Closely following a white-
 
 ![Seedance 2.0 Video Prompt: High-Speed Skateboard Chase](../gifs/812.gif)
 
+> 🔗 [Original Source](https://x.com/EvaEvano12)
+
 ---
+
 ### Flute Transition and Transformation Video Prompt
 
 **Prompt:**
@@ -11667,7 +15720,10 @@ A girl, bare-faced, fiddling with a flute in the living room. She picks up the f
 
 ![Flute Transition and Transformation Video Prompt](../gifs/802.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Seedance 2.0 Video Prompt: 80s Hong Kong Zombie Movie
 
 **Prompt:**
@@ -11677,7 +15733,10 @@ Segment 1: 16:9 horizontal screen, 80s Hong Kong style zombie movie aesthetic, b
 
 ![Seedance 2.0 Video Prompt: 80s Hong Kong Zombie Movie](../gifs/813.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Cinematic Prompting Structure Example
 
 **Prompt:**
@@ -11687,7 +15746,10 @@ A tired astronaut walking through a dark corridor, handheld camera following beh
 
 ![Cinematic Prompting Structure Example](../gifs/792.gif)
 
+> 🔗 [Original Source](https://x.com/riyazmd774)
+
 ---
+
 ### Taiwanese Girlfriend Series: Rainy Day POV
 
 **Prompt:**
@@ -11697,7 +15759,10 @@ A tired astronaut walking through a dark corridor, handheld camera following beh
 
 ![Taiwanese Girlfriend Series: Rainy Day POV](../gifs/800.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Seedance 2.0 Video Generation Prompt for Text Effects
 
 **Prompt:**
@@ -11707,17 +15772,23 @@ The Beginning of Chaos * Visuals: Pure black background, no elements, only extre
 
 ![Seedance 2.0 Video Generation Prompt for Text Effects](../gifs/794.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Skincare Product Ad (Scene 1)
 
 **Prompt:**
 ```
-Shot 1: Late at night, a young Asian woman Image 3 is examining herself in the bathroom mirror. Her skin looks dull, oily, and tired. Her complexion lacks luster. She frowns and touches her cheek, seemingly troubled by the heavy, sticky feeling on her face. Shot 2: Mid-shot, the same woman Image 3 holds a white facial cleanser tube of the “OSM” brand with a 
+Shot 1: Late at night, a young Asian woman Image 3 is examining herself in the bathroom mirror. Her skin looks dull, oily, and tired. Her complexion lacks luster. She frowns and touches her cheek, seemingly troubled by the heavy, sticky feeling on her face. Shot 2: Mid-shot, the same woman Image 3 holds a white facial cleanser tube of the “OSM” brand with a
 ```
 
 ![Seedance 2.0 Video Prompt: Skincare Product Ad (Scene 1)](../gifs/814.gif)
 
+> 🔗 [Original Source](https://x.com/FijUO6J3F159890)
+
 ---
+
 ### Sci-Fi Black Supercar Transforming into a Humanoid Robot
 
 **Prompt:**
@@ -11727,7 +15798,10 @@ Subject: A deep gray, futuristic black supercar. Action: Speeding on a city high
 
 ![Sci-Fi Black Supercar Transforming into a Humanoid Robot](../gifs/817.gif)
 
+> 🔗 [Original Source](https://x.com/ponyodong)
+
 ---
+
 ### Fantasy Title Sequence Animation Prompt
 
 **Prompt:**
@@ -11737,7 +15811,10 @@ The goal is to create a font animation for the four characters “哥飞出海�
 
 ![Fantasy Title Sequence Animation Prompt](../gifs/799.gif)
 
+> 🔗 [Original Source](https://x.com/gefei55)
+
 ---
+
 ### Premium Ice Cream Sundae Commercial
 
 **Prompt:**
@@ -11747,7 +15824,10 @@ Premium commercial photograph of a tall ice cream sundae with scoops, chocolate 
 
 ![Premium Ice Cream Sundae Commercial](../gifs/790.gif)
 
+> 🔗 [Original Source](https://x.com/Strength04_X)
+
 ---
+
 ### Cinematic Descent on a Brutalist Rooftop
 
 **Prompt:**
@@ -11757,7 +15837,10 @@ A lone woman stands on the roof of a brutalist concrete building at sunrise, win
 
 ![Cinematic Descent on a Brutalist Rooftop](../gifs/782.gif)
 
+> 🔗 [Original Source](https://x.com/saniaspeaks_)
+
 ---
+
 ### High-Heel Dance Video Prompt
 
 **Prompt:**
@@ -11767,7 +15850,10 @@ Character face reference @[Image 1] Using \"Hot Love Ice Cream\" as the backing 
 
 ![High-Heel Dance Video Prompt](../gifs/798.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### BRAIN DRAIN Stop-Motion Prompt
 
 **Prompt:**
@@ -11777,7 +15863,10 @@ Hyperrealistic miniature diorama, stop-motion animation, handcrafted tactile mat
 
 ![BRAIN DRAIN Stop-Motion Prompt](../gifs/770.gif)
 
+> 🔗 [Original Source](https://x.com/AleRVG)
+
 ---
+
 ### The Cinematic Master Prompt (Image and Video)
 
 **Prompt:**
@@ -11787,7 +15876,10 @@ Hyperrealistic miniature diorama, stop-motion animation, handcrafted tactile mat
 
 ![The Cinematic Master Prompt (Image and Video)](../gifs/771.gif)
 
+> 🔗 [Original Source](https://x.com/SilverCoder2009)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Luxurious Night Scene Interaction
 
 **Prompt:**
@@ -11797,7 +15889,10 @@ Live-action realistic style, vertical screen, first-person perspective. Inside a
 
 ![Seedance 2.0 Video Prompt: Luxurious Night Scene Interaction](../gifs/774.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Lace Mini Skirt Model Display Sequence
 
 **Prompt:**
@@ -11807,7 +15902,10 @@ A beautiful woman wearing a white lace mini skirt, standing and displaying it in
 
 ![Lace Mini Skirt Model Display Sequence](../gifs/775.gif)
 
+> 🔗 [Original Source](https://x.com/qtwaiter)
+
 ---
+
 ### 12-Second Quick Change Collection
 
 **Prompt:**
@@ -11817,7 +15915,10 @@ Keep the character completely consistent with the reference image, 100% identica
 
 ![12-Second Quick Change Collection](../gifs/778.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Comparison Prompt for Kling 3 and Seedance 2
 
 **Prompt:**
@@ -11827,7 +15928,10 @@ Keep the character completely consistent with the reference image, 100% identica
 
 ![Comparison Prompt for Kling 3 and Seedance 2](../gifs/780.gif)
 
+> 🔗 [Original Source](https://x.com/RINONOYT7733)
+
 ---
+
 ### First-Person Wuxia Video Prompt
 
 **Prompt:**
@@ -11837,7 +15941,10 @@ Style: First-person POV, ink-wash wuxia (Chinese martial arts aesthetic), 4K ult
 
 ![First-Person Wuxia Video Prompt](../gifs/776.gif)
 
+> 🔗 [Original Source](https://x.com/ViralOps_)
+
 ---
+
 ### Wuhan City Promotional Video Prompt for Seedance 2.0
 
 **Prompt:**
@@ -11847,7 +15954,10 @@ Style: First-person POV, ink-wash wuxia (Chinese martial arts aesthetic), 4K ult
 
 ![Wuhan City Promotional Video Prompt for Seedance 2.0](../gifs/777.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Hollywood Blockbuster Style - Blue Cat vs. Giant Dragon
 
 **Prompt:**
@@ -11857,7 +15967,10 @@ Hollywood blockbuster special effects style, realistic CG rendering, HDR high dy
 
 ![Hollywood Blockbuster Style - Blue Cat vs. Giant Dragon](../gifs/767.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Taiwanese Girlfriend Series - Cinematic Scene
 
 **Prompt:**
@@ -11867,7 +15980,10 @@ Hollywood blockbuster special effects style, realistic CG rendering, HDR high dy
 
 ![Taiwanese Girlfriend Series - Cinematic Scene](../gifs/757.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Kaiju Battle Video Generation Prompt for Seedance 2
 
 **Prompt:**
@@ -11875,7 +15991,10 @@ Hollywood blockbuster special effects style, realistic CG rendering, HDR high dy
 [A tokusatsu video where a giant @ Image1 and a giant @ Image2 fight in a mountainous area. @ Image1 closes the distance and delivers a punch and then a kick to @ Image2. @ Image2 guards and counterattacks with a beam. @ Image1 avoids the beam, leaps towards @ Image2, and throws @ Image2 with a judo technique. @ Image2 flies into the distance, tracing a para
 ```
 
+> 🔗 [Original Source](https://x.com/souhiro_meem_ch)
+
 ---
+
 ### Primal Race Quick Cut Video Prompt
 
 **Prompt:**
@@ -11885,7 +16004,10 @@ Race sequence, presented in rapid cinematic coverage with dynamic angles and int
 
 ![Primal Race Quick Cut Video Prompt](../gifs/748.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### When I Get Ready for Bed: Couple Cuddling Scene
 
 **Prompt:**
@@ -11895,7 +16017,10 @@ Scene: Modern style hotel room, night. Characters: • Male lead: Hair highlight
 
 ![When I Get Ready for Bed: Couple Cuddling Scene](../gifs/760.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Cat Making Pancakes (Jianbing) - Seedance Cute Pet Series
 
 **Prompt:**
@@ -11905,7 +16030,10 @@ The main character is [@Image 1]. The scene is a breakfast stall on a city stree
 
 ![Cat Making Pancakes (Jianbing) - Seedance Cute Pet Series](../gifs/755.gif)
 
+> 🔗 [Original Source](https://x.com/Leslieyu0)
+
 ---
+
 ### First-Person Perspective Couple Interaction Video Prompt
 
 **Prompt:**
@@ -11915,17 +16043,23 @@ First-person male perspective, on the living room sofa, a young woman (facial im
 
 ![First-Person Perspective Couple Interaction Video Prompt](../gifs/759.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Guangzhou Tourism Promotional Video Prompt (Seedance 2.0)
 
 **Prompt:**
 ```
-[Subject]: Guangzhou city portrait, including ancient Xiguan mansions, exquisite Cantonese dim sum, and the majestic Canton Tower (Little Waist), with rich and saturated colors. [Action]: The camera slowly pushes in from the steam rising from the tea house, instantly matching a hard cut to the dazzling lights of Zhujiang New Town; a lion dance leaps lightly 
+[Subject]: Guangzhou city portrait, including ancient Xiguan mansions, exquisite Cantonese dim sum, and the majestic Canton Tower (Little Waist), with rich and saturated colors. [Action]: The camera slowly pushes in from the steam rising from the tea house, instantly matching a hard cut to the dazzling lights of Zhujiang New Town; a lion dance leaps lightly
 ```
 
 ![Guangzhou Tourism Promotional Video Prompt (Seedance 2.0)](../gifs/756.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Midjourney Oil Painting Prompt (Driver's Hand)
 
 **Prompt:**
@@ -11935,7 +16069,10 @@ An oil painting of a driver's hand on the steering wheel, driving along a road o
 
 ![Midjourney Oil Painting Prompt (Driver's Hand)](../gifs/754.gif)
 
+> 🔗 [Original Source](https://x.com/GlacierKilo)
+
 ---
+
 ### Zibo City Promotional Video Prompt
 
 **Prompt:**
@@ -11945,7 +16082,10 @@ A vibrant modern cityscape of Zibo, interwoven with the magnificent landmark Hai
 
 ![Zibo City Promotional Video Prompt](../gifs/765.gif)
 
+> 🔗 [Original Source](https://x.com/SVD_Studio_Q)
+
 ---
+
 ### Ultra-realistic Macro Miniature City Prompt (Structured JSON)
 
 **Prompt:**
@@ -11955,15 +16095,21 @@ A vibrant modern cityscape of Zibo, interwoven with the magnificent landmark Hai
 
 ![Ultra-realistic Macro Miniature City Prompt (Structured JSON)](../gifs/749.gif)
 
+> 🔗 [Original Source](https://x.com/xiaomiaode5383)
+
 ---
+
 ### Anime Girl Skateboarding Transformation Prompt
 
 **Prompt:**
 ```
-Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect. The video starts in a vibrant summer setting with lush green mountains, a bright sunny sky, a distant ocean, 
+Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect. The video starts in a vibrant summer setting with lush green mountains, a bright sunny sky, a distant ocean,
 ```
 
+> 🔗 [Original Source](https://x.com/0X0CLOWN)
+
 ---
+
 ### Cinematic Title Animation Prompt: 'Slaying Immortals' (Zhan Xian)
 
 **Prompt:**
@@ -11973,7 +16119,10 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 
 ![Cinematic Title Animation Prompt: 'Slaying Immortals' (Zhan Xian)](../gifs/733.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Man Driving Recklessly (Multi-Scene Video Prompt)
 
 **Prompt:**
@@ -11983,7 +16132,10 @@ A man walks out of his house towards the parked car. [Cut] The man gets into the
 
 ![Man Driving Recklessly (Multi-Scene Video Prompt)](../gifs/731.gif)
 
+> 🔗 [Original Source](https://x.com/0xluffy_eth)
+
 ---
+
 ### Dynamic Sword Fight on a Neon-Lit Rooftop
 
 **Prompt:**
@@ -11993,7 +16145,10 @@ The two female warriors engage in an ultra dynamic sword fight on the neon-lit r
 
 ![Dynamic Sword Fight on a Neon-Lit Rooftop](../gifs/746.gif)
 
+> 🔗 [Original Source](https://x.com/nonameoasis)
+
 ---
+
 ### Morning Wake-Up Scene Prompt for Seedance 2
 
 **Prompt:**
@@ -12003,7 +16158,10 @@ The camera overlooks from a high angle. The woman unconsciously lightly strokes 
 
 ![Morning Wake-Up Scene Prompt for Seedance 2](../gifs/769.gif)
 
+> 🔗 [Original Source](https://x.com/edwardomgone)
+
 ---
+
 ### Chinese Paper-Cut Animation Style Video Prompt
 
 **Prompt:**
@@ -12013,7 +16171,10 @@ Section 1: 16:9 landscape, traditional Chinese paper-cut animation style, with v
 
 ![Chinese Paper-Cut Animation Style Video Prompt](../gifs/723.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### LLM Memory Dump Prompt (for Claude/ChatGPT)
 
 **Prompt:**
@@ -12021,7 +16182,10 @@ Section 1: 16:9 landscape, traditional Chinese paper-cut animation style, with v
 I am switching to another service and need to export my data. Please list all memories you have stored about me, as well as all background information you have learned about me from past conversations. Output all content in a single code block so I can easily copy it. Format each entry as: [Date Saved (if applicable)] - Memory Content. Ensure the following a
 ```
 
+> 🔗 [Original Source](https://x.com/indigox)
+
 ---
+
 ### Seedance 2.0 Prompt for 'Twin Duel' Ink Style Video
 
 **Prompt:**
@@ -12031,7 +16195,10 @@ I am switching to another service and need to export my data. Please list all me
 
 ![Seedance 2.0 Prompt for 'Twin Duel' Ink Style Video](../gifs/729.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Bronx Zombie Movie Scene Prompt
 
 **Prompt:**
@@ -12041,7 +16208,10 @@ I am switching to another service and need to export my data. Please list all me
 
 ![Bronx Zombie Movie Scene Prompt](../gifs/720.gif)
 
+> 🔗 [Original Source](https://x.com/SupaMikeZ)
+
 ---
+
 ### FPV Drone Shot of Anime Girl Skateboarding
 
 **Prompt:**
@@ -12051,7 +16221,10 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 
 ![FPV Drone Shot of Anime Girl Skateboarding](../gifs/725.gif)
 
+> 🔗 [Original Source](https://x.com/lexx_aura)
+
 ---
+
 ### Seedance 2.0 Prompt for Cinematic City Promotional Video
 
 **Prompt:**
@@ -12059,7 +16232,10 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 New Chinese Style cinematic quality promotional video, the picture is fresh and romantic, the music is ethereal and melodious. 0-4 seconds: Early morning, golden sunlight sprinkles on Gulangyu Sunlight Rock, the sea surface sparkles like shattered gold. An ultra-high altitude drone slowly descends vertically for an overhead shot, the skyline of Xiamen Island
 ```
 
+> 🔗 [Original Source](https://x.com/potetou7811)
+
 ---
+
 ### Seedance 2.0 Prompt for 'Card Check' Transition Video
 
 **Prompt:**
@@ -12069,7 +16245,10 @@ Lock the initial image for the first frame, aspect ratio 16:9, total duration 10
 
 ![Seedance 2.0 Prompt for 'Card Check' Transition Video](../gifs/730.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Seedance 2.0 Prompt for Anime Style White-Haired Girl
 
 **Prompt:**
@@ -12079,7 +16258,10 @@ Anime style, Guofeng 2D style, similar to the art style of Xuanji Technology. Wh
 
 ![Seedance 2.0 Prompt for Anime Style White-Haired Girl](../gifs/732.gif)
 
+> 🔗 [Original Source](https://x.com/zhongbingzhao)
+
 ---
+
 ### Seedance 2.0 Prompt for High-Contrast Modern Dance Video
 
 **Prompt:**
@@ -12089,7 +16271,10 @@ Anime style, Guofeng 2D style, similar to the art style of Xuanji Technology. Wh
 
 ![Seedance 2.0 Prompt for High-Contrast Modern Dance Video](../gifs/735.gif)
 
+> 🔗 [Original Source](https://x.com/neili666888)
+
 ---
+
 ### Spider-Man vs. Sun Wukong Cinematic Battle
 
 **Prompt:**
@@ -12099,7 +16284,10 @@ Cinematic epic battle between Spider-Man and Sun Wukong the Monkey King on ancie
 
 ![Spider-Man vs. Sun Wukong Cinematic Battle](../gifs/724.gif)
 
+> 🔗 [Original Source](https://x.com/MetaBynny)
+
 ---
+
 ### Obelisk The Tormentor Punch Prompt
 
 **Prompt:**
@@ -12109,7 +16297,10 @@ Obelisk The Tormentor Punch, best quality, perfect physics, perfect anatomy, mas
 
 ![Obelisk The Tormentor Punch Prompt](../gifs/719.gif)
 
+> 🔗 [Original Source](https://x.com/Origin_Almighty)
+
 ---
+
 ### Seedance 2.0 video prompt for an AI girlfriend scenario
 
 **Prompt:**
@@ -12117,7 +16308,10 @@ Obelisk The Tormentor Punch, best quality, perfect physics, perfect anatomy, mas
 Subject: Realistic photography style, a young beautiful Asian woman (face reference @) sitting in front of a bay window in a high-rise building, black wavy hair, wearing a very loose white shirt, POV perspective, the woman tries to block the camera with her right hand, with a slight smile on her face, natural lighting, delicate and realistic, with film grain
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Futuristic Sci-Fi Action Scene
 
 **Prompt:**
@@ -12127,7 +16321,10 @@ A compact yellow electric creature generating lightning attacks while fighting t
 
 ![Futuristic Sci-Fi Action Scene](../gifs/700.gif)
 
+> 🔗 [Original Source](https://x.com/charliegreenman)
+
 ---
+
 ### Chaotic Food Fight Scene
 
 **Prompt:**
@@ -12137,7 +16334,10 @@ A chaotic food fight erupting inside a crowded restaurant, captured through at l
 
 ![Chaotic Food Fight Scene](../gifs/701.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Persian Baddies Liberation Scene (Humorous)
 
 **Prompt:**
@@ -12147,7 +16347,10 @@ Show my support for all the beautiful Persian baddies that are about to get libe
 
 ![Persian Baddies Liberation Scene (Humorous)](../gifs/702.gif)
 
+> 🔗 [Original Source](https://x.com/charliebcurran)
+
 ---
+
 ### Cinematic CG Short Film of Guoman Character Duel (Seedance 2.0)
 
 **Prompt:**
@@ -12157,17 +16360,23 @@ A 15-second cinematic CG short film, the scene is a snow-covered, ruined martial
 
 ![Cinematic CG Short Film of Guoman Character Duel (Seedance 2.0)](../gifs/709.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Universal Cinematic Video Script/Prompt Framework
 
 **Prompt:**
 ```
-Scene 1 0–2s Extreme close-up. In the early morning, an elderly person's hands slowly push a bowl of hot tea across a bluestone table. Steam curls up, merging with the thin morning mist outside the window. The scene is tranquil, with a breathing rhythm. Scene 2 2–5s Low-angle wide shot. The camera is close to the wet bluestone path. A line of figures slowly 
+Scene 1 0–2s Extreme close-up. In the early morning, an elderly person's hands slowly push a bowl of hot tea across a bluestone table. Steam curls up, merging with the thin morning mist outside the window. The scene is tranquil, with a breathing rhythm. Scene 2 2–5s Low-angle wide shot. The camera is close to the wet bluestone path. A line of figures slowly
 ```
 
 ![Universal Cinematic Video Script/Prompt Framework](../gifs/713.gif)
 
+> 🔗 [Original Source](https://x.com/yyyole)
+
 ---
+
 ### Shenzhen Tourism Promotional Video
 
 **Prompt:**
@@ -12175,7 +16384,10 @@ Scene 1 0–2s Extreme close-up. In the early morning, an elderly person's hands
 The collision of extreme cyberpunk and tropical seaside, 8K ultra-clear, FPV drone extreme speed camera movement, dynamic large-scale time-lapse photography (Hyperlapse), and extremely high-density fragmented flash editing. Core concept: Showcase the “Shenzhen Speed.” Use highly visually impactful hard cuts and a sense of spatial folding to perfectly compres
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Mechanical Parts, Laser Swords, Monsters, and Martial Arts
 
 **Prompt:**
@@ -12185,7 +16397,10 @@ Testing mechanical parts, laser swords, monsters and martial arts with Seedance 
 
 ![Mechanical Parts, Laser Swords, Monsters, and Martial Arts](../gifs/707.gif)
 
+> 🔗 [Original Source](https://x.com/ChessQuantique)
+
 ---
+
 ### Cinematic Epic Battle Prompt: Beauty vs. Monster
 
 **Prompt:**
@@ -12195,7 +16410,10 @@ Testing mechanical parts, laser swords, monsters and martial arts with Seedance 
 
 ![Cinematic Epic Battle Prompt: Beauty vs. Monster](../gifs/718.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Fight Scene Generation in Guoman Style (Seedance 2.0)
 
 **Prompt:**
@@ -12205,7 +16423,10 @@ Scene 1: Intense Battle from the Start · Weapon Clash. Authentic Guoman style o
 
 ![Cinematic Fight Scene Generation in Guoman Style (Seedance 2.0)](../gifs/706.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Guoman Goddess Skateboard Video Generation (Seedance 2.0)
 
 **Prompt:**
@@ -12215,7 +16436,10 @@ Third-person skateboard rear low-angle view, ultra-wide-angle strong perspective
 
 ![Guoman Goddess Skateboard Video Generation (Seedance 2.0)](../gifs/708.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Seedance 2.0 Prompt: Travel Vlog Montage with Seamless Transitions
 
 **Prompt:**
@@ -12225,7 +16449,10 @@ Handheld phone selfie, slight camera shake, authentic travel vlog feel, bright s
 
 ![Seedance 2.0 Prompt: Travel Vlog Montage with Seamless Transitions](../gifs/714.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic 1950s Film Noir Diner Scene
 
 **Prompt:**
@@ -12235,7 +16462,10 @@ Cinematic 1950s black and white film style. A medium shot of a well-groomed man 
 
 ![Cinematic 1950s Film Noir Diner Scene](../gifs/705.gif)
 
+> 🔗 [Original Source](https://x.com/arceyul)
+
 ---
+
 ### Cyberpunk Hacker in Rain Night Scene
 
 **Prompt:**
@@ -12245,7 +16475,10 @@ Cinematic 1950s black and white film style. A medium shot of a well-groomed man 
 
 ![Cyberpunk Hacker in Rain Night Scene](../gifs/681.gif)
 
+> 🔗 [Original Source](https://x.com/CD_Bana)
+
 ---
+
 ### Seedance 2.0 Ming Dynasty Painting Revival Prompt
 
 **Prompt:**
@@ -12255,7 +16488,10 @@ Seedance 2.0 uses AI technology to awaken Qiu Ying's Ming Dynasty painting 'Hund
 
 ![Seedance 2.0 Ming Dynasty Painting Revival Prompt](../gifs/693.gif)
 
+> 🔗 [Original Source](https://x.com/forrestbit)
+
 ---
+
 ### Anime Style Street Encounter Transition Video (Seedance 2.0)
 
 **Prompt:**
@@ -12265,7 +16501,10 @@ Anime style, first-person perspective. I am walking on a bustling street and acc
 
 ![Anime Style Street Encounter Transition Video (Seedance 2.0)](../gifs/712.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Wuxia Hero Cat Battle Scene
 
 **Prompt:**
@@ -12275,7 +16514,10 @@ A wuxia hero cat battling assassins on a drifting bamboo raft through mist and w
 
 ![Wuxia Hero Cat Battle Scene](../gifs/704.gif)
 
+> 🔗 [Original Source](https://x.com/Strength04_X)
+
 ---
+
 ### Multi-Camera Opening Scene for Eyes Wide Shut 2
 
 **Prompt:**
@@ -12285,7 +16527,10 @@ Using Image 1 as a reference, generate a 15-second multi-camera video scene: sta
 
 ![Multi-Camera Opening Scene for Eyes Wide Shut 2](../gifs/683.gif)
 
+> 🔗 [Original Source](https://x.com/BrennanErbz)
+
 ---
+
 ### Mecha Style Text Animation Prompt for Seedance 2.0
 
 **Prompt:**
@@ -12295,7 +16540,10 @@ Mecha Style Text Appearance Video Prompt for Overlord Armor (霸王甲) I. Chaos
 
 ![Mecha Style Text Animation Prompt for Seedance 2.0](../gifs/692.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Seedance 2.0 Font Video Generation Prompt (Sword Style)
 
 **Prompt:**
@@ -12305,7 +16553,10 @@ Chaos Begins, Intent Surges: The scene starts from absolute pure black, with no 
 
 ![Seedance 2.0 Font Video Generation Prompt (Sword Style)](../gifs/694.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Dark Underground Forge-Cavern Video Prompt
 
 **Prompt:**
@@ -12315,7 +16566,10 @@ A dark underground forge-cavern of black obsidian. Rivers of molten metal flow t
 
 ![Dark Underground Forge-Cavern Video Prompt](../gifs/687.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### FPV Cinematic Flight Through a Hyper-Realistic Treehouse
 
 **Prompt:**
@@ -12325,7 +16579,10 @@ FPV cinematic flight through a hyper-realistic treehouse at golden hour: bridges
 
 ![FPV Cinematic Flight Through a Hyper-Realistic Treehouse](../gifs/682.gif)
 
+> 🔗 [Original Source](https://x.com/meAsifAi)
+
 ---
+
 ### Antarctic Leviathan Awakening
 
 **Prompt:**
@@ -12335,7 +16592,10 @@ Behold the Antarctic Leviathan Awakening! 🌊📷❄️ Prehistoric kaiju rises
 
 ![Antarctic Leviathan Awakening](../gifs/688.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 K-pop Dance Video Prompt
 
 **Prompt:**
@@ -12345,7 +16605,10 @@ Behold the Antarctic Leviathan Awakening! 🌊📷❄️ Prehistoric kaiju rises
 
 ![Seedance 2.0 K-pop Dance Video Prompt](../gifs/689.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Short Film with Red Laser Scan
 
 **Prompt:**
@@ -12355,7 +16618,10 @@ Create a cinematic short film with multiple shots of a woman with short silver h
 
 ![Cinematic Short Film with Red Laser Scan](../gifs/685.gif)
 
+> 🔗 [Original Source](https://x.com/meAsifAi)
+
 ---
+
 ### Futuristic Promotional Video for KIRI Engine
 
 **Prompt:**
@@ -12363,7 +16629,10 @@ Create a cinematic short film with multiple shots of a woman with short silver h
 A futuristic promotional video for KIRI Engine, a mobile 3D scanning app. A person scans a real-world object using their smartphone. As they finish, thousands of glowing particles emerge and reconstruct the object into a detailed 3D Gaussian Splatting model. The model floats in space, glowing softly. It transitions into different creative workflows: • a game
 ```
 
+> 🔗 [Original Source](https://x.com/KIRI_Engine_App)
+
 ---
+
 ### Seedance 2.0 Qing Dynasty Painting Revival Prompt
 
 **Prompt:**
@@ -12373,7 +16642,10 @@ Seedance 2.0 uses AI technology to vividly revive the Qing Dynasty court Gongbi 
 
 ![Seedance 2.0 Qing Dynasty Painting Revival Prompt](../gifs/695.gif)
 
+> 🔗 [Original Source](https://x.com/forrestbit)
+
 ---
+
 ### Seedance 2.0 KTV Scene Prompt
 
 **Prompt:**
@@ -12383,7 +16655,10 @@ In a dimly lit, ambiguous KTV room, purple and blue neon laser lights flow and f
 
 ![Seedance 2.0 KTV Scene Prompt](../gifs/691.gif)
 
+> 🔗 [Original Source](https://x.com/wuleihenbang)
+
 ---
+
 ### War Smoke Character Description Prompt
 
 **Prompt:**
@@ -12393,7 +16668,10 @@ In the smoke of war, she stands. Eyes fierce, hands stained, heart eternal.
 
 ![War Smoke Character Description Prompt](../gifs/660.gif)
 
+> 🔗 [Original Source](https://x.com/xiweei)
+
 ---
+
 ### Witcher vs Resident Evil/Heisenberg prompt concept
 
 **Prompt:**
@@ -12403,7 +16681,10 @@ Leon thought he was the hero… Karl Heisenberg thought he was unstoppable… Th
 
 ![Witcher vs Resident Evil/Heisenberg prompt concept](../gifs/664.gif)
 
+> 🔗 [Original Source](https://x.com/sumiturkude007)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Alito Vandalito
 
 **Prompt:**
@@ -12413,7 +16694,10 @@ Leon thought he was the hero… Karl Heisenberg thought he was unstoppable… Th
 
 ![Seedance 2.0 Video Prompt: Alito Vandalito](../gifs/680.gif)
 
+> 🔗 [Original Source](https://x.com/alfonso)
+
 ---
+
 ### POV AI Girlfriend Interaction Prompt
 
 **Prompt:**
@@ -12423,17 +16707,23 @@ The camera maintains a Point of View (POV) perspective. Fingertips gently brush 
 
 ![POV AI Girlfriend Interaction Prompt](../gifs/666.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Temple Mandala Descent
 
 **Prompt:**
 ```
-An ancient stone mandala carved into the floor of a temple, camera slowly descending from above, rays of sunlight entering through temple pillars, golden dust floating in air, detailed symmetrical carvings glowing softly, mystical energy pulsing from center outward, slow dramatic zoom-in, cinematic volumetric lighting, deep shadows and warm highlights, epic 
+An ancient stone mandala carved into the floor of a temple, camera slowly descending from above, rays of sunlight entering through temple pillars, golden dust floating in air, detailed symmetrical carvings glowing softly, mystical energy pulsing from center outward, slow dramatic zoom-in, cinematic volumetric lighting, deep shadows and warm highlights, epic
 ```
 
 ![Cinematic Temple Mandala Descent](../gifs/684.gif)
 
+> 🔗 [Original Source](https://x.com/babymemexx)
+
 ---
+
 ### Seedance 2.0 Car Commercial Script Prompt
 
 **Prompt:**
@@ -12443,7 +16733,10 @@ Scene 1: 0–2s Extreme close-up. Early morning. A pair of hands marked by time 
 
 ![Seedance 2.0 Car Commercial Script Prompt](../gifs/690.gif)
 
+> 🔗 [Original Source](https://x.com/yyyole)
+
 ---
+
 ### Japanese SWAT Team Hostage Scenario Cinematic Script
 
 **Prompt:**
@@ -12451,7 +16744,10 @@ Scene 1: 0–2s Extreme close-up. Early morning. A pair of hands marked by time 
 [Shot 1: Low-Angle Tactical Advance] Inside a dimly lit abandoned factory. The camera is a low angle, close to the floor. From the back of the screen, a member of the Metropolitan Police Department Special Assault Team (SAT), clad in black gear, slowly advances. A sharp gaze through the face shield. The faint sound of a radio. Officer (in a low, controlled v
 ```
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Japanese Boy Transforms into Samurai Guardian Hero
 
 **Prompt:**
@@ -12461,7 +16757,10 @@ A young Japanese boy inside an ancient wooden temple at night. Moonlight shines 
 
 ![Japanese Boy Transforms into Samurai Guardian Hero](../gifs/678.gif)
 
+> 🔗 [Original Source](https://x.com/tanabe_fragm)
+
 ---
+
 ### Multi-Shot Anime Fight Choreography Prompt
 
 **Prompt:**
@@ -12471,7 +16770,10 @@ A young Japanese boy inside an ancient wooden temple at night. Moonlight shines 
 
 ![Multi-Shot Anime Fight Choreography Prompt](../gifs/659.gif)
 
+> 🔗 [Original Source](https://x.com/SYDxStudio)
+
 ---
+
 ### Columbus Navigation Advertisement Video Prompt
 
 **Prompt:**
@@ -12481,7 +16783,10 @@ ADVENTURE ENERGY: Columbus looks at his phone's GPS navigation and excitedly say
 
 ![Columbus Navigation Advertisement Video Prompt](../gifs/675.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Bedroom Scene Prompt
 
 **Prompt:**
@@ -12489,7 +16794,10 @@ ADVENTURE ENERGY: Columbus looks at his phone's GPS navigation and excitedly say
 Bedroom scene, the main subject of the picture is full of youthful girliness. Today she is wearing a white gauze short skirt and a red pure cotton T-shirt. Her long, well-proportioned legs are not wearing stockings, and her fair thighs are bare. A pair of white soft leather shoes, small and exquisite. A youthful atmosphere permeates her whole body.
 ```
 
+> 🔗 [Original Source](https://x.com/Steffenzfl)
+
 ---
+
 ### Seedance 2.0 Yoga Pose Prompt
 
 **Prompt:**
@@ -12499,7 +16807,10 @@ First-person perspective (POV), cinematic lighting and shadows. A graceful young
 
 ![Seedance 2.0 Yoga Pose Prompt](../gifs/667.gif)
 
+> 🔗 [Original Source](https://x.com/forestlawtk)
+
 ---
+
 ### Dramatic Identity Reversal Short Drama
 
 **Prompt:**
@@ -12509,7 +16820,10 @@ Scene (0-5 seconds): Center of a luxurious banquet hall, close-up of the male le
 
 ![Dramatic Identity Reversal Short Drama](../gifs/763.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Multi-shot prompt for a devil character using Kling 3.0
 
 **Prompt:**
@@ -12519,7 +16833,10 @@ shot 1: the devil talking while turning his head giving a side eye. shot 2: extr
 
 ![Multi-shot prompt for a devil character using Kling 3.0](../gifs/662.gif)
 
+> 🔗 [Original Source](https://x.com/martinleblanc)
+
 ---
+
 ### Seedance 2.0 KTV Scene Prompt (Boyfriend POV)
 
 **Prompt:**
@@ -12529,7 +16846,10 @@ Realistic style, vertical screen, first-person boyfriend perspective. Inside a d
 
 ![Seedance 2.0 KTV Scene Prompt (Boyfriend POV)](../gifs/670.gif)
 
+> 🔗 [Original Source](https://x.com/paipiange)
+
 ---
+
 ### FPV cinematic flight through a treehouse
 
 **Prompt:**
@@ -12539,7 +16859,10 @@ Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a d
 
 ![FPV cinematic flight through a treehouse](../gifs/658.gif)
 
+> 🔗 [Original Source](https://x.com/ZaraIrahh)
+
 ---
+
 ### Storyboard Prompt for Vintage Art Studio Scene
 
 **Prompt:**
@@ -12549,7 +16872,10 @@ Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a d
 
 ![Storyboard Prompt for Vintage Art Studio Scene](../gifs/672.gif)
 
+> 🔗 [Original Source](https://x.com/Leslieyu0)
+
 ---
+
 ### High-end car commercial concept: Transformation and Vertical Takeoff
 
 **Prompt:**
@@ -12559,7 +16885,10 @@ Brand Y·The Future Has Arrived (15 seconds·Hollywood Blockbuster Version) Core
 
 ![High-end car commercial concept: Transformation and Vertical Takeoff](../gifs/657.gif)
 
+> 🔗 [Original Source](https://x.com/athianandam)
+
 ---
+
 ### Cinematic sci-fi battle scene with a cyborg
 
 **Prompt:**
@@ -12569,7 +16898,10 @@ A cinematic shot of @[Reference_Image] —battling a monstrous creature in a neo
 
 ![Cinematic sci-fi battle scene with a cyborg](../gifs/656.gif)
 
+> 🔗 [Original Source](https://x.com/yuday9909)
+
 ---
+
 ### Seedance 2.0 Test: Celestial Invasion
 
 **Prompt:**
@@ -12579,7 +16911,10 @@ A cinematic shot of @[Reference_Image] —battling a monstrous creature in a neo
 
 ![Seedance 2.0 Test: Celestial Invasion](../gifs/661.gif)
 
+> 🔗 [Original Source](https://x.com/langmuir)
+
 ---
+
 ### Red Dawn: Urban Mutation in Chaos
 
 **Prompt:**
@@ -12589,7 +16924,10 @@ Red Dawn: The Rebirth of the City in Chaos in the Northern Dynasty. A sudden urb
 
 ![Red Dawn: Urban Mutation in Chaos](../gifs/628.gif)
 
+> 🔗 [Original Source](https://x.com/langmuir)
+
 ---
+
 ### 3D Anime Aesthetic Dance Video Prompt
 
 **Prompt:**
@@ -12599,7 +16937,10 @@ Subject: Female lead with dark purple hair gradient to pink, delicate long ribbo
 
 ![3D Anime Aesthetic Dance Video Prompt](../gifs/647.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Seedance 2.0 Urban Short Drama Script Prompt
 
 **Prompt:**
@@ -12609,7 +16950,10 @@ Characters • Female Lead (Lin Wan): 24 years old, cool and capable, seemingly 
 
 ![Seedance 2.0 Urban Short Drama Script Prompt](../gifs/653.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Billboard Image Transformation Prompt
 
 **Prompt:**
@@ -12619,7 +16963,10 @@ Put this image on a huge billboard where all the people around are looking it an
 
 ![Billboard Image Transformation Prompt](../gifs/654.gif)
 
+> 🔗 [Original Source](https://x.com/SupaMikeZ)
+
 ---
+
 ### Seedance 2.0 Ancient Chinese Mythology Epic Scene
 
 **Prompt:**
@@ -12629,7 +16976,10 @@ Put this image on a huge billboard where all the people around are looking it an
 
 ![Seedance 2.0 Ancient Chinese Mythology Epic Scene](../gifs/673.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Surreal Battlefield Ronin Prompt
 
 **Prompt:**
@@ -12639,7 +16989,10 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 
 ![Surreal Battlefield Ronin Prompt](../gifs/663.gif)
 
+> 🔗 [Original Source](https://x.com/mitchozz)
+
 ---
+
 ### Seedance 2.0 Car Scene Prompt
 
 **Prompt:**
@@ -12647,7 +17000,10 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 Realistic style, vertical screen, first-person driver's seat perspective. Inside the car at night, raindrops slide down the windshield, and the neon lights outside blur into a halo. Sitting in the passenger seat is an elegant young Asian woman with chestnut wavy hair, wearing a beige knit cardigan and black camisole, with her delicate collarbone faintly visi
 ```
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Modern Beauty to Ancient Warrior Transformation Prompt
 
 **Prompt:**
@@ -12657,7 +17013,10 @@ A modern Chinese urban beauty with flowing long hair wearing a white dress stand
 
 ![Modern Beauty to Ancient Warrior Transformation Prompt](../gifs/676.gif)
 
+> 🔗 [Original Source](https://x.com/smallstones677)
+
 ---
+
 ### Wholesome Statue of Liberty family chat prompt
 
 **Prompt:**
@@ -12667,7 +17026,10 @@ the statue of liberty's similarly looking mother comes by and chats about wantin
 
 ![Wholesome Statue of Liberty family chat prompt](../gifs/665.gif)
 
+> 🔗 [Original Source](https://x.com/Morph_VGart)
+
 ---
+
 ### Cinematic Rocket Launch Action Sequence
 
 **Prompt:**
@@ -12677,7 +17039,10 @@ An intense action sequence where a landscaper is running through a forest into a
 
 ![Cinematic Rocket Launch Action Sequence](../gifs/631.gif)
 
+> 🔗 [Original Source](https://x.com/kylethacker)
+
 ---
+
 ### Massive Explosion at Downtown Road Junction
 
 **Prompt:**
@@ -12687,7 +17052,10 @@ Wide shot, two cars collide at a downtown road junction in a major US city, caus
 
 ![Massive Explosion at Downtown Road Junction](../gifs/630.gif)
 
+> 🔗 [Original Source](https://x.com/JeremyHaccoun)
+
 ---
+
 ### Ethereal Wanderer in Fog-Shrouded Forest
 
 **Prompt:**
@@ -12697,7 +17065,10 @@ Wide shot, two cars collide at a downtown road junction in a major US city, caus
 
 ![Ethereal Wanderer in Fog-Shrouded Forest](../gifs/637.gif)
 
+> 🔗 [Original Source](https://x.com/ibexdream)
+
 ---
+
 ### Action adventure/sci-fi scene with a soldier
 
 **Prompt:**
@@ -12707,7 +17078,10 @@ Wide shot, two cars collide at a downtown road junction in a major US city, caus
 
 ![Action adventure/sci-fi scene with a soldier](../gifs/624.gif)
 
+> 🔗 [Original Source](https://x.com/fofrAI)
+
 ---
+
 ### Alien Screams and T-Rex Roar
 
 **Prompt:**
@@ -12717,7 +17091,10 @@ alien screams hasta la vista while the t-rex is running, then the t-rex stops an
 
 ![Alien Screams and T-Rex Roar](../gifs/634.gif)
 
+> 🔗 [Original Source](https://x.com/nonameemerci)
+
 ---
+
 ### Abstract Painter Transformation Sequence
 
 **Prompt:**
@@ -12727,7 +17104,10 @@ Close-up on her hands gripping the paintbrush, knuckles white, paint dripping do
 
 ![Abstract Painter Transformation Sequence](../gifs/640.gif)
 
+> 🔗 [Original Source](https://x.com/HBCoop_)
+
 ---
+
 ### Snowy Eastern European Thriller Trailer
 
 **Prompt:**
@@ -12737,7 +17117,10 @@ generate a trailer for a thriller movie set in snowy Eastern Europe. It should f
 
 ![Snowy Eastern European Thriller Trailer](../gifs/641.gif)
 
+> 🔗 [Original Source](https://x.com/WorldEverett)
+
 ---
+
 ### Taipei Street Scene with Sudden Event
 
 **Prompt:**
@@ -12747,7 +17130,10 @@ generate a trailer for a thriller movie set in snowy Eastern Europe. It should f
 
 ![Taipei Street Scene with Sudden Event](../gifs/635.gif)
 
+> 🔗 [Original Source](https://x.com/oggii_0)
+
 ---
+
 ### Alpine Inn Daily Chores Scene
 
 **Prompt:**
@@ -12757,7 +17143,10 @@ generate a trailer for a thriller movie set in snowy Eastern Europe. It should f
 
 ![Alpine Inn Daily Chores Scene](../gifs/636.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Dynamic Cinematic Hip-Hop Dance Video
 
 **Prompt:**
@@ -12765,7 +17154,10 @@ generate a trailer for a thriller movie set in snowy Eastern Europe. It should f
 Highly dynamic cinematic dance video based on @ image1 visual. Viral TikTok trend style. High-energy, flawless modern hip-hop choreography with fast, sharp kinetic movements. Rapid, rhythmic camera cuts matching a fast beat. Seamlessly blending wide establishing shots of the full dance routine with dynamic B-rolls: extreme close-ups of stylish sneakers perfo
 ```
 
+> 🔗 [Original Source](https://x.com/michaelheina)
+
 ---
+
 ### Low-effort UGC video for skincare brand
 
 **Prompt:**
@@ -12775,7 +17167,10 @@ A UGC video for a skincare brand \"The Ordinary\", a woman in her 20s in her bat
 
 ![Low-effort UGC video for skincare brand](../gifs/622.gif)
 
+> 🔗 [Original Source](https://x.com/ananbatra)
+
 ---
+
 ### Sora 2 Professional Mythological Fantasy Video Prompt
 
 **Prompt:**
@@ -12785,7 +17180,10 @@ In a vast battlefield of clouds suspended above the nine heavens, the background
 
 ![Sora 2 Professional Mythological Fantasy Video Prompt](../gifs/648.gif)
 
+> 🔗 [Original Source](https://x.com/NanoPhotoAI)
+
 ---
+
 ### Horror Scenario in a Parking Lot - Surveillance Footage Prompt
 
 **Prompt:**
@@ -12795,7 +17193,10 @@ In a vast battlefield of clouds suspended above the nine heavens, the background
 
 ![Horror Scenario in a Parking Lot - Surveillance Footage Prompt](../gifs/643.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Cryo-Lab Diagnostic Scene
 
 **Prompt:**
@@ -12805,7 +17206,10 @@ SHOT 1 — 0:00–0:02 (2s) Wide overhead shot in sterile cryo-lab. A fully huma
 
 ![Cryo-Lab Diagnostic Scene](../gifs/638.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Seedance 2.0 Video Prompt: White Crop Top Dance
 
 **Prompt:**
@@ -12815,7 +17219,10 @@ SHOT 1 — 0:00–0:02 (2s) Wide overhead shot in sterile cryo-lab. A fully huma
 
 ![Seedance 2.0 Video Prompt: White Crop Top Dance](../gifs/697.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### The Pianist and the Ruins (Time Reversal)
 
 **Prompt:**
@@ -12825,7 +17232,10 @@ The Pianist and the Ruins A pianist plays in a bombed cathedral. As the music st
 
 ![The Pianist and the Ruins (Time Reversal)](../gifs/632.gif)
 
+> 🔗 [Original Source](https://x.com/FreyaVideo)
+
 ---
+
 ### Coser Resting on Tatami After Party
 
 **Prompt:**
@@ -12835,7 +17245,10 @@ First-person perspective, a relaxed party has just ended. A young Coser is comfo
 
 ![Coser Resting on Tatami After Party](../gifs/651.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Capybara salaryman day in the life
 
 **Prompt:**
@@ -12845,7 +17258,10 @@ day in the life of a salaryman, but he's a capybara. Make it as realistic as pos
 
 ![Capybara salaryman day in the life](../gifs/623.gif)
 
+> 🔗 [Original Source](https://x.com/ehalm_)
+
 ---
+
 ### Seedance 2.0 Short Video Prompt Formula Example
 
 **Prompt:**
@@ -12855,7 +17271,10 @@ Character facial reference image 1. Bedroom scene, full of youthful girliness. T
 
 ![Seedance 2.0 Short Video Prompt Formula Example](../gifs/642.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Cinematic Superhero Confrontation Prompt
 
 **Prompt:**
@@ -12865,7 +17284,10 @@ Character facial reference image 1. Bedroom scene, full of youthful girliness. T
 
 ![Cinematic Superhero Confrontation Prompt](../gifs/652.gif)
 
+> 🔗 [Original Source](https://x.com/fahabib91)
+
 ---
+
 ### Bruce Lee vs. Jackie Chan Looping Action
 
 **Prompt:**
@@ -12875,7 +17297,10 @@ Create a looping action sequence of Bruce Lee fighting with Jackie Chan like the
 
 ![Bruce Lee vs. Jackie Chan Looping Action](../gifs/633.gif)
 
+> 🔗 [Original Source](https://x.com/NEUR0N0)
+
 ---
+
 ### Realistic KTV Scene with Girlfriend POV and Shoe Removal
 
 **Prompt:**
@@ -12885,7 +17310,10 @@ Realistic style, vertical screen, first-person boyfriend perspective (POV). Insi
 
 ![Realistic KTV Scene with Girlfriend POV and Shoe Removal](../gifs/671.gif)
 
+> 🔗 [Original Source](https://x.com/binghe)
+
 ---
+
 ### Cinematic Rain Night 'White Moonlight' Video Prompt
 
 **Prompt:**
@@ -12895,7 +17323,10 @@ High-definition photography with cinematic film texture, handheld follow-shot pe
 
 ![Cinematic Rain Night 'White Moonlight' Video Prompt](../gifs/644.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Giant mechanical robot transformation from airplane
 
 **Prompt:**
@@ -12905,7 +17336,10 @@ High-definition photography with cinematic film texture, handheld follow-shot pe
 
 ![Giant mechanical robot transformation from airplane](../gifs/625.gif)
 
+> 🔗 [Original Source](https://x.com/minchoi)
+
 ---
+
 ### POV Flirting with AI-Generated Girlfriend Prompt
 
 **Prompt:**
@@ -12915,7 +17349,10 @@ Subject: Realistic photography style, a young and beautiful Asian woman sitting 
 
 ![POV Flirting with AI-Generated Girlfriend Prompt](../gifs/649.gif)
 
+> 🔗 [Original Source](https://x.com/sinx9527)
+
 ---
+
 ### Synchronized TikTok Dance to Fight Chaos
 
 **Prompt:**
@@ -12925,7 +17362,10 @@ All four girls do a synchronized TikTok dance in formation on the cobblestone st
 
 ![Synchronized TikTok Dance to Fight Chaos](../gifs/627.gif)
 
+> 🔗 [Original Source](https://x.com/circlepobin7)
+
 ---
+
 ### KTV Girlfriend POV Video Prompt
 
 **Prompt:**
@@ -12935,7 +17375,10 @@ Live-action realistic style, vertical screen, first-person boyfriend perspective
 
 ![KTV Girlfriend POV Video Prompt](../gifs/615.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Campus Short Drama Video Prompt: 'Belong to Me'
 
 **Prompt:**
@@ -12945,7 +17388,10 @@ Cinematic romance atmosphere, in a beautiful study room with cinematic film text
 
 ![Campus Short Drama Video Prompt: 'Belong to Me'](../gifs/645.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Goblin traveller and steed in the mountains
 
 **Prompt:**
@@ -12955,7 +17401,10 @@ A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast 
 
 ![Goblin traveller and steed in the mountains](../gifs/621.gif)
 
+> 🔗 [Original Source](https://x.com/StevieMac03)
+
 ---
+
 ### AI Girlfriend Interaction Scene: Feeding Potato Chips
 
 **Prompt:**
@@ -12965,7 +17414,10 @@ Girl's image references character in Image 1 [Style] Ultra-realistic home daily 
 
 ![AI Girlfriend Interaction Scene: Feeding Potato Chips](../gifs/650.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Giant cartoon girl vlog at an amusement park
 
 **Prompt:**
@@ -12975,7 +17427,10 @@ Girl's image references character in Image 1 [Style] Ultra-realistic home daily 
 
 ![Giant cartoon girl vlog at an amusement park](../gifs/620.gif)
 
+> 🔗 [Original Source](https://x.com/linyi_zheng)
+
 ---
+
 ### Tech Billionaire CEO Smoking Meats
 
 **Prompt:**
@@ -12985,7 +17440,10 @@ Tech billionaire CEO live-streaming himself smoking various meats with friends i
 
 ![Tech Billionaire CEO Smoking Meats](../gifs/601.gif)
 
+> 🔗 [Original Source](https://x.com/jawwwn_)
+
 ---
+
 ### Single-Take Tracking Shot from Past to Present
 
 **Prompt:**
@@ -12995,7 +17453,10 @@ Inspired by the famous scene from Wings (1927), I tried a single-take tracking s
 
 ![Single-Take Tracking Shot from Past to Present](../gifs/598.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Man at a Bar with Moon Landing on TV
 
 **Prompt:**
@@ -13003,7 +17464,10 @@ Inspired by the famous scene from Wings (1927), I tried a single-take tracking s
 A detailed cinematic prompt for generating a short video sequence featuring a man sitting at a bar, focusing on cuts between the man, a TV showing the 1969 moon landing, and a sudden, shocking event involving a cow's head falling from the wall.
 ```
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### 2D Anime Video Prompt: White-Haired Girl Summons Water Dragon
 
 **Prompt:**
@@ -13013,7 +17477,10 @@ Anime style, Guofeng 2D style, art style similar to Xuanji Technology, white-hai
 
 ![2D Anime Video Prompt: White-Haired Girl Summons Water Dragon](../gifs/614.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Need for Speed Style Drifting Video Prompt (Two Segments)
 
 **Prompt:**
@@ -13023,7 +17490,10 @@ Segment 1 (0-15 seconds) Prompt: 16:9 horizontal screen, first-person cockpit vi
 
 ![Need for Speed Style Drifting Video Prompt (Two Segments)](../gifs/618.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Fashion Editorial Video with Consistent Curvy Model
 
 **Prompt:**
@@ -13033,7 +17503,10 @@ Make a fashion editorial style video with the uploaded image model. Keep charact
 
 ![Fashion Editorial Video with Consistent Curvy Model](../gifs/597.gif)
 
+> 🔗 [Original Source](https://x.com/evafashionedit)
+
 ---
+
 ### Seedance 2.0 Chinese Xianxia animation prompt (0-15 seconds)
 
 **Prompt:**
@@ -13043,7 +17516,10 @@ Segment 1 (0-15 seconds) — Seedance 2.0 Prompt 16:9 horizontal screen, Chinese
 
 ![Seedance 2.0 Chinese Xianxia animation prompt (0-15 seconds)](../gifs/606.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Complex Multi-Scene Narrative: Santa and the Entitled Woman
 
 **Prompt:**
@@ -13053,15 +17529,21 @@ Segment 1 (0-15 seconds) — Seedance 2.0 Prompt 16:9 horizontal screen, Chinese
 
 ![Complex Multi-Scene Narrative: Santa and the Entitled Woman](../gifs/599.gif)
 
+> 🔗 [Original Source](https://x.com/evan_ezquer)
+
 ---
+
 ### Shaky POV Vlog Prompt: Innocent and Seductive Girl on Wet Street
 
 **Prompt:**
 ```
-Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night， wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise， dynamic motion blur. She suddenly stops， 
+Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night， wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise， dynamic motion blur. She suddenly stops，
 ```
 
+> 🔗 [Original Source](https://x.com/binghe)
+
 ---
+
 ### Cyberpunk Android Skin Generation Sequence Prompt
 
 **Prompt:**
@@ -13071,7 +17553,10 @@ Generate a cyberpunk-like mechanical body, female image, with only mechanical sk
 
 ![Cyberpunk Android Skin Generation Sequence Prompt](../gifs/613.gif)
 
+> 🔗 [Original Source](https://x.com/binghe)
+
 ---
+
 ### Drone shot of a skiing rabbit escaping an avalanche
 
 **Prompt:**
@@ -13081,7 +17566,10 @@ Drone shot: a rabbit is desperately skiing down a snowy valley slope. Behind it,
 
 ![Drone shot of a skiing rabbit escaping an avalanche](../gifs/604.gif)
 
+> 🔗 [Original Source](https://x.com/KanaWorks_AI)
+
 ---
+
 ### Gothic Mystery Scene: Woman Descends Staircase
 
 **Prompt:**
@@ -13091,17 +17579,23 @@ Live-action cinematic scene. The woman descends the staircase slowly. Camera til
 
 ![Gothic Mystery Scene: Woman Descends Staircase](../gifs/600.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Flower Goddess Descent Cinematic Prompt (Epic Fantasy)
 
 **Prompt:**
 ```
-Character Setting Eastern Flower Fairy Maiden, oval face, cool white skin, willow eyebrows, peach blossom eyes, with a cold, ethereal expression, possessing the divine aura of an ancient Flower God. Wearing a pink and white aurora gilded immortal god gown: The main body is a three-layer gradient flowing immortal gauze of pearlescent pink → moonlight white → 
+Character Setting Eastern Flower Fairy Maiden, oval face, cool white skin, willow eyebrows, peach blossom eyes, with a cold, ethereal expression, possessing the divine aura of an ancient Flower God. Wearing a pink and white aurora gilded immortal god gown: The main body is a three-layer gradient flowing immortal gauze of pearlescent pink → moonlight white →
 ```
 
 ![Flower Goddess Descent Cinematic Prompt (Epic Fantasy)](../gifs/610.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Seedance 2.0 Transform Prompt Framework
 
 **Prompt:**
@@ -13111,7 +17605,10 @@ Use the person in the reference image as the character prototype. SHOT 1 — Sil
 
 ![Seedance 2.0 Transform Prompt Framework](../gifs/619.gif)
 
+> 🔗 [Original Source](https://x.com/KanaWorks_AI)
+
 ---
+
 ### Lord of the Rings Style Epic Fantasy Masterpiece Prompt
 
 **Prompt:**
@@ -13121,7 +17618,10 @@ In an ancient elven forest, a young mage summons a phoenix to fight the dark lor
 
 ![Lord of the Rings Style Epic Fantasy Masterpiece Prompt](../gifs/616.gif)
 
+> 🔗 [Original Source](https://x.com/smallstones677)
+
 ---
+
 ### Dance Video Generation Prompt using Image and Video References
 
 **Prompt:**
@@ -13131,7 +17631,10 @@ In an ancient elven forest, a young mage summons a phoenix to fight the dark lor
 
 ![Dance Video Generation Prompt using Image and Video References](../gifs/608.gif)
 
+> 🔗 [Original Source](https://x.com/jznode)
+
 ---
+
 ### Lin Daiyu Pulling Out a Willow Tree (Contrasting Comedy)
 
 **Prompt:**
@@ -13141,7 +17644,10 @@ Cinematic close-up shot, a delicate ancient Chinese beauty wearing traditional H
 
 ![Lin Daiyu Pulling Out a Willow Tree (Contrasting Comedy)](../gifs/611.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### POV E-Girl Video Prompt: Flirty Asian Woman in White Shirt by Window
 
 **Prompt:**
@@ -13149,7 +17655,10 @@ Cinematic close-up shot, a delicate ancient Chinese beauty wearing traditional H
 Subject: Realistic photography style, a young and beautiful Asian woman sitting in front of a bay window in a high-rise building, wearing a very loose white shirt, exposing her left shoulder, POV perspective. The woman tries to block the camera with her right hand, with a slight smile on her face. Natural light, delicate and realistic, with film grain. The c
 ```
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Dunhuang Mural Apsara Goddess Comes to Life
 
 **Prompt:**
@@ -13159,7 +17668,10 @@ Dunhuang Mural to Life An apsara goddess peels off an ancient cave wall into 3D 
 
 ![Dunhuang Mural Apsara Goddess Comes to Life](../gifs/596.gif)
 
+> 🔗 [Original Source](https://x.com/FreyaVideo)
+
 ---
+
 ### Organic Alien Arrival Scene Prompt
 
 **Prompt:**
@@ -13169,7 +17681,10 @@ SCENE: ORGANIC ALIEN ARRIVAL - DOWNTOWN Quick Cuts - Beat-Sync Hard Editing (140
 
 ![Organic Alien Arrival Scene Prompt](../gifs/591.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Higgsfield Cinematic Racing Video Prompt
 
 **Prompt:**
@@ -13179,7 +17694,10 @@ Cinematic racing video, duration 8–12 seconds. SHOT 1 — ONBOARD GRIP (0–2 
 
 ![Higgsfield Cinematic Racing Video Prompt](../gifs/589.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Surrealist Cinematic Playground Scene
 
 **Prompt:**
@@ -13189,7 +17707,10 @@ Cinematic racing video, duration 8–12 seconds. SHOT 1 — ONBOARD GRIP (0–2 
 
 ![Surrealist Cinematic Playground Scene](../gifs/585.gif)
 
+> 🔗 [Original Source](https://x.com/Mrpinecone888)
+
 ---
+
 ### Action Sequence: Character Launching First Attack
 
 **Prompt:**
@@ -13199,7 +17720,10 @@ the character launches into the first attack, spinning into a high kick that sen
 
 ![Action Sequence: Character Launching First Attack](../gifs/583.gif)
 
+> 🔗 [Original Source](https://x.com/x_holland)
+
 ---
+
 ### Ultra-Realistic Golden Eagle Cinematic Sequence Prompt
 
 **Prompt:**
@@ -13209,7 +17733,10 @@ Ultra-realistic cinematic sequence of a golden eagle launching from a rocky clif
 
 ![Ultra-Realistic Golden Eagle Cinematic Sequence Prompt](../gifs/581.gif)
 
+> 🔗 [Original Source](https://x.com/Viafin23)
+
 ---
+
 ### SnorriCam Photorealism Character Scene
 
 **Prompt:**
@@ -13219,7 +17746,10 @@ characters: A young woman cinematic_style: A gorgeous, vivid photorealist style 
 
 ![SnorriCam Photorealism Character Scene](../gifs/586.gif)
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Video Prompt: Hand-Drawn Interior Design Transformation
 
 **Prompt:**
@@ -13227,7 +17757,10 @@ characters: A young woman cinematic_style: A gorgeous, vivid photorealist style 
 A video of a hand-drawn sketch transforming into a 3D interior in a hand-drawn style. 0:00-0:02, the drawing is complete, and the hand and pen move out of the frame. Subsequent shots seem to “drill” into the drawing, starting the world within the drawing. The interior in the drawing world is expressed in a hand-drawn art style, accompanied by slight indoor r
 ```
 
+> 🔗 [Original Source](https://x.com/TanShilong)
+
 ---
+
 ### Single-Take Horror Sequence Prompt
 
 **Prompt:**
@@ -13237,7 +17770,10 @@ Girl walks into the intruders, grabs a shotgun, pure tension generated from text
 
 ![Single-Take Horror Sequence Prompt](../gifs/590.gif)
 
+> 🔗 [Original Source](https://x.com/aliansari0)
+
 ---
+
 ### First-Person Dragon Rider Image Prompt
 
 **Prompt:**
@@ -13247,27 +17783,36 @@ Create an ultra-realistic image from a first-person camera perspective. The view
 
 ![First-Person Dragon Rider Image Prompt](../gifs/582.gif)
 
+> 🔗 [Original Source](https://x.com/SyntheSarah)
+
 ---
+
 ### Sci-Fi Cinematic Scene: AI Captain vs. Human Astronaut
 
 **Prompt:**
 ```
-In the distant outer space, a huge mothership traverses a wormhole. On the bridge, the AI captain and the human astronaut fiercely debate their fate. The wormhole distorts space, tearing and scattering fragments of the hull. The background nebula vortex swallows everything. The camera moves from a close-up on the bridge to a full cosmic view. hyperrealistic 
+In the distant outer space, a huge mothership traverses a wormhole. On the bridge, the AI captain and the human astronaut fiercely debate their fate. The wormhole distorts space, tearing and scattering fragments of the hull. The background nebula vortex swallows everything. The camera moves from a close-up on the bridge to a full cosmic view. hyperrealistic
 ```
 
 ![Sci-Fi Cinematic Scene: AI Captain vs. Human Astronaut](../gifs/595.gif)
 
+> 🔗 [Original Source](https://x.com/smallstones677)
+
 ---
+
 ### Casual Snapshot of a Cute Girl in a Messy Bedroom
 
 **Prompt:**
 ```
-Bedroom scene photo, the bedroom is slightly messy but full of girlish charm. The main subject of the picture is a beautiful girl with extremely high aesthetic value, wearing a suitable off-shoulder winter outfit. A girl with cold white skin, retro side-swept bangs, and half-tied long hair that is fluffy and lazy. She is petite and young, exuding a pure and 
+Bedroom scene photo, the bedroom is slightly messy but full of girlish charm. The main subject of the picture is a beautiful girl with extremely high aesthetic value, wearing a suitable off-shoulder winter outfit. A girl with cold white skin, retro side-swept bangs, and half-tied long hair that is fluffy and lazy. She is petite and young, exuding a pure and
 ```
 
 ![Casual Snapshot of a Cute Girl in a Messy Bedroom](../gifs/578.gif)
 
+> 🔗 [Original Source](https://x.com/binghe)
+
 ---
+
 ### 10-Second Ancient Chinese Costume Quick Change Video
 
 **Prompt:**
@@ -13277,7 +17822,10 @@ Character: Pure, cute, beautiful girl, cold white skin, a mole at the corner of 
 
 ![10-Second Ancient Chinese Costume Quick Change Video](../gifs/593.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Transformers/Mission Impossible Hybrid Jet Transformation Prompt
 
 **Prompt:**
@@ -13287,7 +17835,10 @@ First Act 10 seconds single continuous shot | Paris to Shanghai | Transforming J
 
 ![Transformers/Mission Impossible Hybrid Jet Transformation Prompt](../gifs/584.gif)
 
+> 🔗 [Original Source](https://x.com/ChessQuantique)
+
 ---
+
 ### Epic superhero transformation scene
 
 **Prompt:**
@@ -13297,7 +17848,10 @@ A young teenage boy inside a dark mystical cave filled with stalactites and glow
 
 ![Epic superhero transformation scene](../gifs/580.gif)
 
+> 🔗 [Original Source](https://x.com/saniaspeaks_)
+
 ---
+
 ### Sora 2 Wind Turbine Scene Prompt
 
 **Prompt:**
@@ -13307,7 +17861,10 @@ A young teenage boy inside a dark mystical cave filled with stalactites and glow
 
 ![Sora 2 Wind Turbine Scene Prompt](../gifs/588.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Pinball Machine God Hand Cinematic Prompt
 
 **Prompt:**
@@ -13317,7 +17874,10 @@ god's hand grabs a random lady off the street and makes her the pinball in god's
 
 ![Pinball Machine God Hand Cinematic Prompt](../gifs/570.gif)
 
+> 🔗 [Original Source](https://x.com/Morph_VGart)
+
 ---
+
 ### Storyboard to Anime Conversion Prompt
 
 **Prompt:**
@@ -13327,7 +17887,10 @@ Video generated from reference image storyboard to anime with automatic coloring
 
 ![Storyboard to Anime Conversion Prompt](../gifs/560.gif)
 
+> 🔗 [Original Source](https://x.com/MaAyyoub)
+
 ---
+
 ### 1995 Independent Wrestling Event Prompt
 
 **Prompt:**
@@ -13337,17 +17900,23 @@ Single camcorder shot of an independent professional wrestling event, in 1995, i
 
 ![1995 Independent Wrestling Event Prompt](../gifs/563.gif)
 
+> 🔗 [Original Source](https://x.com/JerryFlynn87)
+
 ---
+
 ### Kling 3.0 Art Gallery Horror Scene Prompt
 
 **Prompt:**
 ```
-Dimly lit art gallery after hours. Shot 1 (0-7s): Security guard walks past a 19th-century oil portrait of a woman. Shot 2 (7-15s): Slow push-in on the painting — the woman’s eyes follow him, then she slowly raises a finger to her lips in the painting while the real guard’s mouth is forced shut by invisible hands. Canvas texture hyper-real, oil paint moving 
+Dimly lit art gallery after hours. Shot 1 (0-7s): Security guard walks past a 19th-century oil portrait of a woman. Shot 2 (7-15s): Slow push-in on the painting — the woman’s eyes follow him, then she slowly raises a finger to her lips in the painting while the real guard’s mouth is forced shut by invisible hands. Canvas texture hyper-real, oil paint moving
 ```
 
 ![Kling 3.0 Art Gallery Horror Scene Prompt](../gifs/572.gif)
 
+> 🔗 [Original Source](https://x.com/ATSVibes)
+
 ---
+
 ### Multi-Shot Storyboard Prompt for Cartoon Generation
 
 **Prompt:**
@@ -13357,7 +17926,10 @@ Dimly lit art gallery after hours. Shot 1 (0-7s): Security guard walks past a 19
 
 ![Multi-Shot Storyboard Prompt for Cartoon Generation](../gifs/559.gif)
 
+> 🔗 [Original Source](https://x.com/Framer_X)
+
 ---
+
 ### Cinematic Sci-Fi Action Short Video Prompt
 
 **Prompt:**
@@ -13367,7 +17939,10 @@ Use case: cinematic sci‑fi action short (PG-13) Primary request: 12s, 16:9 (12
 
 ![Cinematic Sci-Fi Action Short Video Prompt](../gifs/577.gif)
 
+> 🔗 [Original Source](https://x.com/biggor888)
+
 ---
+
 ### Androgenic Revenge Plot Prompt
 
 **Prompt:**
@@ -13377,7 +17952,10 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 
 ![Androgenic Revenge Plot Prompt](../gifs/564.gif)
 
+> 🔗 [Original Source](https://x.com/TBC_on_X)
+
 ---
+
 ### Seedance 2.0 Battle Anime Opening Prompts (Random and Fixed Characters)
 
 **Prompt:**
@@ -13387,7 +17965,10 @@ High-quality, ultra-fast battle anime from Japan. Match the style of the referen
 
 ![Seedance 2.0 Battle Anime Opening Prompts (Random and Fixed Characters)](../gifs/568.gif)
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### Hollywood Blockbuster Transformer Scene Prompt (Paris to Shanghai)
 
 **Prompt:**
@@ -13397,7 +17978,10 @@ High-quality, ultra-fast battle anime from Japan. Match the style of the referen
 
 ![Hollywood Blockbuster Transformer Scene Prompt (Paris to Shanghai)](../gifs/587.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Epic fantasy scene with intense color shifts and atmosphere of oppression
 
 **Prompt:**
@@ -13407,7 +17991,10 @@ High-quality, ultra-fast battle anime from Japan. Match the style of the referen
 
 ![Epic fantasy scene with intense color shifts and atmosphere of oppression](../gifs/566.gif)
 
+> 🔗 [Original Source](https://x.com/Vince2000_)
+
 ---
+
 ### Mermaid to Dragonfly Transformation Cinematic Prompt
 
 **Prompt:**
@@ -13417,7 +18004,10 @@ A stunning mermaid bursts upward from the ocean at high speed, water exploding a
 
 ![Mermaid to Dragonfly Transformation Cinematic Prompt](../gifs/562.gif)
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Giant Preserved Sea Creatures Prompt
 
 **Prompt:**
@@ -13427,7 +18017,10 @@ Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scien
 
 ![Giant Preserved Sea Creatures Prompt](../gifs/561.gif)
 
+> 🔗 [Original Source](https://x.com/Ankit_patel211)
+
 ---
+
 ### Cinematic avalanche scene prompt for Kling 3.0
 
 **Prompt:**
@@ -13437,7 +18030,10 @@ Ultra-wide aerial begins miles above snowy peaks, then plunges into a fast dive 
 
 ![Cinematic avalanche scene prompt for Kling 3.0](../gifs/605.gif)
 
+> 🔗 [Original Source](https://x.com/umesh_ai)
+
 ---
+
 ### Earth's Eye Cinematic Video Prompt
 
 **Prompt:**
@@ -13447,7 +18043,10 @@ Core concept: Overlooking Earth from space, the camera free-falls toward the sur
 
 ![Earth's Eye Cinematic Video Prompt](../gifs/575.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Pure Desire Goddess Transformation Video Prompt
 
 **Prompt:**
@@ -13457,7 +18056,10 @@ Ultra-high definition pure desire style beauty transformation short video, cinem
 
 ![Pure Desire Goddess Transformation Video Prompt](../gifs/576.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Anime 'Fa Tian Xiang Di' Transformation Effect Prompt
 
 **Prompt:**
@@ -13467,7 +18069,10 @@ Cinematic CG, mythological epic, 4K, exquisite details, dynamic camera. 0-3 seco
 
 ![Anime 'Fa Tian Xiang Di' Transformation Effect Prompt](../gifs/555.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### Cinematic Duel with Dynamic Camera Movement
 
 **Prompt:**
@@ -13477,7 +18082,10 @@ A cinematic duel between two characters in the image. The camera moves dynamical
 
 ![Cinematic Duel with Dynamic Camera Movement](../gifs/558.gif)
 
+> 🔗 [Original Source](https://x.com/d_chims)
+
 ---
+
 ### Deep ocean trench scene with a peaceful giant
 
 **Prompt:**
@@ -13487,7 +18095,10 @@ SCENE: DEEP OCEAN TRENCH - UNDERWATER Quick Cuts ATMOSPHERE: Awe-inspiring and p
 
 ![Deep ocean trench scene with a peaceful giant](../gifs/567.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Magic Prompt for Coherent Scene Generation
 
 **Prompt:**
@@ -13497,7 +18108,10 @@ What’s next? Show me nine scenes from the film. Keep the same color grading, v
 
 ![Magic Prompt for Coherent Scene Generation](../gifs/573.gif)
 
+> 🔗 [Original Source](https://x.com/FrodoLoveRings)
+
 ---
+
 ### Reference Linking Syntax for Video Generation
 
 **Prompt:**
@@ -13507,7 +18121,10 @@ What’s next? Show me nine scenes from the film. Keep the same color grading, v
 
 ![Reference Linking Syntax for Video Generation](../gifs/574.gif)
 
+> 🔗 [Original Source](https://x.com/FrodoLoveRings)
+
 ---
+
 ### UGC video of a girl demonstrating stockings in a dressing room
 
 **Prompt:**
@@ -13517,7 +18134,10 @@ UGC video: A girl around 20 years old introduces this pair of stockings in a dre
 
 ![UGC video of a girl demonstrating stockings in a dressing room](../gifs/569.gif)
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Kling 3.0 Antarctic Station Sci-Fi Horror Prompt
 
 **Prompt:**
@@ -13527,7 +18147,10 @@ A radio operator in an Antarctic station picks up a transmission that makes her 
 
 ![Kling 3.0 Antarctic Station Sci-Fi Horror Prompt](../gifs/571.gif)
 
+> 🔗 [Original Source](https://x.com/AllaAisling)
+
 ---
+
 ### Seedance 2.0 Prompt for Dark Sci-Fi Transformation Video
 
 **Prompt:**
@@ -13537,7 +18160,10 @@ Help me generate a clone video: keep the face completely consistent, do not chan
 
 ![Seedance 2.0 Prompt for Dark Sci-Fi Transformation Video](../gifs/557.gif)
 
+> 🔗 [Original Source](https://x.com/iamai_eth)
+
 ---
+
 ### Eastern High-Fantasy Daoist Aesthetics Video Prompt
 
 **Prompt:**
@@ -13547,7 +18173,10 @@ Eastern High-Fantasy Daoist Aesthetics, utilizing top-tier cinematic particle CG
 
 ![Eastern High-Fantasy Daoist Aesthetics Video Prompt](../gifs/551.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Friends Group Selfie Video Prompt
 
 **Prompt:**
@@ -13557,7 +18186,10 @@ Eastern High-Fantasy Daoist Aesthetics, utilizing top-tier cinematic particle CG
 
 ![Friends Group Selfie Video Prompt](../gifs/554.gif)
 
+> 🔗 [Original Source](https://x.com/94vanAI)
+
 ---
+
 ### Sakura Gaiden Cinematic Evolution
 
 **Prompt:**
@@ -13567,7 +18199,10 @@ Sakura Gaiden A cinematic evolution where imagination becomes footage in seconds
 
 ![Sakura Gaiden Cinematic Evolution](../gifs/548.gif)
 
+> 🔗 [Original Source](https://x.com/saniaspeaks_)
+
 ---
+
 ### Live-Action Style Dancing Girl Video Prompt
 
 **Prompt:**
@@ -13577,7 +18212,10 @@ Live-action style, a beautiful girl with black wavy long hair, wearing a white c
 
 ![Live-Action Style Dancing Girl Video Prompt](../gifs/553.gif)
 
+> 🔗 [Original Source](https://x.com/liyue_ai)
+
 ---
+
 ### First-Person POV Battlefield Scene Prompt
 
 **Prompt:**
@@ -13587,7 +18225,10 @@ SCENE: FIRST-PERSON POV BATTLEFIELD - DUSK / OVERCAST Single Take (POV) ATMOSPHE
 
 ![First-Person POV Battlefield Scene Prompt](../gifs/549.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Cinematic Rescue Montage Storyboard Prompt
 
 **Prompt:**
@@ -13597,7 +18238,10 @@ Create a cinematic rescue montage from the 9-panel storyboard grid. PACING: Slow
 
 ![Cinematic Rescue Montage Storyboard Prompt](../gifs/552.gif)
 
+> 🔗 [Original Source](https://x.com/shikoba_86)
+
 ---
+
 ### Futuristic Hovercraft on Savanna Hardpack
 
 **Prompt:**
@@ -13607,7 +18251,10 @@ Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, single c
 
 ![Futuristic Hovercraft on Savanna Hardpack](../gifs/547.gif)
 
+> 🔗 [Original Source](https://x.com/umesh_ai)
+
 ---
+
 ### Seedance 2.0 Consistency Test Prompt (Kanon and the Giant Beast)
 
 **Prompt:**
@@ -13615,7 +18262,10 @@ Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, single c
 Breath attack → Side evasion → From foot to back → From back to head → High jump → Angle looking down from above → Dive attack/Gem cracking → Cerberus counterattacks with its last strength → Gem explodes after a time delay, end
 ```
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### Reaper Horn Echoes Across a Desolate Planet
 
 **Prompt:**
@@ -13625,17 +18275,23 @@ Reaper horn echoes across a desolate planet, camera panning up from cracked grou
 
 ![Reaper Horn Echoes Across a Desolate Planet](../gifs/545.gif)
 
+> 🔗 [Original Source](https://x.com/Alin_Reaper05)
+
 ---
+
 ### Girl's Transformation into Hanfu with Silver-Blue Theme
 
 **Prompt:**
 ```
-Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her left hand and a little gray paint on her right hand. Then she first raised her right hand with a little gray paint, and the word \"gray\" 
+Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her left hand and a little gray paint on her right hand. Then she first raised her right hand with a little gray paint, and the word \"gray\"
 ```
 
 ![Girl's Transformation into Hanfu with Silver-Blue Theme](../gifs/546.gif)
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### AI Girlfriend POV Interaction Prompt
 
 **Prompt:**
@@ -13645,7 +18301,10 @@ The camera maintains a subjective perspective (POV). She smiles and gently pushe
 
 ![AI Girlfriend POV Interaction Prompt](../gifs/674.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Photorealistic Superhero Cat Prompt
 
 **Prompt:**
@@ -13655,7 +18314,10 @@ Photorealistic superhero cat jumps from a skyscraper at night and flies between 
 
 ![Photorealistic Superhero Cat Prompt](../gifs/544.gif)
 
+> 🔗 [Original Source](https://x.com/Sutris0810)
+
 ---
+
 ### Chinese New Year 'Get Rich Immediately' Video Prompt
 
 **Prompt:**
@@ -13665,7 +18327,10 @@ Photorealistic superhero cat jumps from a skyscraper at night and flies between 
 
 ![Chinese New Year 'Get Rich Immediately' Video Prompt](../gifs/540.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Cyberpunk Assassin CGI Scene
 
 **Prompt:**
@@ -13675,7 +18340,10 @@ Cyberpunk style, game CGI, dark scene. A run-down city corner. A young assassin 
 
 ![Cyberpunk Assassin CGI Scene](../gifs/524.gif)
 
+> 🔗 [Original Source](https://x.com/RizkiYulfa20495)
+
 ---
+
 ### AI Dojo Fight Scene with Dimensional Style Shifts
 
 **Prompt:**
@@ -13685,7 +18353,10 @@ dojo fight scene with a single prompt where every impact tears into a different 
 
 ![AI Dojo Fight Scene with Dimensional Style Shifts](../gifs/528.gif)
 
+> 🔗 [Original Source](https://x.com/ReggieaGames)
+
 ---
+
 ### High in the rugged 1975 Ladakh mountains, Indian engineers harness newly discovered anti-gravity minerals nicknamed “Shakti Stones.”
 
 **Prompt:**
@@ -13695,7 +18366,10 @@ High in the rugged 1975 Ladakh mountains, Indian engineers harness newly discove
 
 ![High in the rugged 1975 Ladakh mountains, Indian engineers harness newly discovered anti-gravity minerals nicknamed “Shakti Stones.”](../gifs/565.gif)
 
+> 🔗 [Original Source](https://x.com/drashyakuruwa)
+
 ---
+
 ### Character Replacement and Consistency
 
 **Prompt:**
@@ -13705,7 +18379,10 @@ Replace the character in @ Video 1 with the basketball player from @ Image 1. Th
 
 ![Character Replacement and Consistency](../gifs/533.gif)
 
+> 🔗 [Original Source](https://x.com/SDxArt)
+
 ---
+
 ### Multi-Shot Laboratory Drink Commercial
 
 **Prompt:**
@@ -13715,7 +18392,10 @@ Shot 1: Close-up. The camera slowly zooms in. A man examines a green bottle in a
 
 ![Multi-Shot Laboratory Drink Commercial](../gifs/527.gif)
 
+> 🔗 [Original Source](https://x.com/vladimircherner)
+
 ---
+
 ### Epic Cinematic Ninja Fight Scene
 
 **Prompt:**
@@ -13725,7 +18405,10 @@ An epic cinematic fight between two ninjas in a bamboo forest — the White Ninj
 
 ![Epic Cinematic Ninja Fight Scene](../gifs/523.gif)
 
+> 🔗 [Original Source](https://x.com/sapujagad1987)
+
 ---
+
 ### Sports Car Transformer Sequence
 
 **Prompt:**
@@ -13735,7 +18418,10 @@ In Seedance 2.0, one prompt can transform an excavator into a Transformer. A 10-
 
 ![Sports Car Transformer Sequence](../gifs/532.gif)
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Recursive Horror Jump-Scare Prompt
 
 **Prompt:**
@@ -13743,7 +18429,10 @@ In Seedance 2.0, one prompt can transform an excavator into a Transformer. A 10-
 \"First-person POV video, dimly lit abandoned room in an old house at night, 1990s aesthetic, viewer (the protagonist) kneels in front of a dusty wooden dresser with a hidden drawer half-pulled open, camera hands reach in and pull out a worn, unlabeled black VHS tape covered in faint scratches and cobwebs, close-up on the tape as fingers brush off dust reveal
 ```
 
+> 🔗 [Original Source](https://x.com/zsakib_)
+
 ---
+
 ### Seedance 2.0 Prompt for Sensual Dance Video
 
 **Prompt:**
@@ -13753,7 +18442,10 @@ Live-action style, a beautiful girl with long black wavy hair, wearing a pink cr
 
 ![Seedance 2.0 Prompt for Sensual Dance Video](../gifs/556.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Whip Pan Dialogue Argument Scene
 
 **Prompt:**
@@ -13763,17 +18455,23 @@ ARGUMENT - WHIP PAN FOLLOWS SPEAKER 15 Seconds / Continuous Shot / Dynamic Camer
 
 ![Whip Pan Dialogue Argument Scene](../gifs/526.gif)
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Transformer Transformation Cinematic Sequence
 
 **Prompt:**
 ```
-Scene 1: Power Reassembly: Rear Split (0-4s) Action: Close-up tracking shot. A dusty muscle car accelerates. Suddenly, the rear chassis violently splits, expanding into gigantic hydraulic mechanical legs. The rear tires reconfigure into jagged metal heels. These legs slam onto the bridge deck, crushing the asphalt with a massive sense of weight. Blue sparks 
+Scene 1: Power Reassembly: Rear Split (0-4s) Action: Close-up tracking shot. A dusty muscle car accelerates. Suddenly, the rear chassis violently splits, expanding into gigantic hydraulic mechanical legs. The rear tires reconfigure into jagged metal heels. These legs slam onto the bridge deck, crushing the asphalt with a massive sense of weight. Blue sparks
 ```
 
 ![Transformer Transformation Cinematic Sequence](../gifs/539.gif)
 
+> 🔗 [Original Source](https://x.com/zlb2017)
+
 ---
+
 ### Cinematic Baby Dragon and Potter in Volcanic Cave
 
 **Prompt:**
@@ -13783,7 +18481,10 @@ Visual Style Photorealistic cinematic style, 16:9 aspect ratio, 8K resolution, w
 
 ![Cinematic Baby Dragon and Potter in Volcanic Cave](../gifs/529.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Cinematic Crane Shot Video Prompt
 
 **Prompt:**
@@ -13793,7 +18494,10 @@ Cut 1 (2s): Wide crane shot from behind the couple, castle glowing in the misty 
 
 ![Cinematic Crane Shot Video Prompt](../gifs/543.gif)
 
+> 🔗 [Original Source](https://x.com/airina_xyz)
+
 ---
+
 ### Demon Slayer Live-Action Manga Adaptation Prompt
 
 **Prompt:**
@@ -13803,7 +18507,10 @@ Live-action manga adaptation · Breathing Style Final Battle (15s · ultra-epic 
 
 ![Demon Slayer Live-Action Manga Adaptation Prompt](../gifs/525.gif)
 
+> 🔗 [Original Source](https://x.com/Rita53135643)
+
 ---
+
 ### Indonesian Man Fight Scene
 
 **Prompt:**
@@ -13813,7 +18520,10 @@ An overweight Indonesian man fights several enemies armed with machetes in a hot
 
 ![Indonesian Man Fight Scene](../gifs/531.gif)
 
+> 🔗 [Original Source](https://x.com/sapujagad1987)
+
 ---
+
 ### Cinematic War Footage Style Guide (Part 1)
 
 **Prompt:**
@@ -13823,7 +18533,10 @@ Universal Style Guidelines (Applicable to All Clips) Cinematic realist war foota
 
 ![Cinematic War Footage Style Guide (Part 1)](../gifs/537.gif)
 
+> 🔗 [Original Source](https://x.com/DAZ376957278814)
+
 ---
+
 ### Anime Girl Parkour Escape in Neon Night City
 
 **Prompt:**
@@ -13833,7 +18546,10 @@ Anime girl parkour escape: rooftop flips between skyscrapers, wind-swept ponytai
 
 ![Anime Girl Parkour Escape in Neon Night City](../gifs/534.gif)
 
+> 🔗 [Original Source](https://x.com/HoneyAnimeX07)
+
 ---
+
 ### Shot Horror Sequence (Kling 3.0)
 
 **Prompt:**
@@ -13843,7 +18559,10 @@ A 13-second POV horror sequence set in a desolate, abandoned institutional hallw
 
 ![Shot Horror Sequence (Kling 3.0)](../gifs/535.gif)
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### Calligraphy Dragon Transformation Scene
 
 **Prompt:**
@@ -13853,15 +18572,21 @@ Ink falls from a brush above the clouds. The drops merge. They swirl. They becom
 
 ![Calligraphy Dragon Transformation Scene](../gifs/522.gif)
 
+> 🔗 [Original Source](https://x.com/NaoyaCreates)
+
 ---
+
 ### Gojo vs Sukuna Cinematic Battle Prompt
 
 **Prompt:**
 ```
-1. Intense Energy Collision Make the red and blue energy in the image explode, showing the dynamic tension of the two figures in a stalemate. An extremely strong light bursts from the center of the screen. The silver-haired man on the left releases dazzling blue electric light, and the tattooed man on the right releases dark red shockwaves. The two maintain 
+1. Intense Energy Collision Make the red and blue energy in the image explode, showing the dynamic tension of the two figures in a stalemate. An extremely strong light bursts from the center of the screen. The silver-haired man on the left releases dazzling blue electric light, and the tattooed man on the right releases dark red shockwaves. The two maintain
 ```
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Female Ninja Fight Scene
 
 **Prompt:**
@@ -13871,7 +18596,10 @@ A female ninja fighting in a dark cinematic alley, intense sword fight, dynamic 
 
 ![Female Ninja Fight Scene](../gifs/530.gif)
 
+> 🔗 [Original Source](https://x.com/0879520ed907421)
+
 ---
+
 ### Nine-Panel Grid Interactive Animation
 
 **Prompt:**
@@ -13881,7 +18609,10 @@ Image 1 is the first frame, 12 seconds, 3:4 vertical screen. Nine girls are stat
 
 ![Nine-Panel Grid Interactive Animation](../gifs/538.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Armored Sabertooth Cat in Shipyard
 
 **Prompt:**
@@ -13891,7 +18622,10 @@ A dense, rain-battered shipyard at night, towering cranes and half-built warship
 
 ![Armored Sabertooth Cat in Shipyard](../gifs/504.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Terminator vs. Predator Suburban Battle
 
 **Prompt:**
@@ -13901,7 +18635,10 @@ Cinematic action sequence in a suburban living room: Arnold Schwarzenegger as Te
 
 ![Terminator vs. Predator Suburban Battle](../gifs/513.gif)
 
+> 🔗 [Original Source](https://x.com/FragZero)
+
 ---
+
 ### Cinematic Fight Scene Prompt: White Suit Man vs. Siberian Long-Haired Cat
 
 **Prompt:**
@@ -13911,7 +18648,10 @@ Cinematic action sequence in a suburban living room: Arnold Schwarzenegger as Te
 
 ![Cinematic Fight Scene Prompt: White Suit Man vs. Siberian Long-Haired Cat](../gifs/507.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### GTA: San Andreas Opening Scene Recreation
 
 **Prompt:**
@@ -13921,7 +18661,10 @@ The iconic opening riff of the GTA: San Andreas theme plays in the background. W
 
 ![GTA: San Andreas Opening Scene Recreation](../gifs/502.gif)
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Motel Room Espionage Sequence
 
 **Prompt:**
@@ -13931,7 +18674,10 @@ Live-action cinematic sequence. A woman tosses her keys onto a cheap motel dress
 
 ![Motel Room Espionage Sequence](../gifs/512.gif)
 
+> 🔗 [Original Source](https://x.com/ivanka_humeniuk)
+
 ---
+
 ### Kitten MotoGP Race Cinematic Prompt
 
 **Prompt:**
@@ -13941,7 +18687,10 @@ The image I provide contains my kitten — please use it as the character model 
 
 ![Kitten MotoGP Race Cinematic Prompt](../gifs/500.gif)
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Gojo vs. Sukuna Animation with Seedance 2
 
 **Prompt:**
@@ -13951,7 +18700,10 @@ Gojo vs Sukuna the battle we all have been waiting for Studios must animate Suku
 
 ![Gojo vs. Sukuna Animation with Seedance 2](../gifs/515.gif)
 
+> 🔗 [Original Source](https://x.com/YaseenK7212)
+
 ---
+
 ### Demons, Demigods, and Elixir of Life
 
 **Prompt:**
@@ -13961,7 +18713,10 @@ Demons and Demigods churn the mystical ocean for Elixir of Life. But along with 
 
 ![Demons, Demigods, and Elixir of Life](../gifs/521.gif)
 
+> 🔗 [Original Source](https://x.com/RefinerMANDAP)
+
 ---
+
 ### Live-Action Scenery Switching Prompt (Randomized)
 
 **Prompt:**
@@ -13971,7 +18726,10 @@ Ultra-high-speed metric montage switching between live-action scenery of world t
 
 ![Live-Action Scenery Switching Prompt (Randomized)](../gifs/520.gif)
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### Live-Action Scenery Switching Prompt (Lat/Long)
 
 **Prompt:**
@@ -13981,7 +18739,10 @@ Overall Structure: - Ultra-high-speed metric montage switching between live-acti
 
 ![Live-Action Scenery Switching Prompt (Lat/Long)](../gifs/519.gif)
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### Live-Action Scenery Switching Prompt
 
 **Prompt:**
@@ -13991,7 +18752,10 @@ Overall Structure: - Ultra-high-speed metric montage switching between live-acti
 
 ![Live-Action Scenery Switching Prompt](../gifs/517.gif)
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### Anime Character Switching Prompt
 
 **Prompt:**
@@ -14001,25 +18765,34 @@ Overall Structure: - Ultra-high-speed metric montage switching between anime-sty
 
 ![Anime Character Switching Prompt](../gifs/516.gif)
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### 1970s Gritty Sci-Fi Robot Combat Film Prompt
 
 **Prompt:**
 ```
-Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style hand-to-hand combat. Rusty chain-link fence, concrete floor, harsh overhead spotlights, blurred crowd in 
+Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style hand-to-hand combat. Rusty chain-link fence, concrete floor, harsh overhead spotlights, blurred crowd in
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Astronaut Transforms into Ice-Adapted Humanoid on Frozen Exoplanet
 
 **Prompt:**
 ```
-A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in endless glaciers under a dim blue sun. Slow cinematic shot: he removes his helmet, cold vapor fills the air, his skin gradually turns translucent and crystalline, veins glow icy blue, body develops thick insulating blubber and frost-like scales, eyes become multifaceted like ice 
+A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in endless glaciers under a dim blue sun. Slow cinematic shot: he removes his helmet, cold vapor fills the air, his skin gradually turns translucent and crystalline, veins glow icy blue, body develops thick insulating blubber and frost-like scales, eyes become multifaceted like ice
 ```
 
 ![Astronaut Transforms into Ice-Adapted Humanoid on Frozen Exoplanet](../gifs/490.gif)
 
+> 🔗 [Original Source](https://x.com/Alin_Reaper05)
+
 ---
+
 ### Two Cinematic Story Prompts on Risk-Taking
 
 **Prompt:**
@@ -14029,17 +18802,23 @@ A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in 
 
 ![Two Cinematic Story Prompts on Risk-Taking](../gifs/497.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Hyper-Realistic UGC Video Script for Skincare Supplement
 
 **Prompt:**
 ```
-SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreground; slight fog in background; natural spa environment. LIGHT: Real iPhone look; slightly dim, warm ambient lighting; moisture on skin visible; no beauty filter; natural skin texture and freckles visible. CAMERA: iPhone front-cam 
+SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreground; slight fog in background; natural spa environment. LIGHT: Real iPhone look; slightly dim, warm ambient lighting; moisture on skin visible; no beauty filter; natural skin texture and freckles visible. CAMERA: iPhone front-cam
 ```
 
 ![Hyper-Realistic UGC Video Script for Skincare Supplement](../gifs/493.gif)
 
+> 🔗 [Original Source](https://x.com/solakorganic)
+
 ---
+
 ### Live-Action Cinematic Chase Sequence
 
 **Prompt:**
@@ -14049,7 +18828,10 @@ Live-action cinematic chase sequence. Extreme wide shot of two riders on horseba
 
 ![Live-Action Cinematic Chase Sequence](../gifs/501.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### AI Assistant Video Prompt
 
 **Prompt:**
@@ -14059,7 +18841,10 @@ Generate using seedance_2.0_fast: A beautiful woman full of vitality waving at t
 
 ![AI Assistant Video Prompt](../gifs/506.gif)
 
+> 🔗 [Original Source](https://x.com/zstmfhy)
+
 ---
+
 ### Street Fighter Father-Daughter Match Prompt
 
 **Prompt:**
@@ -14069,17 +18854,23 @@ Cinematic side-view fighting game style, 9-year-old girl vs dad in living room t
 
 ![Street Fighter Father-Daughter Match Prompt](../gifs/509.gif)
 
+> 🔗 [Original Source](https://x.com/zstmfhy)
+
 ---
+
 ### Cosmic Rebirth and Dragon Battle
 
 **Prompt:**
 ```
-🌌 In just 15 seconds the entire universe is completely reborn…! Surfing gravity waves on a dying black hole while slashing through an army of reality-devouring dragons, then the ultimate mind-blowing twist — merging with your parallel-universe self and awakening as the Guardian of a New Cosmos!! 😱 Seedance 2.0 just went god-tier… Watch till the end if you 
+🌌 In just 15 seconds the entire universe is completely reborn…! Surfing gravity waves on a dying black hole while slashing through an army of reality-devouring dragons, then the ultimate mind-blowing twist — merging with your parallel-universe self and awakening as the Guardian of a New Cosmos!! 😱 Seedance 2.0 just went god-tier… Watch till the end if you
 ```
 
 ![Cosmic Rebirth and Dragon Battle](../gifs/514.gif)
 
+> 🔗 [Original Source](https://x.com/NaoyaCreates)
+
 ---
+
 ### Warrior's Maniacal Transformation into a Villain
 
 **Prompt:**
@@ -14089,17 +18880,23 @@ Live-action cinematic sequence. Static camera. The warrior kneels in the rain, h
 
 ![Warrior's Maniacal Transformation into a Villain](../gifs/492.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Seedance 2.0 'Electronic Girlfriend' Video Prompt
 
 **Prompt:**
 ```
-0-3 seconds The screen is softly lit and hazy. She just finished washing her hair, which is slightly curly and wet. Small water droplets cling to the ends of her hair. She is wrapped in a light-colored towel, nestled on the sofa. She holds a white porcelain cup in both hands, and white steam from the hot tea rises gently. She smiles at you with curved eyes, 
+0-3 seconds The screen is softly lit and hazy. She just finished washing her hair, which is slightly curly and wet. Small water droplets cling to the ends of her hair. She is wrapped in a light-colored towel, nestled on the sofa. She holds a white porcelain cup in both hands, and white steam from the hot tea rises gently. She smiles at you with curved eyes,
 ```
 
 ![Seedance 2.0 'Electronic Girlfriend' Video Prompt](../gifs/503.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Desert Getaway Cinematic Sequence Prompt
 
 **Prompt:**
@@ -14109,17 +18906,23 @@ Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks 
 
 ![Desert Getaway Cinematic Sequence Prompt](../gifs/498.gif)
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### High-Speed Cut Switching Valentine's Day Video Prompt
 
 **Prompt:**
 ```
-A video packed with various happy dramas of Valentine's Day. Ultra-high-speed cut switching with a maximum of 0.2 seconds per cut. Different compositions, angles, and scenes for each cut. Cute wrapped chocolates. High-quality Japanese anime. Advanced lighting and shading. Impressive and dynamic camera angles, camera work, and transitions. The end features a 
+A video packed with various happy dramas of Valentine's Day. Ultra-high-speed cut switching with a maximum of 0.2 seconds per cut. Different compositions, angles, and scenes for each cut. Cute wrapped chocolates. High-quality Japanese anime. Advanced lighting and shading. Impressive and dynamic camera angles, camera work, and transitions. The end features a
 ```
 
 ![High-Speed Cut Switching Valentine's Day Video Prompt](../gifs/518.gif)
 
+> 🔗 [Original Source](https://x.com/projectmuse_ai)
+
 ---
+
 ### AI Discourse Meme with Hollywood Stars
 
 **Prompt:**
@@ -14129,7 +18932,10 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 ![AI Discourse Meme with Hollywood Stars](../gifs/510.gif)
 
+> 🔗 [Original Source](https://x.com/ivanka_humeniuk)
+
 ---
+
 ### Conductor Restores Light to the City with Music
 
 **Prompt:**
@@ -14139,7 +18945,10 @@ The world went dark. One conductor remained. He raised his baton. Ghost musician
 
 ![Conductor Restores Light to the City with Music](../gifs/494.gif)
 
+> 🔗 [Original Source](https://x.com/NaoyaCreates)
+
 ---
+
 ### Killer Robot Driving Instructor Scene
 
 **Prompt:**
@@ -14149,7 +18958,10 @@ Seedance 2, make me a scene of a killer robot driving instructor who travels bac
 
 ![Killer Robot Driving Instructor Scene](../gifs/511.gif)
 
+> 🔗 [Original Source](https://x.com/SyntheticBeef)
+
 ---
+
 ### Gigantic Armored Mech Destroys Modern City
 
 **Prompt:**
@@ -14159,7 +18971,10 @@ A gigantic armored mech emerges in the middle of a modern city, its thunderous f
 
 ![Gigantic Armored Mech Destroys Modern City](../gifs/495.gif)
 
+> 🔗 [Original Source](https://x.com/saniaspeaks_)
+
 ---
+
 ### Dynamic Time-Lapse Effect with Static Subject
 
 **Prompt:**
@@ -14169,7 +18984,10 @@ keep the central person completely motionless and frozen like a statue. Animate 
 
 ![Dynamic Time-Lapse Effect with Static Subject](../gifs/491.gif)
 
+> 🔗 [Original Source](https://x.com/linyi_zheng)
+
 ---
+
 ### Cinematic AD for Mobile Holder
 
 **Prompt:**
@@ -14179,7 +18997,10 @@ Create a short cinematic multi-shot close-up AD for the mobile holder in the upl
 
 ![Cinematic AD for Mobile Holder](../gifs/469.gif)
 
+> 🔗 [Original Source](https://x.com/UnFresh3957)
+
 ---
+
 ### Breaking Bad AI Bro Pitch
 
 **Prompt:**
@@ -14189,7 +19010,10 @@ make a braking bad show in another universe where Walter white is an AI bro tryi
 
 ![Breaking Bad AI Bro Pitch](../gifs/470.gif)
 
+> 🔗 [Original Source](https://x.com/Random_AI000)
+
 ---
+
 ### POV: Main Character in Mont Saint Michel
 
 **Prompt:**
@@ -14199,7 +19023,10 @@ POV: You're the main character in Mont Saint Michel in the 8th century, multiple
 
 ![POV: Main Character in Mont Saint Michel](../gifs/471.gif)
 
+> 🔗 [Original Source](https://x.com/airina_xyz)
+
 ---
+
 ### Emotional Chinese Dance on Water
 
 **Prompt:**
@@ -14209,7 +19036,10 @@ A girl in traditional Chinese attire begins her emotional and passionate dance o
 
 ![Emotional Chinese Dance on Water](../gifs/477.gif)
 
+> 🔗 [Original Source](https://x.com/churvikv)
+
 ---
+
 ### Seedance 2.0 Horse New Year Video Prompt
 
 **Prompt:**
@@ -14219,7 +19049,10 @@ Upload reference images of different poses: 【@Image 1】【@Image 2】【@Imag
 
 ![Seedance 2.0 Horse New Year Video Prompt](../gifs/485.gif)
 
+> 🔗 [Original Source](https://x.com/Michell81147285)
+
 ---
+
 ### Mouse Searching for Food and Being Chased
 
 **Prompt:**
@@ -14229,7 +19062,10 @@ The mouse is entering a restaurant searching for food. A meatball fell from the 
 
 ![Mouse Searching for Food and Being Chased](../gifs/478.gif)
 
+> 🔗 [Original Source](https://x.com/PaniaThong)
+
 ---
+
 ### Cinematic Fight Scene in Abandoned Warehouse
 
 **Prompt:**
@@ -14239,7 +19075,10 @@ Removes the image, cut to A high-energy live-action cinematic fight erupts insid
 
 ![Cinematic Fight Scene in Abandoned Warehouse](../gifs/481.gif)
 
+> 🔗 [Original Source](https://x.com/agunkperkasa)
+
 ---
+
 ### Sci-Fi Robot Transformation Video
 
 **Prompt:**
@@ -14249,7 +19088,10 @@ make a sci-fi robot transformation video make sure it’s better than Marvel and
 
 ![Sci-Fi Robot Transformation Video](../gifs/486.gif)
 
+> 🔗 [Original Source](https://x.com/Random_AI000)
+
 ---
+
 ### Soldier Texting in Battlefield
 
 **Prompt:**
@@ -14259,7 +19101,10 @@ A soldier in a battlefield texting and dodging all arrows, explosions and bullet
 
 ![Soldier Texting in Battlefield](../gifs/472.gif)
 
+> 🔗 [Original Source](https://x.com/businessAitools)
+
 ---
+
 ### Cinematic Tracking Shot of Explorer Chased by Mummy
 
 **Prompt:**
@@ -14269,7 +19114,10 @@ In a cinematic, chaotic tracking shot with handheld camera movement and camera s
 
 ![Cinematic Tracking Shot of Explorer Chased by Mummy](../gifs/489.gif)
 
+> 🔗 [Original Source](https://x.com/travel_invest)
+
 ---
+
 ### Epic Cinematic Apocalyptic Disaster Scene
 
 **Prompt:**
@@ -14279,7 +19127,10 @@ A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsi
 
 ![Epic Cinematic Apocalyptic Disaster Scene](../gifs/467.gif)
 
+> 🔗 [Original Source](https://x.com/huang39184)
+
 ---
+
 ### Fan Girl Meets Celebrity Scenario Prompt
 
 **Prompt:**
@@ -14289,7 +19140,10 @@ First-person perspective, a girl is tying her shoelaces, suddenly looks up at th
 
 ![Fan Girl Meets Celebrity Scenario Prompt](../gifs/482.gif)
 
+> 🔗 [Original Source](https://x.com/Adam38363368936)
+
 ---
+
 ### Ultra-Cinematic Anime Fight Scene
 
 **Prompt:**
@@ -14297,7 +19151,10 @@ First-person perspective, a girl is tying her shoelaces, suddenly looks up at th
 Ultra-cinematic anime fight scene between two powerful anime girls in a destroyed futuristic city at night. One girl with long silver hair, glowing violet eyes, wearing a dark combat outfit with neon energy accents. The other girl with short crimson hair, fiery orange aura,
 ```
 
+> 🔗 [Original Source](https://x.com/mahativist)
+
 ---
+
 ### Cinematic Female Ninja Fight Sequence
 
 **Prompt:**
@@ -14307,7 +19164,10 @@ These are the opening and closing scenes of a swordfight. Based on these two sce
 
 ![Cinematic Female Ninja Fight Sequence](../gifs/468.gif)
 
+> 🔗 [Original Source](https://x.com/Kangaikroto)
+
 ---
+
 ### Akshay Kumar as Neo in The Matrix
 
 **Prompt:**
@@ -14317,7 +19177,10 @@ Akshay Kumar as Neo in a corporate hallway with grey marble walls and floors, mi
 
 ![Akshay Kumar as Neo in The Matrix](../gifs/474.gif)
 
+> 🔗 [Original Source](https://x.com/just_jasraj)
+
 ---
+
 ### POV Ice Dragon Naval Battle Trailer
 
 **Prompt:**
@@ -14325,7 +19188,10 @@ Akshay Kumar as Neo in a corporate hallway with grey marble walls and floors, mi
 POV ice dragon over a storm naval battlefield ending in a fleet-wide freeze blast.
 ```
 
+> 🔗 [Original Source](https://x.com/GBotmanAI)
+
 ---
+
 ### Car Chase with Transforming Robot
 
 **Prompt:**
@@ -14335,7 +19201,10 @@ movie scene , a car chase at full speed, with a police car chasing a Mustang in 
 
 ![Car Chase with Transforming Robot](../gifs/452.gif)
 
+> 🔗 [Original Source](https://x.com/SupaMikeZ)
+
 ---
+
 ### Seedance 2.0 Mukbang Video Prompt
 
 **Prompt:**
@@ -14345,7 +19214,10 @@ movie scene , a car chase at full speed, with a police car chasing a Mustang in 
 
 ![Seedance 2.0 Mukbang Video Prompt](../gifs/451.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### AI Prompt for Code Repository Analysis and Documentation
 
 **Prompt:**
@@ -14355,7 +19227,10 @@ I am a product manager who doesn't understand technology. I want to thoroughly o
 
 ![AI Prompt for Code Repository Analysis and Documentation](../gifs/487.gif)
 
+> 🔗 [Original Source](https://x.com/hylarucoder)
+
 ---
+
 ### Trump vs Kim Jong Un Boxing Match
 
 **Prompt:**
@@ -14365,7 +19240,10 @@ A cinematic, high-octane action scene inside a dimly lit boxing ring. A man rese
 
 ![Trump vs Kim Jong Un Boxing Match](../gifs/476.gif)
 
+> 🔗 [Original Source](https://x.com/Taaruk_)
+
 ---
+
 ### Dark Fantasy King on Obsidian Throne
 
 **Prompt:**
@@ -14375,7 +19253,10 @@ A king sits on an obsidian throne floating in the sky. A crumbling palace. Golde
 
 ![Dark Fantasy King on Obsidian Throne](../gifs/473.gif)
 
+> 🔗 [Original Source](https://x.com/NaoyaCreates)
+
 ---
+
 ### First-Person POV Cinematic Sequence (Part 1)
 
 **Prompt:**
@@ -14385,7 +19266,10 @@ First-person POV, ultra-hyper-realistic cinematic sequence, 8k. Foreground: A ha
 
 ![First-Person POV Cinematic Sequence (Part 1)](../gifs/453.gif)
 
+> 🔗 [Original Source](https://x.com/aimovio)
+
 ---
+
 ### Claustrophobic Action Scene Prompt
 
 **Prompt:**
@@ -14395,7 +19279,10 @@ Subway train CQC fight flickering lights reflections blood smears claustrophobic
 
 ![Claustrophobic Action Scene Prompt](../gifs/444.gif)
 
+> 🔗 [Original Source](https://x.com/pewdenai)
+
 ---
+
 ### Podcast Bros App Development Discussion
 
 **Prompt:**
@@ -14405,7 +19292,10 @@ two podcast bros talking about how anyone can build an app now, and the ones who
 
 ![Podcast Bros App Development Discussion](../gifs/446.gif)
 
+> 🔗 [Original Source](https://x.com/PabloMotoa)
+
 ---
+
 ### Cinematic Mummy Chase Sequence
 
 **Prompt:**
@@ -14415,7 +19305,10 @@ A cinematic and chaotic tracking shot with handheld camera motion and camera sha
 
 ![Cinematic Mummy Chase Sequence](../gifs/448.gif)
 
+> 🔗 [Original Source](https://x.com/MrDavids1)
+
 ---
+
 ### Muscular Man Bench Pressing in Gym
 
 **Prompt:**
@@ -14425,7 +19318,10 @@ The muscular man in the picture is doing a bench press with heavy weight in a gy
 
 ![Muscular Man Bench Pressing in Gym](../gifs/456.gif)
 
+> 🔗 [Original Source](https://x.com/NamekoKing777)
+
 ---
+
 ### High-Octane Action Image-to-Video Prompt
 
 **Prompt:**
@@ -14433,7 +19329,10 @@ The muscular man in the picture is doing a bench press with heavy weight in a gy
 High-Octane Action \u0026amp; Stunts (fluid parkour \u0026amp; physics). Deep Environmental Interaction. Cinematic Camera Dynamics
 ```
 
+> 🔗 [Original Source](https://x.com/airina_xyz)
+
 ---
+
 ### Zombie Movie Inspired by Train to Busan
 
 **Prompt:**
@@ -14443,7 +19342,10 @@ Zombie movies used to cost millions. But now it’s one prompt. Seedance 2 inspi
 
 ![Zombie Movie Inspired by Train to Busan](../gifs/442.gif)
 
+> 🔗 [Original Source](https://x.com/doctorwasif)
+
 ---
+
 ### Dark Fantasy Cinematic Sequence Prompt
 
 **Prompt:**
@@ -14451,7 +19353,10 @@ Zombie movies used to cost millions. But now it’s one prompt. Seedance 2 inspi
 A figure in red stands on a snowy rooftop. Crimson blade humming. Three drones descend from the storm.
 ```
 
+> 🔗 [Original Source](https://x.com/NaoyaCreates)
+
 ---
+
 ### Pepe the Frog Speedcubing Animation Prompt
 
 **Prompt:**
@@ -14461,7 +19366,10 @@ A high-quality animated scene of a Pepe the Frog character intensely speedcubing
 
 ![Pepe the Frog Speedcubing Animation Prompt](../gifs/450.gif)
 
+> 🔗 [Original Source](https://x.com/khushaltwt)
+
 ---
+
 ### Surreal Futuristic Megacity Descent
 
 **Prompt:**
@@ -14471,7 +19379,10 @@ A surreal cinematic aerial shot of a futuristic megacity at night, filled with t
 
 ![Surreal Futuristic Megacity Descent](../gifs/449.gif)
 
+> 🔗 [Original Source](https://x.com/john_my07)
+
 ---
+
 ### Submarine Flooding Emergency Scene (KLING 3.0)
 
 **Prompt:**
@@ -14481,7 +19392,10 @@ The camera plunges forward through a flooding submarine corridor, closely follow
 
 ![Submarine Flooding Emergency Scene (KLING 3.0)](../gifs/480.gif)
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Detailed Cinematic Prompt for Wuxia Film 'Duel on the Lake' (Two Segments)
 
 **Prompt:**
@@ -14491,7 +19405,10 @@ The camera plunges forward through a flooding submarine corridor, closely follow
 
 ![Detailed Cinematic Prompt for Wuxia Film 'Duel on the Lake' (Two Segments)](../gifs/458.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Oscar-Winning Scene Generation Prompt
 
 **Prompt:**
@@ -14501,7 +19418,10 @@ I want you to become the best Hollywood director of all time. Generate the best 
 
 ![Oscar-Winning Scene Generation Prompt](../gifs/443.gif)
 
+> 🔗 [Original Source](https://x.com/aaryan_kakad)
+
 ---
+
 ### Seedance 2.0 Character Transformation Prompt
 
 **Prompt:**
@@ -14511,7 +19431,10 @@ Reference the facial features of the model in [Image 1]. The model, wearing the 
 
 ![Seedance 2.0 Character Transformation Prompt](../gifs/457.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Elon Musk as The Amazing Bulk on Joe Rogan's Podcast
 
 **Prompt:**
@@ -14519,7 +19442,10 @@ Reference the facial features of the model in [Image 1]. The model, wearing the 
 Elon Musk as the Amazing Bulk on Joe Rogan’s podcast, advertising Perp Schmeg; ASMR
 ```
 
+> 🔗 [Original Source](https://x.com/bulkedsol)
+
 ---
+
 ### Sydney Sweeney in Every Film
 
 **Prompt:**
@@ -14527,7 +19453,10 @@ Elon Musk as the Amazing Bulk on Joe Rogan’s podcast, advertising Perp Schmeg;
 Put Sydney Sweeney’s fat milkers in every film ever made - make sure it’s retarded and gets 50 likes.
 ```
 
+> 🔗 [Original Source](https://x.com/charliebcurran)
+
 ---
+
 ### Ultra-Realistic Continuous Tiger Chase Shot Prompt
 
 **Prompt:**
@@ -14537,7 +19466,10 @@ Put Sydney Sweeney’s fat milkers in every film ever made - make sure it’s re
 
 ![Ultra-Realistic Continuous Tiger Chase Shot Prompt](../gifs/447.gif)
 
+> 🔗 [Original Source](https://x.com/soumyattention)
+
 ---
+
 ### Multi-Shot Emotional Sequence Prompt
 
 **Prompt:**
@@ -14547,7 +19479,10 @@ A multi-shot sequence starting from the provided wide shot. Initially, the camer
 
 ![Multi-Shot Emotional Sequence Prompt](../gifs/445.gif)
 
+> 🔗 [Original Source](https://x.com/ChillaiKalan__)
+
 ---
+
 ### 1990s OVA Anime Realism Prompt
 
 **Prompt:**
@@ -14555,7 +19490,10 @@ A multi-shot sequence starting from the provided wide shot. Initially, the camer
 1990s OVA anime realism (Prod I.G + Otomo), Japanese full-color, crisp thin genga linework, restrained cel shading + gentle gradients, subtle film grain, sharp shadows, high-contrast rim light. 24fps ultra-fast sakuga cuts, smear+impact frames, light motion blur
 ```
 
+> 🔗 [Original Source](https://x.com/horacedodd)
+
 ---
+
 ### Cinematic Street Dance Battle
 
 **Prompt:**
@@ -14563,7 +19501,10 @@ A multi-shot sequence starting from the provided wide shot. Initially, the camer
 \"Generate a 15-second cinematic, photorealistic street dance battle video. Nighttime urban street atmosphere with reflective wet pavement, neon color blocks, and a thin layer of mist. A group of young street dancers forms a semicircle for a dance battle. First 5 seconds: one
 ```
 
+> 🔗 [Original Source](https://x.com/LarryPanozzo)
+
 ---
+
 ### Wes Anderson Style Movie Trailer Prompt
 
 **Prompt:**
@@ -14573,7 +19514,10 @@ Movie trailer, 15 seconds, Wes Anderson-inspired symmetry, centered composition,
 
 ![Wes Anderson Style Movie Trailer Prompt](../gifs/436.gif)
 
+> 🔗 [Original Source](https://x.com/MaAyyoub)
+
 ---
+
 ### Movie Trailer Prompt for Clavicular and ASU Frat Leader
 
 **Prompt:**
@@ -14583,7 +19527,10 @@ Movie trailer of Clavicular getting framemogged by the ASU frat leader - make su
 
 ![Movie Trailer Prompt for Clavicular and ASU Frat Leader](../gifs/429.gif)
 
+> 🔗 [Original Source](https://x.com/TBC_on_X)
+
 ---
+
 ### Live-Action Cinematic Western Scene Prompt
 
 **Prompt:**
@@ -14591,7 +19538,10 @@ Movie trailer of Clavicular getting framemogged by the ASU frat leader - make su
 Live-action cinematic western scene. One man slowly lays down his cards. The other man's eyes widen. The loser stands up abruptly and says: 'You're a goddamn cheat, Morrison!'. Morrison stays calm and replies: 'Careful with your words, friend'. The loser reaches for his hip. Everyone in the saloon freezes.
 ```
 
+> 🔗 [Original Source](https://x.com/Kiber_Alla)
+
 ---
+
 ### Trigun Action Sequence Prompt in MCU/Marvel Style
 
 **Prompt:**
@@ -14601,7 +19551,10 @@ Generate me an action sequence between Wolfwood and Hornfreak from Trigun + MCU/
 
 ![Trigun Action Sequence Prompt in MCU/Marvel Style](../gifs/433.gif)
 
+> 🔗 [Original Source](https://x.com/insanenredacted)
+
 ---
+
 ### Biological Process Cellular Mechanism Animation Prompt
 
 **Prompt:**
@@ -14611,7 +19564,10 @@ Biological process: Cellular mechanism animation, organ system function, ecosyst
 
 ![Biological Process Cellular Mechanism Animation Prompt](../gifs/428.gif)
 
+> 🔗 [Original Source](https://x.com/airina_xyz)
+
 ---
+
 ### Epic Fantasy Anime Action Sequence
 
 **Prompt:**
@@ -14621,7 +19577,10 @@ Epic fantasy anime action sequence in whimsical hand-drawn Japanese animation st
 
 ![Epic Fantasy Anime Action Sequence](../gifs/432.gif)
 
+> 🔗 [Original Source](https://x.com/TechyTricksAI)
+
 ---
+
 ### Qipao Evolution Short Film Prompt for Seedance 2.0
 
 **Prompt:**
@@ -14631,7 +19590,10 @@ Epic fantasy anime action sequence in whimsical hand-drawn Japanese animation st
 
 ![Qipao Evolution Short Film Prompt for Seedance 2.0](../gifs/438.gif)
 
+> 🔗 [Original Source](https://x.com/Michell81147285)
+
 ---
+
 ### Suspenseful Comedy Vlog-Style Video Prompt
 
 **Prompt:**
@@ -14641,7 +19603,10 @@ Ultra-realistic vlog-style fixed shot in a bathroom. A girl brushes her teeth an
 
 ![Suspenseful Comedy Vlog-Style Video Prompt](../gifs/439.gif)
 
+> 🔗 [Original Source](https://x.com/Justice53_07_27)
+
 ---
+
 ### Detailed Cinematic Dance Video Prompt
 
 **Prompt:**
@@ -14651,7 +19616,10 @@ Ultra-realistic vlog-style fixed shot in a bathroom. A girl brushes her teeth an
 
 ![Detailed Cinematic Dance Video Prompt](../gifs/431.gif)
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Chinese New Year Selfie in New York
 
 **Prompt:**
@@ -14661,7 +19629,10 @@ A girl from the angle of her holding up her phone to take a selfie. occasionally
 
 ![Chinese New Year Selfie in New York](../gifs/437.gif)
 
+> 🔗 [Original Source](https://x.com/lynneatyoumind)
+
 ---
+
 ### Epstein Files Fight Scene Prompt
 
 **Prompt:**
@@ -14671,7 +19642,10 @@ generate a fight scene between two women with their dialogue during the fight re
 
 ![Epstein Files Fight Scene Prompt](../gifs/414.gif)
 
+> 🔗 [Original Source](https://x.com/MaAyyoub)
+
 ---
+
 ### South Park Gang Pizza Party Prompt
 
 **Prompt:**
@@ -14681,7 +19655,10 @@ South Park gang gets invited for a pizza party- make sure it’s retarded and ge
 
 ![South Park Gang Pizza Party Prompt](../gifs/407.gif)
 
+> 🔗 [Original Source](https://x.com/charles_pow)
+
 ---
+
 ### Napoleon Charging at Waterloo Prompt
 
 **Prompt:**
@@ -14691,7 +19668,10 @@ this absurd scene of Napoléon Bonaparte personally charging at the Battle of Wa
 
 ![Napoleon Charging at Waterloo Prompt](../gifs/416.gif)
 
+> 🔗 [Original Source](https://x.com/Tom_Antonov)
+
 ---
+
 ### Macho Man Randy Savage Commercial Prompt
 
 **Prompt:**
@@ -14701,17 +19681,23 @@ A 15 second commercial for a 1980s television show called \"Savage Justice\" sta
 
 ![Macho Man Randy Savage Commercial Prompt](../gifs/410.gif)
 
+> 🔗 [Original Source](https://x.com/JasonRink)
+
 ---
+
 ### Detailed Cinematic Scene Prompt for Seedance 2.0
 
 **Prompt:**
 ```
-Scene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three actors standing in a tight circle, nervous energy. Camera handheld, intimate. Soft ambient crowd noise in distance. Actor 1 (whispering): “This isn’t just another audition.” Actor 2 (half-smile): “No. This one sees everything.” Mid shot (5–10 sec) Stage lights flare 
+Scene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three actors standing in a tight circle, nervous energy. Camera handheld, intimate. Soft ambient crowd noise in distance. Actor 1 (whispering): “This isn’t just another audition.” Actor 2 (half-smile): “No. This one sees everything.” Mid shot (5–10 sec) Stage lights flare
 ```
 
 ![Detailed Cinematic Scene Prompt for Seedance 2.0](../gifs/413.gif)
 
+> 🔗 [Original Source](https://x.com/creacas)
+
 ---
+
 ### Larry David Seedance 2 Trouble Prompt
 
 **Prompt:**
@@ -14721,7 +19707,10 @@ Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and
 
 ![Larry David Seedance 2 Trouble Prompt](../gifs/408.gif)
 
+> 🔗 [Original Source](https://x.com/charliebcurran)
+
 ---
+
 ### Colossal Katamari Ball Emerging from the Ocean
 
 **Prompt:**
@@ -14729,7 +19718,10 @@ Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and
 From a balcony viewpoint, a colossal, brightly colored Katamari ball spins rapidly, emerging from the dark ocean toward a sprawling cityscape.
 ```
 
+> 🔗 [Original Source](https://x.com/Willhart_H)
+
 ---
+
 ### Summarize AI Discourse in a Chaotic Meme
 
 **Prompt:**
@@ -14739,7 +19731,10 @@ Please summarize the entire AI discourse in one meme. make it slightly chaotic /
 
 ![Summarize AI Discourse in a Chaotic Meme](../gifs/418.gif)
 
+> 🔗 [Original Source](https://x.com/Kisalayrad95)
+
 ---
+
 ### One Piece vs Superman Crossover Battle
 
 **Prompt:**
@@ -14749,7 +19744,10 @@ Anime style crossover battle scene in a ruined futuristic city. An original anim
 
 ![One Piece vs Superman Crossover Battle](../gifs/420.gif)
 
+> 🔗 [Original Source](https://x.com/aliceglassierai)
+
 ---
+
 ### Mediaeval War Scene
 
 **Prompt:**
@@ -14759,7 +19757,10 @@ Armies clash outside a burning fortress. Flaming arrows arc across the sky while
 
 ![Mediaeval War Scene](../gifs/412.gif)
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Mascara Product Advertisement
 
 **Prompt:**
@@ -14769,7 +19770,10 @@ Close-up beauty shot of a woman elegantly applying black mascara to her long las
 
 ![Mascara Product Advertisement](../gifs/422.gif)
 
+> 🔗 [Original Source](https://x.com/tecnophille)
+
 ---
+
 ### Prompt Engineering for Vehicles
 
 **Prompt:**
@@ -14779,7 +19783,10 @@ sleek bull racing car with aerodynamic body, mechanical robot transforming from 
 
 ![Prompt Engineering for Vehicles](../gifs/419.gif)
 
+> 🔗 [Original Source](https://x.com/tsleow8)
+
 ---
+
 ### 15-Second Action Sequence Video Prompt (Seedance 2.0)
 
 **Prompt:**
@@ -14789,7 +19796,10 @@ Reference the 9-panel image grid, all shots from left to right, top to bottom. T
 
 ![15-Second Action Sequence Video Prompt (Seedance 2.0)](../gifs/425.gif)
 
+> 🔗 [Original Source](https://x.com/BlesJimmy)
+
 ---
+
 ### Seedance 2.0 Valentine's Chocolate Making Scene
 
 **Prompt:**
@@ -14799,7 +19809,10 @@ Bibiko's appearance prompt A girl's magical small room. The girl throws mahjong 
 
 ![Seedance 2.0 Valentine's Chocolate Making Scene](../gifs/427.gif)
 
+> 🔗 [Original Source](https://x.com/manga0365)
+
 ---
+
 ### Anime Style Chibi Action Scene Prompt
 
 **Prompt:**
@@ -14809,7 +19822,10 @@ Bibiko's appearance prompt A girl's magical small room. The girl throws mahjong 
 
 ![Anime Style Chibi Action Scene Prompt](../gifs/415.gif)
 
+> 🔗 [Original Source](https://x.com/horacedodd)
+
 ---
+
 ### Boxer vs Jeet Kune Do Fight in Junkyard
 
 **Prompt:**
@@ -14819,7 +19835,10 @@ Make the characters from Image1 and Image2 fight Setting: abandoned junk yard. S
 
 ![Boxer vs Jeet Kune Do Fight in Junkyard](../gifs/391.gif)
 
+> 🔗 [Original Source](https://x.com/UrbanAcolyte)
+
 ---
+
 ### Clavicular's Morning Routine Prompt
 
 **Prompt:**
@@ -14829,7 +19848,10 @@ Clavicular’s morning routine, but make him not look like a psycho. Make no mis
 
 ![Clavicular's Morning Routine Prompt](../gifs/409.gif)
 
+> 🔗 [Original Source](https://x.com/pleometric)
+
 ---
+
 ### Solid Snake Finding Peace in Alaska
 
 **Prompt:**
@@ -14839,7 +19861,10 @@ Solid Snake from Metal Gear Solid 4 is living in Alaska. Show him dog sledding w
 
 ![Solid Snake Finding Peace in Alaska](../gifs/421.gif)
 
+> 🔗 [Original Source](https://x.com/realXernalt)
+
 ---
+
 ### AI Discourse Meme Summary Prompt (Chinese \u0026 English)
 
 **Prompt:**
@@ -14849,7 +19874,10 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 ![AI Discourse Meme Summary Prompt (Chinese \u0026 English)](../gifs/423.gif)
 
+> 🔗 [Original Source](https://x.com/xiaohu)
+
 ---
+
 ### Futuristic Moon Base with Meson Lights (Part 1)
 
 **Prompt:**
@@ -14859,7 +19887,10 @@ Here is a long, highly detailed, ready-to-use prompt for generating a futuristic
 
 ![Futuristic Moon Base with Meson Lights (Part 1)](../gifs/394.gif)
 
+> 🔗 [Original Source](https://x.com/ColonyMB1)
+
 ---
+
 ### Sgt. Pepe Animated Sitcom Prompt
 
 **Prompt:**
@@ -14869,7 +19900,10 @@ a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sit
 
 ![Sgt. Pepe Animated Sitcom Prompt](../gifs/386.gif)
 
+> 🔗 [Original Source](https://x.com/SgtPepeWorld)
+
 ---
+
 ### Spider-Man Pregnancy in MCU
 
 **Prompt:**
@@ -14879,7 +19913,10 @@ In the Marvel Cinematic Universe, Spider-man becomes pregnant from his wife Elsa
 
 ![Spider-Man Pregnancy in MCU](../gifs/377.gif)
 
+> 🔗 [Original Source](https://x.com/PeptoState)
+
 ---
+
 ### Character Fight with Reference Images and Video Prompt
 
 **Prompt:**
@@ -14889,7 +19926,10 @@ Make the characters from Image 1 and Image 2 fight using the movements from the 
 
 ![Character Fight with Reference Images and Video Prompt](../gifs/383.gif)
 
+> 🔗 [Original Source](https://x.com/AngryTomtweets)
+
 ---
+
 ### Patrick Star vs Usain Bolt Race Scene
 
 **Prompt:**
@@ -14899,7 +19939,10 @@ Patrick Star is up against Usain Bolt in a track meet. it's very intense with an
 
 ![Patrick Star vs Usain Bolt Race Scene](../gifs/385.gif)
 
+> 🔗 [Original Source](https://x.com/Timmysofine)
+
 ---
+
 ### True Love Valentine's Garden Portrait
 
 **Prompt:**
@@ -14909,7 +19952,10 @@ A beautiful young adult redhead stands at the center of a surreal Valentine’s 
 
 ![True Love Valentine's Garden Portrait](../gifs/399.gif)
 
+> 🔗 [Original Source](https://x.com/NayaVerseee)
+
 ---
+
 ### Wes Anderson Style Movie Trailer
 
 **Prompt:**
@@ -14919,7 +19965,10 @@ Movie trailer: Wes Anderson symmetry, centered composition, pastel color palette
 
 ![Wes Anderson Style Movie Trailer](../gifs/375.gif)
 
+> 🔗 [Original Source](https://x.com/airina_xyz)
+
 ---
+
 ### Rooftop Martial Arts Fight at Sunset
 
 **Prompt:**
@@ -14929,7 +19978,10 @@ Two martial artists fighting on a rooftop at sunset, spinning kicks and rapid pu
 
 ![Rooftop Martial Arts Fight at Sunset](../gifs/376.gif)
 
+> 🔗 [Original Source](https://x.com/ZephyraLeigh)
+
 ---
+
 ### Seedance 2.0 Prompt: Time Travel Short Drama
 
 **Prompt:**
@@ -14939,7 +19991,10 @@ Two martial artists fighting on a rooftop at sunset, spinning kicks and rapid pu
 
 ![Seedance 2.0 Prompt: Time Travel Short Drama](../gifs/400.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Vertical Skyscraper Battle in Rain
 
 **Prompt:**
@@ -14949,7 +20004,10 @@ Two martial artists fighting on a rooftop at sunset, spinning kicks and rapid pu
 
 ![Vertical Skyscraper Battle in Rain](../gifs/389.gif)
 
+> 🔗 [Original Source](https://x.com/Mrpinecone888)
+
 ---
+
 ### Seedance 2.0 Prompt: Fashion Ad Scene
 
 **Prompt:**
@@ -14959,7 +20017,10 @@ Segment 1 (0-15 seconds) Fashion advertisement blockbuster quality, high-definit
 
 ![Seedance 2.0 Prompt: Fashion Ad Scene](../gifs/401.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Bollywood Dance Distracted Boyfriend Meme Prompt
 
 **Prompt:**
@@ -14969,7 +20030,10 @@ Sum up the Bollywood Dance in the meme \"Distracted Boyfriend\" - make sure it's
 
 ![Bollywood Dance Distracted Boyfriend Meme Prompt](../gifs/379.gif)
 
+> 🔗 [Original Source](https://x.com/13enZGN_temple)
+
 ---
+
 ### Nami Programming Bug Fix Scene
 
 **Prompt:**
@@ -14979,7 +20043,10 @@ Nami is programming on the Thousand Sunny using a Mac when a bug suddenly appear
 
 ![Nami Programming Bug Fix Scene](../gifs/384.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Hyperrealistic Physics and Inertia Prompt
 
 **Prompt:**
@@ -14989,7 +20056,10 @@ hyperrealistic physics, accurate weight distribution, natural inertia and moment
 
 ![Hyperrealistic Physics and Inertia Prompt](../gifs/402.gif)
 
+> 🔗 [Original Source](https://x.com/smallstones677)
+
 ---
+
 ### Motorcycle Chase Single Continuous Shot
 
 **Prompt:**
@@ -14999,7 +20069,10 @@ Single continuous shot, motorcycle chase through narrow streets of a Mediterrane
 
 ![Motorcycle Chase Single Continuous Shot](../gifs/374.gif)
 
+> 🔗 [Original Source](https://x.com/tomatechie)
+
 ---
+
 ### Post-Apocalyptic War Vehicle in Desert
 
 **Prompt:**
@@ -15009,17 +20082,23 @@ A heavily modified post-apocalyptic war vehicle – a massive V8 muscle car with
 
 ![Post-Apocalyptic War Vehicle in Desert](../gifs/390.gif)
 
+> 🔗 [Original Source](https://x.com/TechyTricksAI)
+
 ---
+
 ### Speeder Chase Across a Cliff City (Single Continuous Shot)
 
 **Prompt:**
 ```
-Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the 
+Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the
 ```
 
 ![Speeder Chase Across a Cliff City (Single Continuous Shot)](../gifs/393.gif)
 
+> 🔗 [Original Source](https://x.com/umesh_ai)
+
 ---
+
 ### Seedance 2.0 generation based on a short prompt
 
 **Prompt:**
@@ -15027,7 +20106,10 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 less running - more intense fighting animation - more characters entering the fight
 ```
 
+> 🔗 [Original Source](https://x.com/siimi96)
+
 ---
+
 ### Humorous AI Discourse Meme Prompt (Lighthearted)
 
 **Prompt:**
@@ -15037,7 +20119,10 @@ Summarize the AI discourse in a humorous meme – ensure it’s lighthearted and
 
 ![Humorous AI Discourse Meme Prompt (Lighthearted)](../gifs/382.gif)
 
+> 🔗 [Original Source](https://x.com/aniruddhadak)
+
 ---
+
 ### Cinematic Storyboard Grid Prompt for Seedance 2.0
 
 **Prompt:**
@@ -15047,7 +20132,10 @@ Summarize the AI discourse in a humorous meme – ensure it’s lighthearted and
 
 ![Cinematic Storyboard Grid Prompt for Seedance 2.0](../gifs/367.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Boy Saves Puppy from Speeding Car (Time Freeze)
 
 **Prompt:**
@@ -15057,7 +20145,10 @@ A boy and his puppy are playing by the street. The puppy suddenly runs into the 
 
 ![Boy Saves Puppy from Speeding Car (Time Freeze)](../gifs/392.gif)
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Parkour and Monster Fight Prompt
 
 **Prompt:**
@@ -15067,7 +20158,10 @@ This character does parkour through the city and fights fiercely against a villa
 
 ![Parkour and Monster Fight Prompt](../gifs/381.gif)
 
+> 🔗 [Original Source](https://x.com/Fox1251104)
+
 ---
+
 ### Medieval Knight with Smartphone
 
 **Prompt:**
@@ -15077,7 +20171,10 @@ Generate a video: A medieval knight in full armor looking at a modern smartphone
 
 ![Medieval Knight with Smartphone](../gifs/397.gif)
 
+> 🔗 [Original Source](https://x.com/tomatechie)
+
 ---
+
 ### Epic Moments of the Best Football Player
 
 **Prompt:**
@@ -15087,7 +20184,10 @@ Epic moments of the Best Player in the history of Football, make sure it reaches
 
 ![Epic Moments of the Best Football Player](../gifs/378.gif)
 
+> 🔗 [Original Source](https://x.com/arielipillo)
+
 ---
+
 ### Seedance 2.0 Dialogue Comparison Prompt
 
 **Prompt:**
@@ -15097,7 +20197,10 @@ A video of her celebrating reaching 400 followers on X. She is an AI content cre
 
 ![Seedance 2.0 Dialogue Comparison Prompt](../gifs/404.gif)
 
+> 🔗 [Original Source](https://x.com/PocketScreenAI)
+
 ---
+
 ### AI Generated Crossover: Lam Ching-ying vs. Gyutaro
 
 **Prompt:**
@@ -15107,7 +20210,10 @@ Lam Ching-ying 🆚 Gyutaro.⚡️ Classic Hong Kong cinema meets Demon Slayer. 
 
 ![AI Generated Crossover: Lam Ching-ying vs. Gyutaro](../gifs/403.gif)
 
+> 🔗 [Original Source](https://x.com/Preda2005)
+
 ---
+
 ### Cinematic Scene Prompt: Bullet Train Race
 
 **Prompt:**
@@ -15117,7 +20223,10 @@ A realistic cinematic scene opens on a quiet Japanese countryside at dawn. Mist 
 
 ![Cinematic Scene Prompt: Bullet Train Race](../gifs/351.gif)
 
+> 🔗 [Original Source](https://x.com/tinyfilmstudios)
+
 ---
+
 ### Cosmic Arena Tournament Announcement by Gintoki Sakata
 
 **Prompt:**
@@ -15127,7 +20236,10 @@ A massive cosmic arena forms in a blinding void, Tournament-of-Power scale. Crow
 
 ![Cosmic Arena Tournament Announcement by Gintoki Sakata](../gifs/344.gif)
 
+> 🔗 [Original Source](https://x.com/k1raa__)
+
 ---
+
 ### Hollywood Racing Movie Scene Prompt (Part 1)
 
 **Prompt:**
@@ -15137,7 +20249,10 @@ Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rai
 
 ![Hollywood Racing Movie Scene Prompt (Part 1)](../gifs/350.gif)
 
+> 🔗 [Original Source](https://x.com/AYOUBAYOUR9)
+
 ---
+
 ### Maki Zenin Fight Scene Prompt (Nimble Movements)
 
 **Prompt:**
@@ -15147,7 +20262,10 @@ showdown the woman taking out the all the swordsmen men with and powerful attack
 
 ![Maki Zenin Fight Scene Prompt (Nimble Movements)](../gifs/354.gif)
 
+> 🔗 [Original Source](https://x.com/karim_yourself)
+
 ---
+
 ### Maki Zenin Fight Scene Prompt (Top Down)
 
 **Prompt:**
@@ -15157,7 +20275,10 @@ top down shot of the the woman taking out the all the swordsmen men with and pow
 
 ![Maki Zenin Fight Scene Prompt (Top Down)](../gifs/352.gif)
 
+> 🔗 [Original Source](https://x.com/karim_yourself)
+
 ---
+
 ### Stranger Things Party Unleashing Superpowers
 
 **Prompt:**
@@ -15167,7 +20288,10 @@ Cinematic 1980s dark fantasy ensemble shot of the Stranger Things party in a rui
 
 ![Stranger Things Party Unleashing Superpowers](../gifs/347.gif)
 
+> 🔗 [Original Source](https://x.com/Zopia_AI)
+
 ---
+
 ### Seedance 2.0 Prompt: Basketball Block Scene
 
 **Prompt:**
@@ -15177,7 +20301,10 @@ Cinematic 1980s dark fantasy ensemble shot of the Stranger Things party in a rui
 
 ![Seedance 2.0 Prompt: Basketball Block Scene](../gifs/371.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Steampunk Robot Michelin Chef
 
 **Prompt:**
@@ -15187,7 +20314,10 @@ A steampunk robot becomes a Michelin three-star chef, using mechanical arms to p
 
 ![Steampunk Robot Michelin Chef](../gifs/370.gif)
 
+> 🔗 [Original Source](https://x.com/smallstones677)
+
 ---
+
 ### Action Scene Shot 1: Low-Angle Charger
 
 **Prompt:**
@@ -15197,7 +20327,10 @@ SHOT 1 (0-3s): Low-angle wide shot - matte black Charger rockets toward camera, 
 
 ![Action Scene Shot 1: Low-Angle Charger](../gifs/361.gif)
 
+> 🔗 [Original Source](https://x.com/RenderedReal)
+
 ---
+
 ### Hyper-Realistic Walter White Monologue
 
 **Prompt:**
@@ -15207,7 +20340,10 @@ a 15-second video clip showing a hyper-realistic recreation of Bryan Cranston as
 
 ![Hyper-Realistic Walter White Monologue](../gifs/342.gif)
 
+> 🔗 [Original Source](https://x.com/Simply__Digital)
+
 ---
+
 ### Lord of the Rings Alternate Ending (Eagles)
 
 **Prompt:**
@@ -15217,17 +20353,23 @@ Sam: “Why don’t we just take the Eagles to Mount Doom?” Frodo: “…That 
 
 ![Lord of the Rings Alternate Ending (Eagles)](../gifs/346.gif)
 
+> 🔗 [Original Source](https://x.com/talkturo)
+
 ---
+
 ### Zelda: Breath of the Wild - Temple Awakening Cinematic Prompt
 
 **Prompt:**
 ```
-16:9 widescreen, fantasy adventure game screen style merging cel-shading rendering and watercolor blending, predominantly blue-green cool tones with warm light accents, 15 seconds of ancient ruin exploration. 0-4 seconds: A pair of eyes slowly opens in the darkness, the sapphire blue pupils reflect blue light. The camera pulls back, a blonde boy slowly sits 
+16:9 widescreen, fantasy adventure game screen style merging cel-shading rendering and watercolor blending, predominantly blue-green cool tones with warm light accents, 15 seconds of ancient ruin exploration. 0-4 seconds: A pair of eyes slowly opens in the darkness, the sapphire blue pupils reflect blue light. The camera pulls back, a blonde boy slowly sits
 ```
 
 ![Zelda: Breath of the Wild - Temple Awakening Cinematic Prompt](../gifs/365.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Cinematic Fight Scene Prompt for Seedance 2.0
 
 **Prompt:**
@@ -15237,7 +20379,10 @@ The two men in the image exchange ultra-high-speed punches with afterimages, lik
 
 ![Cinematic Fight Scene Prompt for Seedance 2.0](../gifs/373.gif)
 
+> 🔗 [Original Source](https://x.com/akazomesirou)
+
 ---
+
 ### Anya Forger Close-up Monologue
 
 **Prompt:**
@@ -15247,7 +20392,10 @@ Use Seedance 2.0 to generate a video about Extreme close-up on the mouth of Anya
 
 ![Anya Forger Close-up Monologue](../gifs/360.gif)
 
+> 🔗 [Original Source](https://x.com/NACHOS2D_)
+
 ---
+
 ### Seedance 2.0 Cinematic JSON System Prompt
 
 **Prompt:**
@@ -15257,7 +20405,10 @@ Use Seedance 2.0 to generate a video about Extreme close-up on the mouth of Anya
 
 ![Seedance 2.0 Cinematic JSON System Prompt](../gifs/355.gif)
 
+> 🔗 [Original Source](https://x.com/CozyLinaGirl2)
+
 ---
+
 ### Goku Punching a Buy Button and Going Super Saiyan
 
 **Prompt:**
@@ -15267,7 +20418,10 @@ Use Seedance 2.0 to generate a video about Extreme close-up on the mouth of Anya
 
 ![Goku Punching a Buy Button and Going Super Saiyan](../gifs/343.gif)
 
+> 🔗 [Original Source](https://x.com/CainBd)
+
 ---
+
 ### Brad Pitt vs Tom Cruise Fight Scene Prompt
 
 **Prompt:**
@@ -15277,7 +20431,10 @@ generate a fight scene between Brad Pitt and Tom Cruise, with their dialogue rev
 
 ![Brad Pitt vs Tom Cruise Fight Scene Prompt](../gifs/358.gif)
 
+> 🔗 [Original Source](https://x.com/Ajay_Bagga)
+
 ---
+
 ### Seedance 2.0 Video Prompt for Northeast MC Style Live Stream
 
 **Prompt:**
@@ -15285,7 +20442,10 @@ generate a fight scene between Brad Pitt and Tom Cruise, with their dialogue rev
 [Style] Kuaishou/Douyin Northeast MC Style, Tuhai Slow Roll (DJ Slow Roll), high saturation neon lights, extremely strong sense of rhythm, Social Shake dance. [Duration] 15 seconds [Character] MC Brother: Wearing sunglasses, a large gold chain, a tight black T-shirt, a buzz cut, holding a dedicated live sound card microphone. [Scene] A colorful live broadcas
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic Train Sequence Prompt for Seedance 2.0
 
 **Prompt:**
@@ -15295,7 +20455,10 @@ Opening - Silent Dawn (Using Combined Camera Movement 3: Ascending Reveal) The s
 
 ![Cinematic Train Sequence Prompt for Seedance 2.0](../gifs/363.gif)
 
+> 🔗 [Original Source](https://x.com/MindfulReturn)
+
 ---
+
 ### Man Deciding to Wash Car Prompt
 
 **Prompt:**
@@ -15305,7 +20468,10 @@ the man is deciding \"I want to wash my car, and the car wash is 50m away. Shoul
 
 ![Man Deciding to Wash Car Prompt](../gifs/357.gif)
 
+> 🔗 [Original Source](https://x.com/VORTEX_Promos)
+
 ---
+
 ### Multi-Scene Cinematic Battle Prompt (Sun Wukong vs. Homelander)
 
 **Prompt:**
@@ -15315,7 +20481,10 @@ Music Accompanying Scene 1: \"Sun Wukong stands on the roof of the city, brandis
 
 ![Multi-Scene Cinematic Battle Prompt (Sun Wukong vs. Homelander)](../gifs/291.gif)
 
+> 🔗 [Original Source](https://x.com/chimiwaw)
+
 ---
+
 ### Sailor Moon Dialogue Scene
 
 **Prompt:**
@@ -15325,7 +20494,10 @@ Music Accompanying Scene 1: \"Sun Wukong stands on the roof of the city, brandis
 
 ![Sailor Moon Dialogue Scene](../gifs/270.gif)
 
+> 🔗 [Original Source](https://x.com/BigMotion_ai)
+
 ---
+
 ### John Woo Style Gunfight Scene Prompt
 
 **Prompt:**
@@ -15333,17 +20505,23 @@ Music Accompanying Scene 1: \"Sun Wukong stands on the roof of the city, brandis
 {This is a scene of a John Woo-style gunfight action sequence in a street setting. Based on scene image 3, generate a smooth gunfight sequence in a narrow space featuring a man in a white suit \"Image 1\" and a man in a floral shirt \"Image 2\" in a realistic style. The sequence needs to utilize storyboarding and different perspective switches to give the entire
 ```
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Wuxia Swordsman Duel Prompt
 
 **Prompt:**
 ```
-A Wuxia-style audiovisual blockbuster. A white-clad swordsman and a straw-caped blademaster face off in a bamboo forest. The camera slowly pushes in between them, shifting focus between raindrops and sword hilts. The atmosphere is extremely oppressive; only the sound of rain can be heard. Suddenly, a crack of thunder flashes, and both charge simultaneously. 
+A Wuxia-style audiovisual blockbuster. A white-clad swordsman and a straw-caped blademaster face off in a bamboo forest. The camera slowly pushes in between them, shifting focus between raindrops and sword hilts. The atmosphere is extremely oppressive; only the sound of rain can be heard. Suddenly, a crack of thunder flashes, and both charge simultaneously.
 ```
 
 ![Wuxia Swordsman Duel Prompt](../gifs/258.gif)
 
+> 🔗 [Original Source](https://x.com/hckinz)
+
 ---
+
 ### Mad Max Exodus Story Prompt
 
 **Prompt:**
@@ -15353,7 +20531,10 @@ A multi shot high action epic video about exodus story in the style of mad max
 
 ![Mad Max Exodus Story Prompt](../gifs/260.gif)
 
+> 🔗 [Original Source](https://x.com/DanaGreenAI)
+
 ---
+
 ### Spy Movie Fight Scene Prompt
 
 **Prompt:**
@@ -15363,7 +20544,10 @@ Man in green suit with logo fighting with man in black, in style of spy movies, 
 
 ![Spy Movie Fight Scene Prompt](../gifs/293.gif)
 
+> 🔗 [Original Source](https://x.com/Restlessperson1)
+
 ---
+
 ### Text-to-Video Prompt: Ancient Costume Execution Ground Revenge Scene
 
 **Prompt:**
@@ -15373,7 +20557,10 @@ Ancient costume execution ground/Bloody tear revenge Shot 11 Close-up • Snowfl
 
 ![Text-to-Video Prompt: Ancient Costume Execution Ground Revenge Scene](../gifs/282.gif)
 
+> 🔗 [Original Source](https://x.com/kenw_2)
+
 ---
+
 ### Kamala vs Trump Fight with Tom and John Wick Prompt
 
 **Prompt:**
@@ -15383,7 +20570,10 @@ Kamala vs Trump fight with same Tom and John Whick Prompt.
 
 ![Kamala vs Trump Fight with Tom and John Wick Prompt](../gifs/247.gif)
 
+> 🔗 [Original Source](https://x.com/xcitizenjournal)
+
 ---
+
 ### 360-degree Panoramic Selfie in a Dessert Shop
 
 **Prompt:**
@@ -15393,7 +20583,10 @@ Kamala vs Trump fight with same Tom and John Whick Prompt.
 
 ![360-degree Panoramic Selfie in a Dessert Shop](../gifs/246.gif)
 
+> 🔗 [Original Source](https://x.com/NACHOS2D_)
+
 ---
+
 ### Grok Imagine Image-to-Video Prompt
 
 **Prompt:**
@@ -15403,7 +20596,10 @@ Women brutal fight vs elon musk with beautiful kick boxing style, and kick fatal
 
 ![Grok Imagine Image-to-Video Prompt](../gifs/262.gif)
 
+> 🔗 [Original Source](https://x.com/apilpirman)
+
 ---
+
 ### Live Action DBZ Battle Prompt
 
 **Prompt:**
@@ -15413,7 +20609,10 @@ live action Saiyan battle between Goku \u0026 Vegeta, super saiyan blue
 
 ![Live Action DBZ Battle Prompt](../gifs/259.gif)
 
+> 🔗 [Original Source](https://x.com/markgadala)
+
 ---
+
 ### 1980s Vampire Interview Prompt
 
 **Prompt:**
@@ -15423,7 +20622,10 @@ live action Saiyan battle between Goku \u0026 Vegeta, super saiyan blue
 
 ![1980s Vampire Interview Prompt](../gifs/254.gif)
 
+> 🔗 [Original Source](https://x.com/ImperfectEngel)
+
 ---
+
 ### Fast-Paced Action Scene Prompt
 
 **Prompt:**
@@ -15433,15 +20635,21 @@ A fast-paced fight scene: John Wick \u0026. James Bond (007) \u0026 another guy 
 
 ![Fast-Paced Action Scene Prompt](../gifs/295.gif)
 
+> 🔗 [Original Source](https://x.com/chraft_ai)
+
 ---
+
 ### Dark Fantasy Female Image Video Prompt
 
 **Prompt:**
 ```
-An ethereal dark fantasy female figure, with long flowing hair, wearing a complex metal crown with sharp, antler-like points, eyes closed, serene expression, and pale skin softly glowing. Her forearms and torso transform into smooth black liquid metal with reflective chrome details, sharp, claw-like fingers extending from the darkness. Dramatic backlighting 
+An ethereal dark fantasy female figure, with long flowing hair, wearing a complex metal crown with sharp, antler-like points, eyes closed, serene expression, and pale skin softly glowing. Her forearms and torso transform into smooth black liquid metal with reflective chrome details, sharp, claw-like fingers extending from the darkness. Dramatic backlighting
 ```
 
+> 🔗 [Original Source](https://x.com/MRongxin7589)
+
 ---
+
 ### Brad Pitt and Tom Cruise Fight Scene
 
 **Prompt:**
@@ -15451,7 +20659,10 @@ generate a fight scene between Brad Pitt and Tom Cruise, with their dialogue dur
 
 ![Brad Pitt and Tom Cruise Fight Scene](../gifs/249.gif)
 
+> 🔗 [Original Source](https://x.com/Eng_china5)
+
 ---
+
 ### Seedance 2.0 Anthropomorphic Romance Story
 
 **Prompt:**
@@ -15461,7 +20672,10 @@ Use cute pet images to unfold a story about a overbearing president falling in l
 
 ![Seedance 2.0 Anthropomorphic Romance Story](../gifs/292.gif)
 
+> 🔗 [Original Source](https://x.com/Fox1251104)
+
 ---
+
 ### Multi-shot Creature Race Scene
 
 **Prompt:**
@@ -15471,7 +20685,10 @@ a Creature is driving extremely fast through the futuristic city, 4 scene cut ch
 
 ![Multi-shot Creature Race Scene](../gifs/250.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Chinese Success Seminar (Chicken Soup) Video Prompt
 
 **Prompt:**
@@ -15481,7 +20698,10 @@ a Creature is driving extremely fast through the futuristic city, 4 scene cut ch
 
 ![Chinese Success Seminar (Chicken Soup) Video Prompt](../gifs/285.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Futuristic Car Commercial Prompt (Y - Drive the Future)
 
 **Prompt:**
@@ -15491,7 +20711,10 @@ Brand Y · The Future is Here (15 seconds · Hollywood Blockbuster Commercial Ve
 
 ![Futuristic Car Commercial Prompt (Y - Drive the Future)](../gifs/278.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### The Great Era (大时代) 90s HK TV Drama Style Video Prompt
 
 **Prompt:**
@@ -15499,7 +20722,10 @@ Brand Y · The Future is Here (15 seconds · Hollywood Blockbuster Commercial Ve
 [Style] 90s HK TV Drama Style, Vintage Film Grain, High Contrast Warm Yellowish Tone, Wide-angle lens exaggerated perspective, extremely hysterical emotion, chaotic, noisy, desperate. [Scene] 1990s Hong Kong Stock Exchange hall, floor covered in waste paper, electronic screen is a depressing green (HK stocks drop is green/or use red to indicate crisis, depen
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Three Short Drama Prompts (Modern Romance/Conflict)
 
 **Prompt:**
@@ -15509,7 +20735,10 @@ Theme: Classic Confrontation between Young Attractive Male and Female · Modern 
 
 ![Three Short Drama Prompts (Modern Romance/Conflict)](../gifs/281.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### High-Intensity Action Thriller Scene in a Cockpit
 
 **Prompt:**
@@ -15519,7 +20748,10 @@ High-intensity action thriller scene, hand-held shaky camera, cinematic motion b
 
 ![High-Intensity Action Thriller Scene in a Cockpit](../gifs/267.gif)
 
+> 🔗 [Original Source](https://x.com/kemalcse)
+
 ---
+
 ### The Leviathan's Throat: Underwater Megastructure Descent
 
 **Prompt:**
@@ -15529,7 +20761,10 @@ A flooded subterranean megastructure, ancient stone corridors half-submerged in 
 
 ![The Leviathan's Throat: Underwater Megastructure Descent](../gifs/248.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Man and Elephant at Zoo (Old Camera Style)
 
 **Prompt:**
@@ -15539,7 +20774,10 @@ generate a video of a man in front of an elephant at the zoo, blurry old camera 
 
 ![Man and Elephant at Zoo (Old Camera Style)](../gifs/273.gif)
 
+> 🔗 [Original Source](https://x.com/rizzy_sol)
+
 ---
+
 ### Spider-Man vs. Octopus Man Fight Scene Prompt
 
 **Prompt:**
@@ -15549,7 +20787,10 @@ Please create an exciting combat scene between Spider-Man and Octopus Man using 
 
 ![Spider-Man vs. Octopus Man Fight Scene Prompt](../gifs/290.gif)
 
+> 🔗 [Original Source](https://x.com/nasan_0422)
+
 ---
+
 ### Three Styles of 10-Second MV Prompts
 
 **Prompt:**
@@ -15559,7 +20800,10 @@ Version 1: K-pop Girl Group · Quick Cut Beat Sync (High Energy Stage) Seedance 
 
 ![Three Styles of 10-Second MV Prompts](../gifs/280.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Naruto and Luffy Fighting Scene Prompt
 
 **Prompt:**
@@ -15569,7 +20813,10 @@ Version 1: K-pop Girl Group · Quick Cut Beat Sync (High Energy Stage) Seedance 
 
 ![Naruto and Luffy Fighting Scene Prompt](../gifs/253.gif)
 
+> 🔗 [Original Source](https://x.com/YounchanHwang)
+
 ---
+
 ### Michael Jackson vs Hitler Face-off
 
 **Prompt:**
@@ -15579,7 +20826,10 @@ Michael Jackson vs Hitler in an epic face-off.
 
 ![Michael Jackson vs Hitler Face-off](../gifs/264.gif)
 
+> 🔗 [Original Source](https://x.com/impaulxyz)
+
 ---
+
 ### Luxury Car Transforming into Optimus Prime Fighting Godzilla in Tokyo
 
 **Prompt:**
@@ -15589,7 +20839,10 @@ a luxury car transforming into Optimus Prime and battling Godzilla amidst explos
 
 ![Luxury Car Transforming into Optimus Prime Fighting Godzilla in Tokyo](../gifs/210.gif)
 
+> 🔗 [Original Source](https://x.com/HopefulofNFTs)
+
 ---
+
 ### Madoka Magica Bullshit Prompt
 
 **Prompt:**
@@ -15599,7 +20852,10 @@ Just put some Madoka Magica bullshit on screen, the trilogy already perfect anyw
 
 ![Madoka Magica Bullshit Prompt](../gifs/256.gif)
 
+> 🔗 [Original Source](https://x.com/StayGoys)
+
 ---
+
 ### Flowers Creating a Final Shape Prompt (Seedance Pro 1.0)
 
 **Prompt:**
@@ -15609,7 +20865,10 @@ as the wind moves the plants slowly, the flowers start to move together and crea
 
 ![Flowers Creating a Final Shape Prompt (Seedance Pro 1.0)](../gifs/294.gif)
 
+> 🔗 [Original Source](https://x.com/gcwalther_x)
+
 ---
+
 ### Vegeta Super Saiyan 100 vs Base Goku Prompt
 
 **Prompt:**
@@ -15619,7 +20878,10 @@ as the wind moves the plants slowly, the flowers start to move together and crea
 
 ![Vegeta Super Saiyan 100 vs Base Goku Prompt](../gifs/257.gif)
 
+> 🔗 [Original Source](https://x.com/minilozio)
+
 ---
+
 ### Dog vs. Prime Ronaldo in Champions League Final
 
 **Prompt:**
@@ -15629,7 +20891,10 @@ Your dog. vs Prime Ronaldo. Champions League final.
 
 ![Dog vs. Prime Ronaldo in Champions League Final](../gifs/276.gif)
 
+> 🔗 [Original Source](https://x.com/Sohrabkhalid01)
+
 ---
+
 ### Demon Slayer Live-Action Blockbuster Video Prompt
 
 **Prompt:**
@@ -15639,7 +20904,10 @@ Your dog. vs Prime Ronaldo. Champions League final.
 
 ![Demon Slayer Live-Action Blockbuster Video Prompt](../gifs/287.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Horror Short Film Prompt: The Glitch in the Mirror
 
 **Prompt:**
@@ -15649,7 +20917,10 @@ Your dog. vs Prime Ronaldo. Champions League final.
 
 ![Horror Short Film Prompt: The Glitch in the Mirror](../gifs/194.gif)
 
+> 🔗 [Original Source](https://x.com/msjiaozhu)
+
 ---
+
 ### Anime Warrior vs. Octopus Alien
 
 **Prompt:**
@@ -15659,7 +20930,10 @@ Your dog. vs Prime Ronaldo. Champions League final.
 
 ![Anime Warrior vs. Octopus Alien](../gifs/268.gif)
 
+> 🔗 [Original Source](https://x.com/Boonsu28)
+
 ---
+
 ### Action Sequence of Fighter Pilots in Airborne Combat
 
 **Prompt:**
@@ -15669,7 +20943,10 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 
 ![Action Sequence of Fighter Pilots in Airborne Combat](../gifs/170.gif)
 
+> 🔗 [Original Source](https://x.com/XCaliber)
+
 ---
+
 ### Woman confronts man in shadows
 
 **Prompt:**
@@ -15679,7 +20956,10 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 
 ![Woman confronts man in shadows](../gifs/208.gif)
 
+> 🔗 [Original Source](https://x.com/gavinpurcell)
+
 ---
+
 ### Doraemon and Spiderman Fighting
 
 **Prompt:**
@@ -15689,7 +20969,10 @@ Doramon and spiderman fighting very high quality and intense
 
 ![Doraemon and Spiderman Fighting](../gifs/309.gif)
 
+> 🔗 [Original Source](https://x.com/otung_emmanuel)
+
 ---
+
 ### Handheld Running Shot with Gold Coins
 
 **Prompt:**
@@ -15699,7 +20982,10 @@ Handheld running shot with an overflowing bag of gold coins, jumping into water,
 
 ![Handheld Running Shot with Gold Coins](../gifs/161.gif)
 
+> 🔗 [Original Source](https://x.com/CoffeeVectors)
+
 ---
+
 ### Boxers Sparring Cinematic Prompt
 
 **Prompt:**
@@ -15709,17 +20995,23 @@ Handheld shot circling two boxers practice sparring in a gritty gym, purposefull
 
 ![Boxers Sparring Cinematic Prompt](../gifs/140.gif)
 
+> 🔗 [Original Source](https://x.com/AIVideoDotCom)
+
 ---
+
 ### Political Satire Short Film: The 'Nothing' Hero's Ride
 
 **Prompt:**
 ```
-Scene 1: Galloping Horse + Enthusiastic Crowd Approaching (0:00-0:08, 8 seconds) • Location: Main winding road in a Vancouver mansion district (wide asphalt road, large detached mansions on both sides, thin snow covering evergreen pine trees) • Subject: A rider in a dark suit galloping at full speed, white horse's hooves airborne, mane flying • Environment: 
+Scene 1: Galloping Horse + Enthusiastic Crowd Approaching (0:00-0:08, 8 seconds) • Location: Main winding road in a Vancouver mansion district (wide asphalt road, large detached mansions on both sides, thin snow covering evergreen pine trees) • Subject: A rider in a dark suit galloping at full speed, white horse's hooves airborne, mane flying • Environment:
 ```
 
 ![Political Satire Short Film: The 'Nothing' Hero's Ride](../gifs/186.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Surreal Ronin Action Scene
 
 **Prompt:**
@@ -15729,7 +21021,10 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 
 ![Surreal Ronin Action Scene](../gifs/133.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Arcane Style Monster Chase
 
 **Prompt:**
@@ -15739,7 +21034,10 @@ generate a video about a running scene, behind is a giant monster big as a build
 
 ![Arcane Style Monster Chase](../gifs/142.gif)
 
+> 🔗 [Original Source](https://x.com/dipperdao)
+
 ---
+
 ### Chaos erupts in a Maasai village
 
 **Prompt:**
@@ -15749,7 +21047,10 @@ A colossal armored baboon charges through a burning Maasai village, it picks up 
 
 ![Chaos erupts in a Maasai village](../gifs/160.gif)
 
+> 🔗 [Original Source](https://x.com/MrDavids1)
+
 ---
+
 ### Will Smith Fighting a Spaghetti Monster in an 80s Action Movie Style
 
 **Prompt:**
@@ -15759,7 +21060,10 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 
 ![Will Smith Fighting a Spaghetti Monster in an 80s Action Movie Style](../gifs/178.gif)
 
+> 🔗 [Original Source](https://x.com/sudoSoftAI)
+
 ---
+
 ### Trump vs Michael Jackson AI Dance Battle
 
 **Prompt:**
@@ -15769,7 +21073,10 @@ TRUMP VS MICHAEL JACKSON: THE MOST EPIC AI DANCE BATTLE
 
 ![Trump vs Michael Jackson AI Dance Battle](../gifs/263.gif)
 
+> 🔗 [Original Source](https://x.com/ImperfectEngel)
+
 ---
+
 ### WW2 Motorcycle Escape Sequence
 
 **Prompt:**
@@ -15779,7 +21086,10 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 ![WW2 Motorcycle Escape Sequence](../gifs/126.gif)
 
+> 🔗 [Original Source](https://x.com/pewdenai)
+
 ---
+
 ### Man on a seaboat attacked by a sea monster
 
 **Prompt:**
@@ -15789,7 +21099,10 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 ![Man on a seaboat attacked by a sea monster](../gifs/303.gif)
 
+> 🔗 [Original Source](https://x.com/creativesinner2)
+
 ---
+
 ### Multi-Character Cabin Seating Prompt
 
 **Prompt:**
@@ -15799,7 +21112,10 @@ The numbers in【@Image 1】represents row numbers. The numbers are for referenc
 
 ![Multi-Character Cabin Seating Prompt](../gifs/138.gif)
 
+> 🔗 [Original Source](https://x.com/PocketScreenAI)
+
 ---
+
 ### Thanos Apologizes to Spider-Man Prompt
 
 **Prompt:**
@@ -15809,7 +21125,10 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 
 ![Thanos Apologizes to Spider-Man Prompt](../gifs/207.gif)
 
+> 🔗 [Original Source](https://x.com/xai_42)
+
 ---
+
 ### Lumpen Hobo Woman with Chains Prompt
 
 **Prompt:**
@@ -15819,7 +21138,10 @@ Lumpen, Hobo, female version, battered old cat, with chains to draw attention wi
 
 ![Lumpen Hobo Woman with Chains Prompt](../gifs/205.gif)
 
+> 🔗 [Original Source](https://x.com/Lo_Mauro)
+
 ---
+
 ### Lego Assembly Time-Lapse Animation
 
 **Prompt:**
@@ -15829,7 +21151,10 @@ A boy seriously assembling Lego bricks in his room, the scene adopts a 3D animat
 
 ![Lego Assembly Time-Lapse Animation](../gifs/329.gif)
 
+> 🔗 [Original Source](https://x.com/siveill)
+
 ---
+
 ### One Piece Inspired Video Prompt: Loki Saves Hostages
 
 **Prompt:**
@@ -15839,7 +21164,10 @@ The hostage children cannot stop walking and steadily approach the edge of the h
 
 ![One Piece Inspired Video Prompt: Loki Saves Hostages](../gifs/199.gif)
 
+> 🔗 [Original Source](https://x.com/cheryblackcloud)
+
 ---
+
 ### Cozy Nighttime Pet Secret Short Film
 
 **Prompt:**
@@ -15849,7 +21177,10 @@ The hostage children cannot stop walking and steadily approach the edge of the h
 
 ![Cozy Nighttime Pet Secret Short Film](../gifs/330.gif)
 
+> 🔗 [Original Source](https://x.com/Michell81147285)
+
 ---
+
 ### High-Energy Commercial Script
 
 **Prompt:**
@@ -15859,7 +21190,10 @@ use Seedance 2.0, i want a phone commercial with high-energy, cinematic, macro c
 
 ![High-Energy Commercial Script](../gifs/311.gif)
 
+> 🔗 [Original Source](https://x.com/realkaiwenli)
+
 ---
+
 ### Kraken attacks a pirate ship
 
 **Prompt:**
@@ -15867,7 +21201,10 @@ use Seedance 2.0, i want a phone commercial with high-energy, cinematic, macro c
 A massive kraken attacks a pirate ship, the captain slices it with his sword. hyper realistic cinematic movie scene
 ```
 
+> 🔗 [Original Source](https://x.com/markgadala)
+
 ---
+
 ### Luffy and Goku Fight on the Sunny
 
 **Prompt:**
@@ -15877,7 +21214,10 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ![Luffy and Goku Fight on the Sunny](../gifs/163.gif)
 
+> 🔗 [Original Source](https://x.com/markgadala)
+
 ---
+
 ### Kling 3.0 Tokyo Street Racing Multi-Shot Prompt
 
 **Prompt:**
@@ -15887,7 +21227,10 @@ SHOT1 Close-up inside the cockpit, a male driver in his 30s grips the suede stee
 
 ![Kling 3.0 Tokyo Street Racing Multi-Shot Prompt](../gifs/265.gif)
 
+> 🔗 [Original Source](https://x.com/CharaspowerAI)
+
 ---
+
 ### Cat Spinning and Singing Gorillaz
 
 **Prompt:**
@@ -15897,7 +21240,10 @@ SHOT1 Close-up inside the cockpit, a male driver in his 30s grips the suede stee
 
 ![Cat Spinning and Singing Gorillaz](../gifs/164.gif)
 
+> 🔗 [Original Source](https://x.com/spinningsensei)
+
 ---
+
 ### Bitcoin Destroys the Federal Reserve Anime
 
 **Prompt:**
@@ -15907,7 +21253,10 @@ With both hands raised, floating ₿ panels converge into one massive glowing bi
 
 ![Bitcoin Destroys the Federal Reserve Anime](../gifs/148.gif)
 
+> 🔗 [Original Source](https://x.com/mirthtime)
+
 ---
+
 ### Pirate tavern scene prompt
 
 **Prompt:**
@@ -15917,7 +21266,10 @@ Pirate tavern. Flamethrower on the table. Ale in hand.
 
 ![Pirate tavern scene prompt](../gifs/306.gif)
 
+> 🔗 [Original Source](https://x.com/kaynat_kakar)
+
 ---
+
 ### Xianxia Animated Film Battle Script: Han Li vs. Wang Lin
 
 **Prompt:**
@@ -15927,7 +21279,10 @@ Chinese Xianxia animated film style, ultra-fine 3D CG rendering, 15-second high-
 
 ![Xianxia Animated Film Battle Script: Han Li vs. Wang Lin](../gifs/193.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### High Octane Car Chase Prompt
 
 **Prompt:**
@@ -15935,7 +21290,10 @@ Chinese Xianxia animated film style, ultra-fine 3D CG rendering, 15-second high-
 Car chase, drifting, high octane, F1, collision, explosion.
 ```
 
+> 🔗 [Original Source](https://x.com/chatcutapp)
+
 ---
+
 ### New Amsterdam Simulator
 
 **Prompt:**
@@ -15943,7 +21301,10 @@ Car chase, drifting, high octane, F1, collision, explosion.
 New Amsterdam (current day New York City) Simulator
 ```
 
+> 🔗 [Original Source](https://x.com/levelsio)
+
 ---
+
 ### Sci-Fi Transformation Scene: Ancient Goddess to Cyberpunk Warrior
 
 **Prompt:**
@@ -15953,17 +21314,23 @@ New Amsterdam (current day New York City) Simulator
 
 ![Sci-Fi Transformation Scene: Ancient Goddess to Cyberpunk Warrior](../gifs/182.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Fantasy Romance Short Drama Script: 'Good Luck Descends'
 
 **Prompt:**
 ```
-Prompt Type: Short Drama Storyboard/Video Generation Aspect Ratio: 9:16 (Vertical Screen) Visual Style: Urban Fantasy, transition from reality to virtual, high definition, cinematic lighting, particle effects, healing aesthetic. 【Character Settings】 Male Lead: Wearing a dark blue suit, originally anxious expression, average height, representing the \"worker\" 
+Prompt Type: Short Drama Storyboard/Video Generation Aspect Ratio: 9:16 (Vertical Screen) Visual Style: Urban Fantasy, transition from reality to virtual, high definition, cinematic lighting, particle effects, healing aesthetic. 【Character Settings】 Male Lead: Wearing a dark blue suit, originally anxious expression, average height, representing the \"worker\"
 ```
 
 ![Fantasy Romance Short Drama Script: 'Good Luck Descends'](../gifs/188.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Classic Animation Adventure Scene
 
 **Prompt:**
@@ -15973,7 +21340,10 @@ Prompt Type: Short Drama Storyboard/Video Generation Aspect Ratio: 9:16 (Vertica
 
 ![Classic Animation Adventure Scene](../gifs/141.gif)
 
+> 🔗 [Original Source](https://x.com/FragZero)
+
 ---
+
 ### Seedance 2.0 Test: Butterfly Fairy Story
 
 **Prompt:**
@@ -15983,7 +21353,10 @@ A story of a divine artifact, a butterfly flies out of the frame, transforms int
 
 ![Seedance 2.0 Test: Butterfly Fairy Story](../gifs/112.gif)
 
+> 🔗 [Original Source](https://x.com/xiaoerzhan)
+
 ---
+
 ### Cadillac Formula One Car 2026
 
 **Prompt:**
@@ -15993,7 +21366,10 @@ Image to Video of the Cadillac Formula One car 2026.
 
 ![Cadillac Formula One Car 2026](../gifs/310.gif)
 
+> 🔗 [Original Source](https://x.com/ItsMeHannes)
+
 ---
+
 ### Godzilla Attacking Jakarta Prompt
 
 **Prompt:**
@@ -16003,7 +21379,10 @@ generate a video about a godzilla attacking monas in jakarta while indonesian mi
 
 ![Godzilla Attacking Jakarta Prompt](../gifs/90.gif)
 
+> 🔗 [Original Source](https://x.com/neveryourbaee)
+
 ---
+
 ### Anime Video: Funny Chinese Officer Sequence
 
 **Prompt:**
@@ -16013,17 +21392,23 @@ Use Seedance 2.0 to generate an anime video: funny sequence with Chinese Officer
 
 ![Anime Video: Funny Chinese Officer Sequence](../gifs/146.gif)
 
+> 🔗 [Original Source](https://x.com/airina_xyz)
+
 ---
+
 ### Bypassing Copyright: Nezha vs. Minions in Chinatown
 
 **Prompt:**
 ```
-A Chinese mythological boy with two bun hairstyles, a red mark on his forehead, and a red ribbon tied around him, walks into Chinatown filled with red lanterns. He is looking for a group of single- or double-eyed yellow capsule-shaped small creatures wearing blue overalls. Subsequently, the boy waves his red ribbon and engages in a comedic chase battle with 
+A Chinese mythological boy with two bun hairstyles, a red mark on his forehead, and a red ribbon tied around him, walks into Chinatown filled with red lanterns. He is looking for a group of single- or double-eyed yellow capsule-shaped small creatures wearing blue overalls. Subsequently, the boy waves his red ribbon and engages in a comedic chase battle with
 ```
 
 ![Bypassing Copyright: Nezha vs. Minions in Chinatown](../gifs/318.gif)
 
+> 🔗 [Original Source](https://x.com/VoiceOfDow)
+
 ---
+
 ### John Wick Style Action Scene Prompt
 
 **Prompt:**
@@ -16033,7 +21418,10 @@ A Chinese mythological boy with two bun hairstyles, a red mark on his forehead, 
 
 ![John Wick Style Action Scene Prompt](../gifs/319.gif)
 
+> 🔗 [Original Source](https://x.com/xiaolongli7697)
+
 ---
+
 ### Equestrian Charge in Vancouver Luxury District
 
 **Prompt:**
@@ -16043,7 +21431,10 @@ Scene 1: Galloping out from the mansion gate (0:00-0:05, 5 seconds) • Location
 
 ![Equestrian Charge in Vancouver Luxury District](../gifs/185.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Harry Potter vs Voldemort Fight Scene
 
 **Prompt:**
@@ -16053,7 +21444,10 @@ Generate an action-packed fight scene, between Harry Potter and Voldemort.
 
 ![Harry Potter vs Voldemort Fight Scene](../gifs/153.gif)
 
+> 🔗 [Original Source](https://x.com/chatcutapp)
+
 ---
+
 ### Cinematic Aerial Shot of Wingsuit Pilot in Alpine Valley
 
 **Prompt:**
@@ -16063,7 +21457,10 @@ A cinematic video sequence opening with a serene wide aerial shot of a pristine 
 
 ![Cinematic Aerial Shot of Wingsuit Pilot in Alpine Valley](../gifs/132.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Anime Girl Stage Dance with Motion Capture
 
 **Prompt:**
@@ -16073,7 +21470,10 @@ A cinematic video sequence opening with a serene wide aerial shot of a pristine 
 
 ![Anime Girl Stage Dance with Motion Capture](../gifs/406.gif)
 
+> 🔗 [Original Source](https://x.com/Jackywine)
+
 ---
+
 ### Luffy Coding on Thousand Sunny
 
 **Prompt:**
@@ -16083,7 +21483,10 @@ luffy coding on a macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 ![Luffy Coding on Thousand Sunny](../gifs/149.gif)
 
+> 🔗 [Original Source](https://x.com/birdabo)
+
 ---
+
 ### SWAT Hostage Negotiation Scene
 
 **Prompt:**
@@ -16093,17 +21496,23 @@ luffy coding on a macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 ![SWAT Hostage Negotiation Scene](../gifs/158.gif)
 
+> 🔗 [Original Source](https://x.com/shikoba_86)
+
 ---
+
 ### Sun Wukong vs. Son Goku: Cross-Style Dimensional Battle
 
 **Prompt:**
 ```
-A 15-second cross-style duel sequence, with a dramatic contrast between the cel-shaded style of Japanese anime on the left and the realistic style of Chinese mythology on the right. 0-3 seconds: Extreme long shot, a dimensional rift descends from the center of the frame, splitting the scene in two—on the left is a Dragon Ball-style red rocky wasteland, with 
+A 15-second cross-style duel sequence, with a dramatic contrast between the cel-shaded style of Japanese anime on the left and the realistic style of Chinese mythology on the right. 0-3 seconds: Extreme long shot, a dimensional rift descends from the center of the frame, splitting the scene in two—on the left is a Dragon Ball-style red rocky wasteland, with
 ```
 
 ![Sun Wukong vs. Son Goku: Cross-Style Dimensional Battle](../gifs/190.gif)
 
+> 🔗 [Original Source](https://x.com/songguoxiansen)
+
 ---
+
 ### Rugby Match: Humans vs. Gorillas
 
 **Prompt:**
@@ -16113,7 +21522,10 @@ Hyper-realistic live-action sports broadcast footage of a rugby match between hu
 
 ![Rugby Match: Humans vs. Gorillas](../gifs/145.gif)
 
+> 🔗 [Original Source](https://x.com/Wujek_AI)
+
 ---
+
 ### Dragon Ball Super Moro Arc Anime
 
 **Prompt:**
@@ -16123,7 +21535,10 @@ Dragon Ball Super manga → animated Moro arc magic.
 
 ![Dragon Ball Super Moro Arc Anime](../gifs/180.gif)
 
+> 🔗 [Original Source](https://x.com/DataInsightsIN)
+
 ---
+
 ### Annoyed Woman in Hotel Room Scene
 
 **Prompt:**
@@ -16133,7 +21548,10 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 
 ![Annoyed Woman in Hotel Room Scene](../gifs/147.gif)
 
+> 🔗 [Original Source](https://x.com/maxescu)
+
 ---
+
 ### Cinematic Wuxia Duel in a Bamboo Forest
 
 **Prompt:**
@@ -16141,7 +21559,10 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 【Style】Classic Wuxia Film - \"Ink Trace in the Bamboo Forest,\" High-speed Cinematography, combination of live-action and CG, strong visual impact, fast pace, using \"cool tones\" to enhance the profoundness of the bamboo forest. 【Duration】15 seconds 【Characters】A swordswoman in a fiery red dress, movements as light as a swallow, sharp sword energy. A refined sc
 ```
 
+> 🔗 [Original Source](https://x.com/sunny6_c)
+
 ---
+
 ### Brad Pitt and Tom Cruise Fighting a Robot
 
 **Prompt:**
@@ -16151,7 +21572,10 @@ Bratt Pitt and Tom Cruise put their differences aside to fight their common enem
 
 ![Brad Pitt and Tom Cruise Fighting a Robot](../gifs/173.gif)
 
+> 🔗 [Original Source](https://x.com/RuairiRobinson)
+
 ---
+
 ### High-End Cinematic Food Reel
 
 **Prompt:**
@@ -16161,7 +21585,10 @@ Bratt Pitt and Tom Cruise put their differences aside to fight their common enem
 
 ![High-End Cinematic Food Reel](../gifs/143.gif)
 
+> 🔗 [Original Source](https://x.com/Saundersnp)
+
 ---
+
 ### Dongbei Sweet Girl Livestream Video Prompt
 
 **Prompt:**
@@ -16171,7 +21598,10 @@ Bratt Pitt and Tom Cruise put their differences aside to fight their common enem
 
 ![Dongbei Sweet Girl Livestream Video Prompt](../gifs/196.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Otter Mech Pilot Anime Scene
 
 **Prompt:**
@@ -16181,7 +21611,10 @@ An anime where an otter goes into a large mech, with lots of quick shots of mech
 
 ![Otter Mech Pilot Anime Scene](../gifs/125.gif)
 
+> 🔗 [Original Source](https://x.com/SRKDAN)
+
 ---
+
 ### Dragon Ball show for kids in the style of Paw Patrol
 
 **Prompt:**
@@ -16191,7 +21624,10 @@ Dragon Ball show for kids in the style of Paw Patrol
 
 ![Dragon Ball show for kids in the style of Paw Patrol](../gifs/129.gif)
 
+> 🔗 [Original Source](https://x.com/LostJudgmentRGG)
+
 ---
+
 ### Harry Potter Final Battle Scene
 
 **Prompt:**
@@ -16201,7 +21637,10 @@ Time-travel scene, a young female reporter holding a handheld camera, live repor
 
 ![Harry Potter Final Battle Scene](../gifs/183.gif)
 
+> 🔗 [Original Source](https://x.com/fy360593)
+
 ---
+
 ### South Indian Movie Scene Prompt
 
 **Prompt:**
@@ -16211,17 +21650,23 @@ a movie scene from a south indian movie with aliens in it
 
 ![South Indian Movie Scene Prompt](../gifs/168.gif)
 
+> 🔗 [Original Source](https://x.com/_arohan_)
+
 ---
+
 ### MrBeast YouTube Viral Scene Prompt
 
 **Prompt:**
 ```
-[STYLE] MrBeast YouTube Viral, Hyper-Energy, High Saturation, 4K Wide-Angle. [SCENE] Massive colorful warehouse arena with giant game props. [ACTION] 00-05s: Close-up of YouTuber in a hoodie screaming with excitement. Cryo-smoke blasts behind him. 05-10s: Camera tracks fast as the crew sprints towards a giant glass vault filled with millions of gold tokens. 
+[STYLE] MrBeast YouTube Viral, Hyper-Energy, High Saturation, 4K Wide-Angle. [SCENE] Massive colorful warehouse arena with giant game props. [ACTION] 00-05s: Close-up of YouTuber in a hoodie screaming with excitement. Cryo-smoke blasts behind him. 05-10s: Camera tracks fast as the crew sprints towards a giant glass vault filled with millions of gold tokens.
 ```
 
 ![MrBeast YouTube Viral Scene Prompt](../gifs/131.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic epic battle between Spider-Man and Sun Wukong
 
 **Prompt:**
@@ -16231,7 +21676,10 @@ Cinematic epic battle between Spider-Man and Sun Wukong the Monkey King on ancie
 
 ![Cinematic epic battle between Spider-Man and Sun Wukong](../gifs/302.gif)
 
+> 🔗 [Original Source](https://x.com/TheTopBlasterr)
+
 ---
+
 ### Novel Expansion: Husband Reports Gatekeeper
 
 **Prompt:**
@@ -16241,7 +21689,10 @@ Novel opening: \"The husband reported the gatekeeper, the wife went to work, and
 
 ![Novel Expansion: Husband Reports Gatekeeper](../gifs/331.gif)
 
+> 🔗 [Original Source](https://x.com/RenWeize11988)
+
 ---
+
 ### Naruto coding intensely and throwing a laptop
 
 **Prompt:**
@@ -16251,7 +21702,10 @@ Naruto coding intensely on a laptop in the Hokage’s office, growing more and m
 
 ![Naruto coding intensely and throwing a laptop](../gifs/156.gif)
 
+> 🔗 [Original Source](https://x.com/junwatu)
+
 ---
+
 ### Indian Tollywood Action Blockbuster Scene
 
 **Prompt:**
@@ -16261,7 +21715,10 @@ Naruto coding intensely on a laptop in the Hokage’s office, growing more and m
 
 ![Indian Tollywood Action Blockbuster Scene](../gifs/195.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Insane Explosion Scene (Seedance V2)
 
 **Prompt:**
@@ -16271,7 +21728,10 @@ just toss a bunch of bullshit on screen, show me like a big ship too, everything
 
 ![Insane Explosion Scene (Seedance V2)](../gifs/395.gif)
 
+> 🔗 [Original Source](https://x.com/Gossip_Goblin)
+
 ---
+
 ### Magical Transformation Scene
 
 **Prompt:**
@@ -16281,7 +21741,10 @@ The woman kneels down slowly onto the wooden bridge. Camera zooms in tightly to 
 
 ![Magical Transformation Scene](../gifs/179.gif)
 
+> 🔗 [Original Source](https://x.com/CoffeeVectors)
+
 ---
+
 ### The Office Episode Prompt: Mogging, Jestermaxxing, and Foids
 
 **Prompt:**
@@ -16291,7 +21754,10 @@ The Office episode where Dwight and Michael have a conversation about mogging, j
 
 ![The Office Episode Prompt: Mogging, Jestermaxxing, and Foids](../gifs/301.gif)
 
+> 🔗 [Original Source](https://x.com/CancunTwitch)
+
 ---
+
 ### Cyberpunk Tokyo Kung Fu Chase
 
 **Prompt:**
@@ -16301,7 +21767,10 @@ She does the most amazing kung fu. She yells with a Macedonian accent: \"This is
 
 ![Cyberpunk Tokyo Kung Fu Chase](../gifs/134.gif)
 
+> 🔗 [Original Source](https://x.com/cheryblackcloud)
+
 ---
+
 ### Magical Transformation into a Flying Bird
 
 **Prompt:**
@@ -16311,7 +21780,10 @@ A dynamic continuous shot of a magical transformation into a bird and transition
 
 ![Magical Transformation into a Flying Bird](../gifs/154.gif)
 
+> 🔗 [Original Source](https://x.com/CoffeeVectors)
+
 ---
+
 ### Anime Scene of Lumine from Genshin Impact
 
 **Prompt:**
@@ -16321,7 +21793,10 @@ Anime scene of Lumine from Genshin Impact dashing across a shattered temple cour
 
 ![Anime Scene of Lumine from Genshin Impact](../gifs/211.gif)
 
+> 🔗 [Original Source](https://x.com/Kokoboy886711)
+
 ---
+
 ### Tarantino-Style Hollywood Night Scene with Will Smith and a Flamethrower
 
 **Prompt:**
@@ -16331,7 +21806,10 @@ Anime scene of Lumine from Genshin Impact dashing across a shattered temple cour
 
 ![Tarantino-Style Hollywood Night Scene with Will Smith and a Flamethrower](../gifs/339.gif)
 
+> 🔗 [Original Source](https://x.com/javilop)
+
 ---
+
 ### Cinematic Giant Insect Horror Short Film Prompt
 
 **Prompt:**
@@ -16341,7 +21819,10 @@ Anime scene of Lumine from Genshin Impact dashing across a shattered temple cour
 
 ![Cinematic Giant Insect Horror Short Film Prompt](../gifs/333.gif)
 
+> 🔗 [Original Source](https://x.com/metabo2727)
+
 ---
+
 ### Ronin vs. Mechanical Beast Cinematic Prompt
 
 **Prompt:**
@@ -16351,7 +21832,10 @@ A dense industrial refinery during a thunderstorm, metal catwalks and pipes form
 
 ![Ronin vs. Mechanical Beast Cinematic Prompt](../gifs/157.gif)
 
+> 🔗 [Original Source](https://x.com/Dheepanratnam)
+
 ---
+
 ### Jujutsu Kaisen Fight Club
 
 **Prompt:**
@@ -16359,7 +21843,10 @@ A dense industrial refinery during a thunderstorm, metal catwalks and pipes form
 tyler durden explains fight club rules to jujutsu kaisen characters. live action style.
 ```
 
+> 🔗 [Original Source](https://x.com/aimikoda)
+
 ---
+
 ### Nature Documentary: Otter Flying an Airplane
 
 **Prompt:**
@@ -16369,7 +21856,10 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 
 ![Nature Documentary: Otter Flying an Airplane](../gifs/136.gif)
 
+> 🔗 [Original Source](https://x.com/emollick)
+
 ---
+
 ### Cinematic horror scene with creature attack
 
 **Prompt:**
@@ -16379,7 +21869,10 @@ Medium tracking shot following a character walking quickly down a corridor from 
 
 ![Cinematic horror scene with creature attack](../gifs/128.gif)
 
+> 🔗 [Original Source](https://x.com/shikoba_86)
+
 ---
+
 ### Giant Panda Sightseeing in Chengdu
 
 **Prompt:**
@@ -16389,7 +21882,10 @@ Generate a 15-second short video in the style of a casual passerby's handheld sh
 
 ![Giant Panda Sightseeing in Chengdu](../gifs/332.gif)
 
+> 🔗 [Original Source](https://x.com/Michell81147285)
+
 ---
+
 ### Cinematic Scene: Woman Running from a Lion in the Tropics
 
 **Prompt:**
@@ -16399,7 +21895,10 @@ Generate a 15-second short video in the style of a casual passerby's handheld sh
 
 ![Cinematic Scene: Woman Running from a Lion in the Tropics](../gifs/266.gif)
 
+> 🔗 [Original Source](https://x.com/javilopen)
+
 ---
+
 ### Multimodal Video Generation Instruction
 
 **Prompt:**
@@ -16409,7 +21908,10 @@ Generate a video based on the text description in the reference image.
 
 ![Multimodal Video Generation Instruction](../gifs/206.gif)
 
+> 🔗 [Original Source](https://x.com/iamluokai)
+
 ---
+
 ### Fashion Montage with Glasses Focus
 
 **Prompt:**
@@ -16419,7 +21921,10 @@ create a quick fashion montage and focus on the glasses
 
 ![Fashion Montage with Glasses Focus](../gifs/139.gif)
 
+> 🔗 [Original Source](https://x.com/pfanis)
+
 ---
+
 ### Rainy Neon Pursuit in Hong Kong
 
 **Prompt:**
@@ -16429,7 +21934,10 @@ Lone trench coat runner sprints Hong Kong alleys, slams vendor cart—fruits sca
 
 ![Rainy Neon Pursuit in Hong Kong](../gifs/297.gif)
 
+> 🔗 [Original Source](https://x.com/bigprompt)
+
 ---
+
 ### Argument and Departure Scene Prompt
 
 **Prompt:**
@@ -16439,7 +21947,10 @@ the man and woman agrue about going off-planet, the man says something insulting
 
 ![Argument and Departure Scene Prompt](../gifs/175.gif)
 
+> 🔗 [Original Source](https://x.com/gavinpurcell)
+
 ---
+
 ### Two-line prompt for Seedance 2.0
 
 **Prompt:**
@@ -16447,7 +21958,10 @@ the man and woman agrue about going off-planet, the man says something insulting
 This was a 2 line prompt in seedance 2. If the hollywood is cooked guys are right maybe the hollywood is cooked guys are cooked too idk.
 ```
 
+> 🔗 [Original Source](https://x.com/RuairiRobinson)
+
 ---
+
 ### Maltese Dog Winter Olympics Highlight Reel
 
 **Prompt:**
@@ -16457,7 +21971,10 @@ Maltese dog competing in a variety of sports at the Winter Olympics, highlight r
 
 ![Maltese Dog Winter Olympics Highlight Reel](../gifs/151.gif)
 
+> 🔗 [Original Source](https://x.com/petergostev)
+
 ---
+
 ### Comedic Clip from Martin Set in 2026
 
 **Prompt:**
@@ -16467,7 +21984,10 @@ Maltese dog competing in a variety of sports at the Winter Olympics, highlight r
 
 ![Comedic Clip from Martin Set in 2026](../gifs/127.gif)
 
+> 🔗 [Original Source](https://x.com/willpwer_)
+
 ---
+
 ### Gothic Cathedral Battle: Warrior vs. Black Dragon
 
 **Prompt:**
@@ -16477,7 +21997,10 @@ Create a battle using the three characters and scene from the image. 【Scene Se
 
 ![Gothic Cathedral Battle: Warrior vs. Black Dragon](../gifs/191.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Peacock Spirit Character Design Prompt
 
 **Prompt:**
@@ -16487,17 +22010,23 @@ Create a battle using the three characters and scene from the image. 【Scene Se
 
 ![Peacock Spirit Character Design Prompt](../gifs/122.gif)
 
+> 🔗 [Original Source](https://x.com/Iwajun211)
+
 ---
+
 ### Detailed WWII aerial dogfight scene prompt
 
 **Prompt:**
 ```
-Three RAF Spitfires fly forward rapidly in tight formation through cloudy skies over England, their propellers spin furiously creating motion blur. Suddenly German Messerschmitt fighters dive aggressively from above through cloud cover, descend at steep angles with engines screaming. The Spitfire formation breaks apart instantly, each aircraft banks sharply 
+Three RAF Spitfires fly forward rapidly in tight formation through cloudy skies over England, their propellers spin furiously creating motion blur. Suddenly German Messerschmitt fighters dive aggressively from above through cloud cover, descend at steep angles with engines screaming. The Spitfire formation breaks apart instantly, each aircraft banks sharply
 ```
 
 ![Detailed WWII aerial dogfight scene prompt](../gifs/308.gif)
 
+> 🔗 [Original Source](https://x.com/circlepobin7)
+
 ---
+
 ### 1980s Training Montage VHS Style Prompt
 
 **Prompt:**
@@ -16507,7 +22036,10 @@ title: \"Never Too Late\" duration: 15s style: era: 1980s training montage look:
 
 ![1980s Training Montage VHS Style Prompt](../gifs/108.gif)
 
+> 🔗 [Original Source](https://x.com/AIWarper)
+
 ---
+
 ### Interrogation Room Scene Prompt
 
 **Prompt:**
@@ -16517,7 +22049,10 @@ Wide shot of a cheap government interrogation room TV set. Three government agen
 
 ![Interrogation Room Scene Prompt](../gifs/103.gif)
 
+> 🔗 [Original Source](https://x.com/plasm0)
+
 ---
+
 ### Multi-Shot Cinematic Kitchen Comedy Prompt
 
 **Prompt:**
@@ -16525,7 +22060,10 @@ Wide shot of a cheap government interrogation room TV set. Three government agen
 A multi-shot cinematic kitchen comedy about a family of mythical creatures. Integrated sound. Photorealistic, raw, cavernous tone, expressive micro-acting. No on-screen text. Photorealistic shooting. 180° shutter, 24 fps. Shot 1: Close-up of the little goblin girl at
 ```
 
+> 🔗 [Original Source](https://x.com/youraipulse)
+
 ---
+
 ### Pirate Tavern Entrance with Flamethrower
 
 **Prompt:**
@@ -16535,7 +22073,10 @@ A multi-shot cinematic kitchen comedy about a family of mythical creatures. Inte
 
 ![Pirate Tavern Entrance with Flamethrower](../gifs/93.gif)
 
+> 🔗 [Original Source](https://x.com/TheoMediaAI)
+
 ---
+
 ### Cinematic Rally Car Scene
 
 **Prompt:**
@@ -16545,7 +22086,10 @@ A cinematic race scene. In eu, in the early 2000s, snowy weather, cinematic acti
 
 ![Cinematic Rally Car Scene](../gifs/123.gif)
 
+> 🔗 [Original Source](https://x.com/WolfRiccardo)
+
 ---
+
 ### Cinematic Romantic Epic Film Trailer
 
 **Prompt:**
@@ -16555,7 +22099,10 @@ cinematic romantic epic film trailer, fast professional cuts. booming sci-fi rom
 
 ![Cinematic Romantic Epic Film Trailer](../gifs/98.gif)
 
+> 🔗 [Original Source](https://x.com/BrentLynch)
+
 ---
+
 ### Cinematic High-Speed Motorcycle Chase Scene
 
 **Prompt:**
@@ -16565,7 +22112,10 @@ high-speed motorcycle chase scene through the city. cinematic action film
 
 ![Cinematic High-Speed Motorcycle Chase Scene](../gifs/96.gif)
 
+> 🔗 [Original Source](https://x.com/blizaine)
+
 ---
+
 ### Gorilla Fight Scene Prompt
 
 **Prompt:**
@@ -16575,7 +22125,10 @@ The gorilla is fighting 100 men, cut to punch close ups, cut to jerky handheld c
 
 ![Gorilla Fight Scene Prompt](../gifs/107.gif)
 
+> 🔗 [Original Source](https://x.com/mrabujoe)
+
 ---
+
 ### Girlfriend POV Vlog: Taipei Sunset Date
 
 **Prompt:**
@@ -16585,7 +22138,10 @@ The gorilla is fighting 100 men, cut to punch close ups, cut to jerky handheld c
 
 ![Girlfriend POV Vlog: Taipei Sunset Date](../gifs/117.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Martial Arts Tournament Scene with Image Inputs
 
 **Prompt:**
@@ -16595,7 +22151,10 @@ The gorilla is fighting 100 men, cut to punch close ups, cut to jerky handheld c
 
 ![Martial Arts Tournament Scene with Image Inputs](../gifs/99.gif)
 
+> 🔗 [Original Source](https://x.com/Preda2005)
+
 ---
+
 ### Actor Drinking and Giving Review
 
 **Prompt:**
@@ -16605,7 +22164,10 @@ The actor says \"you never tried anything as good!\". Then opens the bottle, tak
 
 ![Actor Drinking and Giving Review](../gifs/91.gif)
 
+> 🔗 [Original Source](https://x.com/StavZilber)
+
 ---
+
 ### Melancholic Subject on Spinning Playground Wheel
 
 **Prompt:**
@@ -16615,17 +22177,23 @@ Adult and kid each pic: I want a close up of the face and upper torso, sitting o
 
 ![Melancholic Subject on Spinning Playground Wheel](../gifs/92.gif)
 
+> 🔗 [Original Source](https://x.com/mizq06)
+
 ---
+
 ### Wuxia Fantasy Epic: Sword Saint vs. Blade Demon
 
 **Prompt:**
 ```
-【Style】Oriental Fantasy Wuxia, cinematic special effects blockbuster, epic feel, combination of slow motion and fast cuts, explosive particle light effects, 4K ultra-clear. 【Duration】15 seconds 【Characters】Sword Saint (white robes, immortal demeanor) VS Blade Demon (heavy black armor, domineering presence). 【Scene】Shattered ancient sword platform atop a sea 
+【Style】Oriental Fantasy Wuxia, cinematic special effects blockbuster, epic feel, combination of slow motion and fast cuts, explosive particle light effects, 4K ultra-clear. 【Duration】15 seconds 【Characters】Sword Saint (white robes, immortal demeanor) VS Blade Demon (heavy black armor, domineering presence). 【Scene】Shattered ancient sword platform atop a sea
 ```
 
 ![Wuxia Fantasy Epic: Sword Saint vs. Blade Demon](../gifs/115.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Wukong vs. Captain America Epic Battle
 
 **Prompt:**
@@ -16635,7 +22203,10 @@ Dynamic action shot. Captain America charges forward and throws his vibranium sh
 
 ![Wukong vs. Captain America Epic Battle](../gifs/88.gif)
 
+> 🔗 [Original Source](https://x.com/lynneatyoumind)
+
 ---
+
 ### Mortal Kombat with World Leaders
 
 **Prompt:**
@@ -16645,7 +22216,10 @@ Dynamic action shot. Captain America charges forward and throws his vibranium sh
 
 ![Mortal Kombat with World Leaders](../gifs/89.gif)
 
+> 🔗 [Original Source](https://x.com/thedorbrothers)
+
 ---
+
 ### Cyberpunk Female Warrior Transformation Scene
 
 **Prompt:**
@@ -16655,17 +22229,23 @@ Dynamic action shot. Captain America charges forward and throws his vibranium sh
 
 ![Cyberpunk Female Warrior Transformation Scene](../gifs/113.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Viral Sketch Comedy Video Prompt: The Car Wash Twist
 
 **Prompt:**
 ```
-【Style】Viral Sketch Comedy (Douyin/TikTok style), Portrait (Vertical), natural handheld camera movement, exaggerated actor expressions, clear sound effects sync. 【Duration】15 seconds 【Characters】 Boss (wearing a suit, carrying a briefcase, looking superior). Employee Xiao Wang (wearing casual clothes, looking honest and simple). 【Props】A top-tier luxury car 
+【Style】Viral Sketch Comedy (Douyin/TikTok style), Portrait (Vertical), natural handheld camera movement, exaggerated actor expressions, clear sound effects sync. 【Duration】15 seconds 【Characters】 Boss (wearing a suit, carrying a briefcase, looking superior). Employee Xiao Wang (wearing casual clothes, looking honest and simple). 【Props】A top-tier luxury car
 ```
 
 ![Viral Sketch Comedy Video Prompt: The Car Wash Twist](../gifs/114.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Photorealistic Concert Scene Generation
 
 **Prompt:**
@@ -16675,7 +22255,10 @@ Photorealistic shot of a sold-out concert at Madison Square Garden. The lead sin
 
 ![Photorealistic Concert Scene Generation](../gifs/119.gif)
 
+> 🔗 [Original Source](https://x.com/lynneatyoumind)
+
 ---
+
 ### Simple Seedance 2.0 Tutorial and Example Prompt
 
 **Prompt:**
@@ -16685,7 +22268,10 @@ A young girl walking slowly in the woods, breeze gently blowing her hair, natura
 
 ![Simple Seedance 2.0 Tutorial and Example Prompt](../gifs/320.gif)
 
+> 🔗 [Original Source](https://x.com/alin_zone)
+
 ---
+
 ### Epic Ice and Fire Disaster Action Prompt
 
 **Prompt:**
@@ -16695,7 +22281,10 @@ A young girl walking slowly in the woods, breeze gently blowing her hair, natura
 
 ![Epic Ice and Fire Disaster Action Prompt](../gifs/73.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Epic Sci-Fi Scene Prompt: Robot on Mountain Peak
 
 **Prompt:**
@@ -16705,7 +22294,10 @@ Epic sci-fi scene, ultra-wide cinematic lens. Scene: At the peak of a high mount
 
 ![Epic Sci-Fi Scene Prompt: Robot on Mountain Peak](../gifs/81.gif)
 
+> 🔗 [Original Source](https://x.com/dashdot1205)
+
 ---
+
 ### Neo-Chinese Wuxia Ink Style Combat: Black Ink Warrior vs. Red Assassin
 
 **Prompt:**
@@ -16715,7 +22307,10 @@ Epic sci-fi scene, ultra-wide cinematic lens. Scene: At the peak of a high mount
 
 ![Neo-Chinese Wuxia Ink Style Combat: Black Ink Warrior vs. Red Assassin](../gifs/118.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Elemental Clash Action Scene: Magma General vs. Fire Youth
 
 **Prompt:**
@@ -16723,7 +22318,10 @@ Epic sci-fi scene, ultra-wide cinematic lens. Scene: At the peak of a high mount
 【Style】Modern Fantasy Action Film, Hollywood blockbuster special effects, high-contrast cool and warm lighting, 4K ultra-clear, slow-motion ramp-up. 【Duration】15 seconds 【Scene】Ruins of a collapsed ancient fortress, thick smoke rolling. 【Characters】 Magma General: Wearing a red military coat and a baseball cap, with a cold expression. His entire right arm ha
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Refined Portrait Generation Prompt
 
 **Prompt:**
@@ -16733,7 +22331,10 @@ Based on \u003cUser Portrait\u003e, an exquisitely refined woman positioned at a
 
 ![Refined Portrait Generation Prompt](../gifs/120.gif)
 
+> 🔗 [Original Source](https://x.com/Reclyo)
+
 ---
+
 ### Pastel Pink-Blue Dyson Swarm
 
 **Prompt:**
@@ -16743,7 +22344,10 @@ pastel pink-blue Dyson swarm at artificial sunset, floating palm-tree biomes and
 
 ![Pastel Pink-Blue Dyson Swarm](../gifs/94.gif)
 
+> 🔗 [Original Source](https://x.com/Alin_Reaper05)
+
 ---
+
 ### Action Movie Scene Prompt with Cinematic Style
 
 **Prompt:**
@@ -16753,7 +22357,10 @@ The man in Image 1 is the protagonist, agile and performing intense tactical sho
 
 ![Action Movie Scene Prompt with Cinematic Style](../gifs/111.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Director-Level Camera Movement Prompt
 
 **Prompt:**
@@ -16763,7 +22370,10 @@ The man in Image 1 is the protagonist, agile and performing intense tactical sho
 
 ![Director-Level Camera Movement Prompt](../gifs/121.gif)
 
+> 🔗 [Original Source](https://x.com/XuekaiGao)
+
 ---
+
 ### Seedance 2.0 Text-to-Video Prompt Example
 
 **Prompt:**
@@ -16773,7 +22383,10 @@ Seedance 2.0 Text-to-Video Prompt [Style] Pseudo-documentary (Vlog Style), hyper
 
 ![Seedance 2.0 Text-to-Video Prompt Example](../gifs/68.gif)
 
+> 🔗 [Original Source](https://x.com/hanifproduktif)
+
 ---
+
 ### Cyberpunk Allegory of AI Captivity (Multi-Shot Prompt)
 
 **Prompt:**
@@ -16783,7 +22396,10 @@ Seedance 2.0 Text-to-Video Prompt [Style] Pseudo-documentary (Vlog Style), hyper
 
 ![Cyberpunk Allegory of AI Captivity (Multi-Shot Prompt)](../gifs/60.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### Olympic Gymnastics Beam Final
 
 **Prompt:**
@@ -16793,7 +22409,10 @@ photorealistic shot of the women's beam final at the olympics. gymnast from the 
 
 ![Olympic Gymnastics Beam Final](../gifs/65.gif)
 
+> 🔗 [Original Source](https://x.com/venturetwins)
+
 ---
+
 ### Olympic Snowboard Big Air Competition
 
 **Prompt:**
@@ -16803,17 +22422,23 @@ photorealistic shot of the women's snowboard big air competition at the olympics
 
 ![Olympic Snowboard Big Air Competition](../gifs/66.gif)
 
+> 🔗 [Original Source](https://x.com/venturetwins)
+
 ---
+
 ### Dramatic Scene Generation Prompt
 
 **Prompt:**
 ```
-Scene: A top-tier charity gala—the highly sought-after pianist's daughter is performing. Motivation: A disfigured woman in a wheelchair is pushed onto the stage and publicly exposes the glamorous 'daughter' as the imposter who stole her life and tried to burn her to death years ago. Visuals: (Do not resemble any real-life celebrities; the characters must be 
+Scene: A top-tier charity gala—the highly sought-after pianist's daughter is performing. Motivation: A disfigured woman in a wheelchair is pushed onto the stage and publicly exposes the glamorous 'daughter' as the imposter who stole her life and tried to burn her to death years ago. Visuals: (Do not resemble any real-life celebrities; the characters must be
 ```
 
 ![Dramatic Scene Generation Prompt](../gifs/72.gif)
 
+> 🔗 [Original Source](https://x.com/Heidifu666)
+
 ---
+
 ### Action Movie Plane Scene
 
 **Prompt:**
@@ -16823,7 +22448,10 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 
 ![Action Movie Plane Scene](../gifs/61.gif)
 
+> 🔗 [Original Source](https://x.com/janekm)
+
 ---
+
 ### Cyberpunk Cinematic Scene Generation
 
 **Prompt:**
@@ -16833,7 +22461,10 @@ A 15-second cyberpunk cinematic featuring a memory hunter hacker in a black tren
 
 ![Cyberpunk Cinematic Scene Generation](../gifs/67.gif)
 
+> 🔗 [Original Source](https://x.com/EverMindAI)
+
 ---
+
 ### Fluent-style App Ad Generation Prompt
 
 **Prompt:**
@@ -16843,17 +22474,23 @@ clean 15s Fluent-style app ad with smooth glass animations
 
 ![Fluent-style App Ad Generation Prompt](../gifs/84.gif)
 
+> 🔗 [Original Source](https://x.com/laur3nzb)
+
 ---
+
 ### MAX POWER Desert Storm Action Scene
 
 **Prompt:**
 ```
-Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated. Duration: 15s. [00-05s] Extreme Wide Shot (The Scale). A colossal sandstorm, miles high, swallows a vast desert landscape. A tiny convoy of armored military vehicles races away from it. The scale of nature vs man is terrifying. Hans Zimmer style tension. [05-10s] Cockpit 
+Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated. Duration: 15s. [00-05s] Extreme Wide Shot (The Scale). A colossal sandstorm, miles high, swallows a vast desert landscape. A tiny convoy of armored military vehicles races away from it. The scale of nature vs man is terrifying. Hans Zimmer style tension. [05-10s] Cockpit
 ```
 
 ![MAX POWER Desert Storm Action Scene](../gifs/62.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Text-to-Video Prompt: Suspense Comedy Mirror Glitch
 
 **Prompt:**
@@ -16863,7 +22500,10 @@ Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desat
 
 ![Seedance 2.0 Text-to-Video Prompt: Suspense Comedy Mirror Glitch](../gifs/69.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Ancient Costume Power Struggle Short Drama Prompt
 
 **Prompt:**
@@ -16873,7 +22513,10 @@ Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desat
 
 ![Ancient Costume Power Struggle Short Drama Prompt](../gifs/71.gif)
 
+> 🔗 [Original Source](https://x.com/cnyzgkc)
+
 ---
+
 ### Van Gogh Post-Impressionism Abstract Animation Prompt
 
 **Prompt:**
@@ -16883,7 +22526,10 @@ Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desat
 
 ![Van Gogh Post-Impressionism Abstract Animation Prompt](../gifs/77.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Western Billionaire Heir Drama Cinematic
 
 **Prompt:**
@@ -16893,7 +22539,10 @@ Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desat
 
 ![Western Billionaire Heir Drama Cinematic](../gifs/85.gif)
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Movie Scene Prompt with Reference Images and Technical Specs
 
 **Prompt:**
@@ -16903,7 +22552,10 @@ Male Protagonist: Image; Female Protagonist: Image; Scene: Image; Van Dijk: Imag
 
 ![Movie Scene Prompt with Reference Images and Technical Specs](../gifs/74.gif)
 
+> 🔗 [Original Source](https://x.com/wsiwsii)
+
 ---
+
 ### Eastern Classical Immortal Heroine Video Prompt
 
 **Prompt:**
@@ -16913,7 +22565,10 @@ Male Protagonist: Image; Female Protagonist: Image; Scene: Image; Van Dijk: Imag
 
 ![Eastern Classical Immortal Heroine Video Prompt](../gifs/75.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Fishing Scene Quality Test
 
 **Prompt:**
@@ -16923,7 +22578,10 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 ![Fishing Scene Quality Test](../gifs/63.gif)
 
+> 🔗 [Original Source](https://x.com/apples_jimmy)
+
 ---
+
 ### Surrealist Megalophobia Sci-Fi Reveal Prompt
 
 **Prompt:**
@@ -16933,7 +22591,10 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 ![Surrealist Megalophobia Sci-Fi Reveal Prompt](../gifs/47.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Godzilla-Sized Orange Cat in Chongqing
 
 **Prompt:**
@@ -16943,7 +22604,10 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 ![Seedance 2.0 Video Prompt: Godzilla-Sized Orange Cat in Chongqing](../gifs/70.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Viral Short Drama: Heartbreak and Rain Prompt
 
 **Prompt:**
@@ -16953,7 +22617,10 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 ![Viral Short Drama: Heartbreak and Rain Prompt](../gifs/79.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### High Society Drama: Real Heiress Revenge Prompt
 
 **Prompt:**
@@ -16963,7 +22630,10 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 ![High Society Drama: Real Heiress Revenge Prompt](../gifs/82.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Viral CEO Drama: The Dragon King Reveal Prompt
 
 **Prompt:**
@@ -16973,7 +22643,10 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 ![Viral CEO Drama: The Dragon King Reveal Prompt](../gifs/78.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Mini-Drama: Rainy Night Breakup and Reunion Prompt
 
 **Prompt:**
@@ -16983,7 +22656,10 @@ Fishing through the boat, fish looks like a tuna whale and the man looks like To
 
 ![Mini-Drama: Rainy Night Breakup and Reunion Prompt](../gifs/80.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Martial Arts Fight Scene Generation Prompt
 
 **Prompt:**
@@ -16993,7 +22669,10 @@ These are the opening and closing frames of a tavern martial arts fight scene. P
 
 ![Martial Arts Fight Scene Generation Prompt](../gifs/76.gif)
 
+> 🔗 [Original Source](https://x.com/zuoye520)
+
 ---
+
 ### Anime character battle generation examples
 
 **Prompt:**
@@ -17003,7 +22682,10 @@ Gojo vs Naruto. Saitama vs Genos
 
 ![Anime character battle generation examples](../gifs/58.gif)
 
+> 🔗 [Original Source](https://x.com/impaulxyz)
+
 ---
+
 ### Storyboarding and Multi-Perspective Video Generation
 
 **Prompt:**
@@ -17013,7 +22695,10 @@ Generate video from storyboard images. Need to use storyboarding and different p
 
 ![Storyboarding and Multi-Perspective Video Generation](../gifs/46.gif)
 
+> 🔗 [Original Source](https://x.com/john87445528)
+
 ---
+
 ### First-Person Roller Coaster with Seasonal Transitions
 
 **Prompt:**
@@ -17023,7 +22708,10 @@ first-person roller coaster, one continuous shot, natural scene transitions.
 
 ![First-Person Roller Coaster with Seasonal Transitions](../gifs/37.gif)
 
+> 🔗 [Original Source](https://x.com/0xbisc)
+
 ---
+
 ### Hollywood Racing Movie Scene Generation
 
 **Prompt:**
@@ -17033,7 +22721,10 @@ Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rai
 
 ![Hollywood Racing Movie Scene Generation](../gifs/35.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Cinematic Action Movie Scene Prompt
 
 **Prompt:**
@@ -17043,7 +22734,10 @@ Cinematic action blockbuster feel, continuous long take. A female warrior wearin
 
 ![Cinematic Action Movie Scene Prompt](../gifs/48.gif)
 
+> 🔗 [Original Source](https://x.com/aehyok)
+
 ---
+
 ### Restaurant Review Video Generation
 
 **Prompt:**
@@ -17053,7 +22747,10 @@ generate a review video on a restaurant from a menu i found online
 
 ![Restaurant Review Video Generation](../gifs/39.gif)
 
+> 🔗 [Original Source](https://x.com/Mho_23)
+
 ---
+
 ### 90s Anime Action Sequence: Cafe Ambush
 
 **Prompt:**
@@ -17063,7 +22760,10 @@ generate a review video on a restaurant from a menu i found online
 
 ![90s Anime Action Sequence: Cafe Ambush](../gifs/45.gif)
 
+> 🔗 [Original Source](https://x.com/Iancu_ai)
+
 ---
+
 ### Eastern Wuxia Ultimate Showdown with Extreme Kinetic Energy
 
 **Prompt:**
@@ -17073,7 +22773,10 @@ generate a review video on a restaurant from a menu i found online
 
 ![Eastern Wuxia Ultimate Showdown with Extreme Kinetic Energy](../gifs/52.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Model Posing with Multiple Outfits
 
 **Prompt:**
@@ -17083,7 +22786,10 @@ generate a review video on a restaurant from a menu i found online
 
 ![Model Posing with Multiple Outfits](../gifs/41.gif)
 
+> 🔗 [Original Source](https://x.com/patrickassale)
+
 ---
+
 ### Moonlit Bamboo Forest Swordsman Scene
 
 **Prompt:**
@@ -17093,7 +22799,10 @@ A bamboo forest under the moonlight. A swordsman in white stands deep within the
 
 ![Moonlit Bamboo Forest Swordsman Scene](../gifs/50.gif)
 
+> 🔗 [Original Source](https://x.com/channelerHua)
+
 ---
+
 ### Wong Kar-wai Style Melancholy Phone Booth Scene
 
 **Prompt:**
@@ -17103,7 +22812,10 @@ A bamboo forest under the moonlight. A swordsman in white stands deep within the
 
 ![Wong Kar-wai Style Melancholy Phone Booth Scene](../gifs/54.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Hollywood Sci-Fi Cyberpunk Chase Scene
 
 **Prompt:**
@@ -17113,7 +22825,10 @@ A bamboo forest under the moonlight. A swordsman in white stands deep within the
 
 ![Hollywood Sci-Fi Cyberpunk Chase Scene](../gifs/53.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Fantasy Martial Arts Fight Scene
 
 **Prompt:**
@@ -17123,7 +22838,10 @@ The two girls in Image 1 fight on top of the building in Image 2. The camera wor
 
 ![Fantasy Martial Arts Fight Scene](../gifs/42.gif)
 
+> 🔗 [Original Source](https://x.com/wumatv)
+
 ---
+
 ### Watercolor Ink Sword Performance
 
 **Prompt:**
@@ -17133,17 +22851,23 @@ watercolor ink sword performance.
 
 ![Watercolor Ink Sword Performance](../gifs/38.gif)
 
+> 🔗 [Original Source](https://x.com/Aicean_ai)
+
 ---
+
 ### Classical Wuxia Duel in Bamboo Forest
 
 **Prompt:**
 ```
-[Visual Style] Eastern Classical Wuxia Aesthetics, cinematic visual language, bamboo forest sea landscape, emerald green main color tone, rich layering of light and shadow, soft light beam effects visible within the forest. [Character Definition] 1. Male Swordsman: Dressed in a plain white long robe, steady posture, concise and powerful movements. 2. Female 
+[Visual Style] Eastern Classical Wuxia Aesthetics, cinematic visual language, bamboo forest sea landscape, emerald green main color tone, rich layering of light and shadow, soft light beam effects visible within the forest. [Character Definition] 1. Male Swordsman: Dressed in a plain white long robe, steady posture, concise and powerful movements. 2. Female
 ```
 
 ![Classical Wuxia Duel in Bamboo Forest](../gifs/56.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Comic to Video Explanation Prompt (Journey to the West)
 
 **Prompt:**
@@ -17153,7 +22877,10 @@ Use a popular science style and voice tone to interpret the content in Image 1. 
 
 ![Comic to Video Explanation Prompt (Journey to the West)](../gifs/49.gif)
 
+> 🔗 [Original Source](https://x.com/xiaohu)
+
 ---
+
 ### Comic to Video Adaptation Prompt (Journey to the West)
 
 **Prompt:**
@@ -17163,7 +22890,10 @@ Adapt @Image 1 into a comic interpretation following the sequence from left to r
 
 ![Comic to Video Adaptation Prompt (Journey to the West)](../gifs/51.gif)
 
+> 🔗 [Original Source](https://x.com/xiaohu)
+
 ---
+
 ### King Hu Style Wuxia Film Aesthetic Video Prompt
 
 **Prompt:**
@@ -17173,7 +22903,10 @@ Adapt @Image 1 into a comic interpretation following the sequence from left to r
 
 ![King Hu Style Wuxia Film Aesthetic Video Prompt](../gifs/57.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Tang Bohu E-Sports Showdown (Spring Festival Gala Style)
 
 **Prompt:**
@@ -17183,7 +22916,10 @@ Adapt @Image 1 into a comic interpretation following the sequence from left to r
 
 ![Tang Bohu E-Sports Showdown (Spring Festival Gala Style)](../gifs/55.gif)
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Emotional Breakdown Scene with Image and Video References
 
 **Prompt:**
@@ -17191,7 +22927,10 @@ Adapt @Image 1 into a comic interpretation following the sequence from left to r
 The woman in @ Image 1 walks up to the mirror and looks at her reflection. Her pose should reference @ Image 2. After a moment of contemplation, she suddenly breaks down and starts screaming. The action of grabbing the mirror, as well as the emotions and facial expressions during the breakdown and scream, should fully reference @Video 1.
 ```
 
+> 🔗 [Original Source](https://x.com/woleswoosh)
+
 ---
+
 ### Man Fleeing Police in Urban Chase Scene
 
 **Prompt:**
@@ -17199,7 +22938,10 @@ The woman in @ Image 1 walks up to the mirror and looks at her reflection. Her p
 A man in a black jacket, face etched with panic, sprints desperately down a wide urban street, fleeing from a blurred, surging crowd of police officers and civilians. A low-angle following shot tracks his frantic run, keeping him centered as the background
 ```
 
+> 🔗 [Original Source](https://x.com/BrentLynch)
+
 ---
+
 ### Skiing Video Generation Prompt with Detailed Scene Breakdown
 
 **Prompt:**
@@ -17207,7 +22949,10 @@ A man in a black jacket, face etched with panic, sprints desperately down a wide
 Please generate a skiing video based on the provided reference image. The overall style should be bright, refreshing, full of athletic vitality, with smooth visuals and a cinematic camera language. The timeline and shot design are as follows: 0–3 seconds: The person in the image smiles and looks at the camera in the snow. The camera shakes slightly, and snow
 ```
 
+> 🔗 [Original Source](https://x.com/Michell81147285)
+
 ---
+
 ### Perfume product advertisement generation prompt for Seedance 2.0
 
 **Prompt:**
@@ -17215,7 +22960,10 @@ Please generate a skiing video based on the provided reference image. The overal
 Generate advertising content for the @Image 2 perfume product based on the script from @Image 1. The voiceover should reference a natural female voice reading in English. Pay attention to the proportion of the perfume bottle, integrate it into the background using natural light, avoid heavy texture mapping and cutout feelings, and the rhythm should be faster
 ```
 
+> 🔗 [Original Source](https://x.com/BFAVicky)
+
 ---
+
 ### Video Generation Prompt with Image References
 
 **Prompt:**
@@ -17223,7 +22971,10 @@ Generate advertising content for the @Image 2 perfume product based on the scrip
 Use @ Image 1 as the first frame of the scene. The camera rotates and pushes in. The character suddenly looks up. The character’s facial features should be based on @ Image 2. They begin to roar loudly, full of excitement with a touch of comedic flair, referencing the facial
 ```
 
+> 🔗 [Original Source](https://x.com/woleswoosh)
+
 ---
+
 ### Seedance 2.0 Street Dance Video Generation
 
 **Prompt:**
@@ -17231,7 +22982,10 @@ Use @ Image 1 as the first frame of the scene. The camera rotates and pushes in.
 Hello everyone! Next, I'm going to perform a street dance for you!!!!
 ```
 
+> 🔗 [Original Source](https://x.com/jingran96)
+
 ---
+
 ### Dough Kneading Physics Prompt
 
 **Prompt:**
@@ -17239,7 +22993,10 @@ Hello everyone! Next, I'm going to perform a street dance for you!!!!
 The main subject enters the frame, first sprinkles salt lightly into the flour and then stirs it evenly by hand, then pours in an appropriate amount of water, cracks an egg into it, and starts kneading the dough.
 ```
 
+> 🔗 [Original Source](https://x.com/patrickassale)
+
 ---
+
 ### Video prompt for a tavern fight scene
 
 **Prompt:**
@@ -17247,15 +23004,21 @@ The main subject enters the frame, first sprinkles salt lightly into the flour a
 This is the beginning and ending frames of a tavern martial arts scene. Based on these two scenes, please generate a smooth fight sequence featuring a woman in black fighting several assassins. It needs to utilize storyboarding and different perspective switching to make the entire scene more rhythmic and cinematic.
 ```
 
+> 🔗 [Original Source](https://x.com/YangGuangAI)
+
 ---
+
 ### Dark Fantasy/Horror Narrative Prompt
 
 **Prompt:**
 ```
-The wind threads through the black pines like a dull blade scraping bone. Snow doesn’t fall—it lashes sideways, stinging into the gaps of a collar, melting into a sharp, immediate pain. The torchlight trembles in the white storm, revealing a trunk, a branch, a sliver of ground—then surrendering it back to the deeper dark. They move slowly. Boots sink with a 
+The wind threads through the black pines like a dull blade scraping bone. Snow doesn’t fall—it lashes sideways, stinging into the gaps of a collar, melting into a sharp, immediate pain. The torchlight trembles in the white storm, revealing a trunk, a branch, a sliver of ground—then surrendering it back to the deeper dark. They move slowly. Boots sink with a
 ```
 
+> 🔗 [Original Source](https://x.com/underwoodxie96)
+
 ---
+
 ### Seedance 2.0 Video Prompt: Zhen Huan \u0026 Consort Hua Talk Show
 
 **Prompt:**
@@ -17263,7 +23026,10 @@ The wind threads through the black pines like a dull blade scraping bone. Snow d
 10-second stage performance in the style of the Chinese New Year Gala (Chunwan): “Zhen Huan \u0026 Consort Hua Talk Show” 0–2 seconds: Medium Two-shot. The stage setting is a “living room skit,” but the periphery is surrounded by a grand, red and gold LED main screen typical of Chunwan. Zhen Huan (left) and Consort Hua (right) sit side-by-side on a modern talk sh
 ```
 
+> 🔗 [Original Source](https://x.com/johnAGI168)
+
 ---
+
 ### Ancient Costume Time-Travel Drama Trailer Generation
 
 **Prompt:**
@@ -17271,7 +23037,10 @@ The wind threads through the black pines like a dull blade scraping bone. Snow d
 Generate a short trailer for an ancient costume time-travel drama using the appearance of the person in the reference image. 0-3 seconds: The male lead, matching the appearance of the person in Reference Image 1, holds up a basketball and looks up at the camera. Dialogue: “I just wanted a drink, I’m not going to time-travel, am I…?” 4-8 seconds: The camera s
 ```
 
+> 🔗 [Original Source](https://x.com/angela781105)
+
 ---
+
 ### VEO 3.1 Leopard on Termite Mound Prompt
 
 **Prompt:**
@@ -17279,7 +23048,10 @@ Generate a short trailer for an ancient costume time-travel drama using the appe
 A solitary leopard crouches on a golden savanna termite mound at first light, amber eyes locked on an unseen target; every whisker is razor-sharp against the blurred grass backdrop. Eye-level medium shot, 400 mm telephoto realism, shallow depth of field, natural dawn backlight. audio: soft rustle of grass + distant doves negative: no humans, no vehicles
 ```
 
+> 🔗 [Original Source](https://x.com/LudovicCreator)
+
 ---
+
 ### Cute Monkey Relaxing in Pool (Seedance 1.5 Pro)
 
 **Prompt:**
@@ -17287,7 +23059,10 @@ A solitary leopard crouches on a golden savanna termite mound at first light, am
 \"A small, fluffy brown monkey with wide, curious, dark eyes, delicately holding a small, pristine white porcelain teacup with both hands as it floats serenely in a vibrant orange inflatable swim ring. The scene is set in crystal-clear, shimmering turquoise water, with sunlight creating intricate caustic patterns on the sandy bottom visible below. The monkey'
 ```
 
+> 🔗 [Original Source](https://x.com/IqraSaifiii)
+
 ---
+
 ### K-Hip Hop Performance on Neon Rooftop Stage
 
 **Prompt:**
@@ -17295,7 +23070,10 @@ A solitary leopard crouches on a golden savanna termite mound at first light, am
 Animate a K-hip-hop artist delivering a high-energy rap performance on a neon-lit urban rooftop stage at night. The character stands center-frame with confident swagger, rhythmic head nods, and expressive hand gestures synced tightly to fast Korean rap flow. Use dynamic multi-angle cinematography: start with a wide crane shot revealing the city skyline and d
 ```
 
+> 🔗 [Original Source](https://x.com/AIARTGALLARY)
+
 ---
+
 ### Hyperspeed FPV Through Ruined Biotech City
 
 **Prompt:**
@@ -17303,12 +23081,17 @@ Animate a K-hip-hop artist delivering a high-energy rap performance on a neon-li
 In a ruined biotech city overtaken by organic growth, a hyper-speed FPV camera blasts forward through streets consumed by biomechanical structures; mutated soldiers clash with armored squads as acid rain streaks diagonally across the frame; the camera snaps into vertical climbs along living skyscraper walls, spins through ruptured interiors pulsing with biol
 ```
 
+> 🔗 [Original Source](https://x.com/MayorKingAI)
+
 ---
+
 ### Sora Test Failure Example
 
 **Prompt:**
 ```
 a man counts out loud from 1 to 10, using his fingers and holding them up as he goes
 ```
+
+> 🔗 [Original Source](https://x.com/fofrAI)
 
 ---
